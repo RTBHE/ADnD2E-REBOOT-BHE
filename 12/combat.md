@@ -85,6 +85,45 @@ After all actions for the round have been resolved, the DM handles any remaining
     The DM makes morale checks as required by the situation—typically when significant losses occur, leaders fall, or other shock events unfold.
 Once these tasks are complete, the battlefield state is fully updated and another combat round begins with **Step 1: DM Action Determination**.
 
+# Movement and Positioning
+Before delving into the actions characters can take in combat, it is necessary to explain how and when characters can move in battle, and the effects of where and how they are positioned.
+
+## Movement
+
+## Positioning
+### Stance (Kneeling, Sitting, and Prone)
+While most fighting is done on one's feet, character's may adopt - or be forced into - different positions. As a generalisation a position closer to the ground decreases the risk of being hit by ranged attacks, but simultaneously increases the risk of being struck by melee attacks.
+A **kneeling** character gains a -1 bonus to AC against missile-like attacks, but a melee attack against them is made with a +2 bonus. A character may use any weapon without penalty while kneeling.
+A **sitting** character has the same bonuses and penalties as a kneeling character, but can only use a crossbow, blowgun or small-size firearm (if available) without penalty from this position. All other weapons incur a -2 penalty to attack. (note that a rider is mounted, *not* sitting)
+A **prone** character gains a -2 bonus to AC against missile-like attacks, but melee attacks against them are made with a +4 bonus. A prone character may only use crossbows and firearms (again, if available) at 1/2 the usual rate of fire, blowguns, or small-sized melee weapons. A prone character attempting to make a melee attack suffers a -4 penalty to hit, thrown weapons do not suffer this penalty to attack.
+A character may drop into a lower position as a free action. Rising from prone to kneeling/sitting, or from kneeling/sitting to standing increases the characters initiative by 2 and imposes a -2 penalty to any subsequent attacks made in the round. Rising directly from prone to standing requires a full round - the character can do nothing else. 
+A character may not benefit simultaneously from both positional modifiers (kneeling, sitting, prone) and cover. If a character is covered, the cover modifier applies and their position is irrelevant for purposes of defense.
+A character’s position may, however, determine whether they can claim cover in the first place (for example, kneeling behind a low wall). If cover is later lost—for instance, if an opponent moves to bypass or negate the cover—then the character’s positional modifiers immediately apply once again.
+### Facing
+Facing is the direction a character is oriented in during combat, defining their front, flanks, and rear. It determines what they can see and how effectively they can respond to attacks from various directions. A character’s **front** is the arc within their field of vision, the **flanks** are the areas at the edge of that vision, and the **rear** is their blind spot.
+For Medium or smaller creatures when using a square grid battle map, the **front** consists of the three squares directly ahead of the character (the square they face and one to either side). The **rear** is the corresponding three squares directly opposite the front. The **flanks** are the remaining square on each side. Larger creatures occupy more grid squares, and the number of squares in each arc increases proportionally with their size and shape. A number of unusual creatures, for example jellies and otyughs, do not have an identifiable 'front' flanks or rears and all areas are treated as front.
+Unless a player specifies otherwise, characters are assumed to face the enemy they are currently engaging, or—if not actively fighting—the nearest creature they are aware of. When threatened by multiple foes, it is similarly assumed that the character adjusts their facing to minimize the number of enemies in their rear arc and maximize those in their front, with the caveat that an enemy they are currently engaging must remain in their front arc. During movement characters are assumed to face in the direction of movement. Players may opt to specify a different facing for their character, remembering they cannot engage a creature that is not to their front. Characters may change facing immediately when they first become aware of a creature that threatens them, when a creature they are aware of ceases to threaten them, or on their initiative count. 
+### Reach
+Reach is the distance at which a creature can make a melee attack against an opponent. It is determined by the weapon wielded, if any, and the creature's size. A weapon's reach is given in the master weapons table - a weapon with a 5' reach can attack only an adjacent square on a standard battle map. Ordinarily piercing weapons with a reach greater than 5' can only attack creatures at the extent of their reach - stabbing with the side of a lance is not very effective - other weapons may 
+### Threatening
+The area where a character can potentially make attacks is the area that creature 'threatens'. This area is determined by reach, and facing (and thus *indirectly* by creature size). A creature only threatens the squares that are to their front and within reach of their attack. Remember however, as explained in the facing rules above, that a creature is assumed to adjust their facing based on the threats they are aware of - a creature that has no threats nearby consequently threatens all squares in reach for any enemy it is aware of, while a creature currently engaged against an opponent, must keep that opponent in their front.
+### Flanking
+Flanking is an attempt to exploit an opponent's facing, whether it is multiple attackers trying to position themselves so that at least one attacker is either to the rear or a flank, or by using surprise, stealth, and subterfuge to sneak up behind the target unseen.
+Attacks from a flank gain a +1 bonus to hit. Attacks from the rear gain a +2 bonus to hit ***and*** the target's bonuses to AC from dexterity or a shield (unless the shield is slung on the character's back) do not apply to an attack from the rear.
+
+## Opportunity Attacks
+Some things a character does can create an opportunity for an opponent to immediately attack them. These attacks of opportunity are mentioned here as they are frequently triggered by movement and/or positioning, and thus important in deciding what movements a character will make.
+An opportunity attack is a single free melee *strike* against a threatened creature - if a creature normally makes multiple strikes in a single attack (such as character wielding two weapons, or monsters who have a claw/claw/bite attack routine), they must choose which is being using made before making an attack roll. It is 'free' because it is made *in addition to* any actions the threatening character has declared for the current round - it does not replace those actions.
+There is no specific limit to the number of opportunity attacks a character may suffer in a turn - but a creature cannot make more than one attack of opportunity against the same target in the same round. There *is* also a limit to the total number of opportunity attacks a character can make in a single round. Warriors and monsters can make 3 attacks of opportunity, while other characters can only make 1. All creatures gain 1 additional opportunity attack for every 5 levels or hit dice. (a 20th level warrior can thus make up to 7 attacks of opportunity *each round*, while one of the most formidable monsters known to exist - the Tarrasque - given sufficient targets and opportunities can make up to 17 per round).
+The following actions by a threatened creature create an opportunity to attack:
+- Moving away from the threatening creature, unless the action declared was a 'withdrawal'
+- A change in facing that results in the threatening creature now being to the rear
+- Attempting to fire a missile weapon at a target other than the threatening creature.
+- Attempting an unarmed attack against any foe that is not another unarmed humanoid.
+Some actions that fall into these categories may not be obvious (for example mounted characters attempting to trample enemies is considered a form of overbearing which is considered an unarmed attack) - read the description of an action to determine if and under what circumstances it triggers an opportunity attack. 
+In addition to the effects described above, a character who is attempting to bypass an enemy and incurs an attack of opportunity as they move away has their movement stopped **if** the result of the opportunity attack is a successful critical hit or a knockdown, otherwise the character may complete their movement.    
+
+
 ## Attack
 Attacking is, perhaps unsurprisingly, the most common action of combatants. When you declare an attack you must indicate **which weapon** will be used because the individual weapon's speed is a modifier to initiative. Each type of attack (Melee, Missile-like, Non-Lethal, etc) has its own rules, but all resolve with the same mechanic: the attack roll.
 
@@ -242,9 +281,30 @@ Grabbing is an attempt to take a weapon or object from an opponent (distinct fro
 Grabbing begins similar to disarming, with the character attempting the grab rolling a normal attack against AC 0 and the intended victim rolling against AC 4. The DM may assign penalties to the grab attempt to reflect the circumstances and difficulty, for example trying to grab a tiny ring off someone's finger might incur a -8 penalty. 
 
 ### Pull/Trip
+Tripping or pulling the legs out from under an opponent can be particularly effective when the target is moving at speed and especially when the target does not see it coming - a stationary target on the other hand is very difficult to knock down. A pull or trip can also be very effective against mounted enemies, either tripping the mount or pulling the rider off. This manoeuvre can be attempted with any long staff-like weapon - polearms, spears and harpoons,  the footman's flail, mace or pick, bills and scythes, etc.... even bows and crossbows (except the hand variety) may be used. Chain and rope-like weapons including slings and bolas are also excellent options.
+To pull or trip an enemy, the intention must be declared before an attack roll is made. The character then makes a normal attack roll. If successful an opposed ability roll is made pitting the attacker's strength against the defender's dexterity. For the purpose of this check the normal movement rate of a creature is considered it's dexterity if it does not have a dexterity score.
+The attacker's strength is modified for the check as follows:
+-6 if the target is stationary
+-2 if target has 4 or more legs
++3 if the target is unaware of the attack
++6 if the target is moving faster than it's normal movement speed
+Small creatures seem to have superior tripping technique - perhaps due to their lower centre of gravity - though the sheer mass of the most enormous creatures is more than enough to overcome their advantage.  These factors affect the defender's dexterity check as follows:
+-2 if the attacker is small size or smaller 
++4 if the defender is huge size
++6 if the defender is gargantuan size
+If the attacker wins the opposed roll (being the only one to succeed, or succeeding with the higher dice roll), the target is knocked down (and if a mount is knocked down the rider must succeed on a riding proficiency check or suffer 1d3 damage from the fall)
+
 ### Sap
+Sapping is hitting an opponent's head with the aim of knocking them unconscious rather than killing. While a sap, or blackjack, is a made-for-purpose tool for doing this manoeuvre, it may be attempted with any melee weapon, striking with the flat of a blade, the haft of an axe, the pommel of a weapon, etc. Only medium-size creatures or smaller may be sapped - the mass (and also often thicker skulls) of larger enemies prevents the localised concussive trauma necessary to knock these creatures out.
+A sapping attempt must be declared before initiative is rolled and increases initiative by 1. The sap is resolved with an attack roll against the target's unarmored armor class (i.e. only natural armor, dexterity and magical bonuses apply) with either a -4 penalty, or a -8 penalty if the target is wearing any kind of helmet. If the attack is successful damage is rolled as normal for the weapon, *except that* a weapon's magical bonuses to attack and damage do not apply unless the weapon is specifically intended for this use (such as a blackjack/sap). Only 1/4 of the damage is 'real', the remainder is temporary. Ordinarily, for each point of total damage (real or temporary) inflicted there is a 5% chance (maximum 40%) that the target is knocked out. If however the victim is surprised, sleeping, restrained, or magically held, the chance of a knockout is instead 10% per point of damage (max 80%).
+A sapped character remains unconscious for 3d10 full rounds. 
+
 ### Shield-Punch
+Any character with a shield equipped may sacrifice it's protection (losing it's AC bonus for the round) and instead use it to strike an opponent. The character may choose either to substitute the shield punch for their normal attack, or to use it as a secondary weapon following the usual rules for fighting with multiple weapons (ordinarily -2 to attack with the primary weapon, and -4 with the secondary, slower weapon's speed is used for initiative). The intent to shield punch must be declared before initiative is rolled.
+Shield punches can be useful if a character finds themselves disarmed, of if they wish to exploit an opportunity to make some extra attacks against an enemy while remaining ready to switch back to a more defensive posture. The alternative - dropping or stowing the shield, drawing a new weapon to fight with, then retrieving or re-equipping the the shield afterwards - consumes much more effort.
+
 ### Shield-Rush
+A shield-rush is an attempt to knock someone down by charging into them shield-first. It is a risky manoeuvre as the attacker can easily end up knocked down themselves whether or not they bring down the enemy. 
 ### Special Weapon Manoeuvres
 ### Trap (and Break)
 
