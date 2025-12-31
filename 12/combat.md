@@ -88,7 +88,55 @@ Once these tasks are complete, the battlefield state is fully updated and anothe
 # Movement and Positioning
 Before delving into the actions characters can take in combat, it is necessary to explain how and when characters can move in battle, and the effects of where and how they are positioned.
 
-## Movement
+## Movement in Combat
+
+### Movement Rate
+As discussed in the Adventuring chapter, a character’s base movement rate is determined by their race or species. For playable races, this value is given in the racial descriptions in Chapter 4; for monsters, it appears in their stat block. To recap, the most common base movement rates for playable races are **12** for Medium creatures and **6** for Small creatures. These base values may be increased or decreased by ability scores, class or kit features, spell effects, injuries, encumbrance, and other factors.
+
+In combat, a character’s movement rate is equal to the number of squares the character may traverse on a standard battle map (a 5-foot grid) in a full round (1 minute) of movement. This represents the cautious, tactical movement demanded by battle conditions: assessing obstacles, scanning for threats, and looking for opportunities to exploit.
+
+### Dividing Movement
+Movement is an allowance for the entire round and, with certain exceptions, may be divided and expended before taking an action, between attacks with the same weapon, or after taking an action, so long as the total movement allowance for the round is not exceeded. All movement must be taken when the character has initiative to act (see _Initiative_, below).
+
+While movement in reality has a time component that would affect the order in which actions occur and where creatures are when effects take place, to reduce bookkeeping and simplify play, movement is treated as though it occurs instantaneously while the character has initiative to act. No movement occurs outside a character’s initiative unless another rule specifically allows it.
+When characters act simultaneously due to an initiative tie, it is the **action** that occurs simultaneously. Any movement taken before the action is completed for all such characters first, then actions are resolved with characters at the locations where they perform those actions, followed by any remaining movement.
+
+If a character has multiple attacks with the same weapon, they may divide their movement freely between those attacks, moving before an attack, after an attack, or both, so long as their total movement for the round is not exceeded.
+
+### Shifting
+Some actions, such as spellcasting, restrict movement for the round or operate by different rules when combined with movement (for example, rate of fire for missile attacks). For the purposes of such rules, a character may **shift** to an adjacent grid square on their initiative count, immediately before their action is resolved; this shift **does not count as movement**.
+
+A shift represents a minor adjustment in position, such as stepping to maintain or regain a line of fire. For example, an archer may shift one square to bring a target back into view without affecting their rate of fire.
+If a shift causes the character to become visible to an enemy that did not previously have line of sight to them (for example, the character had **greater than 90% cover or concealment** from that enemy), and that enemy has at least one **ranged or thrown weapon attack remaining** for the round, the enemy may immediately resolve **one** such attack against the shifting character. This attack is resolved **before** the shifting character’s action and may disrupt spellcasting or other actions as normal.
+
+A shift may also provoke **attacks of opportunity** as described elsewhere, if the normal conditions for such attacks are met. 
+
+### Specific Types of Movement
+The following types of combat movement must be declared before initiative is rolled. When performing one of these movement types, the character’s movement **may not be divided**, and any unused portion of the movement allowance is lost. For example, a character cannot complete a charge and then use remaining movement afterward, nor partially withdraw and then move normally.
+
+#### Charging
+Charging is rapid movement across the battlefield intended to end with an attack. A charging character may move up to **one and one-half times** their movement rate and make a single attack. The momentum of the charge grants a **+2 bonus** to this attack. Some weapons inflict double damage when used in a charge, as noted in the Master Weapons Table.
+However, a charging character suffers a **+2 penalty to initiative**, loses any Dexterity bonus to Armor Class, and incurs an additional **+1 penalty to AC**. In addition, they suffer **double damage** from defenders who are set to receive a charge and make a successful attack.
+
+#### Running and Sprinting
+In combat, running allows a character to double their movement but prevents them from taking any other action in the round, including making opportunity attacks. It is also dangerous to move rapidly through a battlefield: while running, as with charging, a character loses any Dexterity bonus to Armor Class and suffers an additional **+1 penalty to AC**. Further, if they run into the threatened area of a creature that is set against a charge, they suffer the same doubled damage as if they had been charging.
+
+If a character has declared that they are running, on their initiative count they may attempt to **sprint** instead, achieving greater speed. To sprint, they must make a Strength check. If successful, their movement is tripled instead of doubled. They may then choose to attempt a second Strength check at a **–4 penalty** to further increase their speed. If this second check succeeds, their movement is quadrupled, and they may attempt a final Strength check at a **–8 penalty** to achieve quintuple speed. If any Strength check fails, the character does not increase their speed further but may continue moving at the speed already achieved.
+
+At the end of a round of sprinting, the character must make a Constitution check with a penalty based on the **highest speed reached during that round**: **–1 for triple speed, –2 for quadruple speed, or –3 for quintuple speed**. If the check fails, the character is exhausted and may move only at half their normal movement rate in the following round.
+
+If the check succeeds, the character may continue sprinting in the next round at the same speed or at a lower speed without rolling additional Strength checks. If they are not already moving at quintuple speed and have not failed any Strength checks during the current run, they may also attempt to increase their speed using the same rules as above.
+
+At the end of each subsequent round of running or sprinting, a Constitution check must be made. **The penalties from each round of sprinting during the current run are cumulative**. Slowing to a lower speed can reduce or prevent additional penalties from being added for that round but does not remove penalties already accumulated. The accumulated penalty persists until the run ends (i.e., the character spends one full round moving at normal speed or less).
+
+#### Withdrawing
+Withdrawing is the only safe way to leave a square threatened by an opponent, carefully backing away while keeping one’s face toward the enemy and one’s guard up. A withdrawing character may move up to **half their movement rate** and does not provoke opportunity attacks from enemies they are aware of in their front or flanks (see _Facing_, below), but may still provoke attacks from unseen enemies or those to their rear.
+
+A character who is withdrawing cannot attack, cast spells, or use most items during that round, but may still make opportunity attacks.
+
+Because an opponent may, on their own initiative, choose to follow a withdrawing character in order to keep them threatened, withdrawal is most effective when the withdrawing character acts on a later initiative count than their enemy or when an ally also threatens the same opponent, impeding pursuit.
+
+The alternative way to retreat from combat is fleeing, which is simply running for a specific purpose and follows the normal rules for running.
 
 ## Positioning
 
@@ -101,7 +149,9 @@ A **sitting** character has the same bonuses and penalties as a kneeling charact
 
 A **prone** character gains a -2 bonus to AC against missile-like attacks, but melee attacks against them are made with a +4 bonus. A prone character may only use crossbows and firearms (again, if available) at 1/2 the usual rate of fire, blowguns, or small-sized melee weapons. A prone character attempting to make a melee attack suffers a -4 penalty to hit, thrown weapons do not suffer this penalty to attack.
 A character may drop into a lower position as a free action. Rising from prone to kneeling/sitting, or from kneeling/sitting to standing increases the characters initiative by 2 and imposes a -2 penalty to any subsequent attacks made in the round. Rising directly from prone to standing requires a full round - the character can do nothing else. 
+
 A character may not benefit simultaneously from both positional modifiers (kneeling, sitting, prone) and cover. If a character is covered, the cover modifier applies and their position is irrelevant for purposes of defense.
+
 A character’s position may, however, determine whether they can claim cover in the first place (for example, kneeling behind a low wall). If cover is later lost—for instance, if an opponent moves to bypass or negate the cover—then the character’s positional modifiers immediately apply once again.
 
 ### Facing
@@ -109,22 +159,56 @@ Facing is the direction a character is oriented in during combat, defining their
 
 For Medium or smaller creatures when using a square grid battle map, the **front** consists of the three squares directly ahead of the character (the square they face and one to either side). The **rear** is the corresponding three squares directly opposite the front. The **flanks** are the remaining square on each side. Larger creatures occupy more grid squares, and the number of squares in each arc increases proportionally with their size and shape. A number of unusual creatures, for example jellies and otyughs, do not have an identifiable 'front' flanks or rears and all areas are treated as front.
 
-Unless a player specifies otherwise, characters are assumed to face the enemy they are currently engaging, or—if not actively fighting—the nearest creature they are aware of. When threatened by multiple foes, it is similarly assumed that the character adjusts their facing to minimize the number of enemies in their rear arc and maximize those in their front, with the caveat that an enemy they are currently engaging must remain in their front arc. During movement characters are assumed to face in the direction of movement. Players may opt to specify a different facing for their character, remembering they cannot engage a creature that is not to their front. Characters may change facing immediately when they first become aware of a creature that threatens them, when a creature they are aware of ceases to threaten them, or on their initiative count. 
+Unless a player specifies otherwise, characters are assumed to face the enemy they are currently engaging, or—if not actively fighting—the nearest creature they are aware of. When threatened by multiple foes, it is similarly assumed that the character adjusts their facing to minimize the number of enemies in their rear arc and maximize those in their front, with the caveat that an enemy they are currently engaging must remain in their front arc or their attack is lost. During movement characters are assumed to face in the direction of movement, except when withdrawing. Players may opt to specify a different facing for their character, remembering they cannot engage a creature that is not to their front. Characters may change facing immediately when they first become aware of a creature that threatens them, when a creature they are aware of ceases to threaten them, or on their initiative count. 
 
 ### Reach
-Reach is the distance at which a creature can make a melee attack against an opponent. It is determined by the weapon wielded, if any, and the creature's size. A weapon's reach is given in the master weapons table - a weapon with a 5' reach can attack only an adjacent square on a standard battle map. Ordinarily piercing weapons with a reach greater than 5' can only attack creatures at the extent of their reach - stabbing with the side of a lance is not very effective - other weapons may 
+Reach is the distance at which a creature can make a melee attack against an opponent. It is determined by the weapon wielded, if any, and the creature’s size.
+
+A weapon’s reach is given in the Master Weapons Table, expressed as a number of grid squares on a 5-foot battle map. Weapons with a reach of 1 (5 feet) may attack only creatures in squares immediately adjacent to the wielder.
+
+Weapons with a reach greater than 1 and which deal slashing and/or bludgeoning damage may attack any square within their reach. Weapons that deal *only piercing damage*, however, may attack **only at the maximum extent of their reach**, and not at nearer squares. Such weapons (including lances and pikes) are designed and balanced for thrusting with the point and cannot be effectively used to strike adjacent foes.
+
+A monster’s natural attacks are assumed to have a base weapon reach of 1 (5 feet) unless the creature’s description suggests otherwise.
+
+The reach of a creature’s weapon, *including natural weapons*, is modified by the creature’s size. Large creatures increase weapon reach by 1 square, Huge creatures by 2 squares, and Gargantuan creatures by 3 squares.
+Creatures normally cannot make melee attacks **through a an occupied square** to strike an enemy farther away, regardless of their reach. An intervening creature is assumed to block swings, limit space, and interfere with timing. Weapons that deal only piercing damage are an exception and may be thrust through an occupied square to attack at the maximum extent of it's reach unless the DM rules the intervening creature completely blocks the line of attack. Another exception is creatures fighting in a formation, who may make melee attacks through a square occupied by an ally as it is assumed that their movements are coordinated to allow
+
+Other exceptional circumstances may allow attacks through an occupied square at the DM’s discretion. For example, a monster’s tentacles might strike over or around an intervening foe, or a character swinging a polearm might be able to attack over a smaller creature to strike a much larger opponent.
 
 ### Threatening
-The area where a character can potentially make attacks is the area that creature 'threatens'. This area is determined by reach, and facing (and thus *indirectly* by creature size). A creature only threatens the squares that are to their front and within reach of their attack. Remember however, as explained in the facing rules above, that a creature is assumed to adjust their facing based on the threats they are aware of - a creature that has no threats nearby consequently threatens all squares in reach for any enemy it is aware of, while a creature currently engaged against an opponent, must keep that opponent in their front.
+The area where a character can potentially make attacks is the area that creature 'threatens'. This area is determined by reach, and facing (and thus *indirectly* by creature size). A creature only threatens the squares that are to their front and within reach of their attack. Remember however, as explained in the facing rules above, that a creature is assumed to adjust their facing based on the threats they are aware of - a creature that has no threats nearby consequently threatens all squares in reach for any enemy it is aware of, while a creature currently engaged against an opponent, must keep that opponent in their front or lose their attack (and possibly trigger an opportunity attack by their change in facing as described later.)
 
 ### Flanking
 Flanking is an attempt to exploit an opponent's facing, whether it is multiple attackers trying to position themselves so that at least one attacker is either to the rear or a flank, or by using surprise, stealth, and subterfuge to sneak up behind the target unseen.
+
 Attacks from a flank gain a +1 bonus to hit. Attacks from the rear gain a +2 bonus to hit ***and*** the target's bonuses to AC from dexterity or a shield (unless the shield is slung on the character's back) do not apply to an attack from the rear.
+
+### Cover and Concealment
+An effective tactic for avoiding missile fire and some spell effects is to hide behind obstacles—commonly referred to as **taking cover**. _Cover_ (sometimes called _hard cover_) consists of solid obstacles that physically block attacks, while _concealment_ (or _soft cover_) obscures the target without providing substantial physical protection. Stone walls, wooden palisades, and overturned tables are examples of cover; curtains, fog, smoke, and bushes are examples of concealment.
+
+When a creature is targeted by a missile attack or an applicable spell, the DM considers the nature, size, density, and placement of all intervening obstacles (including creatures*) that the line of fire—a straight line from the center of the attacker to the center of the target—passes through. The DM also considers the size, stance, and awareness of the target; creatures with an Intelligence score lower than 3 will rarely make effective use of cover.
+
+Based on these factors, the DM determines whether the obstacles collectively provide cover or concealment, and how much of the target is hidden from that attacker.
+
+For missile attacks, the value from the table below is applied as a **penalty to the attack roll**. For **hard cover only**, the same value is applied as a **bonus to saving throws** against spells that cause physical damage. In addition, a character who is at least **90% behind cover** suffers **half damage on a failed saving throw** and **no damage on a successful saving throw** against such effects.
+
+| Target is... | Cover | Concealment |
+| ------------ | ----- | ----------- |
+| >25% hidden  | -2    | -1          |
+| >50% hidden  | -4    | -2          |
+| >75% hidden  | -7    | -3          |
+| >90% hidden  | -10   | -4          |
+
+A character who is completely (100%) behind cover cannot be struck by missile attacks unless the attack is capable of destroying or bypassing the cover. For example, siege weapons may be able to smash through some obstacles and strike creatures sheltering behind them.
+
+\* **Intervening creatures typically provide concealment rather than hard cover**, unless they are significantly larger than the target or are deliberately trying to create cover for those behind them (for example forming a shield wall).
 
 ## Opportunity Attacks
 Some things a character does can create an opportunity for an opponent to immediately attack them. These attacks of opportunity are mentioned here as they are frequently triggered by movement and/or positioning, and thus important in deciding what movements a character will make.
-An opportunity attack is a single free melee *strike* against a threatened creature - if a creature normally makes multiple strikes in a single attack (such as character wielding two weapons, or monsters who have a claw/claw/bite attack routine), they must choose which is being using made before making an attack roll. It is 'free' because it is made *in addition to* any actions the threatening character has declared for the current round - it does not replace those actions.
-There is no specific limit to the number of opportunity attacks a character may suffer in a turn - but a creature cannot make more than one attack of opportunity against the same target in the same round. There *is* also a limit to the total number of opportunity attacks a character can make in a single round. Warriors and monsters can make 3 attacks of opportunity, while other characters can only make 1. All creatures gain 1 additional opportunity attack for every 5 levels or hit dice. (a 20th level warrior can thus make up to 7 attacks of opportunity *each round*, while one of the most formidable monsters known to exist - the Tarrasque - given sufficient targets and opportunities can make up to 17 per round).
+
+An opportunity attack is a single free melee *strike* against a threatened creature - if a creature normally makes multiple strikes in a single attack (such as character wielding two weapons, or monsters who have a claw/claw/bite attack routine), they must choose which is being used before making an attack roll. It is 'free' because it is made *in addition to* any actions the threatening character has declared for the current round - it does not replace those actions.
+
+There is no specific limit to the number of opportunity attacks a character may suffer in a turn - but a creature cannot make more than one attack of opportunity against the same target in the same round. There *is* also a limit to the total number of opportunity attacks a character can make in a single round. Warriors and monsters can make 3 attacks of opportunity, while other characters can only make 1. All creatures gain 1 additional opportunity attack for every 5 levels or hit dice. (a 20th level warrior can thus make up to 7 attacks of opportunity *each round*, while one of the most formidable monsters known to exist - the Tarrasque - given sufficient targets and opportunities could make up to 17 per round).
 
 The following actions by a threatened creature create an opportunity to attack:
 - Moving away from the threatening creature, unless the action declared was a 'withdrawal'
@@ -133,8 +217,8 @@ The following actions by a threatened creature create an opportunity to attack:
 - Attempting an unarmed attack against any foe that is not another unarmed humanoid.
 
 Some actions that fall into these categories may not be obvious (for example mounted characters attempting to trample enemies is considered a form of overbearing which is considered an unarmed attack) - read the description of an action to determine if and under what circumstances it triggers an opportunity attack. 
-In addition to the effects described above, a character who is attempting to bypass an enemy and incurs an attack of opportunity as they move away has their movement stopped **if** the result of the opportunity attack is a successful critical hit or a knockdown, otherwise the character may complete their movement.    
 
+In addition to the effects described above, a character who is attempting to bypass an enemy and incurs an attack of opportunity as they move away has their movement stopped **if** the result of the opportunity attack is a successful critical hit or a knockdown, otherwise the character may complete their movement.    
 
 ## Attack
 Attacking is, perhaps unsurprisingly, the most common action of combatants. When you declare an attack you must indicate **which weapon** will be used because the individual weapon's speed is a modifier to initiative. Each type of attack (Melee, Missile-like, Non-Lethal, etc) has its own rules, but all resolve with the same mechanic: the attack roll.
@@ -270,14 +354,20 @@ Combatants do not just stand before each other trading strikes until one falls, 
 - Shield-Rush
 - Special Weapon Manoeuvres
 - Trap (and Break)
+
 Some special manoeuvres are allowed to be declared on a character's turn, before they make an attack roll, rather than during initiative, but the timing of the declaration may affect how the manoeuvre functions. The DM may also choose to use these rules to adjudicate some situational (non-standard) actions, for example if a character rolls a cask down the stairs at enemies, a trip attack against each person in it's path might be appropriate.
+
 For characters with more than one attack in a round, the special manoeuvres below use a single weapon attack (incurring the normal penalties for attacking with multiple weapons, if applicable). Additional attacks may be used as normal, if circumstances allow - A character could not, for example, make an additional attack with the weapon they are using to trap an enemy's blade.
 
 ### Block
 Blocking uses a single weapon attack to deflect an opponent's melee or thrown weapon strike. It can be an excellent tactic for character's with multiple attacks to use against opponents that make only one attack - they expend one attack to fend off the enemy, and attack with the remainder. Blocks can be attempted with any weapon except rope-like weapons (whips, slings, etc.) however a mundane missile weapon (bow, crossbow, etc) used in this way is ruined unless the equipment's description states otherwise.
+
 When a character attempts a block they roll a normal attack roll against AC4 and the attacking character makes a normal attack roll against the blocking character's AC. If the attacker fails the roll, the attack misses as normal, if the blocking character fails the roll and the attacker succeeds, the attack hits as normal. If both characters succeed on their rolls, the character with the *lower dice roll* succeeds.
+
 *For example, a fighter with an effective THAC0 of 14 is fighting a giant with an effective THAC0 of 9. The fighter attempts to block the giant's next attack. The giant makes a successful attack roll of 18, easily beating the fighter's AC 1. The fighter rolls an 11, which narrowly succeeds against AC4. Because 11 is the lower dice roll, the fighter is able to block the giant's attack, and avoid what would otherwise have been a critical hit.*
+
 A block can be declared before initiative is rolled, or on the character's turn, before they make an attack roll, but an attack can only be blocked after the block is declared (i.e. if declared on the character's turn it can only be used on attacks that occur *after* their initiative count). The player does not have to use their block against the first attack directed at them - if they anticipate being attacked multiple times in a round it is their choice which to block - but if a block is not used by the end of the round it is wasted - it cannot be changed to a different action, and cannot be applied to an attack that has already been resolved.
+
 With most weapons blocks can only be used against attacks directed at the blocking character, however when wielding a polearm, a block may be used to deflect attacks from large-size melee weapons against someone else, as long as *either* the attacker *or* the person being attacked is within the reach of the blocking character.  
 
 ### Disarm
@@ -308,23 +398,117 @@ If the attacker wins the opposed roll (being the only one to succeed, or succeed
 
 ### Sap
 Sapping is hitting an opponent's head with the aim of knocking them unconscious rather than killing. While a sap, or blackjack, is a made-for-purpose tool for doing this manoeuvre, it may be attempted with any melee weapon, striking with the flat of a blade, the haft of an axe, the pommel of a weapon, etc. Only medium-size creatures or smaller may be sapped - the mass (and also often thicker skulls) of larger enemies prevents the localised concussive trauma necessary to knock these creatures out.
-A sapping attempt must be declared before initiative is rolled and increases initiative by 1. The sap is resolved with an attack roll against the target's unarmored armor class (i.e. only natural armor, dexterity and magical bonuses apply) with either a -4 penalty, or a -8 penalty if the target is wearing any kind of helmet. If the attack is successful damage is rolled as normal for the weapon, *except that* a weapon's magical bonuses to attack and damage do not apply unless the weapon is specifically intended for this use (such as a blackjack/sap). Only 1/4 of the damage is 'real', the remainder is temporary. Ordinarily, for each point of total damage (real or temporary) inflicted there is a 5% chance (maximum 40%) that the target is knocked out. If however the victim is surprised, sleeping, restrained, or magically held, the chance of a knockout is instead 10% per point of damage (max 80%).
-A sapped character remains unconscious for 3d10 full rounds. 
+
+A sapping attempt must be declared before initiative is rolled and increases initiative by 1. The sap is resolved with an attack roll against the target's unarmored armor class (i.e. only natural armor, dexterity and magical bonuses apply) with either a -4 penalty, or a -8 penalty if the target is wearing any kind of helmet. If the attack is successful damage is rolled as normal for the weapon, *except that* a weapon's magical bonuses to attack and damage do not apply unless the weapon is specifically intended for this use (such as a blackjack/sap) and the damage type is bludgeoning. Only 1/4 of the damage is 'real', the remainder is temporary. Ordinarily, for each point of total damage (real or temporary) inflicted there is a 5% chance (maximum 40%) that the target is knocked out. If however the victim is surprised, sleeping, restrained, or magically held, the chance of a knockout is instead 10% per point of damage (max 80%).
+
+A sapped character remains unconscious for 2d8 full rounds.
+
+**Mugging** is a special variant of sapping available only to thieves. Where a normal sap attempt uses brute force, mugging is a precision attack against a vulnerable point; consequently it can be used against creatures of up to large-size as long as the thief is able to reach the target's head. When making a mugging attack the thief may elect to have the attack do no damage at all (i.e. no chance of accidentally killing a target that was intended to be subdued) or to inflict entirely 'real' damage; mugging never inflicts temporary damage, and does not use the knockout percentage rules of sapping.  In order to perform a mugging attempt the thief must meet the same conditions as performing a backstab attack (e.g. must be to the enemy's rear and the enemy must not be aware of the thief). The mugging attempt incurs a -4 penalty to the attack roll if the target is wearing a helmet that *fully encloses* their head such as a great helm, but no penalty otherwise.  If the attack is successful the target must make a saving throw versus petrification, modified by half the difference in level or hit dice between the mugger and the victim (rounded down; maximum +/- 6) . On a failure the creature is knocked out for 3d10 rounds. If the victim becomes aware of the thief before the mugging attack is resolved, the attempt automatically becomes a normal sapping attack instead, subject to all the usual rules and restrictions for sapping.
+
+Creatures that do not have a discernible head-like anatomy or who are immune to bludgeoning damage cannot be sapped nor mugged.
 
 ### Shield-Punch
 Any character with a shield equipped may sacrifice it's protection (losing it's AC bonus for the round) and instead use it to strike an opponent. The character may choose either to substitute the shield punch for their normal attack, or to use it as a secondary weapon following the usual rules for fighting with multiple weapons (ordinarily -2 to attack with the primary weapon, and -4 with the secondary, slower weapon's speed is used for initiative). The intent to shield punch must be declared before initiative is rolled.
+
 Shield punches can be useful if a character finds themselves disarmed, of if they wish to exploit an opportunity to make some extra attacks against an enemy while remaining ready to switch back to a more defensive posture. The alternative - dropping or stowing the shield, drawing a new weapon to fight with, then retrieving or re-equipping the the shield afterwards - consumes much more effort.
 
 ### Shield-Rush
 A shield-rush is an attempt to knock someone down by charging into them shield-first. It is a risky manoeuvre as the attacker can easily end up knocked down themselves whether or not they bring down the enemy. 
+
 ### Special Weapon Manoeuvres
+
 ### Trap (and Break)
 
+# Initiative
+The initiative roll determines *when* characters act within a given combat round. Initiative is not a fixed order and changes from round to round - combat is chaotic and uncertain. A character never knows for certain if he will act before or after another nor what the exact state of the battlefield will be when he acts.
 
-- Special Types of movement (fleeing, withdrawing, charging, running, sprinting)
-- Casting a spell, indicating the specific spell
-- Using an Item (potions, wands, scrolls, etc.)
--  Using a psionic power, indicating which is being used
-- shout brief warnings, demands, or commands (but not carry on full conversations)
-- drop a weapon and draw another
-- Shed excess equipment such as backpacks
+There are 3 methods of determining initiative order: 
+1. **Simple Group Initiative**  
+  A single initiative roll for an entire side or group, with optional group-wide modifiers.
+2. **Modified Group Initiative**  
+  As above, but individuals apply modifiers based on their weapons, spells, or circumstances.
+3. **Individual Initiative**  
+  Each creature rolls separately, applying all relevant modifiers.
+
+The DM may choose which of these three methods to use in any given round, but outside of mass combat, where simple group initiative is most appropriate, will generally have PCs roll individual initiative, and will use either individual or modified group initiative for DM controlled characters, depending on their number and similarity. Note that simple group initiative cannot be used in combination with the other methods.
+
+The dice used for rolling initiative is 1d10 and the *lowest* modified initiative acts first. Characters with the same initiative count are acting **simultaneously** and the results of their actions are applied *afterwards*. i.e. The wizard's fireball may kill the archers at that same moment he falls to their arrows. 
+
+### Modifiers to Initiative
+When using simple group initiative only the following modifiers are used, and only *if* they apply to everyone in a group:
+
+| Specific Situation                 | Modifier |
+| ---------------------------------- | -------- |
+| Hasted                             | -2       |
+| Slowed                             | +2       |
+| On higher ground                   | -1       |
+| Set to receive a charge            | -2       |
+| Wading or slippery footing         | +2       |
+| Wading in deep water               | +4       |
+| Foreign environment*               | +6       |
+| Hindered (tangled, climbing, held) | +3       |
+| Waiting (see p. 112)               | +1       |
+
+\* This applies to situations in which the party is in a completely different environment (swimming underwater without the aid of a ring of free action, for example).
+
+For modified group and individual initiative, the following modifiers that are dependent on the action that was declared are also used:
+
+| Specific Situation                                             | Modifier              |
+| -------------------------------------------------------------- | --------------------- |
+| Attacking with weapon                                          | Weapon speed*         |
+| Breath weapon                                                  | +1                    |
+| Casting a spell                                                | Casting time          |
+| Creature size (Monsters attacking with natural weapons only)** |                       |
+| Tiny                                                           | 0                     |
+| Small                                                          | +3                    |
+| Medium                                                         | +3                    |
+| Large                                                          | +6                    |
+| Huge                                                           | +9                    |
+| Gargantuan                                                     | +12                   |
+| Innate spell ability                                           | +3                    |
+| Magical Items***                                               |                       |
+| Miscellaneous Magic                                            | +3                    |
+| Potion                                                         | +4                    |
+| Ring                                                           | +3                    |
+| Rods                                                           | +1                    |
+| Scroll                                                         | Casting time of spell |
+| Stave                                                          | +2                    |
+| Wand                                                           | +3                    |
+\* The bonus of magical weapons improves (reduces) their speed factor
+\** This applies only to creatures fighting with natural weapons--claws, bites, etc. Creatures using weaponry use the speed factor of the weapon, regardless of the creature's size.
+\*** Use the initiative modifier listed unless the item description says otherwise.
+
+### Multiple Attacks and Initiative
+There are two distinct cases of multiple attacks:
+1. Multiple Weapons (including natural weapons)
+    These attacks are resolved on the same initiative count
+2. Multiple attacks with same weapon
+    The first attack occurs on the initiative count.
+    Additional attacks occur after all combatants have made their primary attacks (i.e cycle through initiative order multiple times as needed) 
+
+### Spellcasting and initiative
+Casting times of spells may be listed with or without units of time given (e.g. rounds, hours, etc). If there is no unit of time given, the number given is the modifier to the initiative roll. If there *is* a unit of time specified, no initiative roll is made - the spell instead takes effect at the end of the last round of it's casting time (so with a casting time of 1 rd. the *infravision* spell would take effect at the end of the round during which it was cast)
+
+## Mounted Combat
+Combat on horseback - or any other mount - is not just normal fighting with greater height and speed, it is a trade off of precision and flexibility for speed and shock. The mass and momentum of the mount and the need to guide and control a living creature through the chaos of battle change the very nature of the fight. What follows are some additional rules specific to using mounts in battle and how the combat options presented earlier in the chapter are altered when the thunder of hooves pounding earth echoes across the battlefield.
+
+### Mounts - Untrained vs Trained
+Mounts not specifically trained for combat are easily spooked by the noise and confusion of battle. All attacks made by the rider while mounted on such a beast incur a -2 penalty. Further if an untrained animal takes damage or is startled by a surprising event (a fireball exploding nearby, etc.) the rider must make a riding proficiency check to keep control of their mount and individuals that lack that proficiency automatically fail. On a failed check, the animal panics and bolts in a somewhat random direction (more often in the direction it is already facing but it will not run directly at something it recognises as a danger) at 1.5 times its movement rate for 1d4 rounds. If there is no direction for it to flee the animal rears and bucks uncontrollably until there is a path for it to flee or until it is brought under control by the rider. A character proficient in riding or animal handling may attempt a check to regain control of the animal at the end of each round. Lastly, untrained mounts cannot move perpendicular to their facing - a move to the left or right requires the animal to turn their facing ten move increasing the risk that an opportunity attack will be triggered.
+
+Mounts that are trained for combat, such as warhorses, do not have any of the limitations or penalties described above.
+
+### Fighting from the Saddle
+The following changes to the normal rules of combat apply when mounted:
+- While mounted a rider and their mount are considered to have the same facing and act on the same initiative count. 
+- Where a movement rate or size category are referenced in a rule, those of the mount are used except when determining a rider's reach. 
+- The rider's stance (mounted) is treated as equivalent to standing except that they cannot change to a different stance while they remain mounted.
+- Running/Sprinting uses the (inferred) ability scores of the mount for checks, not the riders, but the rider is still restricted from taking any other actions during the round as normal, as they are busy controlling the mount.
+- A mounted combatant can execute a withdrawal by 'reining back' their mount, but can only do so at 1/4 of their movement rate.
+- At the DM's discretion a rider's reach may be *decreased* due to size of the mount and/or the riders position on it - For example, a rider perched in a howdah strapped to the back of a fully-grown elephant is unlikely to be able to strike a dismounted medium-sized target with their short sword.
+- A rider threatens squares within reach to their flank in addition to those to their front, and their mount separately threatens squares as normal (note that a creature that can kick back like a horse also threatens to their rear when controlled by a rider)
+- Due to the higher vantage afforded by being mounted the rider gains +1 to bonus to attack rolls against creatures of smaller-size (than the mount) and opponents on foot suffer a -1 penalty to attack the rider (but not the mount) with melee weapons.
+- The following actions cannot be performed while mounted: pummeling, wrestling, martial arts, overbearing, shield rush, trap (and break) and charging (instead use mounted charges, detailed later in this section).
+- The following actions cannot be performed while a mount is in motion: casting a spell, called shots, covering, 
+
+### Being Unhorsed
+A major hazard of mounted combat is the risk of suddenly and unexpectedly becoming dismounted. This can happen if the mount is killed, the rider is pulled from the saddle, the rider is tackled by another mounted character, pulled down by dismounted opponents, or even when simply struck by a solid blow.
