@@ -342,28 +342,102 @@ To make a pummelling attack requires at least one hand free, but the hand does n
 
 Pummelling can only be attempted against targets that are alive, organic, non-vegetable, and non-fluid - undead, golems, jellies are examples of creatures that cannot be pummelled. With limited exceptions, pummelling is ineffective against creatures who can only be harmed by special or magical weapons and is always ineffective against creatures immune to bludgeoning weapons. Finally, as a general rule pummelling requires the ability to strike at the target's head and torso, consequently it usually cannot be used against a creature more than one size larger than the attacker. The DM may make exceptions where the attacker has some way to reach the target's head height (flying, fighting from some sort of platform, or the target is sitting/prone).
 
-Without specialization, most characters can make a single pummelling attack each round (if both hands are free they may make two attacks suffering the usual penalties for attacking with two weapons). The attack is resolved using a normal attack roll. On a successful hit an opposed strength check is made to determine if the defender is knocked down. The modifiers that apply to the strength check are:
+Without specialization, most characters can make a single pummelling attack each round (if both hands are free they may make two attacks suffering the usual penalties for attacking with two weapons). The attack is resolved using a normal attack roll and as an exception to the normal rules a roll of 1 is not an automatic miss.
+
+If fighting with bare fists the modified attack roll is used to determine the type of punch (for narrative purposes) and the damage inflicted. If attacking with objects other than fists the damage is instead determined by the size and nature of the object used: small soft objects (scroll case, books) deal 1d2 damage, small hard objects (mailed fists, bottles, weapon pommels) inflict 1d3 damage, large soft objects (for example using an unconscious character as a weapon, or hitting someone with a horse saddle) inflicts 1d4 damage, while large hard objects (chairs, tables, a sack of coins) inflict 1d6 damage. The limits on what may be used as an improvised weapon are a) the object cannot be more than 1/3rd of the attackers maximum press, and b) it's greatest dimension cannot be more than half the attacker's height. Some gear, such as the cestus, are special cases that do not follow the above rules - refer to their descriptions for more details. 
+
+High strength grants a bonus to damage, but if desired a character may opt to pull their punch, and not inflict the strength damage (or any damage at all if they so choose) - the decision to pull the punch must be declared before the damage is *applied* to the target. (i.e. it could happen immediately after the damage roll's result is known but before the damage is recorded). 
+
+Despite the often limited damage, a successful pummelling attack - even if it does not inflict damage -  has a chance of knocking out the opponent as given on the punching table. The attacker rolls percentile dice, and a result below the value in the table leaves the target stunned for 1d10 rounds.
+
+In addition, on a successful hit that *does not* result in a knockout, there is still the chance for a knock down. An opposed strength check is made with the following modifiers applied:
 - 2 points for each size category difference between the attacker and defender (bonus if the attacker is larger, penalty if smaller)
 - +1 if the attack is made with a large object
-- applicable bonus for specialization, mastery, or grand mastery in pummeling
+- applicable bonuses for specialization, mastery, or grand mastery in pummeling
 
-The defender is knocked down if the attacker wins the opposed strength roll. To win the attacker must succeed on their strength check, and must have a higher roll if the defender also succeeds their strength check.
+The defender is knocked down if the attacker wins the opposed strength roll. To win, the attacker must succeed on their strength check, and must have a higher roll if the defender also succeeds their strength check.
 
-Damage with fists is 1d2, small hard objects (mailed fists, bottles, weapon pommels) inflict 1d3 damage, large soft objects (for example using an unconscious character as a weapon, or hitting someone with a horse saddle) inflicts 1d4 damage, while large hard objects (chairs, tables, a sack of coins) inflict 1d6 damage. The limits on what may be used as an improvised weapon are a) the object cannot be more than 1/3rd of the attackers maximum press, and b) it's greatest dimension cannot be more than half the attacker's height. Some gear, such as the cestus, are special cases that do not follow the above rules - refer to their descriptions for more details.
+**Critical hits** in pummelling have a different effect than normal: the defender must roll a save vs. death with the attacker's hit probability adjustment (from the strength table) as a bonus or penalty - if they fail they are knocked unconscious for 3d10 rounds.
 
-**Critical hits** in pummelling follow their own rules as follows: the defender must roll a save vs. death with the attacker's hit probability adjustment (from the strength table) as a bonus or penalty - if they fail they are knocked unconscious for 3d10 rounds.
+| Modified Attack Roll | Punch         | Damage | % KO |
+| -------------------- | ------------- | ------ | ---- |
+| 20+                  | Haymaker      | 2      | 10   |
+| 19                   | Wild Swing    | 0      | 1    |
+| 18                   | Rabbit Punch  | 1      | 3    |
+| 17                   | Kidney Punch  | 1      | 5    |
+| 16                   | Glancing Blow | 1      | 2    |
+| 15                   | Jab           | 2      | 6    |
+| 14                   | Uppercut      | 1      | 8    |
+| 13                   | Hook          | 2      | 9    |
+| 12                   | Kidney Punch  | 1      | 5    |
+| 11                   | Hook          | 2      | 10   |
+| 10                   | Glancing Blow | 1      | 3    |
+| 9                    | Combination   | 1      | 10   |
+| 8                    | Uppercut      | 1      | 9    |
+| 7                    | Combination   | 2      | 10   |
+| 6                    | Jab           | 2      | 8    |
+| 5                    | Glancing Blow | 1      | 3    |
+| 4                    | Rabbit Punch  | 2      | 5    |
+| 3                    | Hook          | 2      | 12   |
+| 2                    | Uppercut      | 2      | 15   |
+| 1                    | Wild Swing    | 0      | 2    |
+| less than 1          | Haymaker      | 2      | 25   |
 
 ##### Special Pummelling Attacks
 
----
-
-***editorial note***: this content (between the horizontal rules) is still being drafted: 
 The following are special case of pummelling attacks:
-**Sapping** - 
-**Kicking** - 
-#### Wrestling
-Wrestling attacks typically involve grasping and holding. 
 
+**Sapping** - Sapping (and mugging) as part of pummelling requires the attacker to have some sort of small hard object (as described above) and uses the same rules as sapping with a weapon. 
+
+**Kicking** - An attacker with a height advantage (whether due to size, vertical positioning, or the target being in a lower stance than the attacker) may perform a kick instead of a punch. Kicks do more damage as follows:
+
+| Attacker is:                          | Damage |
+| ------------------------------------- | ------ |
+| Barefoot                              | 1d3    |
+| Wearing shoes or light boots          | 1d4    |
+| Wearing heavy boots                   | 1d6    |
+| Wearing Iron shod or hob-nailed boots | 1d8    |
+
+#### Wrestling
+The aim of wrestling is to first get a hold on your opponent and then to maintain that hold or develop it into a lock in hopes they will submit or be rendered unconscious. Any creature of a species that is at-least semi-intelligent (Int 3+) that has appropriate appendages for grasping and restraining an enemy may attempt wrestling attacks. Limbless creatures such as worms generally cannot make wrestling attacks, but there are exceptions like constrictor snakes that are assumed to use a form of wrestling. Worm- and snake-like creatures also resist all damage from wrestling attacks but holds and locks do still prevent them from making attacks until they break free of the hold. Creatures immune to normal weapons resist damage from wrestling attacks (unless the attacker functions as a magical weapon), but are still susceptible to being grappled or pinned, and still suffer damage from locks. Incorporeal or amorphous creatures cannot make, nor be the victim of, wrestling attacks. 
+
+Wrestling can only involve two opponents at a time, an attacker and defender, though as will be explained later, other characters may attempt to assist one of the wrestlers. Wrestling also requires both of the attacker's hands to be free; even having a shield equipped prevents wrestling as it interferes with the character's ability to maintain the necessary grip on the opponent. Armor likewise interferes with wrestling to varying extent, as it limits the wearer's ability to snake their arms and legs around the opponent. The penalties for wrestling in armor are:
+
+| Type of Armor                  | Wrestling Modifier |
+| ------------------------------ | ------------------ |
+| Studded Leather                | -1                 |
+| Chain, Ring, and Scale Mail    | -2                 |
+| Banded, Splint, and Plate Mail | -5                 |
+| Field Plate Armor              | -8                 |
+| Full Plate Armor               | -10                |
+
+Characters that have not taken proficiency in wrestling can attempt only one wrestling attack per round. Non-warriors that have taken wrestling proficiency, if they have multiple attacks per round, may make the same number of attempts at securing or improving a hold on their opponent, but once they make a successful wrestling attack may not take further action in the round. Warriors who are proficient may use their full allotment of attacks - after the first successful wrestling attempt, any subsequent successes can be used to improve a hold or switch locks.
+
+There are two possible scenarios at the beginning of a wrestling attack: a) both attacker and defender have declared wrestling attacks for the round (common when wrestling as sport), or b) the defender has declared any other action than a wrestling attack (typical in combat). In the former case the attack roll detailed in the next paragraph is not needed; the attacker enters the square of their opponent and they immediately skip to determining if a hold is obtained.
+
+In the latter case (remembering that an unarmed attack against a foe that is not another unarmed humanoid immediately triggers an opportunity attack) the attacker makes an attack roll against the natural armor class of the target (for most humanoids AC 10) plus dexterity and magical bonuses - armor protects well-enough against being slashed, smashed, and run through, but does little if anything to prevent appendages being twisted, pulled and held at painful angles. Magical effects that provide a flat armor class rather than a bonus (such as shield spells or bracers of defence) count as +1 to AC regardless of how strong their enchantments are. If the wrestling attack is successful, the attacker occupies the same grid square as the defender, immediately inflicting 1 damage (unless immune), and move on to determining if a hold is established. If the attack was a critical hit a hold is automatically gained, 3 damage are inflicted (unless immune) and the character may immediately try to improve their hold to a lock on their opponent instead.
+
+To check for a hold (or to improve a hold to a lock), the characters make an opposed attack roll against their opponent's natural armor class (plus dexterity and magical bonuses as detailed in the previous paragraph). Strength bonuses apply to this check, and the following modifiers are also applied to the attacker's roll:
+- 2 point bonus or penalty per size difference of the attacker versus the defender (bonus if larger)
+- -1 if the defender is immune to normal weapons
+- -2 if the defender has an unusually supple body (snakes, eels, worms, etc)
+
+If a hold was not automatically established the attacker must win this opposed roll (i.e. must have the lower successful roll) to achieve a hold. All other roll outcomes result in the attacker being pushed back into their original square (both characters maintain their original facing) without further effect. If the attacker wins, the defender suffers 1d2 damage plus the attacker's strength bonus (unless immune to normal weapons), and is grappled, preventing all movement (including facing changes) until they free themselves or are released. While grappled, or grappling, a creature may not make attacks of opportunity.
+
+When a character that has a hold (or lock) on another character and is eligible to make another attack, they may release their opponent, try to maintain their existing hold (or lock), or try to improve the hold to a lock (or switch locks). If they release their opponent they may:
+
+1. immediately make another unarmed attack against a target within the distance they can move, or
+2. draw a weapon and on an initiative count 2 later than the current one, move up to half their movement and make an attack, or,
+3. attempt another action normally available to the character that is not casting a spell.
+
+If the grappler tries to maintain their existing hold or lock, another opposed attack roll is made. If the grappled character wins their situation improves - if they were locked they are now held, if they were held they have now broken free. If the grappler wins they succeed in maintaining their current grip and the grappled character again suffers the damage of the hold (1d2) or lock (see lock descriptions). If there is a tie or both characters fail their attack rolls, the hold or lock is maintained, but no additional damage is dealt.
+
+An opposed roll is also made when a grappler attempts to improve their hold to a lock, or switch to a different lock, however in this case a grappled character that wins inflicts 1d2 damage on the grappler in addition to having their situation improve. Further, if the grappled character wins with a roll that is also a critical hit, the grappled character is able to turn the tables entirely, becoming the grappler and choosing which lock their opponent is in. If however the grappler wins the opposed roll they are able to improve a hold to a lock, or select a different lock. If there is a tie or both fail their attacks, there is no change in status.
+
+A character that begins their initiative grappled may only make a wrestling attack, a pummelling attack, or if their facing allows it, a melee attack with a size S or natural weapon, and any attack must be directed at the opponent that has grappled them. A pummelling attack or a melee attack with a size S weapon suffer a -2 penalty to attack. If the grappled character makes a weapon attack (manufactured or natural) and scores a critical hit they may choose between the normal effects of a critical hit in melee **or** breaking the grapple. If the grappled character's attack with a non-wrestling attack results in either a knock-out or a knock-down they immediately break free. If they make a wrestling attack another opposed attack roll is made (same as checking for a hold) 
+
+---
+TO BE ADDED: Wrestling
 ---
 
 ## Called Shot
