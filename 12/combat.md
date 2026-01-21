@@ -641,3 +641,194 @@ When a step of movement results in the charging mount entering a square occupied
 Riding through a thicket of enemy is clearly not without risk: Subject to all the normal rules for opportunity attacks (maximum number per round, no more than one against the same target in a round, etc.) defenders gain an opportunity attack against *either* the mount or the rider (defender's choice), immediately upon the charging mount *entering* their threatened area. As given in the opportunity attack rules, an attack that results in a knock down or that is a successful critical hit automatically stops the charging character's movement, breaking the charge. In addition if a mount takes damage from an attack, the rider must make a riding proficiency check, or if not proficient a saving throw vs. paralyzation to keep control of the animal. A failure also results in the charge being broken.
 
 In subsequent rounds, if the trapped/pinned weapon has not been abandoned, the trapping/pinning character may declare at initiative that they are maintaining the hold. Opposed strength checks are made on the earlier inititative count of the two characters, and again at the end of each round, until the weapon is either freed or abandoned. While a character continues to keep hold of a trapped/pinned weapon they may not make opportunity attacks.
+
+## Aerial Combatants
+While aerial combat bears similarities with combat on the ground, there are some very important differences. First, many creatures must be in constant motion to stay aloft; facing off toe-to-toe while airborne is rare, and more often combats are conducted in a series of passes similar to the jousting at a tournament. While speed and manoeuvrability can be decisive factors in ground battles, they are critical in the air. Second, attacks can come from every direction - including both above and below. Tactics that work on the ground often do little good.
+
+### Manoeuvrability Classes
+How quickly a creature can turn while flying is measured with a rank from A to E, with A being the best. As a general rule more manoeuvrability results in more attacks and more effective attacks. 
+- **Class A** - Creatures that can move through the air as easily as a normal person moves on the ground - they can turn any direction at will, stop and hover. This class includes most creatures from the elemental plane of Air, and some wingless creatures magically imbued with the power of flight. While aloft they gain a -2 bonus to initiative.
+- **Class B** - The most manoeuvrable of natural creatures - like hummingbirds - fall in this class. They can turn sharply, as with Class A, they can stop and hover in the air. While in the air they gain a -1 bonus to initiative.
+- **Class C** - Most normal birds and flying magical items fall in this class. They must maintain momentum by moving at least half their movement rate each round (some magical items are exempt this requirement). Harpies, gargoyles, and dragons are common examples of creatures that belong in this class.
+- **Class D** - Class D flyers are slower to reach maximum speed and make wider turns than most normal birds. Like Class C they must move at least half their movement rate each round to stay airborne. While flying they suffer a +1 penalty to initiative. Class D creatures include Pegasi, pteranodons, and sphinxes.
+- **Class E** - Large or clumsy flyers that are incapable of tight turns. As with class C and D they must move half their movement rate each round. They also suffer a +2 penalty to initiative.
+
+Classes B though E may only change facing by **45 degrees at a time**, except that class B may make one 90 degree turn each round. Each change in facing must be preceded by a minimum amount of movement as indicated in the following table (as normal, round up)
+
+| Class | Turn Interval     |
+| ----- | ----------------- |
+| B     | 1/6 movement rate |
+| C     | 1/4 movement rate |
+| D     | 1/2 movement rate |
+| E     | movement rate     |
+
+### Levitation
+Levitation is not true flight, and is generally limited to only upwards and downwards movement. If a levitating creature is able to move freely they are treated as class A flyers. If they are not able to move freely they are not assigned a manoeuvrability class.
+
+### Altitude
+The exact altitude of a creature might be important, up to a certain point, for falling damage, but for the most part what matters for aerial combat is the relative position - above or below - of the combatants. Creatures can dive down at an enemy (the aerial equivalent of a charge), but not up,  a rider on a flying mount will have more difficulty striking a target below them than above, etc. Keeping track of the exact altitude of each flyer at a given moment would require a lot of bookkeeping and angular math so instead altitude is abstracted into 5 bands, the lowest being at/on the ground (with all the non-flying creatures). Above this are Low, Medium, High, and Very High bands. The relative position of aerial combatants is then determined by which band they are in. A creature does not threaten, and cannot attack, a creature more than 1 band away from the one it occupies, regardless of weapon reach.
+
+As part of voluntary movement, once per round and on the creature’s initiative, a flyer may **ascend or descend by 1 band**. Descending has no additional cost, but **voluntarily ascending requires expenditure of horizontal movement** according to the creature’s manoeuvrability class:
+
+| Maneuverability Class | Ascent Cost         |
+| --------------------- | ------------------- |
+| A                     | 0                   |
+| B                     | 1 square (5 feet)   |
+| C                     | 2 squares (10 feet) |
+| D                     | 3 squares (15 feet) |
+| E                     | 4 squares (20 feet) |
+
+A creature ascending must move **at least as many squares horizontally as the ascent cost**. If it's total movement for the round is insufficient to meet this requirement, **all remaining movement must be used for horizontal movement**.
+
+### Drift
+
+While aloft most creatures are contending with changing air currents and thermals, momentum, and of course the need to counter the effects of gravity - only the most agile flyers can reliably hold their altitude in combat conditions.
+
+Drift is a form of forced movement caused by these effects and is determined during the resolution phase of each round. Class A flyers are not affected by drift, and Class B flyers only need to make checks in adverse conditions - storms, strong winds, magical turbulence, etc. Those of Class C or less must make a check each round, rolling 1d6 plus any applicable modifiers, to determine if, and how, they are affected.
+
+| Modified Roll Result | Effect                  |
+| -------------------- | ----------------------- |
+| 3 or less            | descend 1 altitude band |
+| 4-5                  | no change               |
+| 6 or more            | gain 1 altitude band    |
+
+The roll is affected by the following modifiers, and others the DM may decide apply in the circumstances, based on the actions the flyer took during the round that is ending:
+
+- **Descended or Attacked a creature from above:** −1
+- **Ascended or Attacked a creature from below:** +1
+- **Carried a load heavier than normal:** −1
+- **Suffered non-minor damage while flying:** −1 (DM to determine what qualifies as 'non-minor' for a given target)
+
+In extreme circumstances (hurricanes, tornadoes, substantial magical effects) the DM may rule that all flying creatures (including class A flyers) suffer additional forced movement that is cumulative with the effect of drift described above. These extreme effects may also cause creatures to be reoriented in excess of their turning radius.
+
+If drift would push a creature above the very high altitude band it has no effect.
+
+### Crash Landing
+Crash landings occur when forced movement would place a creature that is flying below ground level, or when it is unable to to avoid a fixed obstacle (for example a canyon wall) through turning, changing altitude, or landing. 
+
+When a creature crashes it takes 1d6 for each altitude band it descended during that round (to a maximum of 3d6), is knocked prone, and is unable to fly until it spends a full round regaining balance and control. This requires the creature to take no actions other than movement - recovering from prone to standing is considered part of this recovery. The creature may fly again on the subsequent round provided it is not prevented from doing so.
+
+### Falling
+If an effect causes a flyer or rider to fall, the distance of the fall is determined by the altitude band they occupied at the moment of the fall.
+- Band 1 (At/Near Ground) - 1d6 damage representing the combination of height fallen and momentum.
+- Band 2 (Low) - The falling distance is determined by rolling 1d20; the result is the number of d6 rolled for falling damage.
+- Band 3, 4, and 5 (Medium, High, and Very High) - The creature takes the maximum falling damage of 20d6.
+
+Note that for most purposes the upper and lower altitudes of a band are abstract, not fixed heights. The assignment of falling damage to the different bands is a simplification and should not be used to infer heights for other purposes.
+
+### Airborne Combat
+There are two forms that combat in the air commonly takes. The first is more-or-less normal melee which is available only to creatures that can hover (Class A and B flyers as well as creatures that levitate but are not assigned a manoeuvrability class), and the second and more common form are attack runs which resemble tournament jousting and is available to all creatures with a manoeuvrability class. 
+
+#### Aerial Melee
+Aerial melee operates by the same rules as ground combat except that:
+-  Stances are not applicable while a creature is in the air.
+-  Running (and sprinting) is replaced with Bounding (described later)
+-  Creatures must be in the same or adjacent altitude band(s) to threaten or engage in melee
+-  A character in the air cannot benefit from being 'set for a charge'
+- Charging is replaced with Diving (described later)
+-  Disarms, barring some magical effect, result in the weapon or object falling to the ground. Depending on the item disarmed and the terrain below, retrieving it may not be possible while combat continues.
+-  A creature cannot sap a target in a higher altitude band
+-  If a critical hit results in a specific injury, the location of the injury is always rolled with 1d6 if the attacker was in a lower altitude band than the target, and 1d6+4 if the attacker was in a higher band.
+-  Natural weapons that the DM deems are required for flight (usually wings, sometimes tails) may be used while flying however impose an additional -1 modifier to any drift check the creature must make.
+
+In addition, due to the limits of their movement (not able to fly backwards, do have a turning radius limit) Class B flyers:
+-  Cannot execute a withdrawal
+-  May only change facing once per round while in melee. Normal movement and attack runs use the standard turning rules given in the previous section.
+
+#### Attack Runs
+The majority of flying creatures are not able to stop mid-air - their flight requires near-constant forward momentum. Consequently they do not 'stand and fight' and instead, like jousters at a tournament, have one brief opening to make their attack(s) before they are past the target. To attack the same target again they must wheel around completely and make another attempt.  If they are fortunate, and have multiple attacks, they may be able to attack a series of targets within their path, but are typically constrained in this by their ability to turn. It is perhaps worth restating here that movement is normally treated as though it occurs instantaneously while the character has initiative to act (see Dividing Movement section earlier in this chapter). This simplification obviously impacts on the 'realism' of attack runs, particularly where and when the paths two combatants in motion in 3 dimensions intersect - remember the rules are abstraction, not simulation.
+
+Despite the similarities to jousting, attack runs use distinct rules, as well as being subject to all the limits already given for aerial melee. There are 2 distinct cases within an attack run that must be handled:
+
+a. a target that is focused on a different creature, and 
+b. a target that is focused on the attacker. 
+
+Which applies will need to be determined by the DM based on any actions already taken in the round and with consideration to what actions were declared before initiative was rolled. A character who has already made an attack, but not felled their opponent is clearly focused on a different creature, conversely where each creature has specifically declared an attack on the other it is clear. Between these two extremes there is need for DM adjudication and player honesty to decide which applies.
+
+When a flying creature makes an attack run they attack on their initiative count and may make one attack sequence as they pass their target. If they have multiple attacks with the same weapon (more often applicable to riders on flying mounts) the person controlling the creature (DM or player), before the first attack roll is made, may choose between making a slow pass (following the normal rules for multiple attacks with the same weapon and dividing movement) or a blitz pass (all attacks - one attack sequence per target - are resolved on their initial initiative count). The latter option is assumed if not stated as it is more often advantageous for the flying creature - a slow pass often exposes them to more risk than blitzing enemies and flying off, and also potentially allows targets to get clear of the flyer's path of attack. A slow pass may however be desirable if more targets are expected to move into the flyer's path (for example if they must cross a bridge, or allies can force them into position.) 
+
+If a target is focused on a different creature, the attack is made following the normal rules for attacks. If however a target is focused on their attacker, the two opposing attacks occur on the same initiative count. The order in which these are resolved is determined by the following rules: 
+For targets that are not flying: 1) If the target is set for a charge they attack first, otherwise 2) the creature with the greater reach, and if both are equal, 3) the flying creature.
+For targets that are also flying: 1.) The creature with the greater manoeuvrability attacks first, if both are equal 2) the creature with the greater reach, if both are equal 3) the creature with the faster weapon speed, and if these are equal the attacks are resolved simultaneously.
+
+Attack runs trigger opportunity attacks as normal.
+
+**Special Case: Extent-of-Reach Weapons**  
+Certain weapons, most notably lances, are designed to deliver a single devastating strike at the moment of closure and can only inflict damage at the extent of their reach. When two flying creatures are engaged in an attack run against each other, attacks made with such weapons are resolved **before** those determined by manoeuvrability, regardless of manoeuvrability class. If both combatants are using extent-of-reach weapons, resolve attacks using the normal order. Other reach weapons do not receive this priority and are resolved according to manoeuvrability as normal.
+
+### Diving
+Diving uses descent to gain momentum and is aerial combat's analogue to a charge in ground combat. To perform a dive attack, a creature must declare the intention **before initiative is rolled**. At the start of their initiative count, the attacker must already be in a **higher altitude band than the target** (they may not ascend on their tur*n to meet this requirement) and must move at least **half of their movement rate horizontally** prior to the attack. If these conditions cannot be met, the dive reverts to a normal attack run.
+
+While diving, the ability to change facing is reduced for all but Class A flyers, with the **turn interval doubled** until the attack is completed (i.e., if a creature normally requires 1 square of movement to change facing, they require 2 while diving). If the dive attack can be attempted, the attacker makes **one attack sequence** with **+2 to all attack rolls**. Claws and talons do double damage when used in a dive attack as do any weapons that do double damage when used in a charge.
+
+A dive attack may also target a creature **two altitude bands** lower than the attacker, in which case a successful attack deals an **additional 1d4 damage**. The drift modifier for attacking from above is increased to **−2**. An **unsuccessful dive attack never triggers an attack of opportunity**.
+
+### Bounding
+Bounding is the aerial equivalent of running, allowing a creature to achieve maximum horizontal movement to close distance rapidly, escape, or reposition. This comes at the cost of reduced control and prevents taking any offensive actions, except that a rider on a flying mount may risk a **flying tackle** (see mounted combat) while airborne, if they are confident—or reckless—enough to attempt it.
+
+Like running, bounding must be declared **before initiative is rolled**, and the movement **may not be divided**. While bounding, a creature may move up to **1.5× its normal movement rate** for that round. Vertical movement remains limited to **1 altitude band per round**, and the normal horizontal movement cost for ascending still applies. For all but Class A flyers, the **turn interval is doubled** for the duration of the bounding movement.
+
+Creatures with **Class C manoeuvrability or worse** must still move at least **half their normal movement rate** during the round to remain airborne; the additional distance gained from bounding does not reduce this requirement.
+
+### Flying Mounts
+A flying mount follows the normal rules of mounted combat while it remains on the ground, except that an untrained flying mount cannot be used for combat (either on the ground or in the air) - it will immediately take wing and flee to safety using bounding movement.
+
+The following rules of mounted combat apply equally to flying mounts:
+- While mounted a rider and their mount are considered to have the same facing and act on the same initiative count. 
+- Where a movement rate or size category are referenced in a rule, those of the mount are used except when determining a rider's reach. 
+- The rider's stance (mounted) is treated as equivalent to standing except that they cannot change to a different stance while they remain mounted.
+- The following actions cannot be performed while mounted: pummeling, wrestling, martial arts, overbearing, shield rush, trap (and break) and charging (instead use diving detailed in this section).
+- The following actions cannot be performed while a mount is in motion: casting a spell, called shots, covering,
+
+The rules of jousting do not apply to a mount once airborne, and should instead follow the rules of attack runs. Similarly, while in the air diving replaces mounted charges. The rules for being unhorsed **do apply** to riders of flying mounts except that a rider who is *not* using a saddle specifically designed for flying mounts (which sensibly strap the rider to the mount) and who is knocked from the saddle, or any rider who has their mount killed from under them, suffer damage as described in the falling part of this section. For riders that *are* strapped in and knocked from the saddle, they are left dangling from their tether and incur the same penalties as being knocked prone. Recovering their position in the saddle is likewise treated as moving from prone to standing.
+
+As alluded to earlier, a flying tackle may be attempted from a flying mount, but failure uses the damage detailed under falling in this section.
+
+Note that when a flying creature is used as a mount, it's manoeuvrability is decreased by one class (except Class E which is the minimum). This reduction applies to all aspects of flight.
+
+## Nautical Battles
+The full rules of conducting ship-to-ship and fleet-to-fleet battles with full crew complements is beyond the scope of this chapter, however it is appropriate to give some general info to help guide players on how their character's fit into the nautical combat framework.
+
+During battles at sea, _naval battle rounds_ are superimposed over ordinary melee rounds. The duration of a naval battle round is determined by the distance between opposing forces at the beginning of the round: at close range these may be the same one minute as a normal round, while at greater distances a naval battle round may encompass ten or even thirty minutes of in-game time.
+
+Each naval battle round begins with a movement phase, during which ships manoeuvre to gain positional advantage (this is primarily resolved via opposed checks, not actual movement on the map) — closing with an enemy they intend to engage or opening distance from one they wish to evade. If opposing vessels are able to engage at the end of manoeuvre, they proceed to the action phase, during which ship-scale actions such as broadsides, ramming, and attempts to secure or foul an enemy vessel are resolved. The round concludes with a resolution of round phase, during which the results of these actions are applied and ongoing effects are resolved.
+
+Player characters can influence the outcome of naval battles in a wide variety of ways. Some may serve as captains or officers, directing a vessel’s movement and actions, while others take on roles as navigators, gunnery leaders, boarding commanders, spellcasters, or specialists tasked with preparing the ship and crew for combat. Even characters without formal authority can materially affect the course of a naval engagement through timely action and preparation.
+
+Although naval battle rounds may encompass many melee rounds, individual character actions are resolved using standard one-minute rounds. These actions occur while the ship is manoeuvring, the crew is making ready for battle, and conditions aboard ship are changing in anticipation of engagement. Depending on the current scale of the battle, this may grant characters significant time in which to prepare, reposition, coordinate the crew, or cast spells with longer casting times than would ordinarily be practical in a fight.
+
+Characters capable of flight or rapid movement across or through water may attempt early engagements, raids, or sabotage actions before ships close. Other characters may use this time to bolster morale, clear and prepare the decks, repair damage, secure weapons and rigging, or otherwise influence the ship’s readiness. The actions of player characters commonly generate modifiers to ship checks and actions, and are resolved within the naval battle round before the ship’s own actions are adjudicated.
+
+Once opposing vessels close to engagement distance, ship actions follow a more fixed sequence: missile and artillery fire, ramming attempts, efforts to secure contact or foul an enemy vessel, and finally boarding actions and boarding melee. Player characters act within the appropriate portion of this sequence. Those making missile attacks or hurling ranged spells will typically act during the opening exchanges, while characters leading or repelling boarders will find themselves drawn into brutal, close-quarters fighting as the engagement unfolds.
+
+The Dungeon Master will often resolve these moments as small, focused encounters within the broader battle, concentrating on the actions of the player characters while the resolution of ship-scale actions provides a dynamic and often perilous backdrop to events unfolding around them.
+
+## Combat In the Water
+For typical ground-dwellers, the mysteries of the deep often remain such because of the extreme difficulty and danger operating in such an alien environment... adventurers are however seldom typical and will sometimes find themselves delving the depths in search of lost artefacts and untold riches, possibly coming into conflict with a civilisation rumoured to lay on the ocean floor; other times they will have no interest in such pursuits but nonetheless find themselves dragged beneath the waves by the colossal and fearsome monsters that fuel the nightmares of sailors and fisherman. Combat in, and particularly *under* the water presents a unique combination of challenges for any creature not native to that environment - many of these are detailed in the chapters *Vision and Light* and *Time and Movement*, but to briefly recap the most relevant of those:
+
+- Without another way of breathing, characters must hold their breath, which - under the exertion of combat - is likely only to last 1 or 2 rounds before they must begin making ability checks to continue.
+- Wearing non-magical metal armor, being encumbered, or having movement significantly reduced for other reasons (injuries, etc) prevents swimming and forces characters to move along the bottom (which includes wading where the water is shallow enough) which is usually slower than swimming
+- Characters who are not proficient in swimming *can* swim (very slowly) but only in calm waters.
+- Vision is extremely limited, even for those that can ordinarily see well in low-light on the land, reducing engagement distances
+- At great depths land-dwellers must protect against the cold or suffer additional penalties to attack and damage
+- Without magical assistance surface dwellers have difficulty communicating and coordinating under water as their ability to hear and speak are impacted, and limits on vision can interfere with non-verbal communication
+- Without magical assistance, the pressure of travelling too deep can crush a character
+- The exertion of prolonged swimming imposes cumulative penalties on attacks, and these penalties increase if swimming at faster than normal speeds.
+
+Unlike aerial combat, where altitude is abstracted into bands for simplicity, depth must be tracked in feet, as the ability to surface for air can be of overriding importance.
+
+### Combat Effects of being Underwater
+The conditions of fighting underwater are so foreign to land-dwellers that, in addition to any penalties and limits already imposed above, surface dwellers suffer a +4 penalty to initiative, and a -4 penalty to attack rolls when fighting underwater. Further the benefits of weapon specialization (attack and damage bonuses and any extra attacks) do not apply. The timing, leverage, and muscle memory developed for fighting on the surface has no benefit in the motion resistant and buoyant water. 
+
+Some magical items, such a ring of free action, spells, or weapons specially designed for use underwater can negate these penalties, but these are quite rare, and most surface dwellers are at a distinct disadvantage when fighting in the murky depths. Characters may also pursue proficiency in underwater combat to reduce the penalties and allow some benefits from specialization.
+
+In addition:
+- Only creatures that are walking on the bottom may be considered 'set for a charge'
+- Water resistance greatly reduces the impact of weapons that must be swung - only weapons that are thrust are effective at all, and their damage is often less than when used above the water - use the weapon stats presented in the underwater weapons table instead of the master weapons table.
+- Thrown weapons, except nets, do not work underwater, nor do missile weapons that are not specifically designed for such use. Missile weapons that *are* designed for use underwater have subtle differences from the normal versions and require their own proficiencies to use without penalty, but characters that are proficient with the surface-equivalent suffer only half the normal nonproficiency penalty.
+
+Marine creatures used as mounts generally follow the rules given in the mounted combat section except that a) any rule for adventuring and fighting underwater takes precedence over the rules in that section, b) falling damage does not apply - characters may sink if they were relying on the mount to carry their weight, and c) flying tackles and mounted charges are not valid actions underwater. Jousting is the most common manner of fighting on underwater mounts.
+
+Spellcasting is also significantly affected underwater as will be detailed in the next chapter, *Magic*. To preview just some of the issues caster's face: verbal components suffer the same problems as communicating, somatic components may be as difficult to perform as swinging a weapon, and some material components may be destroyed underwater. Some spells behave very differently, or not at all, when cast underwater.
+
+Even using magic items can be affected by being underwater - uncorking a normal potion bottle would contaminate or dilute its contents, dusts and powders are likewise unusable, scrolls are made of high quality paper and fine ink but these are not of themselves magical and are susceptible to water damage (as are most spellbooks), items with command words are affected by the limits on speaking, and like spells, the effects of magical items may operate differently in this environment.
