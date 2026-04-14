@@ -1,4 +1,4 @@
-#Non-Weapon Proficiencies
+# Non-Weapon Proficiencies
 ## Introduction
 A player character is more than a collection of combat modifiers. Most people have a variety of skills learned over the years. Consider yourself as an example--how many skills do you possess? You probably did over a decade of school, perhaps participated in extra-curricular activities, and maybe had some hobbies, through which you have probably picked up a number of skills (in addition to ones learned from family) beyond just those of your chosen career. The same is true of your player character; they can do more than just swing a sword, cast a spell, or pick a lock. To role-play the character well, you need an idea of *what else* they are good at.
 
@@ -9,16 +9,28 @@ Some proficiencies have obvious uses in encounters or while adventuring more bro
 Players should (ideally) be guided in their choice of nonweapon proficiencies by their character concept/theme. Character kits usually offer recommendations on nonweapon proficiencies that are thematically appropriate to their different character concepts; players who choose not to adopt a kit may still find these recommendations helpful in inspiring their own choices.
 
 ## Using Nonweapon Proficiencies
-In many cases having proficiency means automatic success at doing things - no checks are needed to see if a person proficient in cobbling can do a simple repair on a boot when they have the tools and materials needed. If the attempt is particularly difficult - say they must improvise tools or materials - or failure would have meaningful consequences, a proficiency check is then likely called for.
+In many cases, proficiency allows automatic success. Routine tasks performed under normal conditions do not require a proficiency check, provided the character has appropriate tools, materials, and time. A character proficient in cobbling, for example, can perform simple boot repairs without a roll.
 
-Each proficiency has an associated ability score and a base modifier (note: the individual's base modifier can be improved). To succeed on a proficiency check you must roll 1d20 and ***not roll higher*** than your character's corresponding ability score, plus their base modifier, plus any situational modifiers (bonuses or penalties). For example animal handling proficiency uses the wisdom ability and has a base modifier of -1. if your PC has a Wisdom score of 13 and the DM decided no situational modifiers applied to the check, you must roll 12 or less for your PC to succeed. No matter the score required for success, a 20 is always a failure.
+DMs should refrain from calling for checks for routine use of a skill under normal conditions. Checks should be made only when conditions are unfavorable, the character is attempting something beyond ordinary, or failure would carry meaningful consequences.
 
-Unless otherwise stated, if multiple *proficient* characters work together on a task, the check uses the highest ability score *and* highest base modifier among the individuals involved. For example, a fighter with 18 strength who is proficient in blacksmithing (and has a +2 modifier) might convince a retired master blacksmith to assist (strength 14 and a +8 modifier) - working together the check would use the fighter's 18 Strength, and the retired blacksmith's +8 modifier. 
+Each proficiency is associated with an ability score and a base proficiency modifier. To resolve a proficiency check, roll 1d20 and succeed if the result is equal to or less than the character’s ability score, plus the base modifier, plus any situational modifiers. For example the animal handling proficiency uses the Wisdom ability and its default base modifier is -1. If your PC has a Wisdom score of 13, has not improved their proficiency, and the DM decides no situational modifiers applied to a check, a roll of 12 or less is needed for success.
+ 
+In some situations, more than one proficiency may reasonably apply. The DM determines which proficiency is used, based on the character’s described approach to the task. Players are encouraged to describe how they are applying a specific proficiency, but the final decision rests with the DM.
+
+In general, a proficiency that is less directly suited to the task may still be used at the DM’s discretion, often with a penalty. Except where explicitly stated, proficiency modifiers do not stack or combine with one another.
+
+Unless otherwise specified, a successful check indicates the task is completed as intended. Failure indicates the attempt does not achieve the desired result, with consequences determined by the DM. As a general guideline, failure by 4 or less produces a flawed or limited result, while failure by 5 or more results in significant failure or complications.
+
+A roll of 20 always fails and may represent a catastrophic result. A roll of 1 always succeeds and may produce an exceptional outcome, at the DM’s discretion.
+
+When multiple proficient characters collaborate, use the highest ability score and the highest base modifier among those assisting. Additional assistance may reduce the time required to complete a task, potentially mitigating penalties for haste, but provides no further mechanical benefit. For example, a fighter with 18 Strength who is proficient in blacksmithing (and has a +2 modifier) might convince a retired master blacksmith to assist (Strength 14 and a +8 modifier) - working together the check would use the fighter's 18 Strength, and the retired blacksmith's +8 modifier.
+
+Time requirements assume adequate tools, materials, and working conditions. Adverse conditions may increase time required and/or impose penalties to any checks.
 
 ## Non-Proficiency
-A lack of proficiency does not *always* mean a character cannot attempt - and functionally succeed - in using a skill. While it *is* likely impossible for a character to be able to fully comprehend an ancient language they have just encountered, most people could probably put a few stitches in to repair an article of clothing without needing to train as a seamstress or tailor. As a general rule, what a proficient character must make a check to accomplish is beyond what an untrained character might accomplish, but what a skilled character automatically succeeds at, might be achievable by an amateur under favourable conditions. At the DM's discretion non-proficient characters may also be able to help a proficient character with a task.
+Lack of proficiency does not *necessarily* prevent a character from attempting a task. Simple or common activities may still be attempted without training, at the DM’s discretion. For example while it is likely impossible for an individual to decode an ancient language they have just encountered, most people could probably put a few stitches in to repair an article of clothing without needing to train as a seamstress or tailor. 
 
-Non-proficient characters do not make proficiency checks unless the DM rules that the task falls within the bounds of what an untrained individual might reasonably attempt.
+As a general rule, tasks requiring a skilled character to make a proficiency check are beyond the capability of an untrained character, while tasks that a proficient character performs automatically may be achievable by an untrained character under favourable conditions. If the DM rules a task falls within the bounds of general knowledge or simple effort they may allow a non-proficient character to make a proficiency check using the ability score and default base modifier with an additional penalty (typically -3 to -6) applied. Tasks requiring specialized training or knowledge cannot be attempted without proficiency.
 
 ## Situational Modifiers
 The Dungeon Master determines the modifiers that apply to a specific proficiency check before any rolls are made (whether or not they announce them) based on the situation and what the players have described their character attempting. To give a general sense of the sort of modifiers a DM might apply:
@@ -27,6 +39,8 @@ Difficult Task -2
 Improvised Tools -2
 Non-standard materials -2
 Extreme situations (example: working while significantly injured, poisoned, or diseased, etc) -4
+
+Proficiencies that involve crafting or technical work require appropriate tools and facilities. Without them, attempts either fail automatically or require a proficiency check at significant penalty.
 
 ## Acquiring and Improving Nonweapon Proficiencies
 At 1st level each character receives a number of nonweapon proficiency slots based on their character class and intelligence ability score (as shown in the tables below). For example, a Wizard with a 16 intelligence score would begin play with 9 nonweapon proficiency slots. As characters advance in level they will gain additional slots at specific class levels (also given in the tables below). Our example Wizard would gain an additional slot at levels 3, 6, 9, etc. 
@@ -76,6 +90,7 @@ Nonweapon proficiencies are organised into proficiency groups representing skill
 | Specialist | Wizard, General                 |
 | Thief      | Rogue, General                  |
 | Bard       | Rogue, Warrior, Wizard, General |
+
 
 ## Proficiency Group Tables (to be added)
 
