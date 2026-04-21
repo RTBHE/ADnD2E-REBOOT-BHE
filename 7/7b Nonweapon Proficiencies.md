@@ -1,4 +1,4 @@
-# Non-Weapon Proficiencies
+# Nonweapon Proficiencies
 ## Introduction
 A player character is more than a collection of combat modifiers. Most people have a variety of skills learned over the years. Consider yourself as an example--how many skills do you possess? You probably did over a decade of school, perhaps participated in extra-curricular activities, and maybe had some hobbies, through which you have probably picked up a number of skills (in addition to ones learned from family) beyond just those of your chosen career. The same is true of your player character; they can do more than just swing a sword, cast a spell, or pick a lock. To role-play the character well, you need an idea of *what else* they are good at.
 
@@ -9,23 +9,19 @@ Some proficiencies have obvious uses in encounters or while adventuring more bro
 Players should (ideally) be guided in their choice of nonweapon proficiencies by their character concept/theme. Character kits usually offer recommendations on nonweapon proficiencies that are thematically appropriate to their different character concepts; players who choose not to adopt a kit may still find these recommendations helpful in inspiring their own choices.
 
 ## Using Nonweapon Proficiencies
-In many cases, proficiency allows automatic success. Routine tasks performed under normal conditions do not require a proficiency check, provided the character has appropriate tools, materials, and time. A character proficient in cobbling, for example, can perform simple boot repairs without a roll.
+Each proficiency listed contains a broad description of its purpose and scope, examples of the kinds of tasks a trained character can reliably accomplish without rolling, as well as examples of the applications of a skill that likely require a proficiency check. Many proficiencies also note additional benefits, such as interactions with other proficiencies, combat applications, or situational advantages.
 
-DMs should refrain from calling for checks for routine use of a skill under normal conditions. Checks should be made only when conditions are unfavorable, the character is attempting something beyond ordinary, or failure would carry meaningful consequences.
+Based on what players describe their characters attempting to achieve, and how, the DM decides if, when, and which attempts automatically succeed, which have no chance of success, and which require a proficiency check to resolve. As a general rule when a proficient character attempts a routine task within the scope of their proficiency, with adequate resources, and working under normal conditions, it is assumed they will achieve a competent, though unremarkable, result and no check should be called for. Conversely, if the DM judges that it is simply impossible in the current conditions to achieve the intended result using the approach described the attempt automatically fails and no check should be called for. If a situation meaningfully challenges the character's skill and the outcome is uncertain the DM will call for a proficiency check.
 
-Each proficiency is associated with an ability score and a base proficiency modifier. To resolve a proficiency check, roll 1d20 and succeed if the result is equal to or less than the character’s ability score, plus the base modifier, plus any situational modifiers. For example the animal handling proficiency uses the Wisdom ability and its default base modifier is -1. If your PC has a Wisdom score of 13, has not improved their proficiency, and the DM decides no situational modifiers applied to a check, a roll of 12 or less is needed for success.
- 
-In some situations, more than one proficiency may reasonably apply. The DM determines which proficiency is used, based on the character’s described approach to the task. Players are encouraged to describe how they are applying a specific proficiency, but the final decision rests with the DM.
+While the player, through the description of their character's approach to a task, can influence which check is called for, the DM is the final abiter of which proficiency is most relevant in a given situation. A DM might decide that, notwithstanding the character's approach to a task, that the intended outcome causes the attempt to fall within the scope of a different proficiency entirely; they might decide that more than one proficiency may reasonably apply and grant bonuses for skill overlap (beyond those given in the proficiency descriptions); they may permit a creative use of a less directly-relevant skill. 
 
-In general, a proficiency that is less directly suited to the task may still be used at the DM’s discretion, often with a penalty. Except where explicitly stated, proficiency modifiers do not stack or combine with one another.
+Each proficiency is associated with an ability score and a base proficiency modifier. To resolve a proficiency check, 1d20 is rolled; if the result is equal to or less than the character’s ability score, plus the base modifier, plus any situational modifiers, the character succeeds. For example the animal handling proficiency uses the Wisdom ability and its default base modifier is -1. If your PC has a Wisdom score of 13, has not improved their proficiency, and the DM decides no situational modifiers applied to a check, a roll of 12 or less is needed for success. Except for opposed proficiency checks, a roll of 1 always succeeds, and a roll of 20 always fails, regardless of any modifiers.
 
-Unless otherwise specified, a successful check indicates the task is completed as intended. Failure indicates the attempt does not achieve the desired result, with consequences determined by the DM. As a general guideline, failure by 4 or less produces a flawed or limited result, while failure by 5 or more results in significant failure or complications.
-
-A roll of 20 always fails and may represent a catastrophic result. A roll of 1 always succeeds and may produce an exceptional outcome, at the DM’s discretion.
+When a proficiency check is required, the result determines how effectively the character achieves their intent. It is important to note that outcomes exist along a spectrum rather than as simple success or failure; the degree of success or failure can influence the quality, completeness, or consequences of the result. A modest failure for example may give a flawed but functional result. The DM has guidance on interpreting non-weapon proficiency outcomes and is encouraged to interpret results in context in a way that reflects both the character’s expertise and the circumstances at hand.
 
 When multiple proficient characters collaborate, use the highest ability score and the highest base modifier among those assisting. Additional assistance may reduce the time required to complete a task, potentially mitigating penalties for haste, but provides no further mechanical benefit. For example, a fighter with 18 Strength who is proficient in blacksmithing (and has a +2 modifier) might convince a retired master blacksmith to assist (Strength 14 and a +8 modifier) - working together the check would use the fighter's 18 Strength, and the retired blacksmith's +8 modifier.
 
-Time requirements assume adequate tools, materials, and working conditions. Adverse conditions may increase time required and/or impose penalties to any checks.
+Unless otherwise stated, proficiencies assume access to appropriate tools, materials, and working conditions. Attempting to use a proficiency without such resources may impose penalties, increase time requirements, or render the attempt impossible, depending on the situation.
 
 ## Non-Proficiency
 Lack of proficiency does not *necessarily* prevent a character from attempting a task. Simple or common activities may still be attempted without training, at the DM’s discretion. For example while it is likely impossible for an individual to decode an ancient language they have just encountered, most people could probably put a few stitches in to repair an article of clothing without needing to train as a seamstress or tailor. 
@@ -63,6 +59,7 @@ As a general guideline, learning a new proficiency requires 1d8+4 weeks of downt
 | Wizard  | 4             | 3                                           |
 | Priest  | 4             | 3                                           |
 | Rogue   | 3             | 4                                           |
+
 **Additional Nonweapon Proficiency Slots from Intelligence**
 
 | Intelligence Score | Slots |
@@ -94,2139 +91,1033 @@ Nonweapon proficiencies are organised into proficiency groups representing skill
 
 ## Proficiency Group Tables (to be added)
 
+
+
 # Nonweapon Proficiency Descriptions
-
 ## Acting
-Acting enables a character to skilfully portray various roles. Acting is most often used as a form of entertainment; it can also be useful in aiding a disguise. If both acting and disguise are known, the proficiency check for either are made with a +1 bonus.
+A character with this proficiency is skilled in portraying roles for entertainment, deception, or social manipulation. The character can perform rehearsed parts, assume appropriate mannerisms, and present convincing personalities under normal conditions without requiring a proficiency check. This includes stage performance, casual impersonation, and supporting a prepared disguise in routine situations.
 
-Proficiency checks are required only if the actor must portray a particularly difficult character or is attempting an "ad lib" role (_i.e.,_ a non-rehearsed role or on short notice).
+A proficiency check is required only when the role is particularly demanding, the performance is improvised or unprepared, or the character must withstand close scrutiny or maintain the portrayal over time. The DM may apply modifiers based on the difficulty of the role, the familiarity of the audience with the subject being portrayed, and the conditions of the performance.
+
+If the character also possesses Disguise proficiency and uses both together, proficiency checks for either gain a +1 bonus.
 
 ## Administration
-Many temples own substantial amounts of land and property, wielding power over vast areas. Priests who can manage these lands and turn a tidy profit in the name of the church are always in demand. A character with this proficiency is skilled in the management and accounting of enterprises ranging from the agriculture of an entire province to the vineyards of a single small monastery. He knows how to account for money, plan work, and supervise the collection of taxes or the sale of goods.
+A character with this proficiency is skilled in the management, organization, and accounting of estates, institutions, and commercial enterprises. This includes planning labour, tracking income and expenditure, allocating resources, and overseeing the production, taxation, or distribution of goods. Under normal conditions, the character can manage routine operations effectively without requiring a proficiency check, whether overseeing a small holding or administering a larger organization.
+
+A proficiency check is required only when managing unusually large, complex, or unstable operations, or when attempting to resolve administrative problems under pressure, such as shortages, corruption, mismanagement, or competing demands. The DM may apply modifiers based on the scale of the organization, the quality of available staff, and the severity of the situation.
+
+This proficiency also grants familiarity with institutional structures and economic practices, including taxation, record-keeping, and hierarchical organization, which may aid in interactions with estates, temples, guilds, and similar bodies.
 
 ## Agriculture
-The character has a knowledge of the basics of farming. This includes planting, harvesting, storing crops, tending animals, butchering, and other typical farming chores.
+A character with this proficiency possesses practical knowledge of farming, including planting, harvesting, crop rotation, storage, soil management, and the care and use of livestock. The character can carry out routine agricultural tasks and manage a working farm under normal conditions without requiring a proficiency check, including tending animals, preserving produce, and overseeing seasonal labour.
+
+A proficiency check is required only when attempting to improve output, manage poor or changing conditions, or address unusual agricultural challenges such as disease, infestation, drought, or unfamiliar terrain. The DM may apply modifiers based on climate, resources, and scale of operation.
+
+This proficiency also provides general familiarity with rural practices and seasonal cycles, which may inform related activities such as travel, trade, or settlement management.
 
 ## Alchemy
-A wizard with this skill is not necessarily an alchemist or a specialist in the school of alchemy, but he is well-versed in the physical aspects of magical research and the properties of various chemicals, reagents, and substances. If the character has access to a decent laboratory, he can use his knowledge to identify unknown elements or compounds, create small doses of acids, incendiaries, or pyrotechnical substances, or (if he is 9th level or higher) brew potions.
+A character with this proficiency is trained in the properties and reactions of alchemical substances, including acids, incendiaries, reagents, and related compounds used in magical and experimental work. Proper use of this proficiency requires access to a suitable laboratory, as described in the core rules. Under normal conditions, the character can handle, store, and prepare common reagents, and understands standard alchemical processes without requiring a proficiency check.
 
-Refer to the Magic Chapter for information on the size, cost, and equipment of an alchemical laboratory. Naturally, a wizard may be able to defray some of the costs by sharing his facilities or striking some kind of deal with a local wizard's guild; the DM can come up with the details.
+The character may attempt to identify unknown substances or compounds through careful analysis. This requires 1–4 days of work and a proficiency check when the material is uncertain, rare, degraded, or complex. 
 
-Identifying substances or samples of unknown material requires 1 to 4 days and a successful proficiency check. Simple materials, such as powdered metals or ores, provide the alchemist with a +1 to +4 bonus on his check, at the DM's discretion. Rare, complex, damaged or incomplete samples might impose a -1 to -4 penalty.
+The character may also produce small quantities of common alchemical materials such as acids, incendiaries, or pyrotechnic compounds. This requires 1d3 days for vial-sized preparations or 2–5 days for flask-sized quantities, along with appropriate material costs. Routine production of standard substances does not require a proficiency check; a check is required only when working under poor conditions, using unstable materials, attempting refinement, or producing unusually potent or reliable compounds.
 
-Creating dangerous substances such as acids or burning powders takes 1d3 days and costs (1d4+1) x 10 gp per vial, or 2-5 days and (1d6+4) x 10 gp per flask. The alchemist must pass a proficiency check in order to successfully manufacture the substance; failing the check with a natural roll of 20 results in an explosion or other mishap that exposes the character to the effects of his work and damages the laboratory for 1d6 x 10% of its construction value.
+At 9th level or higher, the character may brew potions in accordance with the rules for magical research and item creation. 
 
-_Acid_ inflicts 1d3 points of damage per vial, or 2d4 points of damage per flask, and continues to injure the victim the next round; the vial inflicts 1 point of damage in the second round, and the flask causes 1d3 points of damage. In addition, the flask is large enough to splash creatures near the target. Acid can also burn out a lock or clasp, forcing an item saving throw.
-
-_Incendiaries_ ignite when exposed to air. A flask of incendiary liquid inflicts damage as per burning oil (2d6 points in the first round and 1d6 in the second.) Incendiary powders or liquids can easily start fires if used on buildings, dry brush, or other such surfaces.
-
-_Pyrotechnic_ materials resemble incendiaries, but create clouds of billowing smoke. A vial creates a cloud of smoke 5 feet high by 5 feet wide by 5 feet deep, obscuring vision. A flask creates a cloud of smoke 10 feet high by 10 feet wide by 10 feet deep. The clouds persist for 1d3 rounds, depending on the wind and other conditions.
-
-Alchemy is an expensive hobby, to say the least, and it can be a dangerous one as well. If a player character is abusing this proficiency (i.e., walking into a dungeon with 10 flasks of acid in his pack), the DM can require item saving throws for all those beakers anytime the character slips, falls, or is struck by an opponent.
-
-Wizards who specialize in the school of alchemy gain a +2 bonus to their Alchemy proficiency checks
+Specialist Wizards of the school of Alchemy gain a +2 bonus to alchemy proficiency checks.
 
 ## Alertness
-The character is exceptionally attuned to their surroundings, quickly noticing disturbances and inconsistencies. The character’s chance of being surprised is reduced by 1.
+A character with this proficiency possesses heightened awareness of their surroundings and an instinct for detecting danger. Subtle changes in environment, movement, or intent are less likely to go unnoticed, and the character is generally difficult to catch off guard in ordinary circumstances.
 
-If the character *is* surprised, they may attempt a proficiency check to recover in time to act normally. If the check succeeds, the character is not surprised.
+The character’s base chance of being surprised is reduced by 1. This benefit applies automatically and does not require a proficiency check.
+
+If the character is surprised, they may immediately attempt a proficiency check.
+
+## Alms
+A character with this proficiency is practised in securing charity through religious presence, blessings, and the social expectations surrounding piety and hospitality. In communities where such customs are recognized, the character can obtain basic shelter and modest sustenance for themselves without requiring a proficiency check, provided they present themselves appropriately and spend sufficient time seeking aid.
+
+The quality and availability of such charity depends on local conditions, including the wealth, disposition, and religious inclinations of the population, as well as the character’s conduct and affiliation. Under normal circumstances, the character can reliably secure simple lodging if it is available, though food, clothing, or provisions beyond personal subsistence are not guaranteed.
+
+A proficiency check is required when attempting to secure aid beyond basic needs, such as support for companions, higher-quality accommodations, or assistance in communities that are indifferent, suspicious, or hostile to the character’s faith or status. The DM may apply modifiers based on local attitudes, recent events, and the character’s presentation.
 
 ## Anatomy
-The character possesses detailed knowledge of the structure and function of the body, including bones, muscles, and internal organs.
+The character possesses detailed knowledge of the structure and function of living bodies, including bones, muscles, organs, and their relationships. This understanding allows accurate identification of physical structures and vulnerabilities under normal conditions without requiring a proficiency check.
 
-This proficiency provides a +2 bonus to Healing proficiency checks.
+A proficiency check is required when applying anatomical knowledge in complex, degraded, or uncertain conditions, such as working with heavily damaged remains, unusual physiology, or when attempting to prepare a body for a specific technical purpose.
 
-In addition, the character can prepare damaged corpses for animation. With a successful proficiency check, the body is reinforced and restored sufficiently to better withstand the process. This grants a bonus of +1 hit point per Hit Die for skeletal undead, or +2 hit points per Hit Die for zombies.
+When making a called shot against a living target with discernible anatomy, the character may apply anatomical knowledge to better judge viable targets and effects. Under normal circumstances, this does not reduce the attack penalty. However, if a called shot would be uncertain, ambiguous, or dependent on internal structure (such as targeting arteries, tendons, or organs), the DM may allow a proficiency check.
+
+This proficiency grants a +2 bonus to Healing proficiency checks and may provide situational benefits when diagnosing physical injuries at the DM’s discretion, particularly where precise anatomical knowledge is relevant.
 
 ## Ancient History
-The character is well-versed in the legends, lore, and recorded past of civilizations. They possess a broad understanding of major historical events, cultures, and figures.
+The character is well-versed in the legends, lore, and recorded past of civilizations. They possess a broad understanding of major historical events, cultures, and figures. The character automatically knows commonly recorded or widely preserved historical information without requiring a proficiency check.
 
-The character is assumed to know commonly recorded or widely preserved historical information without the need for a proficiency check.
+A proficiency check is required only when dealing with obscure, fragmented, ancient, or highly specialised historical knowledge, or when attempting to interpret ambiguous or conflicting historical sources.
 
-When encountering obscure, ancient, fragmented, or highly specialized historical details, the character may make a proficiency check to recall or interpret relevant information.
-
-The character may also choose a particular era, culture, or subject of study (such as dwarven kingdoms, ancient empires, or the Age of Sorcerer-Kings). When dealing with this area of specialization, the DM may grant a bonus to the check or provide more detailed information on a success.
+The character may select a particular era, culture, or subject of study (such as dwarven kingdoms, ancient empires, or the Age of Sorcerer-Kings). When working within this area of specialisation, the DM may grant a bonus to checks or provide additional detail on success.
 
 ## Animal Handling
-The character is skilled in the control and direction of domesticated beasts of burden used for labour or transport, including animals used for pulling, carrying, or hauling loads such as carts, wagons, sleds, or ploughs.
+The character is skilled in the control and direction of domesticated beasts of burden used for labour or transport, including animals used for pulling, carrying, or hauling loads such as carts, wagons, sleds, or ploughs. In normal conditions, the character can reliably direct and manage such animals without requiring a proficiency check. This includes controlling movement, maintaining pace, and managing ordinary agitation or stress caused by work or environment.
 
-A successful proficiency check indicates effective control of the animal or team under normal conditions, including maintaining direction, calming agitation caused by work stress, or managing minor disturbances. A character without this proficiency has only a 20% chance of achieving similar control.
+A proficiency check is required only when conditions are difficult or uncertain, such as dealing with frightened or panicked animals, hazardous terrain, combat or pursuit situations, or unusually large or poorly disciplined teams.
 
-This proficiency does not apply to wild animals, predators, or creatures not trained for draft or burden work.
+This proficiency does not apply to wild animals, predators, or creatures not trained for burden or draft work.
 
-**For Rangers Only**
-A ranger’s animal empathy ability may be used in place of this proficiency when interacting with beasts of burden. If the ranger also possesses Animal Handling, they may use either method, but not both for the same attempt.
-
-If the animal is a ranger’s species enemy, Animal Handling has no effect. If the animal is already a ranger follower, neither Animal Empathy nor Animal Handling is required to maintain control.
+**For Rangers Only**  
+A ranger may use Animal Empathy in place of this proficiency when interacting with beasts of burden. If the ranger also possesses Animal Handling, they may use either method, but not both for the same attempt. If the animal is a ranger’s species enemy, Animal Handling has no effect. If the animal is already a ranger follower, no check is required to maintain control.
 
 ## Animal Lore
-The character is skilled in observing and interpreting the behaviour, signs, and habitats of animals. Through careful study of movement patterns, tracks, feeding signs, and environmental disturbances, the character can draw conclusions about an animal’s condition and the surrounding ecosystem.
+The character is skilled in observing and interpreting the behaviour, signs, and habitats of animals. Through study of movement patterns, tracks, feeding signs, and environmental disturbances, the character can draw conclusions about an animal’s condition and the surrounding ecosystem.
 
-A successful proficiency check allows the character to correctly interpret *unusual or ambiguous* animal behaviour, including likely threat level, basic motivations such as hunger, territoriality, or protection of young, and broader environmental indicators such as the possible presence of water sources, migration patterns, or nearby predators or natural hazards when such information is not immediately obvious. On a failed check, no reliable conclusion can be drawn and the character’s interpretation is incorrect or misleading at the DM’s discretion.
+The character can automatically interpret obvious animal behaviour under normal conditions, including basic aggression, fear, feeding activity, territorial behaviour, and other clear behavioural cues.
 
-The character is also capable of imitating the calls and vocalisations of animals they are reasonably familiar with, subject to physical limitations (volume, vocal range, and anatomical plausibility). A successful proficiency check produces a convincing imitation that may influence animal behaviour or avoid detection. A failed check produces an imperfect imitation that may be recognised by creatures familiar with the sound.
+A proficiency check is required only when behaviour is unusual, ambiguous, or difficult to interpret.
 
-This proficiency does not by itself allow control of animals, nor does it directly improve hunting or trapping outcomes; however, it may provide situational insight where other proficiencies are used.
+The character is also capable of imitating animal calls they are familiar with, within normal physical limits. This imitation is sufficient for basic signalling or producing convincing natural background sounds under routine conditions.
+
+A proficiency check is required when imitation is used under uncertain or deceptive conditions, such as attempting to mislead creatures highly familiar with the sound, reproducing unfamiliar or rarely encountered calls, or using calls in implausible contexts. On success, the imitation is convincing; on failure, it is flawed and may be recognized by creatures familiar with the call.
+
+This proficiency does not allow control of animals and does not directly improve hunting or trapping, though it may provide situational insight when used alongside other proficiencies.
 
 ## Animal Noise
-The character is skilled in reproducing the vocalisations of animals and can use these sounds for signalling, misdirection, or deception.
+The character is skilled in reproducing the vocalizations of animals and can use these sounds for signalling, misdirection, or deception.
 
-The character can convincingly imitate the calls of animals they are familiar with under normal conditions without requiring a proficiency check. Such imitations are sufficient to communicate simple signals, avoid casual suspicion, or pass as natural sounds to most listeners.
+The character can convincingly imitate the calls of animals they are familiar with under normal conditions without requiring a proficiency check. Such imitations are sufficient for simple signalling, passing as natural background sound, or avoiding casual suspicion from most observers.
 
-A proficiency check is required only when the imitation is made under difficult or unusual circumstances, such as attempting to deceive creatures highly familiar with the animal, imitating an unfamiliar or rarely heard creature, producing sounds outside normal vocal limits, or using the call in an implausible context.
+A proficiency check is required only when conditions are uncertain or demanding, such as attempting to deceive creatures highly familiar with the sound, imitating unfamiliar or rarely encountered animals, producing calls in implausible contexts, or attempting to replicate sounds outside normal vocal limits.
 
-On a successful check, the imitation is convincing even under scrutiny. On a failed check, the imitation is flawed; creatures familiar with the sound recognise it as false, while others may detect the deception at the DM’s discretion.
+This proficiency may be used for simple coded communication through prearranged animal calls, but cannot convey complex or abstract information.
 
-This proficiency may also be used as a form of coded communication, allowing characters to convey simple messages through prearranged animal calls. They cannot convey detailed or complex information.
-
-This proficiency represents practiced vocal mimicry and does not grant knowledge of animal behaviour; it is often complemented by Animal Lore.
+Animal Noise represents practiced vocal mimicry and does not grant knowledge of animal behaviour. It may be combined with Animal Lore where understanding of behaviour, timing, or interpretation is required.
 
 ## Animal Training
-The character is skilled in conditioning animals to perform tasks and behaviours. When this proficiency is selected, the character must choose a specific type of creature (such as dogs, horses, or falcons). Additional selections of this proficiency may be used to train other creature types or to deepen expertise with an existing type.
+The character is skilled in conditioning animals to perform tasks and behaviours. When this proficiency is selected, the character must choose a specific type of creature (such as dogs, horses, or falcons). Additional selections of this proficiency may be used to train other creature types or to deepen expertise with an existing type. The character can train up to three creatures at a time. Training may focus on either general tasks or specific tricks.
 
-The character can train up to three creatures at a time. Training may focus on either general tasks or specific tricks.
+General tasks represent broad behaviours such as guarding, carrying a rider, hunting, tracking, or labour. Training a general task requires approximately three months of consistent work. Specific tricks are discrete actions performed on command, such as retrieving an object, attacking a designated target, or performing a particular movement. Training a specific trick requires 2d6 weeks.
 
-General tasks represent broad behaviours, such as guarding, carrying a rider, hunting, tracking, or labour. Training a general task requires approximately three months of consistent work.
-
-Specific tricks are discrete actions performed on command, such as retrieving an object, attacking a designated target, or performing a particular movement. Training a specific trick requires 2d6 weeks.
-
-At the end of the training period, a proficiency check may be required if the task is complex, the creature is difficult to train, or conditions are unfavourable. Under normal circumstances, training succeeds without a check.
-
-On a successful check, the creature learns the task or trick effectively. On a failed check, the training is incomplete; additional time must be spent before the behaviour is reliably learned. Particularly difficult or unsuitable animals may require multiple training periods or may never fully master certain behaviours at the DM’s discretion.
+At the end of a training period, a proficiency check may be required if the task is complex, the creature is difficult to train, or conditions are unfavourable. Under normal circumstances, training succeeds without a check.
 
 Animals can typically learn a limited number of tasks and tricks, generally 2d4 in total, depending on the creature’s intelligence and temperament.
 
-The character may also attempt to tame wild animals of the chosen type, provided they are young or otherwise suitable. Taming requires approximately one month of consistent effort. A proficiency check may be required for difficult or dangerous creatures. Failure indicates that the animal resists domestication and cannot be trained without further time or exceptional circumstances.
+The character may also attempt to tame wild animals of the chosen type, provided they are young or otherwise suitable. Taming requires approximately one month of consistent effort. A proficiency check may be required for difficult or dangerous creatures.
 
-**For Rangers Only**
-Rangers train animals more efficiently. Training a general task requires two months, and a specific trick requires 2d4 weeks.
-
-If a proficiency check is required and fails, the ranger may continue training and attempt the check again after an additional training period.
-
-Animal Training is not required for handling a ranger’s followers. A ranger cannot train creatures that are their species enemy.
+**For Rangers Only**  
+Rangers train animals more efficiently. Training a general task requires two months, and a specific trick requires 2d4 weeks. If a proficiency check is required and fails, the ranger may continue training and attempt the check again after an additional training period. Animal Training is not required for handling a ranger’s followers, but rangers cannot train creatures that are their species enemy.
 
 ## Appraising
-A character with this proficiency is skilled in assessing the value and authenticity of crafted goods such as antiques, art objects, jewelry, and gemstones. Given time to examine an item directly, the character can determine its general nature, quality, and approximate value without a proficiency check.
+A character with this proficiency is skilled in assessing the value and authenticity of crafted goods such as antiques, art objects, jewellery, and gemstones. Given time to examine an item directly, the character can determine its general nature, quality, and approximate value without requiring a proficiency check.
 
-For common or well-understood items, the character can estimate value within a reasonable range (typically within 10–20%) and identify obvious fakes or inferior workmanship automatically.
+For common or well-understood items, the character can estimate value within a reasonable range (typically 10–20%) and identify obvious fakes or inferior workmanship automatically.
 
-A proficiency check is required only when the item is unusual, highly valuable, expertly forged, damaged, or from an unfamiliar culture or craft tradition. The DM should roll this check in secret.
-
-- **Success:** The character accurately determines the item’s value (to the nearest appropriate range, such as 100 or 1,000 gp) and correctly identifies authenticity, including subtle forgeries.
-- **Failure by 4 or less:** The character forms an uncertain or incomplete assessment; the DM may provide a broad or qualified estimate.
-- **Failure by 5 or more:** The character misjudges a significant aspect of the item (value, authenticity, or quality).
-- **Natural 20:** The character grossly misreads the item’s value or authenticity, always to their detriment.
+A proficiency check is required when the item is unusual, highly valuable, expertly forged, damaged, or from an unfamiliar culture or craft tradition.
 
 The character must be able to handle and closely examine the item; casual observation is insufficient for detailed appraisal.
 
 ## Arcanaology
-This proficiency represents formal study of the history, traditions, and development of magic. The character is familiar with the great mages, magical societies, and major arcane achievements of the past, particularly those within their chosen field of study (as defined by the campaign setting).
+A character with this proficiency is trained in the history, traditions, and development of magic. The character is familiar with notable arcanists, magical societies, and major arcane developments within their field of study, as defined by the campaign setting. This proficiency concerns the historical and cultural study of magic rather than its practical identification, application, or theory.
 
-An arcanologist automatically recognizes well-known historical magical traditions, famous spellcasters, and widely documented magical phenomena. They can identify the general origin or school of ancient magic, recall commonly known properties of legendary items or spells, and place magical discoveries within a historical context without a proficiency check.
+In routine circumstances, the character can automatically recognize well-known magical traditions, famous spellcasters, and widely documented magical phenomena. They can identify the general origin or school of ancient magic, recall commonly known properties of legendary spells or items, and place magical discoveries within a historical context without requiring a proficiency check.
 
-A proficiency check is required only when dealing with obscure, fragmentary, or highly specialized knowledge, or when attempting to interpret an unfamiliar or poorly understood magical effect or item. The DM should apply a penalty of –1 to –4 if the subject lies outside the character’s normal studies or is especially rare.
+A proficiency check is required when dealing with obscure, fragmentary, or specialized knowledge, or when attempting to interpret unfamiliar or poorly understood magical effects or artifacts. The DM may apply modifiers ranging from –1 to –4 depending on how distant the subject is from the character’s area of study or how poorly documented it is.
 
-- **Success:** The character correctly identifies the general purpose, function, or origin of an ancient magical item, effect, or tradition.
-- **Failure by 4 or less:** The character recalls partial or uncertain information; the DM may provide incomplete or ambiguous details.
-- **Failure by 5 or more:** The character draws an incorrect conclusion or misattributes the magic’s origin or function.
+This proficiency applies primarily to historical or ancient magic and does not normally provide insight into modern, recently developed, or undocumented magical practices unless they are already widely known or recorded.
 
-This proficiency applies primarily to ancient or historical magic. It does not grant insight into modern magical items, recently developed spells, or contemporary arcane practices unless they are already widely documented.
+## Armourer
+A character with this proficiency is trained in the construction, repair, and fitting of armour. Given proper materials, tools, and facilities, the character can craft any standard armour described in the Player’s Handbook without requiring a proficiency check.
 
-## Armorer
-A character with this proficiency is trained in the construction, repair, and fitting of armor. Given proper materials, tools, and facilities, the character can craft any standard armor described in the _Player’s Handbook_ without the need for a proficiency check.
+The time required to construct armour is two weeks per point of AC below 10 (for example, a shield requires two weeks and full plate requires 18 weeks). Field plate and full plate require precise fitting and periodic adjustment during construction; the intended wearer must be present at intervals unless exact measurements are available.
 
-The time required to construct armor is two weeks per point of AC below 10 (e.g., a shield requires two weeks; full plate requires 18 weeks).
+A proficiency check is required only when attempting exceptional workmanship, working under poor conditions, rushing construction, using substandard materials, or producing unusually complex or rare forms of armour.
 
-A proficiency check is required only when attempting to produce exceptional work, operate under poor conditions, rush the process, or construct particularly complex armor (such as field plate or full plate under difficult circumstances). The DM may also call for a check if the materials are substandard or the design is unusual.
-
-- **Success:** The armor is well-made and functions as intended. At the DM’s discretion, exceptional success may improve durability or confer minor benefits.
-- **Failure by 4 or less:** The armor is usable but flawed. It provides 1 point worse AC than normal, though it appears sound. Only a character with Armorer proficiency can detect the flaw with careful inspection.
-- **Failure by 5 or more:** The armor is seriously flawed and unreliable. In addition to functioning at 1 worse AC, if struck in melee by a natural roll of 19 or 20, it breaks. The wearer’s AC immediately worsens by an additional 4 points (to a maximum of 10), and the broken armor restricts movement. Until removed (1d4 rounds), the wearer moves at half speed and suffers a –4 penalty to attack rolls.
-
-Field plate and full plate armor require precise fitting. The intended wearer must be present at least once per week during construction unless the armorer is working from exact measurements or prior fittings, in which case the DM may still require a proficiency check.
-
-The armorer can also repair damaged armor and identify flaws without a check under normal conditions.
+The armorer can repair damaged armour and identify construction flaws without requiring a proficiency check under normal circumstances.
 
 ## Artistic Ability
-A character with this proficiency possesses natural talent and trained skill in the arts, with an intuitive grasp of color, form, space, flow, tone, pitch, and rhythm. The character must select one artistic field (such as painting, sculpture, composition, or dance).
+A character with this proficiency possesses natural talent and trained skill in the arts, with an intuitive grasp of colour, form, space, rhythm, tone, and composition. The character must select one artistic field (such as painting, sculpture, composition, or dance). In routine circumstances, the character can produce competent and aesthetically pleasing work within their chosen field without requiring a proficiency check. Such works are of respectable quality and suitable for sale, performance, or display.
 
-The character can create competent and aesthetically pleasing works within their chosen field without the need for a proficiency check. Such works are of respectable quality and suitable for sale, performance, or display.
+A proficiency check is required when attempting to produce a work of exceptional quality, achieve notable emotional impact, impress a discerning audience, or create work intended for lasting artistic recognition.
 
-A proficiency check may be made when the character attempts to produce a work of exceptional quality, evoke a strong emotional response, impress a discerning audience, or achieve lasting artistic merit.
+This proficiency may also be applied when evaluating works of art or attempting to judge artistic quality, at the DM’s discretion.
 
-- **Success:** The work is of high quality, notable for its craftsmanship or expression, and may attract attention, praise, or increased value.
-- **Natural 1:** The work is exceptional, possessing rare or lasting artistic significance.
-- **Failure by 4 or less:** The work is competent but unremarkable.
-- **Failure by 5 or more:** The work is flawed, uninspired, or aesthetically weak.
-
-Artistic Ability grants a +1 bonus to proficiency checks involving artistic performance or evaluation, including music- or dance-related proficiencies, and to attempts to appraise works of art.
+It grants a +1 bonus to proficiency checks involving artistic creation or evaluation within the character’s chosen field, including related performance proficiencies where appropriate.
 
 ## Astrology
-This proficiency represents knowledge of celestial movements and their supposed influence on mortal affairs. Given a subject’s birth date and time, an astrologer can interpret celestial patterns to produce a forecast of likely events within the next 30 days.
+A character with this proficiency is trained in interpreting celestial movements and their supposed influence on mortal affairs. Given a subject’s birth date and time, the character can produce an astrological reading forecasting likely themes or events over the next 30 days. In routine circumstances, the character can always produce a general reading without a proficiency check. This provides vague but potentially meaningful insight into upcoming circumstances such as opportunity, conflict, loss, or change, as determined by the DM.
 
-An astrologer can always produce a general reading without a proficiency check. This reading will provide vague but potentially meaningful insight into upcoming circumstances, such as conflict, opportunity, loss, or change, as determined by the DM.
+A proficiency check is required when attempting to refine the reading, reduce ambiguity, or extract more specific guidance.
 
-A proficiency check is required when the astrologer attempts to refine the prediction, increase its specificity, or reduce ambiguity.
+Astrology does not determine fixed outcomes, but instead reflects perceived patterns and tendencies which the DM may use as narrative guidance.
 
-- **Success:** The prediction is clearer and more specific, though still not absolute. The DM provides a more detailed interpretation of likely events or themes.
-- **Failure by 4 or less:** The reading remains vague or partially obscured; the DM provides only broad thematic guidance.
-- **Failure by 5 or more:** The interpretation is misleading or misread; the DM may provide an incorrect or inversely framed omen.
-- **Natural 20:** The omen is dramatically misinterpreted in a way that actively misleads the astrologer.
-
-Astrology does not determine fixed outcomes—only potential patterns and tendencies. The DM may use it as inspiration for future events or as a thematic guide for upcoming sessions.
-
-In addition, when celestial bodies are visible, the character gains a +1 bonus to Navigation checks.
+When celestial bodies are visible, the character gains a +1 bonus to Navigation checks.
 
 ## Begging
-A character with this proficiency can convincingly pose as a beggar. This deception is sufficient to avoid casual detection and to operate in public spaces without attracting undue attention, unless circumstances strongly contradict the disguise.
+A character with this proficiency can convincingly pose as a beggar, allowing them to avoid casual detection and move through public spaces without attracting undue attention unless circumstances strongly contradict the disguise. In populated areas where begging is not actively suppressed, the character can reliably obtain enough money, food, or minor goods to meet basic daily needs without requiring a proficiency check. This assumes several hours of effort spent in suitable locations and the presence of ordinary foot traffic; in impoverished, hostile, or disrupted settlements, this may not be possible at the DM’s discretion.
 
-In any sufficiently populated area, the character can obtain enough money, food, or minor goods through begging to meet basic daily needs without requiring a proficiency check. This assumes ordinary foot traffic, no active suppression of begging, and a sustained period of effort spent in suitable locations (typically several hours of the day spent actively soliciting aid rather than brief or incidental interaction). Conditions may limit the opportunity to beg (for example, it is unlikely to obtain subsistence in a besieged city or one recently ravaged by plague).
+A proficiency check is required when attempting to obtain more than subsistence resources, influence specific individuals, or manipulate social reactions beyond ordinary charitable responses. This proficiency is often used to gain access to restricted areas or observe individuals without drawing scrutiny, particularly in urban environments.
 
-A proficiency check is required only when the character attempts to achieve results beyond basic subsistence, such as extracting unusually generous aid, targeting specific individuals, or manipulating social behaviour through the guise of begging.
-
-When a check is required, the following results apply:
-
-- **Success:** The character successfully influences the target or situation to a minor degree (delays, distractions, small favors, or increased generosity).
-- **Failure by 4 or less:** No meaningful change occurs, though the disguise is not compromised.
-- **Failure by 5 or more:** The attempt is noticed as manipulative or suspicious, potentially compromising the disguise depending on circumstances.
-- **Natural 20:** The deception is exposed in a way that actively harms the character’s position or credibility.
-
-This proficiency is often used by Assassins, Bounty Hunters, and Spies to gain proximity to targets or observe activity without drawing attention.
-
-When a proficiency check is required, the DM should also take population density and social conditions into account. Smaller or less populated settlements often make it more difficult to avoid detection or to find particularly wealthy benefactors.
+Population density, social conditions, and local attitudes toward beggars may modify the effectiveness of this proficiency at the DM’s discretion.
 
 ## Blacksmithing
-A character with this proficiency is trained in working iron into functional tools, implements, and fittings through the use of a forge, hammer, and anvil.
+A character with this proficiency is trained in working iron at a forge to produce functional tools, hardware, and simple metal goods such as nails, hinges, horseshoes, tools, and agricultural implements. With appropriate materials, tools, and a functioning forge, such items can be produced or repaired without requiring a proficiency check. This proficiency does not normally extend to the manufacture of weapons or armour, which require more specialized training.
 
-Given proper materials, tools, and facilities—including a coal-fed forge and bellows—the character can produce common iron goods such as nails, hinges, horseshoes, tools, agricultural implements, and similar items without requiring a proficiency check. Routine repairs to such items may also be completed automatically under normal conditions.
+A proficiency check is required when working under adverse conditions, improvising tools or materials, attempting unusually large or precise work, or completing a task under significant time pressure.
 
-This proficiency does not extend to the crafting of armor or most weapons, which require more specialized training.
-
-A proficiency check is required when attempting to produce unusually large or precise items, work under poor conditions, improvise tools or materials, or complete work within a restricted timeframe.
-
-- **Success:** The item is well-made and functions as intended.
-- **Failure:** The item is usable but flawed, and may wear out more quickly or require additional maintenance.
-- **Failure by 5 or more:** The item is poorly constructed and unreliable, potentially breaking under normal use or failing at a critical moment.
-- **Natural 1:** The item is exceptionally well-crafted, showing superior durability or workmanship.
-- **Natural 20:** The item appears sound but contains a hidden defect that may cause it to fail unexpectedly.
-
-The time required to produce an item depends on its size and complexity, ranging from a few hours for simple goods to several days for larger or more intricate work, at the DM’s discretion.
+The time required to produce an item varies with complexity, ranging from a few hours for simple goods to several days for larger or more intricate work, as determined by the DM.
 
 ## Blind-Fighting
-A character with blind-fighting is skilled at fighting in conditions of poor or no light (but this proficiency does not allow spell use). In total darkness, the character suffers only a -2 penalty to his attack roll (as compared to a -4 penalty without this proficiency). Under starlight or moonlight, the character incurs only a -1 penalty. The character suffers no penalties to his AC because of darkness.
+A character with this proficiency is trained to fight effectively in conditions of darkness, obscured vision, or limited sensory information. The character relies on hearing, spatial awareness, and instinctive combat timing rather than sight.
 
-Furthermore, the character retains special abilities that would normally be lost in darkness, although the effectiveness of these are reduced by one-half (proficiency checks are made at half the normal score, etc.). This proficiency is effective only against opponents or threats within melee distance of the character. Blind-fighting does not grant any special protection from missile fire or anything outside the immediate range of the character's melee weapon. Thus, AC penalties remain for missile fire. (By the time the character hears the whoosh of the arrow, for example, it is too late for him to react.)
+In total darkness, the character suffers only a –2 penalty to attack rolls. Under starlight or moonlight, the character suffers only a –1 penalty. The character suffers no Armor Class penalties due to darkness or lack of visibility when defending against melee attacks.
 
-While moving in darkness, the character suffers only half the normal movement penalty of those without this proficiency.
+The character retains access to class or racial abilities that would normally be impaired or negated by darkness; however, such abilities function at reduced effectiveness where applicable, typically at half normal efficiency or duration, as determined by the DM.
 
-Furthermore, this skill aids the character when dealing with invisible creatures, reducing the attack penalty to -2. However, it does not enable the character to discover invisible creatures; he has only a general idea of their location and cannot target them exactly.
+This proficiency applies only to threats within immediate melee range. It provides no protection against missile attacks or effects originating beyond close combat distance, and Armor Class penalties against such attacks remain unchanged.
+
+When moving in darkness, the character suffers only half the normal movement penalty of an untrained character under the same conditions.
+
+Against invisible opponents, the character suffers only a –2 penalty to attack rolls. However, this proficiency does not allow the character to precisely locate or target invisible creatures; only their general position can be inferred through movement, sound, or interaction with the environment.
 
 ## Boating
-This proficiency allows the character to pilot any small boat, such as a kayak or canoe, operating it at maximum speed. It also allows them to make minor repairs and improvements to such craft, such as waterproofing them and patching holes.
+A character with this proficiency is trained in the handling and operation of small watercraft such as kayaks, canoes, skiffs, and similar vessels intended for use on rivers, lakes, and near-shore waters. The character can reliably control such craft under normal conditions, including maintaining direction, speed, and basic maneuvering without requiring a proficiency check. They are also capable of performing minor maintenance and field repairs, such as patching leaks, waterproofing seams, and making small structural adjustments sufficient to keep a vessel functional.
 
-The character can handle small boats effectively under normal conditions without requiring a proficiency check. A proficiency check is required only in hazardous or exceptional conditions, such as maneuvering through choppy water without capsizing, or avoiding collisions in narrow or obstructed channels.
+A proficiency check is required when operating in hazardous or exceptional conditions, including rough or fast-moving water, strong currents, confined waterways, poor visibility, or situations where collision, capsizing, or loss of control is a meaningful risk.
 
-Note that the navigation and seamanship proficiencies deal with ships on oceans, seas, and other large bodies of water, while the boating proficiency is confined to small craft on rivers, lakes, near-shore ocean waters, and similar environments, typically under relatively calm conditions.
+This proficiency applies only to small craft operating in relatively limited waters. Navigation of large vessels or extended sea travel is governed by the Navigation and Seamanship proficiencies, which cover larger ships, complex crews, and open-water conditions.
 
 ## Boatwright
-The boatwright proficiency allows a character to construct all kinds of watercraft up to a maximum length of 60 feet. Larger vessels cannot be built.
+The boatwright proficiency allows a character to construct watercraft up to a maximum length of 60 feet. Larger vessels cannot be built using this proficiency. The character is skilled in hull construction, structural reinforcement, and the assembly of basic sailing or rowing vessels suitable for rivers, lakes, and coastal waters. A boatwright can construct a functional vessel including hull, basic decking, masts (if applicable), and seating or rowing arrangements appropriate to its design. Additional features such as cabins, sealed holds, or specialized fittings require additional time and materials at the DM’s discretion.
 
-The time required to build a boat depends on size. As a general guide, a boat requires one week of construction time per foot of length.
+Construction time is determined by vessel size, complexity, materials, and working conditions. As a general guideline, larger or more complex vessels require longer periods of sustained work, typically measured in weeks. The DM determines final construction time based on circumstances and available labor.
 
-Multiple boatwrights may work on the same vessel to reduce construction time. Two characters with the boatwright proficiency reduce the construction time by half; three reduce it to one-third. No more than one boatwright per 5 feet of vessel length may work on a single project.
+Multiple boatwrights may cooperate on a single vessel, significantly improving construction efficiency. When two boatwrights work together, construction time is substantially reduced. Additional skilled boatwrights further improve efficiency, subject to reasonable limits based on vessel size and working conditions as determined by the DM.
 
-The basic boat includes hull, masts (if applicable), deck, and benches as required. Features such as a cabin or a sealed hold add about one week of additional construction time each.
+Characters without the boatwright proficiency may assist in construction but do not contribute full craft efficiency. Their assistance is only meaningful when directed by a proficient boatwright and is subject to diminishing returns based on available supervision and task suitability.
 
-Characters without the boatwright proficiency can assist in construction, but two such assistants provide the same benefit as one additional proficient boatwright.
+A proficiency check is not required for standard construction under normal conditions, and a completed vessel is assumed to be seaworthy and structurally sound for its intended use. A proficiency check is required when working under adverse conditions, using inferior or unusual materials, attempting unusually fine craftsmanship, or when constructing a vessel intended to perform beyond normal expectations.
 
 ## Bookbinding
-Bookbinding enables a character to assemble and maintain books, including the sewing or gluing of pages to a backing, the application of protective varnishes and treatments, and the construction of durable covers. Additional preservatives may be used to protect against mildew, moths, and bookworms.
+Bookbinding enables a character to assemble and maintain books, including the sewing or gluing of pages to a backing, the application of protective varnishes and treatments, and the construction of durable covers. Additional preservatives may be used to protect against mildew, moths, and bookworms. This proficiency is especially useful for the creation and maintenance of spell books. A character who performs their own bookbinding reduces the normal cost of 50 gp per page for a standard spell book, or 100 gp per page for a traveling spell book, by 50%. The process requires at least two weeks, plus one additional day per five pages.
 
-This proficiency is especially useful for the creation of spell books. A character who performs their own bookbinding reduces the normal cost of 50 gp per page for a standard spell book, or 100 gp per page for a traveling spell book, by 50%. The process requires at least two weeks, plus one additional day per five pages.
+A proficiency check is not normally required for standard work performed with appropriate materials. A finished book is assumed to be functional, legible, and adequately durable under ordinary use, provided the pages supplied (such as those produced via Papermaking or similar sources) are themselves of suitable quality.
 
-A proficiency check is not normally required for standard work. However, a check is required when working with unusual or unsuitable materials (such as metal pages or dragon-scale covers), or when attempting to produce especially high-quality results. On a successful check, the finished book gains a +2 bonus to item saving throws due to superior craftsmanship.
+A proficiency check is required when working with unusual or difficult materials, when attempting to bind exceptionally large or complex volumes, or when aiming for especially fine craftsmanship beyond standard durability. It is also required when materials supplied are of uncertain or inconsistent quality.
 
 ## Bowyer/Fletcher
-Bowyer/Fletcher enables a character to construct bows and arrows of the types listed in [[Table 44 - Clothing List]] [[Table 44 - Clothing List|Table 44]].
+Bowyer/Fletcher enables a character to construct bows and arrows of the types listed in the Master Weapons Table. A weaponsmith is required to fashion arrowheads, but the bowyer/fletcher can perform all other necessary functions. The construction time for a long or short bow is one week. Composite bows require two weeks. A batch of 1d6 arrows can be produced in one day. These times assume full days of work; if the character is travelling or adventuring while working in spare time, all times are multiplied by four. Normal construction does not require a proficiency check. A completed weapon is assumed to be functional and durable under ordinary use.
 
-A weaponsmith is required to fashion arrowheads, but the bowyer/fletcher can perform all other necessary functions.
+A proficiency check is required when attempting fine or exceptional workmanship, when producing a weapon intended for particularly demanding use, or when working with unusual or superior materials. It is also required when attempting to derive additional performance from careful craftsmanship rather than standard construction.
 
-The construction time for a long or short bow is one week. Composite bows require two weeks. A batch of 1d6 arrows can be produced in one day. These times assume full days of work; if the character is travelling or adventuring while working in spare time, all times are multiplied by four.
+Materials for standard bows and arrows are assumed to be negligible. Exceptional work requires either access to superior materials worth approximately 50% of the weapon’s normal retail value, or additional time spent sourcing and selecting appropriate materials at the DM’s discretion.
 
-Normal construction does not require a proficiency check. A completed weapon is assumed to be functional and durable under ordinary use.
-
-A proficiency check is required only when attempting unusually fine workmanship or when working with exceptional materials. On a successful check, the weapon is of superior quality and will last for many years of normal use without breaking. In addition, the weapon may (at the DM’s discretion) qualify for exceptional properties such as increased range or the ability to carry Strength bonuses where applicable. On a failure, the weapon is usable but not of superior quality.
-
-The character may instead choose to attempt truly exceptional construction. In this case, failure results in a wasted attempt, while success produces a weapon of outstanding quality. Such a weapon may, at the DM’s discretion, provide improved performance such as extended range or suitability for later enchantment.
-
-A set of bowyer/fletcher’s tools costs 10 gp for one user, 15 gp for up to three users, and increases by 7.5 gp per additional three users. The bowyer/fletcher is not required to maintain a workshop and may work in the field if desired. If a permanent shop is established, costs are equivalent to those of a leatherworker’s shop (see [[Armorer]]).
-
-Materials for standard bows and arrows are assumed to be negligible. Exceptional construction requires either 50% of the weapon’s normal retail value in superior materials or double the normal construction time spent sourcing ideal materials.
+The character is not required to maintain a workshop and may construct basic weapons in the field if appropriate tools are available. If a permanent workshop is established, costs are equivalent to those of a leatherworker’s shop (see Armourer).
 
 ## Brewing
-The character is trained in the art of brewing beers and other strong drink. The character can prepare brewing formulas, select quality ingredients, set up and manage a brewery, control fermentation, and age the finished product.
+A character with this proficiency is trained in the art of brewing beers and other strong drink, including fermented alcoholic beverages such as beer, ale, cider, mead, and wine. The character is also knowledgeable in the controlled refinement of fermented products into stronger distilled spirits where appropriate equipment is available. The character can prepare brewing formulas, select quality ingredients, set up and manage a brewery, control fermentation, and oversee the aging and refinement of finished products. In routine circumstances, the character can reliably produce standard-quality drinkable beverages appropriate to the chosen style and ingredients without requiring a proficiency check. This includes common recipes, familiar fermentation processes, and standard methods of production under normal environmental and material conditions.
+
+A proficiency check is required when attempting to produce an exceptional product, when working under adverse or constrained conditions, when replicating a specific or rare style with accuracy, when using unusual or inferior ingredients, or when attempting the controlled distillation of fermented liquids into stronger spirits.
+
+At the DM’s discretion, particularly successful brewing may produce beverages of local renown, improving sale value or social reception when served in appropriate contexts.
 
 ## Bureaucracy
-Bureaucracy encompasses a working knowledge of governmental protocol and the skills necessary to navigate bureaucratic organizations. A character with this proficiency knows which official to approach and the best time to approach them (a tax collector’s aide may have better access to information than the tax collector himself; a city clerk may be more helpful at the beginning of the month than at the end). They know where government records are kept and the procedures for examining them, and how to navigate or bypass sluggish or uncooperative administrative processes. They also obtain permits and other government documentation in half the normal time.
+Bureaucracy encompasses a working knowledge of governmental protocol and the skills necessary to navigate bureaucratic organizations. A character with this proficiency understands institutional hierarchies, procedural pathways, and the most effective points of contact within administrative systems. They can identify which officials are most likely to provide assistance, how and when records are most accessible, and the typical flow of documentation within structured organizations. In routine circumstances, the character can navigate bureaucratic systems, submit requests, locate public records, and obtain standard permits or documentation without requiring a proficiency check, provided normal procedures are followed.
 
-A proficiency check is not required for routine use of these abilities.
+A proficiency check is required when attempting to significantly expedite, delay, or manipulate administrative processes, or when dealing with unusually opaque, hostile, or unfamiliar institutions.
 
-A proficiency check is required when attempting to actively manipulate, delay, or subvert bureaucratic systems. On a successful check, the character may create minor administrative disruption, such as delaying a decision, misdirecting paperwork, or causing a permit or document to be temporarily misplaced or incorrectly filed. A paladin must be careful with such actions to avoid violating their ethos.
+This proficiency applies primarily to governmental and structured institutional organizations, including regulatory bodies, councils, and formal hierarchies such as organized religious institutions. It is most effective in organizations of significant size and structure, typically those with established procedural systems and ten or more members.
 
-The Bureaucracy proficiency applies to governmental and institutional organizations within a particular region, usually the character’s homeland. Additional proficiency slots may be spent to expand this knowledge to other regions. Official organizations include government councils, regulatory boards, and structured hierarchies such as churches. The proficiency is only effective when dealing with organizations of 10 or more members.
+Additional proficiency slots may be spent to extend familiarity to additional regions or jurisdictions beyond the character’s native administrative system.
 
 ## Camouflage
-Camouflage allows the character to conceal themselves, companions, and inanimate objects by using natural or man-made materials. Successful use assumes the availability of appropriate materials. In forests and jungles, this may include vegetation, mud, and other natural resources. Arctic or similarly barren environments usually require specialized clothing, paints, or other artificial materials, although “digging in” may be possible depending on local conditions.
+Camouflage allows the character to conceal themselves, companions, or inanimate objects by using natural or man-made materials to visually blend with the surrounding environment. Successful use assumes the availability of appropriate materials and sufficient time to prepare the concealment. In suitable environments, the character can reliably prepare visually convincing concealment for themselves or others without requiring a proficiency check, provided there is no active search or sustained close inspection. It typically requires approximately half an hour to camouflage a person, several hours to conceal a cart or similar-sized object, and up to half a day to conceal a small structure, depending on complexity and conditions at the DM’s discretion.
 
-It takes approximately half an hour to camouflage a person, two to three hours to conceal a cart or similar-sized object, and up to half a day to conceal a small building.
+A proficiency check is required when conditions are unfavorable or when the concealment must withstand close, directed, or prolonged visual scrutiny, such as alert searchers, tracking creatures relying on sight, poor environmental cover, or time pressure.
 
-A character with this proficiency can successfully remain concealed from casual observation by humans, demihumans, animals, and most creatures, provided conditions are favorable and no active search is being conducted.
+Groups of creatures or multiple objects may be camouflaged together, though complexity may increase preparation time or impose penalties at the DM’s discretion. Objects may be camouflaged using similar principles, with size, shape, and environmental contrast affecting difficulty and preparation time.
 
-A proficiency check is required only when conditions are unfavorable or when active detection is likely (such as alert guards, tracking creatures, or poor environmental cover). On a successful check, concealment is effective even against directed but non-magical observation. Camouflaged companions may be concealed as a group using a single check.
+Camouflage has no effect on detection through sound, movement, scent, vibration, or other non-visual senses, and does not function if the concealed subject moves or otherwise disrupts the prepared concealment.
 
-Objects may also be camouflaged. Objects the size of a person require no modifier; cart-sized objects apply a –1 penalty; building-sized objects apply a –3 penalty. The DM may adjust these modifiers based on conditions.
-
-Camouflage provides no protection against creatures that rely primarily on scent or other non-visual senses, nor does it prevent discovery through physical contact, noise, or disturbance. Any significant movement or sound may reveal the concealed character.
-
-Camouflage is only necessary when concealment is required; it does not replace natural cover or hiding in already obscured locations.
+Camouflage improves visual plausibility within appropriate environments but does not guarantee avoidance of detection, and final outcomes always depend on observer attention, conditions, and context as determined by the DM.
 
 ## Carpentry
-The carpentry proficiency enables the character to do woodworking jobs: building houses, cabinetry, joinery, etc. Tools and materials must be available. The character can build basic items from experience, without the need for plans. Unusual and more complicated items (a catapult, for example) require plans prepared by an engineer. Truly unusual or highly complex items (wooden clockwork mechanisms, for example) require a proficiency check.
+The carpentry proficiency enables the character to work with wood in the construction, repair, and assembly of structures and functional wooden objects, including buildings, furniture, joinery, and structural components. The character can reliably perform standard carpentry work without requiring a proficiency check, provided appropriate tools, materials, and time are available. This includes the construction of simple structures (such as huts, furniture, doors, and scaffolding) and the repair or modification of existing wooden constructions.
+
+The character is also capable of constructing larger or more complex wooden works, including siege engines and similar large-scale devices, provided that suitable plans or designs are available. Such plans are typically prepared by a character with Engineering proficiency or an equivalent source. 
+
+A proficiency check is required when working under difficult conditions, when precision or structural integrity is critically important, when materials are limited or substandard, or when attempting unusually complex or finely crafted work.
+
+Large-scale construction projects typically require multiple workers and extended timeframes. A character with Carpentry may supervise such work or contribute meaningfully to its completion, but final outcomes are subject to DM adjudication based on resources, labor, and conditions.
 
 ## Cartography
-Cartography enables a character to create maps through the development of spatial awareness, distance estimation, and the interpretation of geographic information.
+Cartography enables a character to create maps through the development of spatial awareness, distance estimation, and the interpretation of geographic information. The character can produce functional maps of known or surveyed areas without requiring a proficiency check, provided sufficient time, observation, and reference information are available. To create a map, the character must first gather appropriate information through travel, observation, or consultation of existing sources. This may involve direct surveying, field notes, or the compilation of reports and sketches. The time required varies depending on the size and complexity of the area being mapped, from hours for small settlements to weeks or longer for extensive regions.
 
-To create a map, the character must first conduct research appropriate to the scale of the area. Mapping a small town may require hours or days of observation, while mapping a kingdom or larger region may require extended travel, surveying, and the compilation of multiple sources. During this process, the character may produce sketches and field notes.
+A proficiency check is required when attempting to produce a highly detailed or authoritative map under difficult conditions, including incomplete information, hostile territory, or significant time constraints.
 
-These materials are then used to construct the final map. A map produced without sufficient time, observation, or information will be incomplete or inaccurate, at the DM’s discretion.
+A character may also attempt to reconstruct a map from memory, though this imposes a –3 penalty to the proficiency check.
 
-A proficiency check is required only when attempting to produce a highly detailed or authoritative map under difficult conditions, such as incomplete data, hostile territory, or time pressure. On a successful check, the map is exceptionally accurate and may become a reference-quality document for the region. On a failure, the map contains distortions or gaps but remains partially usable.
-
-A cartographer may also attempt to reconstruct a map from memory. This is made with a –3 penalty to the proficiency check. Success produces a usable map of the area, though typically less detailed than one created from direct survey.
-
-In most circumstances, a cartographer can estimate distances with approximately 90% accuracy without requiring a check. A proficiency check may be made to improve this to near-perfect accuracy when conditions allow for careful measurement or clear sightlines.
+In most circumstances, a cartographer can make reasonable estimates of distance and relative scale when working from direct observation, though such estimates are subject to DM adjudication based on conditions and available reference points. Cartography does not itself improve travel navigation, but instead records and communicates spatial information derived from other sources.
 
 ## Caving
-The caving proficiency reflects a character’s experience and intuition in navigating natural and worked underground environments, including caves, caverns, and unworked tunnels. A character with this proficiency is generally adept at reading subterranean terrain and does not require checks for routine judgments such as identifying obvious slopes, recognizing stable passage types, or choosing a safe route through familiar cave systems.
+The caving proficiency reflects a character’s experience and intuition in navigating natural and worked underground environments, including caves, caverns, mines, and unworked or partially worked tunnel systems. A character with this proficiency is generally adept at underground movement and does not require checks for routine navigation, such as following obvious passages, recognizing common tunnel structures, or choosing practical routes through familiar subterranean environments.
 
-A proficiency check is only required when conditions are uncertain, dangerous, or deliberately deceptive (collapsed passages, disguised stonework, magical alteration, stress, darkness combined with poor visibility, or unfamiliar geological formations). In such cases, the DM may apply modifiers depending on complexity and conditions.
+A proficiency check is only required when conditions are uncertain, dangerous, or confusing, including collapsed passages, poorly mapped tunnel systems, darkness combined with limited visibility, structurally unfamiliar environments, or situations where paths are deliberately obscured or deceptive.
 
-When a check is required, success allows the character to correctly interpret the situation or hazard; failure means no useful insight is gained, while a failure by 5 or more results in a misinterpretation that may be dangerous if relied upon.
-
-Dwarves and gnomes receive a +3 bonus to Caving checks due to their familiarity with subterranean environments.
+Dwarves and gnomes receive a +3 bonus to Caving checks due to their cultural and practical familiarity with subterranean environments.
 
 ## Ceremony
-A priest with this proficiency is trained in the rites, observances, and ceremonial procedures of their faith. They can reliably conduct standard services of worship, devotion, and blessing without requiring a proficiency check, provided the ceremony is performed under normal conditions and within an appropriate sacred or ritual context.
+A priest with this proficiency is trained in the rites, observances, and ceremonial procedures of their faith. They can reliably conduct standard services of worship, devotion, and blessing without requiring a proficiency check, provided the ceremony is performed under normal conditions and within an appropriate sacred or ritual context. This proficiency also covers life-event ceremonies such as weddings, namings, funerals, dedications, and similar rites, which the priest can perform appropriately for their culture or faith.
 
-This proficiency also covers life-event ceremonies such as weddings, namings, funerals, dedications, and similar rites, which the priest can perform appropriately for their culture or faith.
+A proficiency check is required only when circumstances significantly interfere with the ceremony or demand adaptation, such as performing rites in hostile territory, under time pressure, with incomplete ritual materials, in culturally unfamiliar contexts, or in the presence of active magical or divine disruption.
 
-A proficiency check is only required when circumstances significantly interfere with the ceremony or demand adaptation, such as performing rites in hostile territory, under time pressure, with incomplete ritual materials, in culturally unfamiliar contexts, or in the presence of active magical or divine disruption. Success indicates the ceremony is still conducted meaningfully and effectively despite the complications; failure indicates the rite is performed but is compromised in tone, completeness, or social or spiritual impact.
+A character with this proficiency may also observe ceremonies performed by others and attempt to interpret their purpose and structure. A proficiency check may allow the character to identify the likely nature and intent of a ritual based on its form, components, and context (for example, distinguishing between a funerary rite, a binding or banishment ritual, a consecration, or an invocation of a named entity or force).
+
+This proficiency does not confirm the actual effectiveness or metaphysical outcome of any ritual, only its apparent purpose and structure.
 
 ## Chanting
-The character is trained in rhythmic vocal coordination used to regulate group effort and maintain pace during sustained physical activity. In normal conditions, the chanter can provide a steady cadence that assists workers or soldiers in maintaining consistent rhythm during repetitive tasks such as marching, rowing, digging, or similar coordinated labor.
+The character is trained in rhythmic vocal coordination used to regulate group effort and maintain pacing during sustained physical activity. In normal conditions, the chanter can reliably establish and maintain a steady cadence that assists groups engaged in repetitive or synchronized tasks such as marching, rowing, digging, or similar coordinated labour. This does not require a proficiency check. Under routine use, chanting may assist in maintaining order, pacing effort, and reducing irregular fatigue within a group, as determined by the DM based on conditions and activity.
 
-A proficiency check is not normally required. Under ordinary circumstances, the chanting provides a mild but consistent benefit at the DM’s discretion, primarily in reducing fatigue, increasing cadence, maintaining order, or improving endurance over time.
-
-A proficiency check is required only when conditions are adverse or when the chant must overcome disruption, such as extreme fatigue, hostile interference, chaotic environments, magical confusion, or attempting to synchronize unusually large or uncoordinated groups. Success indicates the chant maintains its effectiveness despite the difficulty; failure indicates the rhythm breaks down and provides no benefit for that period.
+A proficiency check is required when conditions are adverse or when the chant must overcome disruption, including extreme fatigue, hostile interference, chaotic environments, magical confusion, or attempts to synchronize large, dispersed, or poorly coordinated groups.
 
 ## Charioteering
-A character with this proficiency is trained in the handling and control of chariots over terrain that is normally passable to such vehicles. The character can safely guide a chariot through standard conditions, maintaining control over speed, direction, and stability.
+A character with this proficiency is trained in the handling and control of chariots over terrain that is normally passable to such vehicles. The character can reliably guide a chariot under normal conditions, maintaining control of speed, direction, and stability without requiring a proficiency check. Under normal circumstances, a skilled charioteer may also achieve improved efficiency of movement, allowing the chariot to travel more effectively than one driven by an untrained operator, as determined by the DM based on terrain, animals, and conditions.
 
-When operating under normal conditions, a trained charioteer can achieve improved efficiency and momentum, allowing the chariot to travel at approximately one-third greater effective speed than one driven by an untrained operator, at the DM’s discretion.
+A proficiency check is required when conditions are hazardous or exceptional, including rough terrain, sudden obstacles, pursuit, combat, tight manoeuvring, environmental disruption, or any situation where maintaining control is uncertain.
 
-A proficiency check is only required when conditions are hazardous or exceptional, such as rough terrain, sudden obstacles, pursuit, combat, tight maneuvering, or environmental disruption. Success indicates the charioteer maintains control; failure indicates loss of optimal handling, possible loss of speed advantage, or increased risk of mishap.
-
-This proficiency does not permit a chariot to traverse terrain it cannot normally cross.
+This proficiency does not allow a chariot to traverse terrain it cannot normally cross.
 
 ## Cobbling
-The character can fashion and repair shoes, boots, and sandals. A proficiency check is only required when working with unusual materials, or under significant time pressure.
+The character is skilled in the crafting and repair of footwear, including shoes, boots, sandals, and similar items designed for protection and mobility. The character can reliably construct or repair standard footwear given appropriate materials and tools without requiring a proficiency check.
+
+A proficiency check is required when working with unusual or low-quality materials, attempting rapid or improvised repairs, or when producing footwear intended for exceptional durability, comfort, or performance under difficult conditions.
+
+The character may perform emergency field repairs to damaged footwear. These require 1d4 hours and do not normally require a proficiency check unless conditions are adverse or materials are limited. More extensive reconstruction or rebuilding of heavily damaged footwear requires 1d8 hours and a proficiency check.
 
 ## Concentration
-A character with this proficiency has trained to maintain focus despite distraction, pain, and combat stress.
+A character with this proficiency has trained to maintain focus despite distraction, pain, and combat stress. Minor interruptions do not disrupt concentration. The character can automatically ignore spell disruption caused by incidental or minor damage (typically 2 hit points or less), as determined by the DM.
 
-Minor interruptions do not disrupt the character’s concentration. The character automatically ignores spell disruption caused by attacks dealing **2 or fewer hit points of damage**.
+When casting a spell under pressure, the character may choose to deliberately focus their attention on maintaining concentration (this is declared along with the spell to be cast). While doing so, they are less aware of their surroundings and suffer a loss of their Dexterity bonus to Armor Class until the spell is resolved. If the character is struck by a significant attack (typically 3 or more hit points of damage) while maintaining this focus, they may make a proficiency check to maintain concentration and complete the spell. Restraining effects impose a –4 penalty to this check. Effects that fully incapacitate the character disrupt spellcasting automatically.
 
-To resist more significant interference, the character may **actively fix their attention on the spell** when casting begins, declaring this intent along with the spell.
-
-While doing so, the character’s awareness of their surroundings is reduced. The character loses any Dexterity bonus to Armor Class, and flank attacks against them are treated as rear attacks.
-
-If however the character is struck by an attack dealing **3 or more hit points of damage** while so focused, they may attempt a proficiency check to ignore the disruption and complete the spell. Restraining effects impose a –4 penalty to this check. Effects that incapacitate the character still disrupt spellcasting normally.
-
-These penalties persist until the spell is resolved, whether it is successfully cast or lost.
+These effects apply only for the duration of the spell being cast and resolve once casting is complete or interrupted.
 
 ## Cooking
-Although all characters have rudimentary cooking skills, the character with this proficiency is an accomplished cook. A proficiency check is required only when attempting to prepare a truly magnificent meal worthy of a master chef.
+All characters possess basic cooking ability sufficient for preparing simple meals under normal conditions. A character with this proficiency is an accomplished cook, capable of preparing a wide range of meals with skill, efficiency, and attention to presentation and taste. In routine circumstances, the character can prepare competent meals without requiring a proficiency check, including simple travel fare, camp cooking, preserved food preparation, and meals appropriate to available ingredients and equipment.
+
+A proficiency check is required when attempting to prepare an exceptional meal under pressure or unusual conditions, when working with limited or poor-quality ingredients, or when attempting to produce a meal intended to achieve a specific and notable effect (such as impressing a noble table, enhancing morale, or creating a memorable culinary experience).
+
+A character with this proficiency can also prepare preserved foods, rationing meals, and field cooking under travel conditions without requiring a proficiency check unless conditions are unusually adverse or resources are severely limited.
 
 ## Craft Instrument
-A character with this proficiency is skilled in the construction and repair of musical instruments. The character must choose one category of instruments: wind, stringed, percussion, or keyboard. Each additional category requires one extra proficiency slot; mastery of all categories requires thus requires a total of five slots.
+A character with this proficiency is skilled in the construction, tuning, and repair of musical instruments. The character must choose one category of instruments: wind, stringed, percussion, or keyboard. Each additional category requires one additional proficiency slot; mastery of all categories requires five slots in total. The character can construct instruments of their chosen type given appropriate materials and tools. Materials typically cost one-quarter of the instrument’s market value. Construction time depends on the type of instrument: 1d6 days for wind or percussion instruments, 2d8 days for stringed instruments, and 3d10 days for keyboard instruments. These times assume approximately 10 hours of work per day. Without proper tools (cost 25 gp), construction time is doubled. Under normal conditions, completed instruments are functional and of standard quality without requiring a proficiency check.
 
-A craftsman can construct instruments of their chosen type given appropriate materials and tools. Materials typically cost one-quarter of the instrument’s market value. Construction time depends on the type of instrument: 1d6 days for wind or percussion instruments, 2d8 days for stringed instruments, and 3d10 days for keyboard instruments. These times assume approximately 10 hours of work per day. Without proper tools (cost 25 gp), construction time is doubled.
+A proficiency check is required when attempting to produce an instrument of exceptional quality, working under poor conditions, using unusual materials, or when time is significantly constrained.
 
-Instruments produced under normal conditions are functional and of standard quality without requiring a proficiency check.
-
-A proficiency check is made only when attempting to produce an instrument of exceptional quality, working under poor conditions, using unusual materials, or when time is significantly constrained.
-
-- **Success:** The instrument is of fine quality, improving tone, durability, or value at the DM’s discretion.
-- **Failure by 4 or less:** The instrument is functional but unremarkable.
-- **Failure by 5 or more:** The instrument is flawed, affecting tone or durability.
-- **Natural 1:** The instrument is a masterpiece, potentially worth twice normal value or suitable for exceptional use.
-- **Natural 20:** The instrument is badly flawed and may be unreliable or require reworking.
-
-Simple repairs require 1d4 hours and do not require a proficiency check under normal conditions. Repairs to heavily damaged instruments require 1d8 hours and a proficiency check.
+Simple repairs require 1d4 hours and do not require a proficiency check under normal conditions. Repairs to heavily damaged instruments require 1d8 hours and a proficiency check, with outcomes determined using the same success and failure structure above.
 
 ## Crowd Working
-A character with this proficiency is highly skilled at reading and managing crowds, adjusting tone, pacing, and presentation to maintain attention and steer reactions. The character can reliably gauge a crowd’s general mood, anticipate shifts in attention, and avoid common missteps that might lose or sour an audience.
+Most performers learn to read an audience and adjust their delivery accordingly. A character with this proficiency is particularly adept at observing crowd dynamics, maintaining engagement, and shaping presentation style to suit the audience. In routine circumstances, the character can reliably gauge a crowd’s general mood, sustain attention, and avoid common performance missteps without requiring a proficiency check. When a character uses an ability or effect that alters the reactions of a crowd (such as influence reactions or similar performance-based modifiers), the normal effect applies automatically if the crowd is receptive and conditions are not actively disruptive.
 
-When using an ability that influences crowd reactions (such as _influence reactions_), the character gains the normal benefit without requiring a proficiency check.
+A proficiency check is required when attempting to significantly enhance the effect of such abilities, extend their influence under adverse conditions, or rapidly adjust to shifting or hostile audience dynamics.
 
-A proficiency check is required only when attempting to significantly enhance the effect or rapidly shift a crowd’s attitude.
+When a character or their group is soliciting voluntary contributions from a crowd, they can normally achieve standard results without a proficiency check. A successful check may indicate an especially compelling performance, increasing contributions or improving performance-based rewards by one category, as appropriate to the system in use.
 
-- **Success:** The character improves the crowd’s reaction by two levels instead of the normal one.
-- **Failure by 4 or less:** The normal effect applies.
-- **Failure by 5 or more:** The crowd becomes restless, distracted, or less receptive, reducing the effectiveness of the attempt at the DM’s discretion.
-- **Natural 1:** The character captivates the crowd, potentially producing an exceptional response beyond the usual limits.
-- **Natural 20:** The performance misjudges the crowd badly, possibly turning them hostile or causing the attempt to fail entirely.
-
-When soliciting money, the character can reliably earn modest contributions from a receptive crowd under normal conditions. A proficiency check is required to secure unusually generous donations or improve performance conditions:
-
-- **Success:** Contributions are doubled, or conditions improve by one category (if using performance rules).
-- **Failure:** Normal contributions are received, or the attempt yields little beyond basic earnings depending on the situation.
+This proficiency does not independently alter attitudes or beliefs. It modifies the effectiveness of other crowd-facing abilities and the character’s ability to optimize their impact in performance contexts.
 
 ## Dancing
-The character is skilled in a wide range of dances, from rustic folk traditions to formal court styles. The character can reliably perform appropriate dances for social, cultural, or ceremonial settings without requiring a proficiency check.
+The character is skilled in a wide range of dances, including folk traditions, social dances, and formal court styles. The character can reliably perform appropriate dances for social, cultural, or ceremonial settings without requiring a proficiency check, provided the style is familiar or easily adapted from known forms.
 
-A proficiency check is only required when attempting to achieve an exceptional result, such as performing under unusual conditions, impressing an important audience, or incorporating improvised or unfamiliar styles. Success indicates a performance that is notably impressive or socially effective at the DM’s discretion.
+A proficiency check is required when performing under adverse or distracting conditions, attempting unfamiliar or complex dance styles, or when the performance is intended to achieve a particular social, ceremonial, or dramatic effect beyond basic participation.
 
 ## Diagnostics
-Both the Healing and Diagnostics proficiencies aid victims of trauma and disease. While Healing is concerned with restoring lost hit points, Diagnostics is concerned with identifying causes, conditions, and likely outcomes. Diagnostics alone does not restore hit points.
+Both the Healing and Diagnostics proficiencies aid victims of trauma and disease. While Healing is concerned with restoring lost hit points and providing direct care, Diagnostics is concerned with identifying causes, conditions, and likely outcomes. Diagnostics alone does not restore hit points.
 
-A character with this proficiency can, through examination, identify general medical conditions and likely causes of injury or illness without requiring a proficiency check in routine circumstances. This includes recognizing whether a patient is injured, poisoned, diseased, or otherwise impaired, and providing general advice on treatment and prognosis.
+The character can, through examination, identify general medical conditions and likely causes of injury or illness without requiring a proficiency check in routine circumstances. This includes recognizing whether a patient is injured, poisoned, diseased, or otherwise impaired, and providing general assessment of their condition.
 
-A proficiency check is required when precision, rarity, or uncertainty is involved.
+A proficiency check is required when precision, rarity, or uncertainty is significant, including unusual injuries, rare toxins, complex diseases, or unclear causes of death.
 
-- **Physical injury:** The character can determine the extent of injuries and general cause. A check allows more precise identification of unusual or non-obvious causes.
-- **Poison:** The character can identify the likely presence of poison and general treatment approach. A check may be required to identify a specific antidote or method of preparation for unusual toxins.
-- **Disease:** The character can identify the disease and its general progression. A check allows accurate prognosis and optimal treatment. Magical diseases may impose penalties at the DM’s discretion.
-- **Death:** The character can determine cause and approximate time of death. A check allows more detailed reconstruction of events, though exact identification of specific magical effects remains uncertain.
+The character may only attempt to diagnose a given patient again if new symptoms, evidence, or context becomes available.
 
-A character may diagnose a given patient only once unless new information becomes available.
+Diagnostics does not function on supernatural creatures such as undead, nor on extraplanar entities, unless explicitly allowed by the DM.
 
-Diagnostics does not function on supernatural creatures (such as undead) or extraplanar beings.
-
-If the character also has Healing proficiency, they gain a +1 bonus to Diagnostics proficiency checks where such checks are required.
+If the character also possesses Healing proficiency, they gain a +1 bonus to Diagnostics checks where such checks are required.
 
 ## Diplomacy
-This proficiency represents the art of high-level negotiation between states, factions, or large organizations. A character with this skill understands formal diplomatic procedure, unwritten conventions of negotiation, and the subtleties of gifts, titles, concessions, and phrasing that shape international agreements. The character can accurately interpret the intent behind diplomatic language and can express their own position in appropriate formal terms.
+This proficiency represents skill in formal negotiation between states, factions, organizations, or other structured political bodies. It includes knowledge of diplomatic protocol, negotiation conventions, the use of formal language, and the interpretation of implied meaning in treaties, offers, and concessions. The character can accurately understand the intent behind diplomatic phrasing and present their own position in appropriate formal terms. In routine negotiations, no proficiency check is required. The character can participate effectively, avoid procedural errors, and operate within expected diplomatic norms.
 
-In routine negotiations, no proficiency check is required. The character’s knowledge of protocol allows them to participate effectively and avoid common diplomatic missteps.
+A proficiency check is required when attempting to influence the outcome of a negotiation beyond what would normally be achieved through reasonable argument, leverage, or bargaining position. The DM may apply situational modifiers based on relative power, stakes, competing interests, and the credibility or value of concessions being offered.
 
-A proficiency check is required when attempting to significantly influence the outcome of a negotiation beyond what would normally be achieved through reasonable argument and bargaining.
-
-- **Success:** The character shifts the negotiation in their favor, improving the outcome by a meaningful degree as determined by the DM (better terms, additional concessions, avoided conflict, etc.).
-- **Failure by 4 or less:** The negotiation proceeds normally, though without additional advantage.
-- **Failure by 5 or more:** The character misjudges tone, leverage, or intent, and the opposing side becomes less receptive to compromise.
-- **Natural 1:** The character achieves an exceptional breakthrough, potentially securing unexpected concessions or a major diplomatic advantage.
-- **Natural 20:** The character commits a significant diplomatic misstep, worsening relations or undermining their position.
-
-The DM may apply situational modifiers (typically ranging from –8 to +8) based on relative power, stakes, and the value of concessions offered.
-
-This proficiency should enhance roleplaying rather than replace it; it determines the effectiveness of negotiation, not the presence of it.
+This proficiency governs effectiveness in formal negotiation; it does not replace role-playing or determine whether negotiation is possible, only its relative outcome within an existing exchange.
 
 ## Direction Sense:
-A character with this proficiency has a reliable innate sense of direction and spatial orientation. In familiar terrain, or when able to observe the sun, stars, or other natural cues, the character can usually determine cardinal direction without requiring a proficiency check.
+The character has a reliable innate sense of orientation and spatial direction, allowing them to determine cardinal direction under normal conditions using environmental cues such as the sun, stars, terrain flow, or other natural reference points. In familiar environments or under clear conditions, this does not require a proficiency check.
 
-When conditions are uncertain—such as underground, in dense wilderness, in magically altered environments, or when disoriented—the character may require a brief period of concentration (1d6 rounds) and a proficiency check to determine direction.
+A proficiency check is required when orientation is disrupted or unreliable, such as in dense wilderness, underground environments, featureless terrain, magical interference, or situations where the character has been disoriented or deprived of reliable reference cues. A brief period of concentration (1d6 rounds) is required before making the check in uncertain conditions.
 
-- **Success:** The character correctly identifies the direction of travel.
-- **Failure by 4 or less:** The character’s sense is slightly off, but the error is minor and situational.
-- **Failure by 5 or more:** The character misjudges direction by approximately 90 degrees.
-- **Natural 20:** The character’s orientation is severely compromised, and the direction is effectively reversed.
-- **Natural 1:** The character gains unusually precise orientation, even in adverse conditions.
-
-In wilderness travel, the chance of becoming lost is reduced by 5% for parties with a character possessing this proficiency.
+In wilderness travel, this proficiency may assist with navigation at the DM’s discretion, and interacts with existing rules governing becoming lost by reducing the chance by 5%, where such rules are in effect.
 
 ## Disguise
-A character with this proficiency is trained in the art of physical disguise, makeup, posture adjustment, and behavioral imitation. The character can reliably alter their appearance to resemble a general type of person of similar height, build, age range, and race. In routine circumstances, this is sufficient to avoid casual recognition and does not require a proficiency check.
+The character is trained in the use of physical disguise techniques, including makeup, costume, posture alteration, and behavioural imitation. This proficiency allows the character to alter their apparent identity to resemble a broadly plausible type of person of similar general height, build, age range, and ancestry. In routine circumstances, such disguises are sufficient to avoid casual recognition and do not require a proficiency check.
 
-A proficiency check is required when the disguise must withstand close scrutiny, prolonged interaction, or unusual difficulty.
+A proficiency check is required when the disguise must withstand close scrutiny, prolonged interaction, or situations where recognition is actively attempted or socially consequential.
 
-The character may also attempt more ambitious disguises, which impose penalties to the check:
+The effectiveness of a disguise is determined by situational modifiers assigned by the DM, based on factors such as familiarity with the subject, observational intensity, and the plausibility of the assumed identity within the context.
 
-- Disguising as a different sex or another race: –7
-- Disguising as a specific known individual: –10
-
-These modifiers are cumulative when applicable.
-
-- **Success:** The disguise withstands scrutiny and functions as intended, even under close or extended observation.
-- **Failure by 4 or less:** The disguise is broadly convincing, but minor inconsistencies may be noticed under careful examination.
-- **Failure by 5 or more:** The disguise is compromised in a noticeable way, though not necessarily immediately exposed.
-- **Natural 20:** The disguise is unconvincing and likely to be recognized quickly under scrutiny.
-- **Natural 1:** The disguise is exceptionally convincing, even fooling individuals who would normally be difficult to deceive.
+This proficiency governs only physical appearance and behavioural presentation.
 
 ## Distance Sense
-A character with this proficiency has an intuitive grasp of distance traveled and effort expended over time. The character can reliably estimate how far they have traveled in a day under normal conditions without requiring a proficiency check.
+The character has an intuitive sense of distance traveled and effort expended over time, allowing them to estimate how far they have moved during overland travel under normal conditions. In routine circumstances, the character can reliably approximate daily travel distance without requiring a proficiency check, provided travel conditions are not significantly misleading. 
 
-The character’s estimate becomes less reliable when travel conditions are confusing or misleading, such as difficult terrain, magical distortion, forced marches under fatigue, or extended travel without clear landmarks. In such cases, a proficiency check may be required to produce an accurate estimate.
+This sense becomes less reliable in environments that distort or obscure perception of progress, such as featureless terrain, dense wilderness, magical interference, forced marches under exhaustion, or extended travel without clear reference points. In such cases, a proficiency check may be required to produce a meaningful estimate.
 
-- **Success:** The character estimates distance traveled with approximately 90% accuracy.
-- **Failure:** The character’s estimate is noticeably inaccurate, though the error is not necessarily obvious without external reference.
-- **Critical failure (natural 20):** The character’s sense of distance is significantly skewed, potentially leading to substantial over- or under-estimation.
-- **Critical success (natural 1):** The character’s estimate is exceptionally precise, effectively exact for practical purposes.
-
-This proficiency applies to continuous travel over periods up to a number of days equal to the character’s level.
+This proficiency reflects internalized spatial awareness during travel and does not replace navigation, mapping, or survival-based orientation.
 
 ## Dowsing
-A character with this proficiency is attuned to subtle natural patterns and disturbances in the environment, allowing them to locate hidden or buried substances and objects through careful, methodical searching.
+The character is attuned to subtle environmental disturbances and is capable of detecting the presence of hidden, buried, or otherwise obscured substances and objects through careful, methodical search. This includes naturally occurring resources such as water or ore, as well as specifically identified objects, provided they are known or clearly defined. In routine conditions, the character can reliably search for a known or specified target within a reasonably confined area without requiring a proficiency check, provided the target is present and the search is conducted directly over or near its location. The effectiveness of dowsing depends on proximity and environmental interference. The DM determines whether a target is detectable within the search area and whether conditions allow for meaningful detection.
 
-The character can reliably search for known or specifically identified natural resources (such as water, ore, or other deposits) or clearly defined lost or hidden objects (such as “Aunt Claire’s brooch” or “the buried chest of Captain Raserid”) without requiring a proficiency check, provided the search area is reasonably constrained.
+A proficiency check is required when conditions are uncertain or adverse, including deeply buried targets, heavily disturbed environments, significant interference, or when precision of location is important.
 
-The character must physically search the area, and detection is dependent on proximity; the object or substance must lie within approximately 10 feet of the character or be directly passed over during the search. Larger or more powerful sources may be detectable at greater distances at the DM’s discretion.
-
-A proficiency check is required when precision, ambiguity, or difficulty is significant—for example, when the object is deeply buried, the environment is heavily disturbed, or the search is conducted under adverse conditions.
-
-- **Success:** The character successfully detects the presence of the target and gains an accurate sense of its location and approximate depth (within ~10%).
-- **Failure:** No information is gained from the search.
-- **Natural 1:** The character gains an unusually strong or precise sense of location, potentially pinpointing the target.
-- **Natural 20:** The character misreads the disturbance, leading them to believe the target is absent or located elsewhere.
-
-A dowser can detect targets at a depth of up to 100 feet under normal conditions, though very strong sources may be detectable at greater depths at the DM’s discretion.
-
-Searching is time-consuming; small areas may require minutes of focused effort, while larger areas may require hours or longer, depending on terrain and complexity.
+Searching with dowsing is time-consuming and requires focused attention; the time required depends on the size and complexity of the area being examined as determined by the DM.
 
 ## Endurance
-A character with this proficiency is acclimated to prolonged physical exertion and resists fatigue during extended activity. The character can perform continuous strenuous physical activity for twice as long as a normal character before becoming subject to fatigue or exhaustion effects.
+The character is trained in resisting fatigue during prolonged physical exertion, allowing them to maintain effective performance under sustained strain such as forced marches, continuous labor, swimming, or similar extended physical activity. In routine conditions, the character may perform strenuous activity for twice as long as normal before becoming subject to fatigue or exhaustion effects.
 
-In situations of extreme exertion, environmental stress, or sustained hardship beyond normal limits, a proficiency check may be required to determine whether the character can continue functioning effectively.
+A proficiency check is required when attempting to continue strenuous activity beyond normal safe limits, or when operating under extreme environmental stress, deprivation of rest, or other conditions that would normally result in rapid fatigue.
 
-- **Success:** The character maintains performance despite extreme exertion, delaying fatigue or exhaustion as determined by the DM.
-- **Failure:** The character suffers fatigue or exhaustion normally once limits are reached.
-- **Natural 1:** The character exhibits exceptional stamina, potentially exceeding normal expectations for sustained activity.
-- **Natural 20:** The character pushes beyond safe limits and suffers severe exhaustion or injury at the DM’s discretion.
-
-This proficiency does not affect the effects of starvation, dehydration, or similar conditions unrelated to physical exertion.
+This proficiency does not modify or prevent fatigue or exhaustion caused by non-exertion sources such as starvation, dehydration, disease, or magical effects.
 
 ## Engineering
-A character with this proficiency is trained in the design, construction, and supervision of large-scale structures and mechanical systems. The character can prepare functional plans for common engineering projects such as bridges, locks, mills, fortifications, and basic siege engines without requiring a proficiency check.
+The character is trained in the design, construction, and supervision of large-scale structures and mechanical systems, including bridges, fortifications, mills, locks, basic siege engines, and similar works of applied architecture and mechanics. In routine cases involving standard designs and known methods, the character can produce functional plans and oversee their execution without requiring a proficiency check, provided adequate materials, labour, and time are available. The character is also capable of directing construction work, coordinating labour, and ensuring that established plans are properly implemented, assuming no extraordinary constraints or disruptions beyond normal engineering challenges.
 
-The character is also skilled in overseeing construction work, coordinating labor, and ensuring that plans are properly executed, provided adequate materials and workers are available.
+A proficiency check is required when designing or adapting complex, unusual, or unprecedented structures or mechanisms, or when working under significant constraints such as limited materials, time pressure, hostile conditions, or incomplete information.
 
-A proficiency check is required when attempting to design or adapt particularly complex, unusual, or unprecedented structures or mechanisms, or when working under significant constraints.
-
-- **Success:** The design is sound and functional, even under unusual conditions or requirements.
-- **Failure:** The project remains viable but contains inefficiencies or flaws that may require DM-defined complications or additional resources.
-- **Natural 1:** The design is exceptionally effective or innovative, potentially producing superior performance or efficiency.
-- **Natural 20:** The design contains a critical flaw that may cause structural failure or unintended consequences if implemented without correction.
-
-The character is also familiar with siegecraft, including the construction, maintenance, and use of siege engines such as catapults, rams, and torsion devices. They may also identify structural weaknesses in fortifications and defensive works, and propose methods of exploitation or reinforcement.
+The character is also familiar with siegecraft, including the construction, maintenance, and operation of siege engines such as catapults, rams, and torsion devices. They may identify structural weaknesses in fortifications and defensive works and suggest practical methods of exploitation or reinforcement within the limits of their knowledge.
 
 ## Etiquette
-A character with this proficiency understands the customary forms of behavior, address, and ceremony expected in formal social situations. This includes knowledge of proper titles, greetings, precedence, and culturally significant gestures when dealing with nobility, officials, and other structured hierarchies.
+The character is trained in the formal customs, protocols, and expected forms of conduct used in structured social and ceremonial settings, including correct use of titles, greetings, precedence, and culturally specific gestures within hierarchical societies. In familiar or routine social environments, the character automatically behaves in a manner consistent with accepted local etiquette, unless they explicitly choose not to, without requiring a proficiency check.
 
-In ordinary social interactions, the character can reliably behave in a socially appropriate manner without requiring a proficiency check.
+A proficiency check is required when the character must operate within unfamiliar, unusually formal, or politically sensitive social systems where correct conduct is obscure, highly specific, or not readily inferable from context.
 
-A proficiency check is required only when dealing with unusual, rare, or highly formalized situations where correct conduct is obscure or politically sensitive.
-
-- **Success:** The character navigates the situation without social misstep and may gain minor social advantage or goodwill at the DM’s discretion.
-- **Failure:** The character’s behavior is broadly acceptable but may lack refinement or cause minor discomfort or ambiguity.
-- **Natural 1:** The character displays exceptional social grace, earning notable favor or admiration.
-- **Natural 20:** The character commits a significant faux pas or misjudgment that may damage their standing.
-
-Knowledge of proper etiquette does not guarantee correct execution under pressure. The character must still role-play their actions, and this proficiency reflects understanding of correct behavior, not immunity to social error.
+This proficiency reflects knowledge of correct conduct within formal systems; it does not in itself confer social influence, persuasion, or protection from the consequences of deliberate insult or hostile action.
 
 ## Fast-Talking
-A character with this proficiency is skilled in rapid persuasion, distraction, misdirection, and verbal manipulation. The character can normally engage in fast-paced conversation, minor deception, or social misdirection without requiring a proficiency check when dealing with casual or unguarded targets.
+The character is trained in rapid verbal manipulation, misdirection, and conversational control intended to distract, confuse, or pressure a target in real time. This proficiency is most effective in brief interactions where speed, confidence, and improvisation are more important than sustained argument or credibility. In routine circumstances involving unguarded, non-alert, or cooperative targets, the character can engage in casual deception, minor misdirection, or conversational redirection without requiring a proficiency check.
 
-A proficiency check is required when the character attempts to maintain a significant deception, avoid scrutiny, or influence a skeptical, alert, or resistant target.
+A proficiency check is required when the character attempts to influence a skeptical, alert, or resistant target, maintain a meaningful deception under scrutiny, or achieve a specific outcome through rapid conversation under pressure. The DM may apply situational modifiers based on the target’s Intelligence and Wisdom, the plausibility of the claim, the social context, and the urgency or confusion of the situation.
 
-The DM may apply modifiers based on the target’s Intelligence and Wisdom, as well as the plausibility of the claim, social context, and urgency of the situation.
-
-- **Success:** The target accepts the character’s statement or is distracted long enough for the character’s intended goal to succeed.
-- **Failure:** The target is not convinced or distracted, but may not immediately realize deception is involved.
-- **Failure by 5 or more:** The attempt is recognized as manipulation or deception.
-- **Natural 1:** The target is unusually persuaded or misled, potentially beyond what was intended.
-- **Natural 20:** The attempt backfires, drawing attention or suspicion to the character.
-
-Creatures of exceptional insight or intellect may be immune to fast-talking at the DM’s discretion when deception is implausible or immediately transparent.
+Creatures with exceptional insight, trained in detecting deception, or otherwise less vulnerable to such tactics may be treated as resistant or immune at the DM’s discretion where appropriate.
 
 ## Fire-Building
-A character with this proficiency can reliably start a fire without requiring a tinderbox, given access to suitable materials such as dry wood and tinder. Under normal conditions, the character can establish a fire within 2d20 minutes.
+The character is trained in the creation of fire using natural and carried materials, including wood selection, tinder preparation, and ignition techniques. In normal conditions, the character can reliably start a fire without requiring a tinderbox, provided suitable dry materials are available and there is no significant environmental interference. Under typical conditions, a fire can be established with a few minutes of effort, assuming adequate fuel and basic shelter from wind or precipitation.
 
-In adverse conditions—such as wet materials, high winds, or other environmental difficulties—the time required increases to 3d20 minutes, and a proficiency check may be required to successfully establish the fire.
+A proficiency check is required when conditions are adverse or uncertain, including wet materials, high winds, poor-quality fuel, or environments where ignition is difficult or likely to fail.
 
-Flint and steel are not required for this process, though they may improve reliability or speed at the DM’s discretion.
-
-- **Success:** A fire is successfully established within the expected time frame.
-- **Failure:** No fire is produced within the attempt; conditions may still allow retrying.
-- **Natural 1:** The fire is established unusually quickly or under especially difficult conditions.
-- **Natural 20:** The attempt fails in a way that meaningfully worsens conditions (e.g., wasted fuel, dampened materials, or increased difficulty for subsequent attempts), at the DM’s discretion.
+Flint and steel or equivalent tools may improve reliability or reduce time at the DM’s discretion, but are not required to initiate fire under this proficiency.
 
 ## Fishing
-A character with this proficiency is skilled in catching fish using hook and line, net, or spear. In suitable waters where fish are present in normal abundance, the character can reliably catch food with time and effort, without requiring a proficiency check.
+The character is trained in the use of hook and line, nets, and spears to catch fish and other aquatic life in freshwater or marine environments. In waters where fish are present in normal abundance and conditions are not adverse, the character can reliably obtain food through fishing given sufficient time and appropriate equipment, without requiring a proficiency check. Fishing success is affected by environmental factors such as season, weather, water clarity, fish population, and available equipment, as determined by the DM. If fish are not present in the area, no amount of effort will yield a catch.
 
-Fishing success depends on environmental conditions such as season, water quality, fish population, and available equipment, as determined by the DM.
+A proficiency check is required when conditions are poor or uncertain, including depleted waters, hazardous environments, unusual aquatic conditions, or other circumstances that make locating or capturing fish unreliable.
 
-A proficiency check is required when conditions are poor, uncertain, or heavily contested (such as depleted waters, unusual terrain, magical interference, or attempting to fish in dangerous environments).
-
-- **Success:** The character successfully catches a reasonable quantity of fish appropriate to the method used and local conditions.
-- **Failure:** No fish are caught during the attempt, though continued effort may still be possible.
-- **Natural 1:** The character has an unusually successful haul or benefits from exceptional conditions.
-- **Natural 20:** The attempt is notably unsuccessful in a meaningful way (equipment damage, lost catch, or attracting unwanted attention), at the DM’s discretion.
-
-Net fishing yields larger catches than hook and line or spear under equivalent conditions, reflecting efficiency of method rather than requiring separate mechanical scaling.
+Different fishing methods affect efficiency and risk profile: nets are generally more efficient in suitable waters, while hook and line or spearfishing are more selective or dependent on precision. These differences are resolved through situational modifiers and DM adjudication rather than separate mechanical subsystems.
 
 ## Foraging
-A character with this proficiency can search natural environments to locate useful raw materials such as firewood, medicinal herbs, crafting components, or other small, naturally occurring resources.
+The character is trained in locating useful natural resources within wilderness and uncultivated environments, including edible plants, medicinal herbs, fungi, basic crafting materials, tinder, and other small naturally occurring substances.  In environments where suitable materials are present, the character can generally locate usable quantities of common resources through ordinary effort without requiring a proficiency check, provided sufficient time is available (typically 2–8 hours depending on terrain and density of resources). The DM determines what materials are available in a given area and whether they can reasonably be found through foraging.
 
-Given sufficient time spent searching (typically 2–8 hours depending on terrain and density of resources), the character can reliably locate appropriate materials if they are present in the area.
+A proficiency check is required when the desired material is rare, easily mistaken for similar but useless substances, or when environmental conditions make efficient identification or collection uncertain.
 
-The DM determines whether the desired material is available in the environment. If it is not present, the search yields no useful result regardless of effort. If it is present, the character will generally locate at least a usable quantity through normal effort.
-
-A proficiency check is required when the material is rare, difficult to identify, or when conditions make efficient gathering uncertain.
-
-- **Success:** The character locates the desired material in usable quantity appropriate to the environment.
-- **Failure:** The character finds only unrelated or insufficient materials during the search period.
-- **Natural 1:** The character discovers an unusually abundant or high-quality source.
-- **Natural 20:** The character wastes significant time or misidentifies materials, potentially overlooking an obvious source at the DM’s discretion.
-
-As a guideline, most successful foraging yields only a small usable amount unless the environment is especially rich in the desired resource.
+As a general principle, foraging yields are limited by environmental availability and should reflect the natural abundance of the area rather than producing guaranteed surplus.
 
 ## Forgery
-A character with this proficiency can create convincing false documents, reproduce handwriting, and detect forged materials through careful examination.
+The character is trained in the creation and detection of falsified documents, including handwriting imitation, alteration of written records, and the production of counterfeit official materials. In routine circumstances, the character can produce convincing forgeries of common or generic documents such as orders, permits, or notices without requiring a proficiency check, provided they have access to appropriate examples and materials. Such forgeries will typically withstand casual inspection under normal conditions.
 
-The character can reliably produce functional forgeries of common or generic documents (such as orders, permits, or official notices) after studying similar examples, without requiring a proficiency check. These will typically pass casual inspection under normal circumstances.
+A proficiency check is required when the forgery must withstand meaningful scrutiny, replicate a specific individual’s handwriting or signature, or reproduce documents subject to verification, comparison, or official validation. Modifiers may apply based on the complexity of the document, the quality and quantity of reference material available, and the degree of familiarity an examiner is likely to have with the original.
 
-More precise or sensitive work requires a proficiency check, including:
-
-- Reproducing a specific individual’s signature (–2 penalty; requires a sample)
-- Forging extended text in a specific hand (–3 penalty; requires substantial samples)
-- Creating documents subject to close scrutiny or official verification
-
-- **Success:** The forgery withstands careful inspection and is convincing even to knowledgeable observers, unless they possess specialized familiarity or relevant proficiency.
-- **Failure by 4 or less:** The forgery passes casual inspection but reveals inconsistencies under close examination.
-- **Failure by 5 or more:** The forgery contains noticeable flaws and may be identified as false by anyone familiar with the document type.
-- **Natural 20:** The forgery is obviously flawed and may be recognized as false upon routine handling.
-- **Natural 1:** The forgery is exceptionally accurate and may withstand even expert scrutiny.
-
-The creator of a forgery does not automatically know whether their work will withstand scrutiny; its quality is only revealed when examined or tested in play.
-
-A character with this proficiency may also examine documents for authenticity:
-
-- **Success:** The character correctly identifies whether the document is genuine or forged.
-- **Failure:** The character cannot determine authenticity.
-- **Natural 20:** The character reaches an incorrect conclusion.
-- **Natural 1:** The character gains additional insight into how or by whom the forgery may have been created, at the DM’s discretion.
+A character may also examine documents to determine authenticity. In routine cases, this may be done without a check if no active deception or ambiguity is present. When uncertainty exists, a proficiency check is required.
 
 ## Fortune Telling
-A character with this proficiency is skilled in the performance and trappings of divination, including tarot, palmistry, augury, and similar practices. The character can convincingly present themselves as a seer or soothsayer and deliver believable predictions without requiring a proficiency check under casual circumstances.
+The character is skilled in the performance of divinatory practices such as tarot reading, palmistry, and other culturally recognized forms of fortune telling. This proficiency represents skill in presentation, improvisation, and psychological influence rather than any form of genuine divination. The character may convincingly perform readings and deliver invented predictions without requiring a proficiency check in routine or non-competitive circumstances. The content of any reading is entirely determined by the character and has no intrinsic predictive value unless the DM rules otherwise.
 
-The character invents the content of any prediction. This proficiency does not grant genuine supernatural insight unless the DM rules otherwise.
+A proficiency check is required when the reading is used to influence a target’s beliefs, decisions, or emotional state, or when the performance is subject to meaningful scrutiny or skepticism.
 
-A proficiency check is required when the character attempts to influence a target’s beliefs, decisions, or emotional state through a reading, or when the authenticity of the performance is subject to scrutiny.
-
-The DM may apply modifiers similar to Fast-Talking, based on the target’s Intelligence, Wisdom, and the plausibility or resonance of the prediction.
-
-- **Success:** The target accepts the reading as meaningful or credible and may unconsciously act in accordance with it.
-- **Failure:** The target is unconvinced or dismissive, though not necessarily aware of deliberate deception.
-- **Failure by 5 or more:** The performance is recognized as fraudulent or manipulative.
-- **Natural 1:** The prediction resonates strongly, potentially influencing the target’s behavior in significant or lasting ways.
-- **Natural 20:** The attempt backfires, causing distrust, offense, or unintended consequences.
-
-At the DM’s discretion, a prediction may, coincidentally, prove accurate. This should be rare and used to enhance narrative rather than provide mechanical advantage.
+At the DM’s discretion, coincidental accuracy may occur, but this is not a function of the proficiency and should not be relied upon mechanically.
 
 ## Gaming
 A character with this proficiency is familiar with a wide variety of games of chance and skill, including cards, dice, board games, and similar pastimes. The character understands common rules, strategies, and conventions, and can participate competently without requiring a proficiency check.
 
-When the outcome of a game is important to the narrative, the character may make a proficiency check to determine overall performance relative to opponents instead of playing out the contest.
+When the outcome of a game is important to the narrative, the characters may make an opposed proficiency check (highest successful roll) to determine relative performance instead of playing out the contest in detail. The DM determines the outcome based on comparative results.
 
-- If only one participant has this proficiency, they gain a clear advantage in play.
-- If multiple participants are proficient, each may make a proficiency check; the highest successful result indicates the winner.
-- If no checks are made, the outcome may be resolved through roleplay or normal gameplay.
+If only one participant has this proficiency, they gain a clear advantage in play. If multiple participants are proficient, each may make a proficiency check; the highest successful result indicates the winner. If no checks are made, the outcome may be resolved through roleplay or normal gameplay.
 
-A character with this proficiency may also attempt to cheat. This requires a proficiency check and may grant an advantage at the DM’s discretion (such as a bonus to the check or improved odds of success).
-
-- **Success (cheating):** The character gains an advantage without being detected.
-- **Failure:** No advantage is gained, but the attempt goes unnoticed.
-- **Failure by 5 or more:** The cheating is detected, regardless of the outcome of the game.
-- **Natural 20:** The character is caught cheating in an obvious or consequential way.
-- **Natural 1:** The cheating is particularly subtle or effective, potentially granting a significant advantage.
+A character with this proficiency may also attempt to cheat. This requires a proficiency check and may grant an advantage at the DM’s discretion.
 
 ## Gem Cutting
-A character with this proficiency can cut and finish rough gemstones, transforming them into polished gems suitable for trade. The character can process 1d10 stones per day under proper working conditions, requiring adequate lighting and specialized tools.
-
-When working with typical materials, the character can reliably produce finished gems that fall within the normal value range for their type without requiring a proficiency check.
+A character with this proficiency can cut and finish rough gemstones, transforming them into polished gems suitable for trade. The character can process 1d10 stones per day under proper working conditions, requiring adequate lighting and specialized tools. When working with typical materials, the character can produce finished gems without requiring a proficiency check. In these cases, the gem is of standard quality and falls at the low end of its normal value range.
 
 A proficiency check is required when working with unusually valuable, delicate, flawed, or difficult stones, or when attempting to maximize the value of the finished product.
-
-- **Success:** The gem is well-cut and falls within the expected value range for its type.
-- **Failure:** The gem is flawed or poorly cut, reducing its value within or below the normal range at the DM’s discretion.
-- **Natural 1:** The gem is cut with exceptional brilliance, increasing its value to that of the next higher category.
-- **Natural 20:** The gem is significantly mishandled, potentially reducing its value substantially or damaging it.
 
 A gem cutter gains no benefit from unskilled assistance, though multiple proficient characters may work independently.
 
 ## Glassblowing
-A character with this proficiency can manufacture glass containers such as jars, bottles, and similar vessels, provided access to a proper workshop and furnace.
-
-The character can reliably produce functional items without requiring a proficiency check. In a full day’s work, the character can create approximately 10 small containers, 5 medium containers, or 2 large ones.
+A character with this proficiency can manufacture glass containers such as jars, bottles, and similar vessels, provided access to a proper workshop and furnace. The character can reliably produce functional items without requiring a proficiency check. In a full day’s work, the character can create approximately 10 small containers, 5 medium containers, or 2 large ones.
 
 A proficiency check is required when producing items that demand symmetry, precision, or higher quality, or when working under less-than-ideal conditions.
-
-- **Success:** The item is well-formed, properly balanced, and of good quality.
-- **Failure:** The item is usable but flawed—misshapen, uneven, or fragile—reducing its value or durability.
-- **Natural 1:** The item is exceptionally clear or finely crafted, increasing its value or suitability for specialized use.
-- **Natural 20:** The item is ruined during production, wasting materials and time.
 
 ## Healing
 A character with this proficiency is skilled in first aid, basic medical care, and the use of natural remedies.
 
-### Immediate Care
-When a character tends to a wounded individual within one round of injury, they may attempt to restore a small amount of lost vitality.
+**Immediate Care**
+When a character tends to a wounded individual immediately after injury, they may attempt to stabilize the patient and restore a small amount of lost vitality. A proficiency check is always required.
 
-- A proficiency check is required.
-- **Success:** The patient regains 1d3 hit points, up to the amount lost in the previous round.
-- **Failure:** No hit points are restored.
-- Only one such attempt may be made per patient per day.
+On a success, the patient regains 1d3 hit points, up to the amount lost in the previous round. On a modest failure, no hit points are restored, but any ongoing bleeding is halted. On a significant failure, the attempt is ineffective and may waste critical time or attention at the DM’s discretion.
 
-### Ongoing Care
-A wounded character under the regular care of someone with healing proficiency recovers more quickly.
+Only one such attempt may be made per patient per day.
 
-- **Travel or light activity:** +1 hit point per day
-- **Complete rest:** +2 hit points per day
-- **With both Healing and Herbalism:** + 3 hit points per day (rest required)
+**Ongoing Care**
+A wounded character under regular care from someone with this proficiency recovers more quickly than normal.
 
-This care requires no proficiency check, only time and attention, and is in addition to the character's normal natural healing. A healer may tend up to six patients at once.
+With complete rest, they recover an additional 2 hit points per day, or 3 hit points per day if the healer is also proficient in Herbalism. With light activity or non-strenuous travel, they instead recover an additional 1 hit point per day.
 
-### Treating Poison
-A character with this proficiency can assist a poisoned individual if treatment begins immediately.
+This care requires no proficiency check, only time and attention, and applies in addition to normal natural healing. A single character may tend up to six patients at once under normal conditions.
 
-If the poison enters through a wound and the healer begins care in the following round, continuing uninterrupted for five rounds:
+**Treating Poison**
+A character with this proficiency can assist a poisoned individual if treatment begins immediately after exposure. If care begins within one round of exposure and continues uninterrupted for five rounds, the victim gains a +2 bonus to their saving throw against the poison, which is made at the end of the treatment period. No proficiency check is required.
 
-- The victim gains a **+2 bonus to their saving throw**, which is made at the end of the treatment period.
-- No proficiency check is required.
+If care is interrupted, the poison takes effect normally in the round the interruption occurs.
 
-If care is interrupted, the victim must immediately make a normal saving throw.
+Characters who are also proficient in Herbalism may extend this treatment to a wider range of poisons, reflecting improved diagnosis and preparation of countermeasures.
 
-Characters with both Healing and Herbalism may attempt similar treatment for ingested or contact poisons, representing proper diagnosis and preparation of remedies.
+**Diagnosing and Treating Disease**
+A character may make a proficiency check to diagnose and treat non-magical diseases. Characters with Herbalism gain a +2 bonus to this check.
 
-### Diagnosing and Treating Disease
-A character with this proficiency can diagnose and treat diseases.
-
-- **Normal diseases:** A proficiency check may be made.
-    - **Success:** The disease is reduced to its mildest form and shortest duration.
-    - **Failure:** No improvement is made.
-    - Characters with Herbalism gain a +2 bonus.
-- **Magical diseases:** A successful proficiency check identifies the nature of the affliction, but treatment requires magical means.
+Magical diseases may be identified on a successful check, but cannot be treated without appropriate magical intervention.
 
 ## Heraldry
-A character with this proficiency is knowledgeable in the symbols, crests, and visual markers used to identify individuals, families, and organizations. This includes noble houses, guilds, military units, religious orders, and political factions, as well as the conventions governing their use.
+A character with this proficiency is knowledgeable in the symbols, crests, and visual markers used to identify individuals, families, and organizations. This includes noble houses, guilds, military units, religious orders, and political factions, as well as the conventions governing their use. The character automatically recognizes and correctly interprets heraldic symbols from their homeland or any region with which they are familiar.
 
-The character automatically recognizes and correctly interprets heraldic symbols from their homeland or any region with which they are familiar.
-
-A proficiency check is required to identify or interpret heraldry from unfamiliar regions, obscure groups, or rarely seen symbols, provided the character has at least some contextual knowledge of the culture in question.
-
-- **Success:** The character correctly identifies the symbol and its association, or accurately interprets its meaning.
-- **Failure:** The character cannot determine the meaning or association.
-- **Natural 1:** The character recalls additional useful context, such as alliances, rivalries, or historical significance.
-- **Natural 20:** The character misidentifies the symbol or draws an incorrect conclusion.
+A proficiency check is required to identify or interpret heraldry from unfamiliar regions, obscure groups, or rarely seen symbols when sufficient reference or context is available.
 
 This proficiency may also be used to recognize inconsistencies, deliberate alterations, or false heraldry when such details are relevant.
 
 ## Herbalism
-A character with this proficiency can identify plants and fungi and prepare a variety of nonmagical remedies and compounds, including poultices, salves, infusions, and similar treatments. The character may also prepare natural poisons and purgatives from appropriate materials.
+A character with this proficiency can identify plants and fungi and prepare a variety of non-magical remedies and compounds, including poultices, salves, infusions, and similar treatments. The character may also prepare natural poisons and purgatives from appropriate materials. The character can reliably identify common plants and fungi within familiar environments and produce basic preparations without requiring a proficiency check.
 
-The character can reliably identify common plants and fungi within familiar environments and produce basic preparations without requiring a proficiency check.
+A proficiency check is required when identifying rare, dangerous, or unfamiliar plants or fungi, when working with degraded or uncertain materials, or when preparing particularly potent, refined, or delicate compounds.
 
-A proficiency check is required when:
-
-- Identifying rare, dangerous, or unfamiliar plants or fungi
-- Determining whether a plant has useful medicinal or toxic properties
-- Preparing particularly potent, refined, or delicate compounds
-- Working with uncertain or degraded materials
-
-- **Success:** The plant is correctly identified or the preparation functions as intended.
-- **Failure:** The attempt yields no useful result or produces a weak or ineffective compound.
-- **Failure by 5 or more:** The result is flawed or unsafe, potentially producing unintended side effects.
-- **Natural 1:** The preparation is especially effective, pure, or potent.
-- **Natural 20:** The preparation is dangerously mishandled, possibly producing harmful or toxic results.
-
-The strength and effects of any poisons or specialized compounds are determined by the DM, based on available materials and relevant rules.
+The strength and effects of any poisons or specialized compounds are determined by the DM based on available materials and relevant rules.
 
 A character with both Herbalism and Healing gains benefits when treating the sick or injured, as described under the Healing proficiency.
 
 ## Hunting
-A character with this proficiency can locate, track, and bring down game in wilderness environments, provided suitable prey is present.
+A character with this proficiency is trained in locating, stalking, and engaging game in wilderness environments, provided suitable prey is present. In areas where game is reasonably available, the character can reliably secure food for themselves and a small group through several hours of hunting without requiring a proficiency check.
 
-In areas where game is reasonably available, the character can reliably secure enough food for themselves and a small group through several hours of hunting, without requiring a proficiency check.
+A proficiency check is required when game is scarce, elusive, or particularly dangerous, when time is limited, when the character attempts to close distance rapidly, or when prey behaviour makes the hunt result uncertain or contested.
 
-A proficiency check is required when:
-
-- Game is scarce, elusive, or dangerous
-- The character attempts to hunt quickly or under time pressure
-- The character is attempting to approach prey closely or set up an advantageous attack
-- The hunting attempt is opposed by alert or wary animals
-
-- **Success:** The character locates and successfully approaches suitable game, gaining an advantageous position (such as surprise or optimal range).
-- **Failure:** No suitable opportunity presents itself, or the prey escapes before an effective attempt can be made.
-- **Failure by 5 or more:** The prey is alerted early, and the character may start at a disadvantage (greater distance, lost trail, or spooked game).
-- **Natural 1:** The character achieves an especially favorable outcome (ideal prey, close range, or multiple animals).
-- **Natural 20:** The attempt goes poorly—game is driven off, conditions worsen, or the hunter exposes themselves to risk.
-
-When hunting in a group, additional unskilled participants may impose penalties at the DM’s discretion, especially when stealth or coordination is important.
+When hunting in groups, unskilled participants may impose penalties or complications at the DM’s discretion, particularly where stealth, discipline, or coordinated movement is required.
 
 ## Hypnotism
-A character with this proficiency can place a willing subject into a relaxed, focused mental state in which they are more receptive to suggestion and recall. The subject must be willing, aware they are being hypnotized, and able to communicate with the hypnotist.
+A character with this proficiency can place a willing subject into a relaxed, focused mental state in which they are more receptive to calm suggestion and structured recall. The subject must be willing, aware they are being hypnotized, and able to communicate with the hypnotist. The process requires approximately five minutes in a calm and non-threatening environment. Once induced, the subject becomes more receptive to suggestion but is not compelled, and will generally accept calm, reasonable guidance that is not immediately dangerous or strongly contrary to their beliefs or alignment.
 
-The process requires approximately five minutes in a calm environment.
+A proficiency check is required when attempting complex or uncertain effects, when working with significant psychological resistance, or when the outcome has meaningful narrative impact.
 
-Once induced, the subject becomes highly suggestible but not compelled, and will generally accept calm, reasonable guidance that is not immediately dangerous or strongly contrary to their beliefs or alignment.
+Typical applications include assisting a subject in recalling forgotten or obscured memories, reducing fear responses in prepared situations, or helping a subject address habits or compulsive behaviours through guided reflection.
 
-A proficiency check is required when attempting complex, uncertain, or resistant effects, or when the outcome has significant narrative impact.
-
-Typical uses include:
-
-- Assisting a subject in recalling forgotten or repressed memories
-- Reducing fear responses in a prepared situation
-- Helping a subject overcome habits or compulsive behaviors (non-magical in nature)
-- **Success:** The suggested effect takes hold as intended, and the subject accepts or integrates the guidance for the duration of relevance.
-- **Failure:** No meaningful effect is achieved, though the subject remains unharmed and aware.
-- **Failure by 5 or more:** The subject resists the attempt and may become distrustful or unsettled.
-- **Natural 1:** The suggestion takes hold with exceptional clarity or lasting psychological reinforcement (at DM discretion).
-- **Natural 20:** The attempt is counterproductive, causing confusion, distrust, or emotional disruption.
-
-Hypnotism cannot grant new abilities, alter physical or magical conditions, or impart knowledge the subject could not plausibly access. It cannot duplicate magical compulsion or mind-control effects such as charm or domination; it functions only through suggestion, focus, and guided recall.
+Hypnotism cannot grant new abilities, alter physical or magical conditions, or impart knowledge the subject could not plausibly access. It does not duplicate magical compulsion or mind-control effects such as charm or domination, functioning only through suggestion, focus, and guided recall.
 
 ## Information Gathering
-A character with this proficiency is skilled at obtaining information through informal networks, street contacts, criminal elements, and other underworld or non-official sources.
+A character with this proficiency is skilled at obtaining information through informal networks, street contacts, criminal elements, and other non-official or underworld sources. In areas where the character has established contacts or familiarity (“territory”), they can reliably obtain general rumours and commonly circulating information about notable figures, places, or events without requiring a proficiency check, provided such information is reasonably available within their local networks.
 
-In areas where the character has established contacts or familiarity (“territory”), they can reliably learn general rumors and common knowledge about notable figures, places, or events without requiring a proficiency check, provided such information is reasonably circulating.
+A proficiency check is required when seeking specific, sensitive, or concealed information, when operating outside the character’s established network or territory, when attempting to verify rumours or distinguish truth from misinformation, or when working under time pressure or hostile conditions. Accessing information typically requires time spent making inquiries and engaging contacts. The DM may determine that some subjects simply cannot be accessed through informal channels.
 
-A proficiency check is required when:
+Charisma-based reaction adjustments may influence the willingness of contacts to assist or cooperate.
 
-- Seeking specific, sensitive, or concealed information
-- Operating outside the character’s established network or territory
-- Attempting to verify rumors or distinguish truth from misinformation
-- Working under time pressure or hostile conditions
-
-Accessing information typically requires time spent making inquiries and maintaining contacts. The DM may determine that some subjects simply have no available information through normal channels.
-
-- **Success:** The character obtains accurate and useful information at the desired level of specificity.
-- **Failure:** No useful information is obtained, though no contacts are compromised.
-- **Failure by 5 or more:** Misinformation is obtained, or sources prove unreliable in a misleading way.
-- **Natural 1:** The character uncovers unusually valuable or unexpectedly deep information.
-- **Natural 20:** The attempt draws unwanted attention, or sources become suspicious or hostile.
-
-Charisma-based reaction adjustments may influence the ease of obtaining cooperation from contacts.
-
-In unfamiliar regions, the character operates at reduced efficiency, reflecting lack of established networks and cultural familiarity.
-
-Spending money on bribes, drinks, or favors improves access at the DM’s discretion and may reduce difficulty rather than being a mandatory requirement.
+In unfamiliar regions, the character operates at reduced effectiveness due to lack of established networks and cultural familiarity. At the DM’s discretion, expenditure of money or favours may improve access or reduce difficulty by improving contact responsiveness rather than functioning as a mandatory requirement.
 
 ## Intimidation
-A character with this proficiency is skilled at using threats, presence, or implied consequences to influence behavior through fear or coercion.
-
-Intimidation may be attempted using either Strength (direct physical menacing) or Charisma (implied threat, reputation, or psychological pressure), depending on the approach.
-
-In appropriate circumstances, intimidation can reliably produce short-term compliance with simple requests (such as yielding passage, surrendering minor items, or backing down from confrontation), without requiring a proficiency check.
+A character with this proficiency is skilled at using threats, physical presence, or implied consequences to influence behaviour through fear or coercion. Intimidation may be attempted using either Strength (direct physical menace) or Charisma (implied threat, reputation, or psychological pressure), depending on the approach. In appropriate circumstances, intimidation can produce short-term compliance with simple requests (such as yielding passage, surrendering minor items, or backing down from confrontation) without requiring a proficiency check.
 
 A proficiency check is required when attempting to influence uncertain, resistant, or significant outcomes, or when maintaining control over a tense or ongoing situation.
 
-- **Success:** The target becomes coerced, cautious, or compliant regarding the immediate demand. They are likely to comply in the short term but may harbor resentment or seek reprisal later.
-- **Failure:** The target is not meaningfully influenced, though may still be wary.
-- **Failure by 5 or more:** The attempt backfires, increasing resistance, hostility, or triggering immediate opposition depending on circumstances.
-- **Natural 1:** The target is cowed significantly, resulting in strong compliance or avoidance beyond the immediate situation.
-- **Natural 20:** The attempt provokes defiance, escalation, or public resistance despite the threat.
-
-Player characters are never forced to comply with intimidation effects; such interactions should be resolved through roleplay rather than mechanical compulsion.
+Player characters are never mechanically compelled to comply with intimidation; outcomes should always be resolved through role-play and DM adjudication rather than enforced control.
 
 ## Investigation
-A character with this proficiency is trained in the systematic gathering and analysis of information through observation, questioning, and logical inference. This includes examining scenes, interviewing witnesses, and reconstructing sequences of events.
+A character with this proficiency is trained in the systematic gathering and analysis of information through observation, questioning, and logical inference. This includes examining scenes, interviewing witnesses, and reconstructing sequences of events. In most situations where relevant information is available, the character can identify and interpret obvious clues without requiring a proficiency check, provided they take reasonable time to search, observe, or inquire.
 
-In most situations where clues or relevant information are available, the character can identify and interpret basic evidence without requiring a proficiency check, provided they take reasonable time to search or inquire.
+A proficiency check is required when attempting to uncover subtle or concealed details, when drawing conclusions from incomplete, contradictory, or misleading evidence, when working under time pressure, or when attempting to reconstruct complex sequences of events from partial information.
 
-A proficiency check is required when:
-
-- Attempting to uncover subtle, concealed, or easily overlooked details
-- Drawing conclusions from incomplete, contradictory, or misleading evidence
-- Conducting time-sensitive or high-pressure inquiries
-- Attempting to reconstruct events from complex or partially obscured scenes
-
-- **Success:** The character correctly identifies meaningful clues and draws a valid or useful conclusion from available evidence.
-- **Failure:** No reliable conclusion is reached, though basic observations may still be made.
-- **Failure by 5 or more:** The character draws an incorrect or misleading conclusion based on the evidence.
-- **Natural 1:** The character uncovers especially revealing insight or connects disparate evidence correctly in an unexpected way.
-- **Natural 20:** The character misinterprets key evidence in a way that leads to a strongly incorrect conclusion.
-
-The DM should not require a proficiency check simply to notice obvious clues; this proficiency is intended to support interpretation and structured reasoning, not replace perceptual awareness or basic description of the environment.
+The DM should not require a proficiency check merely to notice obvious clues; this proficiency governs interpretation and structured reasoning rather than basic perception or environmental awareness.
 
 ## Jousting
-A character with this proficiency is trained in the etiquette, presentation, and performance expected in formal jousting tournaments. A character must have proficiency in the use of the lance to take this proficiency.
+A character with this proficiency is trained in the etiquette, presentation, and competitive technique expected in formal jousting tournaments. A character must have proficiency in the use of the lance to select this proficiency. In structured jousting contests, the character is considered highly competent and may apply their training to improve performance outcomes, timing, and controlled presentation during a match.
 
-In structured jousting contests, the character is considered highly competent and may apply their skill to improve performance outcomes.
+A proficiency check is required when performance is formally judged or when determining the character’s ability to gain advantage through timing, control, or presentation within the contest structure.
 
-A proficiency check is required when the quality of performance is being evaluated, or when determining the character’s ability to gain advantage through timing, control, or presentation during a match.
-
-- **Success:** The character performs effectively and with notable style, gaining a favorable outcome in the match and impressing observers.
-- **Failure:** The character performs adequately but without distinction; no special advantage or impression is gained.
-- **Failure by 5 or more:** The performance is notably poor, resulting in a disadvantageous impression or weakened standing in the contest.
-- **Natural 1:** The character performs exceptionally well, achieving a standout victory or display that strongly enhances reputation.
-- **Natural 20:** The character performs disastrously, suffering a humiliating outcome or serious loss of standing.
-
-A character who performs successfully in a joust may improve the reactions of interested observers (such as nobility, patrons, or spectators) who later encounter them. This typically results in a positive shift in social regard for the duration of the tournament or event.
-
-Repeated success reinforces reputation, but repeated failure or inconsistency may diminish or negate this effect at the DM’s discretion.
+A character who performs successfully in a joust may improve the reactions of relevant observers such as nobility, patrons, or spectators who witness the event. This typically results in a favourable shift in social regard for the duration of the tournament or related interactions at the DM’s discretion. Repeated success may reinforce reputation, while repeated failure may diminish or negate this effect.
 
 ## Juggling
-A character with this proficiency is skilled in the manipulation of multiple objects in motion, including for entertainment, distraction, and practical coordination tasks.
-
-When performing routine juggling for entertainment or distraction, no proficiency check is required.
+A character with this proficiency is skilled in the manipulation of multiple objects in motion, including for entertainment, distraction, and practical coordination tasks. When performing routine juggling for entertainment or distraction, no proficiency check is required.
 
 A proficiency check is required when attempting complex, risky, or highly precise juggling feats, such as performing under pressure, executing elaborate tricks, or maintaining control in distracting or unstable conditions.
 
-- **Success:** The character successfully performs the intended feat with control and style.
-- **Failure:** The attempt fails gracefully or clumsily, resulting in dropped or mismanaged objects but no additional consequence unless the situation dictates otherwise.
-- **Failure by 5 or more:** The failure is disruptive or hazardous, potentially causing loss of control or unintended consequences in a tense situation.
-- **Natural 1:** The performance is exceptionally impressive or unexpectedly successful.
-- **Natural 20:** The attempt goes badly wrong in a conspicuous or embarrassing way.
+**Catching and Deflecting**
+A character with this proficiency may also attempt to react to small, thrown objects in their immediate vicinity (such as darts, daggers, or similarly sized items) if they are aware of the attack, have at least one hand free and unobstructed, and have not already acted in the current round. This use of the proficiency replaces any other action the character would have taken during that combat round. The character may not attack, cast, or perform other significant actions in the same round when attempting this reaction.
 
-**Reactive Use (Catching Thrown Objects)**
-A character with this proficiency can attempt to react to small, thrown objects in their immediate vicinity (such as darts, daggers, or similarly sized items) if they are aware of the attack.
+The attempt is resolved as a proficiency check representing timing, coordination, and improvised interception.
 
-Instead of treating this as a separate combat subsystem, the character may attempt a proficiency check to intercept or deflect the object using improvised motion and timing.
-
-- **Success:** The object is successfully deflected or caught, negating its effect.
-- **Failure:** The object strikes normally.
-- **Failure by 5 or more:** The attempt worsens the outcome, potentially exposing the character to full effect or additional disadvantage.
-
-This ability does not function against large, fast, or unexpected attacks, nor does it replace normal combat defenses.
+This ability does not function against large, high-velocity, or unexpected attacks, and does not replace normal combat defences or positioning.
 
 ## Jumping
-A character with this proficiency is trained in performing controlled leaps, bounds, and vaults beyond normal human limits.
+A character with this proficiency is trained in performing controlled leaps, bounds, and vaults, allowing greater reliability and precision in situations involving horizontal or vertical movement through the air. In most circumstances, a character may attempt jumps appropriate to their Strength, momentum, and environmental conditions without requiring a proficiency check. The DM adjudicates routine distances and outcomes based on physical context.
 
-In most situations, a character can attempt reasonable jumps appropriate to their Strength, momentum, and environmental conditions without requiring a proficiency check. The DM adjudicates basic distances using common sense and physical context.
-
-A proficiency check is required when attempting exceptional, risky, or highly precise jumps, including clearing significant gaps, landing in constrained areas, or performing jumps under stress or combat conditions.
-
-- **Success:** The character successfully completes the jump as intended, reaching the target area or clearing the obstacle with control.
-- **Failure:** The character fails to complete the jump safely or fully, resulting in a fall, short landing, or loss of position as appropriate to the situation.
-- **Failure by 5 or more:** The failure is severe, resulting in a dangerous fall, collision, or compromised position.
-- **Natural 1:** The character achieves an exceptional athletic feat beyond expectation, successfully completing an especially difficult jump or landing with perfect control.
-- **Natural 20:** The attempt goes catastrophically wrong, resulting in a particularly dangerous or awkward failure.
+A proficiency check is required when attempting exceptional, risky, or highly precise jumps, including clearing unusually large gaps, landing in space restricted or unstable areas, or performing jumps under combat stress or environmental disruption.
 
 **Pole Vaulting**
-When using a pole or similar implement, the character may attempt extended vaulting maneuvers across obstacles or gaps.
+A character proficient in jumping may also use a suitable pole or similar implement to attempt extended vaulting manoeuvres over obstacles or gaps that would otherwise be impassable by normal jumping.
 
-A pole must be appropriately sized for safe use and provides leverage for extended movement or elevation. The character may attempt to clear or traverse obstacles using a single jump action with a proficiency check when precision or risk is significant.
+The pole must be appropriately sized and structurally sound. It provides leverage for extended movement but does not remove the need for momentum or safe landing conditions.
 
-- **Success:** The character successfully vaults the obstacle and lands safely as intended.
-- **Failure:** The character loses control during the vault and fails to clear or land properly.
-- **Failure by 5 or more:** The character is thrown off balance mid-vault, resulting in a fall or hazardous landing.
+A proficiency check is required when the vault involves significant risk, tight clearance, or unusual distance. 
 
 ## Languages, Ancient
-The character is trained in a rare and archaic language now primarily preserved in ancient texts, scholarly commentaries, and arcane writings.
+A character with this proficiency is trained in one or more rare and archaic languages now primarily preserved in ancient texts, scholarly commentaries, and arcane writings. These languages are most commonly encountered in historical works, inscriptions, spellbooks, and esoteric or ritualized documentation. The character may choose to be proficient in either reading and writing or spoken comprehension of the language. The second form may be learned by spending an additional proficiency slot or through extended study, at the DM’s discretion. In routine circumstances, the character can translate or understand clear passages of the language without requiring a proficiency check, provided the text or speech is reasonably intact and context is available.
 
-This language is most commonly encountered in historical tomes, spellbooks, inscriptions, and works of esoteric or magical scholarship.
-
-The character can choose to be proficient in either reading and writing or spoken comprehension of the language. The second form may be learned by spending an additional proficiency slot or through extended study, at the DM’s discretion.
-
-In most cases, routine use of the language does not require a proficiency check. However, a check may be required when:
-
-- Interpreting ambiguous, corrupted, or fragmentary texts
-- Deciphering highly technical or symbolically dense arcane writing
-- Understanding obscure dialectal or historically distant forms of the language
-
-- **Success:** The character correctly interprets the intended meaning.
-- **Failure:** The meaning remains unclear or only partially understood.
-- **Failure by 5 or more:** The character misinterprets the text in a meaningful way.
-- **Natural 1:** The character extracts unusually deep or insightful understanding.
-- **Natural 20:** The character draws a confident but incorrect interpretation.
+A proficiency check is required when interpreting corrupted, fragmentary, or ambiguous material, when dealing with highly symbolic or technical arcane usage, or when attempting to reconstruct meaning from obscure or historically distant dialects.
 
 ## Languages, Modern
-The character has learned to speak and understand a living language of the known world. Learning a language requires access to a teacher or regular immersion in an environment where the language is commonly spoken.
+A character with this proficiency has learned to speak and understand a living language of the known world. Learning a language requires access to a teacher or regular immersion in an environment where the language is commonly spoken. Once learned, the character can speak and understand the language fluently in ordinary circumstances. No proficiency check is required for normal communication.
 
-Once learned, the character can speak, and understand, the language fluently in ordinary circumstances.
-
-No proficiency check is required for normal communication.
-
-Checks may only be required in *exceptional* cases, such as interpreting highly technical, archaic, or heavily idiomatic usage, or when dealing with corrupted, obscured, or incomplete forms of the language. The character's native language *never* requires checks.
-
-- **Success:** The intended meaning is correctly understood or conveyed.
-- **Failure:** Meaning is only partially understood or conveyed.
-- **Failure by 5 or more:** A significant misunderstanding occurs.
-- **Natural 1:** An unusually insightful or precise interpretation is achieved.
-- **Natural 20:** A confident but incorrect interpretation is made.
+A proficiency check is only required in exceptional circumstances, such as interpreting highly technical, archaic, idiomatic, corrupted, or incomplete usage of the language, or when attempting to understand speech under significant distortion or obstruction. The character’s native language never requires a proficiency check.
 
 ## Law
+A character with this proficiency is thoroughly familiar with the legal system of one region of their choice, including common statutes, enforcement practices, and routine legal procedures such as filing complaints, resolving disputes, or pursuing claims against debtors. The character understands that legal strictness and interpretation may vary significantly between jurisdictions. In routine circumstances, the character can correctly identify applicable laws, standard procedures, and typical legal outcomes without requiring a proficiency check.
 
-A character with this proficiency is thoroughly familiar with the legal system of his homeland (or any other region of his choice). He knows which laws are rigorously enforced (illegal gambling may be tolerated in one region, aggressively prosecuted in another), and routine legal procedures (such as how to file suit against a debtor). Understanding nuances of the law, such as interpreting fine points of a contract, require proficiency checks.
+A proficiency check is required when interpreting ambiguous statutes, navigating unusual legal situations, dealing with complex contracts, or operating under significant uncertainty or time pressure.
 
-A successful proficiency check also allows the character to conduct a strong defense when he or a companion stands accused of a crime. If the judge is fair-minded and the evidence of the crime is ambiguous, a successful check will sway the verdict in the defendant's favor; either he receives the smallest possible sentence or fine, or is completely vindicated. However, if the evidence clearly calls for a conviction or the judge is corrupt, a successful proficiency check won't help.
+Additional proficiency slots may be spent to gain familiarity with the legal systems of other regions, or to specialize in a specific field of law such as taxation, property, or contract law. Specialization reduces the need for checks in routine matters within that domain.
 
-A character may spend additional slots to know the legal systems of other regions. Alternately, he may spend slots to acquire expertise in a particular area of the law, such as tax codes or property rights. Expertise assumes a broad understanding of the chosen area, requiring checks only in extreme instances.
-
-**Note:** A paladin with the Law proficiency won't defend anyone he believes to be guilty, including his own companions. Though a paladin won't knowingly break the law, he may take advantage of this proficiency to defend himself if wrongly accused of a crime; a failed defense may result in his conviction.
-
-**POSM**
-Uses Intelligence instead of Wisdom
+A character with this proficiency may refuse to use it in defence of actions they personally judge to be unlawful or unjust (for role-playing consistency.)
 
 ## Leatherworking
-A character with this proficiency is skilled in the tanning, treating, cutting, and shaping of leather for practical use.
+A character with this proficiency is skilled in the tanning, treating, cutting, and shaping of leather for practical use. In routine circumstances, the character can produce and repair standard leather goods—such as clothing, belts, packs, saddlebags, harnesses, and similar items—without requiring a proficiency check, provided appropriate materials and tools are available.
 
-The character can produce standard leather goods such as clothing, belts, backpacks, saddlebags, saddles, harnesses, and similar items. The creation of basic items does not normally require a proficiency check, provided appropriate materials and tools are available.
+A proficiency check is required when producing unusually fine, reinforced, or specialized items, working with difficult or exotic hides, constructing fitted or protective gear such as leather armour, or working under time pressure or adverse conditions.
 
-A proficiency check is required when:
-
-- Producing unusually fine, reinforced, or specialized leatherwork
-- Working with difficult, exotic, or degraded hides
-- Attempting complex construction such as fitted armor or high-quality gear under time pressure or unusual conditions
-
-- **Success:** The item is successfully completed to the intended standard of quality.
-- **Failure:** The item is usable but flawed, inferior in quality, or less durable than intended.
-- **Failure by 5 or more:** The item is significantly defective or unusable.
-- **Natural 1:** The work is exceptionally well made, exceeding normal quality expectations.
-- **Natural 20:** The item is fundamentally flawed despite effort, resulting in failure or wasted materials.
-
-Leather armor and other complex items fall under normal use of this proficiency and may require checks only when quality, time pressure, or unusual materials are involved.
+Leather armour and other fitted or protective gear fall within the scope of this proficiency, but may require checks depending on quality expectations, materials, and working conditions.
 
 ## Local History
-The character is intimately familiar with the stories, legends, and notable events of a specific region (typically their homeland or current area of residence).
+A character with this proficiency is intimately familiar with the stories, legends, notable events, and prominent figures of a specific region, typically their homeland or current area of residence. In routine circumstances, the character automatically knows commonly told tales, well-known locations, major historical events, and widely circulated rumours of the region. The DM should provide such information when it is relevant.
 
-The character is assumed to know commonly told tales, notable locations, prominent figures, and widely circulated rumours of the region without the need for a proficiency check. The DM should provide such information when it is relevant.
+A proficiency check is required when recalling obscure, contradictory, or long-forgotten details, or when attempting to piece together accurate information from fragmentary or unreliable sources.
 
-When dealing with obscure, contradictory, or long-forgotten details, the character may make a proficiency check to recall or piece together accurate information.
-
-The character is also a practiced storyteller. When recounting local tales to a receptive audience, they may gain a +2 bonus to Charisma for the encounter.
+The character is also a practiced storyteller. When recounting local tales or histories to a receptive audience, they may gain a +2 bonus to Charisma for the encounter, provided the audience has some cultural or regional connection to the material.
 
 ## Locksmithing
-A character with this proficiency is trained in the design, construction, and repair of mechanical locks and securing mechanisms.
+A character with this proficiency is trained in the design, construction, and repair of mechanical locks and securing mechanisms. In routine circumstances, the character can construct, maintain, and repair standard locks without requiring a proficiency check, provided appropriate tools and materials are available.
 
-The character can construct standard locks and locking mechanisms given appropriate tools and materials. Routine lock construction and repair does not require a proficiency check.
+A proficiency check is required when designing unusually complex, high-security, or specialized mechanisms, working with damaged or unfamiliar components, or attempting construction under time pressure or adverse conditions.
 
-A proficiency check is required when:
-
-- Designing unusually complex, high-security, or specialized locking mechanisms
-- Working with damaged, unfamiliar, or unconventional lock components
-- Attempting to create locks under time pressure or unusual conditions
-
-- **Success:** The lock is successfully constructed or repaired to the intended standard.
-- **Failure:** The lock functions but is flawed, less secure, or unreliable.
-- **Failure by 5 or more:** The mechanism is defective or nonfunctional.
-- **Natural 1:** The lock is exceptionally well made or unexpectedly secure.
-- **Natural 20:** The mechanism is fundamentally flawed despite effort, resulting in failure or compromised security.
-
-Thieves with this proficiency gain a 10% bonus to their lockpicking skill when interacting with mechanical locks, reflecting their understanding of internal mechanisms.
+This proficiency governs the creation and understanding of locking mechanisms, not the ability to bypass them in the field. However, thieves with this proficiency gain a +10% bonus to Open Locks when working with mechanical locks, reflecting their familiarity with their internal construction and design.
 
 ## Looting
-A character with this proficiency is skilled at quickly identifying and retrieving the most valuable or useful items from a location under time pressure.
+A character with this proficiency is skilled at rapidly assessing and prioritizing items of value or utility when searching an area, particularly under time pressure. In routine conditions, where there is sufficient time and no immediate danger, the character can automatically identify and collect the most obviously valuable, portable, or situationally useful items present. No proficiency check is required for careful or methodical looting.
 
-Given sufficient opportunity to search an area without immediate interruption, the character can automatically recognize and prioritize valuable, portable, or situationally useful items appropriate to the environment. No proficiency check is required under normal conditions where time and safety are not significant constraints.
+A proficiency check is required when time is limited, when the environment is hazardous or unstable, or when the character must make rapid decisions about what to take and what to leave behind.
 
-A proficiency check is required when time is severely limited, when the environment is hazardous or actively threatened, or when the character must make rapid decisions about what to take and what to leave behind.
-
-- **Success:** The character successfully identifies and gathers the most valuable or useful items available within the constraints of time, space, and access.
-- **Failure:** The character retrieves a mixed or suboptimal selection of items, potentially missing more valuable or useful objects in the process.
-- **Failure by 5 or more:** The character prioritizes poorly, overlooking significant valuables or wasting time on low-value or cumbersome items.
-- **Natural 1:** The character makes exceptionally efficient choices, acquiring unusually valuable or useful items beyond what would normally be expected in the available time.
-- **Natural 20:** The character’s haste or misjudgment leads them to focus on items that appear valuable but are actually misleading, cursed, or significantly less useful than they seem, at the DM’s discretion.
-
-The amount of time available determines how much of an area can be effectively searched and looted, ranging from a single room under extreme pressure to a larger space if conditions allow.
+This proficiency affects the quality of choices made during looting, not the ability to locate hidden objects or bypass protections, which are governed by other proficiencies or abilities.
 
 ## Mental Resistance
-A character with this proficiency has undergone disciplined mental training designed to resist magical and psionic intrusion, including charm, fear, domination, illusion, and other forms of direct mental influence.
+A character with this proficiency has undergone disciplined mental training designed to resist magical and psionic intrusion, including charm, fear, domination, illusion, and other effects that directly influence thought, perception, or emotion. The character gains a +1 bonus to saving throws against effects that directly target the mind or emotions, provided the effect normally allows a saving throw. This includes most charm and fear effects, mind-affecting spells, and psionic attacks that permit resistance through willpower or mental discipline.
 
-The character gains a +1 bonus to saving throws against effects that directly target the mind or emotions, provided the effect normally allows a saving throw. This includes most charm and fear effects, mind-affecting spells, and psionic attacks that permit resistance through willpower or mental fortitude.
+This proficiency does not apply to effects that do not *directly* influence the mind, such as physical transformations, purely sensory hazards, or environmental dangers, even if magical in origin.
 
-This proficiency does not protect against effects that do not directly target the mind, nor does it apply to physical transformations or purely environmental hazards, even if those effects are magical in origin.
-
-A proficiency check is not normally required for passive resistance. However, the DM may call for a check when the character attempts to actively steel their mind against an ongoing or escalating mental assault, or when resisting repeated or particularly overwhelming intrusions.
-
-- **Success:** The character resists the mental intrusion and maintains clarity of thought, potentially negating additional effects or complications at the DM’s discretion.
-- **Failure:** The character resists only partially, suffering the normal effects of the attack without additional benefit.
-- **Failure by 5 or more:** The character’s focus collapses under pressure, and they may suffer heightened or extended effects as determined by the DM.
-- **Natural 1:** The character achieves exceptional mental clarity, potentially gaining insight into the nature or source of the intrusion.
-- **Natural 20:** The character’s mental defenses fail catastrophically, and the intrusive effect may be treated as though it were particularly effective or well-aimed, at the DM’s discretion.
+A proficiency check is not normally required. However, the DM may call for a check when the character attempts to actively resist an ongoing or escalating mental effect, such as maintaining control under sustained influence, resisting repeated attempts at domination, or pushing through fear or illusion to act with clarity.
 
 ## Mining
-A character with this proficiency is trained in the location, development, and supervision of mining operations, including the identification of ore-bearing or gem-bearing regions and the establishment of viable extraction sites.
+A character with this proficiency is trained in the location, evaluation, and supervision of mining operations, including the identification of ore- or gem-bearing regions and the establishment of viable extraction sites. In routine circumstances, the character can recognize favorable geological features, assess general terrain for mining potential, and oversee basic excavation work without requiring a proficiency check.
 
-The character can assess natural terrain over time to determine what minerals are likely to be present in an area. This requires a prolonged survey of the land (typically at least one week per four square miles of terrain, though the DM may extend this based on conditions or terrain complexity). At the end of this period, the character can make an informed assessment of the types of valuable resources that are likely to be found within the surveyed region, if any.
+A more thorough survey of a region requires time and observation, typically at least one week per four square miles of terrain, though this may vary based on conditions and terrain complexity. At the end of this period, the DM determines whether valuable resources are present. If so, a proficiency check is required to identify the most promising location for extraction.
 
-The DM determines what resources, if any, are actually present in the area. If resources exist, a proficiency check is required to identify the most promising location for a mining operation.
-
-- **Success:** The character identifies an optimal or highly productive site for mining within the surveyed area.
-- **Failure:** The character selects a site that appears promising but is inefficient or unproductive, potentially resulting in wasted time and resources before the error becomes apparent.
-- **Failure by 5 or more:** The character selects a fundamentally poor site with little or no viable yield, despite initial indications suggesting otherwise.
-- **Natural 1:** The character identifies an exceptionally rich or efficient mining site, exceeding normal expectations for the region.
-- **Natural 20:** The character misjudges the site in a critically misleading way, resulting in extensive investment into a location that appears viable but proves disastrously unproductive.
-
-Once a mining operation is established, a character with this proficiency is required to supervise its ongoing development and operation. If the character is absent for extended periods, the DM may determine that efficiency decreases or complications arise, depending on the scale and complexity of the mine.
+A character with this proficiency is also capable of supervising ongoing mining operations. In routine conditions, this ensures stable and efficient work. If supervision is absent or conditions deteriorate, the DM may require additional checks or determine that productivity declines or complications arise.
 
 ## Mountaineering
-A character with this proficiency is trained in the techniques required to ascend steep, unstable, or hazardous terrain using ropes, spikes, and other climbing equipment.
+A character with this proficiency is trained in the techniques required to ascend steep, unstable, or hazardous terrain using ropes, spikes, and other climbing equipment. With appropriate equipment and preparation, the character can attempt climbs that would otherwise be impassable, including cliffs, steep slopes, ice faces, and similar terrain. Mountaineering relies on technique, planning, and gear rather than innate climbing ability. In routine conditions, the character can establish safe climbing routes, secure basic anchors, and guide themselves or others through prepared ascents without requiring a proficiency check.
 
-When properly equipped with basic climbing gear, the character can attempt ascents of cliffs, steep slopes, ice faces, and similar terrain that would otherwise be impassable to most characters. Mountaineering is distinct from innate climbing abilities, as it relies on equipment, preparation, and technique rather than physical agility alone.
+A proficiency check is required when conditions are particularly dangerous or uncertain, such as unstable surfaces, poor weather, compromised equipment, time pressure, or particularly exposed or complex routes.
 
-A character with this proficiency may also guide others during a climb. When leading a group, the character can secure anchors, place pitons, and direct movement, allowing other characters to benefit from their expertise.
-
-A proficiency check is required when conditions are especially dangerous, when equipment is inadequate or compromised, when the surface is unusually unstable or difficult, or when the party is attempting a particularly rapid or exposed ascent.
-
-- **Success:** The character successfully completes the climb or safely guides the party through the ascent without incident.
-- **Failure:** The climb is completed only with difficulty, or the party makes slow or precarious progress, at the DM’s discretion.
-- **Failure by 5 or more:** The character misjudges conditions or placement of gear, resulting in a fall, partial collapse, or other significant climbing hazard affecting one or more climbers.
-- **Natural 1:** The character discovers an unexpectedly efficient route or secure anchoring points, allowing unusually safe or rapid progress.
-- **Natural 20:** The character makes a critical error in judgment or placement of equipment, resulting in a sudden and dangerous failure of support or route stability at the worst possible moment.
-
-Characters benefiting from a mountaineer’s guidance may attempt climbs that would otherwise be impossible, provided sufficient time, equipment, and preparation are available.
+Mountaineering allows a character to prepare and manage climbs that would otherwise be impossible, but does not eliminate risk, particularly in extreme environments or when supporting untrained companions.
 
 ## Musical Instrument
-A character with this proficiency is trained in the skilled performance of one or more musical instruments.
+A character with this proficiency is trained in the skilled performance of one or more musical instruments. Additional instruments may be learned by allocating further proficiency slots. In routine circumstances, the character can perform competently without requiring a proficiency check. This includes rehearsed pieces, casual performance, accompaniment, and most situations where no unusual pressure or distraction is present.
 
-Each time this proficiency is taken, the character gains competence with a single instrument. Additional instruments may be learned by allocating further proficiency slots.
-
-In normal circumstances, the character can perform competently without requiring a proficiency check. This includes rehearsed performances, casual playing, and most situations where no significant pressure or distraction is present.
-
-A proficiency check is required when the performance is attempted under unusual stress, during combat or other high-pressure situations, when attempting complex or unfamiliar compositions, or when the performance is intended to achieve a specific social or dramatic effect beyond simple entertainment.
-
-- **Success:** The character delivers a performance that is appropriately skilled and effective for the situation, achieving its intended social or atmospheric impact.
-- **Failure:** The performance is adequate but uninspiring or flawed, failing to achieve any significant special effect or audience response.
-- **Failure by 5 or more:** The performance is noticeably poor, potentially causing embarrassment, loss of credibility, or an adverse reaction from the audience at the DM’s discretion.
-- **Natural 1:** The performance is exceptionally moving or impressive, producing an unusually strong positive reaction or memorable effect.
-- **Natural 20:** The performance is severely flawed in an obvious and disruptive way, drawing negative attention or causing unintended consequences, such as ridicule or hostility, at the DM’s discretion.
+A proficiency check is required when performing under adverse or distracting conditions, attempting complex or unfamiliar compositions, or when the performance is intended to influence an audience, create a specific emotional response, or achieve a particular social or dramatic effect.
 
 ## Navigation
-A character with this proficiency is trained in the techniques of navigation at sea, including the use of stars, celestial positioning, ocean currents, wind patterns, and environmental signs to determine direction and avoid hazards.
+A character with this proficiency is trained in the techniques of maritime navigation, including the use of stars, celestial positioning, ocean currents, wind patterns, and environmental signs to determine direction and avoid hazards. This proficiency applies in maritime or coastal environments where such methods are meaningful, and does not *normally* apply to overland travel. In routine conditions, a proficient character can maintain a vessel’s general course, determine direction, and avoid becoming lost without requiring a proficiency check, provided adequate reference points (such as stars, coastline, or consistent conditions) are available.
 
-This proficiency is only applicable in maritime or coastal environments where celestial or environmental navigation is meaningful. It has no practical application on land.
+A proficiency check is required when navigating under uncertain or adverse conditions, such as poor visibility, unfamiliar waters, disrupted weather patterns, lack of reliable reference points, or when attempting to determine an accurate course over long distances.
 
-When navigating at sea, a proficient character can guide a vessel or group to reduce the likelihood of becoming lost or drifting off course. A proficiency check is required when conditions are uncertain, when visibility is poor, when instruments or reference points are unavailable, or when the voyage passes through unfamiliar or hazardous waters.
-
-- **Success:** The character maintains accurate navigation, reducing the chance of becoming lost by 20 percent for the journey or navigation period, as determined by the DM.
-- **Failure:** The character’s navigation is unreliable, and no reduction to the chance of becoming lost is gained.
-- **Failure by 5 or more:** The character misinterprets environmental or celestial cues, increasing the chance of becoming lost by 20 percent or leading the vessel significantly off course, at the DM’s discretion.
-- **Natural 1:** The character achieves exceptional navigational insight, potentially identifying optimal routes, safe passages, or favorable currents that significantly improve travel conditions.
-- **Natural 20:** The character makes a critical navigational error that appears correct, leading the vessel toward dangerous waters, delays, or hidden hazards, at the DM’s discretion.
+Navigation allows the character to determine direction and general position, but does not reveal unknown destinations, hidden hazards, or precise locations without supporting information or observation.
 
 ## Observation
-The character has trained and heightened all-around sensory awareness, allowing him to notice subtle inconsistencies in his surroundings that others would normally overlook.
+The character has trained and heightened all-around sensory awareness, allowing them to notice subtle inconsistencies in their surroundings that others might overlook. In routine circumstances, the character automatically notices obvious irregularities, environmental details, or sensory cues that would be apparent to a careful observer, without requiring a proficiency check.
 
-The DM may call for a proficiency check (or roll secretly) whenever something in the environment is unusual, out of place, or subtly indicative of hidden information. Success indicates the character correctly notices a relevant detail, such as signs of recent activity, inconsistencies in objects or materials, or faint traces of concealed mechanisms like secret doors. The proficiency applies to all senses, not just sight.
+A proficiency check may be called for by the DM—or attempted by the player—when something is deliberately concealed, unusually subtle, or easily overlooked, such as faint signs of tampering, inconsistencies in materials, hidden disturbances, or traces of concealed mechanisms. The proficiency applies to all senses, not just sight.
 
-In addition, the character gains a +1 in 6 chance to detect secret or concealed doors when actively searching.
+When actively searching for secret or concealed doors, the character gains a +1 in 6 bonus to any detection chance, as appropriate to the system being used.
 
-This proficiency is not intended to replace player attention or general caution; it represents the occasional additional insight gained from heightened awareness rather than constant detection of clues.
+This proficiency does not replace player description or deliberate investigation; it represents occasional additional insight rather than constant detection of hidden elements.
 
 ## Omen Reading
-A character with this proficiency is trained in the interpretation of signs, symbols, and ritualized divinatory practices used to form vague insights about future events or the likely outcomes of proposed actions.
+A character with this proficiency is trained in the interpretation of signs, symbols, and ritualized divinatory practices used to gain vague insight into uncertain situations or the potential outcomes of proposed actions. The character is versed in one or more methods of divination, such as astrology, numerology, palm reading, casting bones or runes, examining entrails, or interpreting smoke, flame, or similar phenomena, as determined by their background. In routine circumstances, the character can perform simple readings or interpret symbolic systems without a proficiency check, though such results are general, non-predictive, or culturally conventional in nature.
 
-The character is versed in one or more methods of divination, such as astrology, numerology, palm reading, casting bones or runes, examining entrails, interpreting smoke or flame, or similar cultural or mystical practices. The exact form of divination is defined by the character’s background and preference.
+To gain meaningful insight, the character must perform a divinatory ritual lasting at least one hour and pose a broad question concerning a course of action or uncertain situation. The DM then makes a proficiency check in secret.
 
-To use this proficiency, the character performs a divinatory ritual lasting at least one hour and poses a broad question concerning a potential course of action or uncertain situation. The DM then makes a proficiency check in secret.
-
-If the check succeeds, the DM provides a vague but meaningful indication regarding the situation, such as “favorable,” “unfavorable,” “uncertain,” or similarly ambiguous guidance. The response may also take the form of brief cautionary phrasing such as “proceed with care” or “danger lies ahead,” at the DM’s discretion based on the situation.
-
-If the check fails, the reading yields no reliable insight, and the DM may indicate that the signs are unclear or inconclusive. On a failure by 5 or more, the interpretation may be misleading or incorrectly understood, at the DM’s discretion.
-
-- **Success:** The character receives a vague but useful indication regarding the likely outcome of the question posed.
-- **Failure:** The reading is inconclusive and provides no reliable guidance.
-- **Failure by 5 or more:** The reading is misinterpreted or misleading, potentially leading to incorrect assumptions.
-- **Natural 1:** The character receives an unusually clear or insightful omen, offering especially useful guidance within the limits of ambiguity.
-- **Natural 20:** The character misreads the signs in a way that produces a confidently incorrect interpretation of great clarity, at the DM’s discretion.
-
-Performing a divination ritual requires at least one hour and may require specific tools or materials depending on the character’s chosen method of omen reading. The value of any reading ultimately depends on the DM’s interpretation of the situation and is intended as guidance rather than certainty.
+Omen reading does not provide precise predictions, specific outcomes, or actionable detail, and its results are limited to impressions, warnings, or general tendencies as determined by the DM. The same situation cannot be reliably read multiple times in quick succession, as repeated attempts tend to produce contradictory or meaningless results.
 
 ## Oratory
-A character with this proficiency is trained in the art of persuasive public speaking, using voice, rhetoric, and presence to influence the attitudes and emotions of a group audience.
+A character with this proficiency is trained in the art of persuasive public speaking, using voice, rhetoric, and presence to influence the attitudes and emotions of a group audience. To be affected, the audience must be able to hear and understand the speaker. The character must address a single topic or course of action and speak without significant interruption for at least 10 rounds. In routine circumstances, no proficiency check is required to hold an audience’s attention, deliver a coherent speech, or communicate ideas effectively to a receptive crowd.
 
-To be affected, a crowd must be able to understand the character and clearly hear their speech. The character must address a single topic or course of action and speak without significant interruption for at least 10 rounds.
+A proficiency check is required when attempting to influence the attitudes, morale, or actions of an audience, particularly if the crowd is uncertain, divided, or resistant.
 
-Before the speech begins, the DM determines the size of the audience, their general disposition toward both the speaker and the subject, and may divide large crowds into manageable groups for resolution purposes.
+Oratory affects groups rather than individuals and is limited to outcomes that are reasonable within the audience’s existing beliefs, interests, and circumstances. The DM determines how widely the speech takes effect and which portions of the audience are influenced.
 
-The character may declare an intended shift in attitude before speaking, attempting to move the audience one step toward a more favorable or less favorable disposition, at the DM’s discretion.
-
-A proficiency check is made at the conclusion of the speech. If successful, the DM then determines which individuals or groups are influenced by the oration, typically by resolving an Intelligence check for each group or representative sample, modified by the quality of the orator’s performance.
-
-If the oratory check succeeds, affected listeners may shift their attitude by one step in the intended direction. Those who succeed on their resistance checks are unaffected, though they may still be influenced indirectly through social pressure or group momentum, at the DM’s discretion.
-
-- **Success:** The orator successfully influences portions of the audience, shifting their attitude one step in the intended direction.
-- **Failure:** The speech has no meaningful effect beyond temporary attention or emotional engagement.
-- **Failure by 5 or more:** The speech is poorly received or counterproductive, potentially worsening audience disposition or provoking negative reactions.
-- **Natural 1:** The orator delivers an exceptionally compelling speech, producing an unusually strong shift in audience attitude or rallying effect beyond normal expectations.
-- **Natural 20:** The orator’s performance is so poorly received or disastrously misjudged that it causes immediate backlash, ridicule, or hostility from the audience.
-
-A character may not attempt to influence the same audience again with oratory on the same topic unless the composition of the crowd significantly changes or sufficient time has passed, at the DM’s discretion.
+A character may not attempt to influence the same audience on the same topic again unless circumstances meaningfully change or sufficient time has passed. Oratory cannot compel actions or beliefs that are strongly opposed to the audience’s existing disposition, though it may encourage actions they are already inclined to consider.
 
 ## Papermaking
-A character with this proficiency is trained in the production of paper and related writing materials, including parchment and vellum, through the processing of raw organic materials such as rags, bark, linen, hemp, and wood pulp.
-
-Given appropriate materials, tools, and a suitable workspace, the character can produce standard writing paper without requiring a proficiency check. The character may also, at the DM’s discretion, be familiar with the production of parchment and vellum, which require additional preparation and more refined techniques.
+A character with this proficiency is trained in the production of paper and related writing materials, including parchment and vellum, through the processing of raw organic materials such as rags, bark, linen, hemp, and wood pulp. Given appropriate materials, tools, and a suitable workspace, the character can produce standard writing paper without requiring a proficiency check. They may also produce parchment and vellum, though these require additional preparation and more refined techniques.
 
 A proficiency check is required when attempting to produce unusually fine, durable, or specialized writing materials, when working under poor conditions, or when attempting to produce large quantities within a limited timeframe.
 
-- **Success:** The character successfully produces usable writing material of the intended quality and consistency.
-- **Failure:** The resulting material is usable but of poor quality, potentially brittle, uneven, or unsuitable for fine writing or long-term storage.
-- **Failure by 5 or more:** The material is largely unusable, excessively fragile, uneven, or prone to rapid deterioration.
-- **Natural 1:** The character produces exceptionally fine material of superior quality, suitable for important documents or high-grade spell research at the DM’s discretion.
-- **Natural 20:** The batch is fundamentally flawed in a subtle way that may not be immediately apparent, potentially leading to degradation, ink bleeding, or long-term instability.
-
-A character with this proficiency can significantly reduce the cost of producing written works such as spellbooks when combined with appropriate related skills, such as bookbinding. The extent of any cost reduction or efficiency gain is determined by the DM based on available materials, craftsmanship, and additional proficiencies.
+This proficiency governs the production of writing materials only and does not include the construction, binding, or assembly of finished written works. However, high-quality materials produced through this proficiency may be used by other crafts or proficiencies at the DM’s discretion when determining the quality of finished items. 
 
 ## Persuasion
-A character with this proficiency is skilled in structured argument, reasoned discussion, and the use of logic, credibility, and personal presence to influence the attitudes of individuals or small groups.
+A character with this proficiency is skilled in structured argument, reasoned discussion, and the use of logic, credibility, and personal presence to influence the attitudes of individuals or small groups. Unlike Oratory, which relies on emotional appeal and public performance, Persuasion operates through direct conversation, reasoned explanation, and interpersonal influence. It is typically used in one-on-one or small group interactions where sustained dialogue is possible.
 
-Unlike oratory, which relies on emotional appeal and public performance, persuasion operates through direct conversation, reasoned explanation, and interpersonal influence. It is typically used in one-on-one or small group interactions where sustained dialogue is possible.
+In routine circumstances, no proficiency check is required when engaging in cooperative or non-resistant discussion, negotiating minor matters, or communicating reasoned arguments where the subject is already willing to listen and no significant opposition exists.
 
-To use this proficiency, the character must engage the subject in conversation for at least 10 rounds. The subject must be willing to listen and not actively hostile; those who are threatening or immediately violent cannot normally be affected.
+To use this proficiency in contested situations, the character must engage the subject in conversation for at least 10 rounds. The subject must be willing to listen and not actively hostile; those who are immediately violent or refusing interaction cannot normally be affected. A proficiency check is made at the conclusion of the conversation when attempting to change attitudes, overcome reluctance, or influence decisions.
 
-A proficiency check is made at the conclusion of the conversation.
-
-If successful, the subject’s attitude toward the character and their request is improved, reflecting a more favorable interpretation of the argument presented. This may allow the subject to agree to reasonable requests, reconsider positions, or provide access, assistance, or information they would not otherwise offer.
-
-- **Success:** The subject’s attitude improves by one step toward the character’s desired outcome, at the DM’s discretion, and they are more likely to comply with reasonable requests.
-- **Failure:** The argument fails to meaningfully change the subject’s position, though it may still be acknowledged or considered.
-- **Failure by 5 or more:** The subject becomes less receptive or more resistant to the character’s position, potentially worsening their attitude.
-- **Natural 1:** The character presents an exceptionally compelling argument, producing a significant and favorable shift in the subject’s attitude or willingness to cooperate.
-- **Natural 20:** The character’s argument is so flawed or poorly received that it causes immediate distrust, offense, or firm rejection of their position.
-
-Unlike oratory, no more than a single subject or small group may be affected at one time, and the effects are limited to reasonable and contextually appropriate actions as determined by the DM.
+Persuasion affects only individuals or small groups engaged in direct conversation and is limited to outcomes that are reasonable within the context of the subject’s personality, interests, and circumstances, as determined by the DM.
 
 ## Poetry
-A character with this proficiency is trained in the composition, performance, and appreciation of poetry, specializing in either lyric poetry (such as odes, hymns, sonnets, and ballads) or narrative poetry (verse-based storytelling). A character may select both specializations by expending an additional proficiency slot.
+A character with this proficiency is trained in the composition, performance, and appreciation of poetry, specializing in either lyric poetry (such as odes, hymns, sonnets, and ballads) or narrative poetry (verse-based storytelling). A character may select both specializations by expending an additional proficiency slot. The character can accurately judge the quality of poetry within their area of specialization and is familiar with a wide repertoire of existing works, which they can recite fluently and with appropriate dramatic effect. These uses require no proficiency check under normal circumstances.
 
-The character can accurately judge the quality of poetry within their area of specialization and is familiar with a wide repertoire of existing works, which they can recite fluently and with appropriate dramatic effect. These uses require no proficiency check under normal circumstances.
+The character may also compose original poetry. A proficiency check is required when attempting to produce work of notable quality, particularly when the poem is intended for formal presentation, persuasion, or cultural or religious significance.A successful proficiency check may also be necessary to understand the symbolic or intended meaning of complex, obscure, or layered poetic works.
 
-The character may also compose original poetry. A proficiency check is required when attempting to produce work of notable quality, particularly when the poem is intended to impress, persuade, or carry social or cultural significance.
-
-- **Success:** The composition is of high quality and is well-received within its cultural and artistic context, at the DM’s discretion.
-- **Failure:** The composition is competent but unremarkable, failing to achieve any notable reaction or impact.
-- **Failure by 5 or more:** The composition is poorly received, potentially causing embarrassment, ridicule, or loss of reputation in appropriate social settings.
-- **Natural 1:** The character produces an exceptionally powerful and moving work that achieves significant recognition or emotional impact beyond expectations.
-- **Natural 20:** The composition is fundamentally misjudged or in poor taste, resulting in strong negative reaction or unintended consequences, at the DM’s discretion.
-
-At the DM’s option, poetry may also be used in formal or cultural exchange situations where artistic works have recognized value. For example, certain religious institutions may accept compositions in place of material offerings or obligations. In such cases, the value and acceptance of the work is determined by the DM based on its perceived quality and cultural relevance.
+At the DM’s discretion, poetry may hold formal or cultural value in certain societies or institutions, including religious or ceremonial contexts where artistic composition may substitute for material offerings or obligations. The acceptance and impact of such works are determined by cultural relevance and audience, not by mechanical certainty.
 
 ## Pottery
-A character with this proficiency is trained in the shaping, forming, glazing, and firing of clay into functional and decorative ceramic vessels.
+A character with this proficiency is trained in the shaping, forming, glazing, and firing of clay into functional and decorative ceramic vessels. Given access to appropriate materials, including workable clay, glazes, a potter’s wheel, and a kiln, the character can produce standard ceramic items such as bowls, jars, pots, pitchers, and similar containers commonly found in the campaign world. Routine items may be produced without requiring a proficiency check under normal conditions. 
 
-Given access to appropriate materials, including workable clay, glazes, a potter’s wheel, and a kiln, the character can produce standard clay vessels such as bowls, jars, pots, pitchers, and similar containers commonly found in the campaign world. Routine items may be produced without requiring a proficiency check under normal conditions.
-
-The character can typically produce up to two small or medium items, or one large item, per day of work. These items must then be fired in a kiln for at least one additional day to become fully usable.
+The character can typically produce up to two small or medium items, or one large item, per day of work. These items require firing in a kiln to become fully usable, which normally takes at least one additional day. The items produced may be sold as artisan goods, or used as functional equipment in everyday travel and provisioning.
 
 A proficiency check is required when attempting unusually large, delicate, decorative, or structurally complex pieces, when working under time pressure, or when using substandard materials or equipment.
 
-- **Success:** The item is successfully completed and properly fired, functioning as intended and of acceptable craftsmanship.
-    
-- **Failure:** The item is usable but flawed, potentially uneven, fragile, or aesthetically poor, though still functional.
-    
-- **Failure by 5 or more:** The item is significantly flawed or structurally compromised, and may crack, leak, or fail under normal use.
-    
-- **Natural 1:** The character produces an exceptionally well-crafted piece of superior quality, potentially of artistic or trade value beyond normal expectations.
-    
-- **Natural 20:** The item is subtly flawed in a hidden way, such as internal weakness or improper firing, which may cause failure later under stress or repeated use.
-    
-
-The cost of raw materials is minimal for standard production, reflecting clay, glaze, and firing resources, but may vary depending on availability, quality, and local conditions at the DM’s discretion.
+The cost of raw materials is minimal for standard production, reflecting clay, glaze, and firing resources, but may vary depending on availability and local conditions at the DM’s discretion.
 
 ## Prestidigitation
-A character with this proficiency is skilled in sleight of hand, stage magic, and the performance of minor illusions and misdirection intended for entertainment or deception in casual social contexts.
+A character with this proficiency is skilled in sleight of hand, stage magic, and the performance of minor misdirection intended for entertainment or casual deception. This includes palming small objects, producing or concealing items as part of a performance, and executing simple tricks through manual dexterity, timing, and showmanship. Spellcasters may incorporate minor magical effects to enhance these performances, though such magic is not required.
 
-This includes techniques such as palming small objects, producing or concealing items as part of a performance, and executing simple illusions or “tricks” through manual dexterity, showmanship, and practiced timing. Wizards or spellcasters may incorporate minor magical effects to enhance these performances, but such magic is not required.
+In routine circumstances, no proficiency check is required when performing known tricks for entertainment or casual display, provided the audience is not actively suspicious or attempting to closely scrutinize the performance.
 
-In most circumstances, no proficiency check is required when performing known tricks for entertainment or routine practice. The character can reliably perform standard illusions and sleight-of-hand effects for audiences who are not actively suspicious.
+A proficiency check is required when attempting to deceive a specific observer, perform under close scrutiny, conceal or manipulate objects in a way that risks detection, or create a convincing performance in stressful or high-stakes social situations.
 
-A proficiency check is required when attempting to deceive a specific observer, perform under scrutiny, create a convincing illusion in a stressful situation, or conceal or manipulate objects in a way that would normally risk detection.
-
-- **Success:** The character successfully performs the intended trick or deception, convincing observers or achieving the desired distraction or concealment.
-- **Failure:** The attempt is noticed as flawed or unconvincing, though it may still entertain or momentarily distract.
-- **Failure by 5 or more:** The trick is exposed or fails conspicuously, potentially revealing the deception and undermining trust or credibility.
-- **Natural 1:** The performance is exceptionally impressive or convincing, exceeding expectations and strongly influencing the audience’s perception.
-- **Natural 20:** The attempt is catastrophically obvious or poorly executed, drawing immediate attention and likely resulting in embarrassment or suspicion.
-
-Under particularly favorable conditions, such as a willing audience or a prepared stage, prestidigitation may serve as entertainment, distraction, or minor social leverage at the DM’s discretion, but it does not produce reliable mechanical advantages outside of specific situational checks.
+Under favourable conditions, such as a willing audience or prepared performance environment, Prestidigitation may be used for entertainment, distraction, or minor social influence at the DM’s discretion, but it does not provide reliable mechanical advantages outside of resolved checks.
 
 ## Reading Lips
-A character with this proficiency is trained in the interpretation of speech by visually reading lip movements and facial cues.
+A character with this proficiency is trained in interpreting speech by visually reading lip movements and facial cues. When selecting this proficiency, the character must choose one spoken language they already know. The proficiency applies only to that language, as different languages produce distinct lip movements and phonetic structures.
 
-When selecting this proficiency, the character must choose one language they already speak. The proficiency applies only to that language, as different languages produce distinct lip patterns and phonetic structures.
+A character with this proficiency can automatically understand speech that is deliberately and directly mouthed or articulated toward them by a visible speaker in the same language, provided conditions allow clear visual reading. This functions as a form of (nearly) silent, line-of-sight communication.
 
-To use this proficiency, the character must be able to clearly see the speaker’s face and lips, and must be within approximately 30 feet under normal lighting conditions. The speaker must also be visible for the duration of the conversation.
+A proficiency check is required when attempting to interpret conversations not directed at the character, or when conditions are impaired (distance, lighting, obstruction, or partial visibility).
 
-A proficiency check is required when attempting to interpret spoken communication through lip reading.
-
-If successful, the character can understand a substantial portion of the conversation being observed, though gaps and ambiguities remain due to indistinct or visually similar phonemes.
-
-- **Success:** The character understands approximately 70% of the conversation, gaining the general meaning and most key details.
-- **Failure:** The character cannot reliably interpret the conversation and gains no meaningful understanding.
-- **Failure by 5 or more:** The character misinterprets significant portions of the conversation, potentially misunderstanding intent or key details.
-- **Natural 1:** The character achieves unusually clear interpretation, understanding the conversation with near-complete accuracy despite normal limitations.
-- **Natural 20:** The character draws a confidently incorrect interpretation, forming a clear but mistaken understanding of the conversation’s meaning.
-
-This proficiency is ineffective when visibility is obstructed, when speech is deliberately obscured, or when the speaker is using an unfamiliar or unknown language.
+To use this proficiency, the character must be able to clearly see the speaker’s face and lips, and must be within a normal conversational distance under suitable lighting conditions. The speaker must remain visible for the duration of the communication.. This proficiency is ineffective if visibility of the lips is obstructed, if speech is deliberately concealed (such as through covering the mouth), or if the speaker is using a language unknown to the character.
 
 ## Reading/Writing
-The character can read and write a modern language he can speak, provided there is someone available to teach the character (another PC, a hireling, or an NPC). This proficiency does not enable the character to learn ancient languages (see [[Languages, Ancient]]).
+The character can read and write a modern language they can speak, provided they receive instruction in literacy for that language from a literate source (such as another character, hireling, or NPC). This proficiency reflects the ability to understand written language as a representation of spoken speech, to encode spoken language into written form with comprehension, and to arrange thoughts and ideas into a written composition.
+
+Once learned, the character can automatically read and write that language for routine purposes without requiring a proficiency check.
+
+This proficiency does not allow the character to read or interpret ancient, dead, or obscure languages (see _Languages, Ancient_), nor does it grant skill in transcription or reproduction of written material in unknown languages.
 
 ## Religion
-A character with this proficiency is trained in the study and understanding of religious belief systems, including doctrines, rituals, hierarchies, symbolism, and cultural practices associated with faiths both local and regional.
-
-The character is familiar with the common religions of their homeland and major neighboring regions. Basic information about any widely known faith—such as its symbols, general beliefs, moral outlook, and typical practices—is automatically known and requires no proficiency check.
+A character with this proficiency is trained in the study and understanding of religious belief systems, including doctrines, rituals, hierarchies, symbolism, and cultural practices associated with faiths both local and regional. The character is familiar with the common religions of their homeland and major neighbouring regions. Basic information about any widely known faith—such as its symbols, general beliefs, moral outlook, and typical practices—is automatically known and requires no proficiency check.
 
 More detailed or specialized knowledge, such as internal clerical hierarchies, doctrinal disputes, obscure rites, or the significance of specific holy days and observances, requires a proficiency check when relevant.
 
-Additional proficiency slots invested in Religion may be used either to broaden the character’s recognized areas of theological knowledge (expanding familiarity to more distant or obscure faiths), or to specialize in a single religion. If specializing, the character gains comprehensive understanding of that faith and no longer requires proficiency checks when answering questions or recalling information about it.
+Additional proficiency slots may be used either to broaden the character’s recognized areas of theological knowledge (expanding familiarity to more distant or obscure faiths), or to specialize in a single religion. A character who specializes in a faith gains comprehensive understanding of that religion and does not require proficiency checks when recalling or interpreting information related to it.
 
-- **Success:** The character correctly recalls or interprets the requested religious knowledge or detail.
-    
-- **Failure:** The character cannot reliably recall the specific information, or provides only general or incomplete understanding.
-    
-- **Failure by 5 or more:** The character recalls incorrect or misleading information about the faith or practice in question.
-    
-- **Natural 1:** The character recalls exceptionally relevant or insightful theological detail, potentially revealing deeper context or hidden implications.
-    
-- **Natural 20:** The character confidently recalls or asserts incorrect information, firmly believing it to be accurate, at the DM’s discretion.
-    
-
-This proficiency is particularly useful for characters interacting with clergy, navigating religious law or custom, or operating in culturally sensitive theological environments.
+This proficiency is particularly useful when interacting with clergy, navigating religious law or custom, or operating in culturally sensitive theological environments.
 
 ## Riding, Airborne
-A character with this proficiency is trained in the handling, control, and combat riding of flying mounts. The specific type of creature must be chosen when this proficiency is taken; additional proficiency slots may be spent to gain competence with other airborne mounts.
+The character is trained in the handling, control, and riding of a type of flying mount. The specific type of creature must be chosen when this proficiency is taken; additional proficiency slots may be spent to gain competence with other airborne mounts. Unlike land-based riding, this proficiency is required to safely and effectively control a flying mount. A character without it cannot reliably direct such a creature in flight except under exceptional circumstances. Proficiency is not however required to be carried as a passive passenger on a flying mount.
 
-Unlike land-based riding, this proficiency is required to safely and effectively control a flying mount. A character without it cannot reliably direct such a creature in flight except under exceptional circumstances or when carried as a passenger.
+In routine conditions, a proficient rider can mount a grounded flying creature, take off in a controlled manner, and guide the mount during normal flight using body control alone, keeping hands free for weapons or other needs.
 
-A proficient rider can perform a range of specialized aerial maneuvers under normal conditions without requiring a proficiency check, including mounting a grounded flying creature and immediately taking off as a single action, or guiding the mount using knees and feet while keeping hands free.
+A proficiency check is required when maintaining control under adverse or unstable conditions, including situations where the mount is injured, startled, or otherwise disturbed, or when environmental or situational factors place unusual strain on control.
 
-A proficiency check is required when performing dangerous or high-stress maneuvers, or when conditions introduce significant risk such as combat, damage sustained while mounted, rapid acceleration, or complex aerial movement.
+A proficient rider may spur their mount to increased speed with a successful proficiency check, gaining short-term acceleration at the cost of reduced performance afterward, as determined by the DM.
 
-- **Success:** The maneuver is successfully executed, and the rider maintains control of the mount while achieving the intended action.
-    
-- **Failure:** The attempt is unsuccessful, resulting in loss of control, failure to complete the maneuver, or a less effective outcome at the DM’s discretion.
-    
-- **Failure by 5 or more:** The rider loses secure control of the mount, potentially being dismounted, forced into an uncontrolled maneuver, or placed in a dangerous aerial position.
-    
-- **Natural 1:** The rider performs the maneuver with exceptional skill or advantage, maintaining perfect control and achieving improved positioning or speed beyond expectations.
-    
-- **Natural 20:** The rider’s control fails catastrophically or is dangerously misjudged, resulting in a severe loss of control that may place both rider and mount in immediate peril, at the DM’s discretion.
-    
+A rider may choose to secure themselves to the mount, improving stability but increasing risk if the mount becomes incapacitated or loses control.
 
-The rider may also spur the mount to increased speed with a successful proficiency check, increasing movement significantly for a short duration. Extended exertion results in reduced performance afterward, as determined by the DM.
-
-Finally, a skilled rider may remain mounted using only lower body control, keeping hands free. A proficiency check is required only when the rider suffers damage or is otherwise disrupted; failure may result in partial or complete loss of position.
-
-A rider may choose to secure themselves to the mount, though doing so may create additional risks in the event the mount becomes incapacitated or falls.
+The combat chapter contains rules for airborne combat and may define additional circumstances in which a proficiency check is required.
 
 ## Riding, Land-Based
-A character with this proficiency is trained in the handling, control, and riding of land-based mounts, including horses and other similar ground-dwelling riding creatures. When this proficiency is selected, the character must designate a specific type of mount; additional proficiency slots may be spent to gain competence with other types of riding animals, including exotic or monstrous steeds commonly used as mounts.
+The character is trained in the handling, control, and riding of a specific type of land-based mount, chosen when the proficiency is selected. Additional proficiency slots may be spent to gain proficiency with other mounts, including exotic or unusual creatures. In routine conditions, the character can mount a stationary animal of the appropriate type, ride at normal speeds, guide the mount with the knees while keeping hands free, and direct it to clear simple obstacles such as low barriers or small gaps within its normal capability without requiring a proficiency check.
 
-A proficient rider can perform a variety of mounted maneuvers with confidence under normal conditions. Simple actions such as mounting a stationary steed, controlling movement at a steady pace, and guiding the mount with knees while keeping hands free require no proficiency check.
+A proficiency check is required when attempting difficult or risky manoeuvres, including mounting or dismounting a moving mount, performing emergency dismounts, forcing the mount beyond its normal capabilities (such as exceptional leaps or increased speed), maintaining control of an injured or frightened mount, or performing complex manoeuvres in combat or hazardous terrain.
 
-A proficiency check is required when attempting more difficult or risky maneuvers, such as mounting a moving creature, forcing a mount to perform exceptional jumps, pushing a mount beyond its normal limits, or maintaining control under stress or injury.
-
-- **Success:** The rider successfully performs the intended maneuver and maintains control of the mount.
-- **Failure:** The attempt fails in some way, resulting in loss of position, reduced effectiveness, or refusal by the mount, as appropriate to the situation.
-- **Failure by 5 or more:** The rider loses control and may be unseated, injured, or placed in a dangerous position, including potential damage to the rider or mount.
-- **Natural 1:** The rider performs the maneuver with exceptional skill, achieving improved control, positioning, or performance beyond normal expectations.
-- **Natural 20:** The rider’s attempt is catastrophically misjudged, resulting in a dramatic loss of control, likely causing a fall, injury, or other significant consequence at the DM’s discretion.
-
-A skilled rider can also urge a mount to greater speed for a limited duration, increasing movement at the cost of fatigue. This requires a proficiency check each round or turn of sustained exertion; repeated failure results in exhaustion or refusal from the mount, and prolonged use requires rest before the mount can safely be pushed again.
-
-In addition, a rider may guide a mount using only lower-body control, enabling the use of two-handed weapons while mounted. A proficiency check is required only if the rider is injured or disrupted while doing so; failure may result in loss of control and a fall.
-
-A rider may also adopt defensive riding positions, such as using the mount as partial cover or performing emergency dismounts into melee combat. These advanced maneuvers require proficiency checks when performed under pressure or in combat conditions, with failure resulting in loss of balance, damage, or positional disadvantage.
+A proficient rider may, when unarmoured, ride in a low or hanging position alongside the mount for protection. While doing so, the rider improves their effective Armor Class against attacks directed specifically at them by 6, but cannot attack, and any attack that would normally strike the rider instead strikes the mount.
 
 ## Riding Sea-Based
-A character with this proficiency is trained in the handling, control, and riding of aquatic and sea-based mounts, including creatures adapted for travel on or beneath water surfaces. When this proficiency is selected, the character must designate a specific species of sea mount; additional proficiency slots may be spent to gain competence with other aquatic riding creatures.
+The character is trained in the handling, control, and riding of aquatic mounts, including creatures adapted for travel on or beneath water surfaces. When this proficiency is selected, the character must designate a specific species of aquatic mount; additional proficiency slots may be spent to gain competence with other aquatic riding creatures. In routine conditions, a proficient rider can mount a surfaced aquatic creature and direct it into movement without requiring a proficiency check, and may guide the mount during normal surface travel using body control alone.
 
-A proficient rider can perform basic mounted actions on the surface of the water without requiring a proficiency check, including mounting a stationary or surfaced creature and immediately urging it into motion.
+A proficiency check is required when attempting difficult or hazardous manoeuvres, including maintaining control in rough waters, operating under combat or environmental stresses, forcing the mount beyond normal speed or endurance, or regaining control of a mount that is behaving unpredictably or attempting to dive or submerge.
 
-A proficiency check is required when attempting more difficult or hazardous maneuvers, such as forcing large or awkward jumps over water obstacles, sustaining high-speed movement over extended periods, or regaining control of a mount that is reacting unpredictably or submerging.
+A proficient rider may attempt to spur their mount to increased speed with a successful proficiency check, granting a temporary increase in movement. Sustained exertion or repeated use of this ability may require additional checks at the DM’s discretion.
 
-- **Success:** The rider successfully completes the intended maneuver and maintains control of the mount.
-    
-- **Failure:** The attempt fails, resulting in reduced performance, refusal by the mount, or loss of optimal positioning.
-    
-- **Failure by 5 or more:** The rider loses control of the mount, potentially falling into the water, being dismounted, or becoming separated from the creature.
-    
-- **Natural 1:** The rider achieves exceptional control, allowing improved movement, stability, or positioning beyond normal expectations.
-    
-- **Natural 20:** The rider’s control is critically misjudged, resulting in a dangerous loss of control, forced submersion, or other severe complication at the DM’s discretion.
-    
-
-A rider may also attempt to spur the mount to increased speed. If successful, the mount gains a temporary increase in movement rate for a limited duration. Prolonged exertion requires repeated proficiency checks at intervals determined by the DM; continued success allows sustained speed, while failure results in reduced movement or enforced rest due to exhaustion.
-
-Sea mounts may submerge when threatened or injured. A proficient rider may attempt to counteract this behavior with a proficiency check to force resurfacing or maintain surface control. Failure may require repeated attempts each round while conditions persist.
-
-If the rider is submerged with the mount, they may risk drowning while attempting to maintain control. In such cases, the rider’s ability to hold their breath and continue exertion is limited, and prolonged struggle underwater may result in exhaustion or suffocation, at the DM’s discretion.
+Some sea mounts may attempt to submerge when injured or threatened. A proficient rider may attempt to prevent or counteract this behaviour with a proficiency check; failure may result in loss of surface control. If a rider is submerged with their mount, they may be placed in hazardous underwater conditions as determined by the environment, applicable combat or environmental rules, and the character's abilities and equipment.
 
 ## Rope Use
-A character with this proficiency is trained in the expert handling, tying, and application of rope in both practical and improvised situations.
+The character is trained in the use of ropes and knots, including techniques for securing loads, binding objects, and controlling movement. This includes a wide range of knots such as load-bearing hitches, slip knots, quick-release ties, and climbing or belaying techniques. In routine circumstances, the character can tie, secure, or manipulate rope effectively without a proficiency check, including standard knots, bindings, and simple rigging, provided sufficient time and materials are available.
 
-The character is familiar with a wide variety of knots and rope techniques, including those designed to hold fast under strain, slip under tension, release with a quick motion, or provide controlled movement such as sliding or belaying. In routine circumstances, the character can reliably tie and use appropriate knots without requiring a proficiency check.
+A proficiency check is required when working under pressure or adverse conditions, attempting complex rigging (such as rope bridges, secured climbing lines, or thrown hitches), tying or assessing knots by feel, binding a resisting creature, or performing rope work in difficult environmental conditions (such as storms or combat situations).
 
-A proficiency check is required when attempting particularly complex, time-sensitive, or improvised rope techniques, or when working under pressure or poor conditions.
-
-- **Success:** The character successfully performs the intended rope technique, such as securing, restraining, climbing assistance, or controlled release, as appropriate to the situation.
-- **Failure:** The attempt is ineffective or unreliable, resulting in loose bindings, insecure knots, or failed execution of the intended effect.
-- **Failure by 5 or more:** The rope work is flawed in a meaningful way, potentially resulting in escape, entanglement complications, or loss of control at a critical moment.
-- **Natural 1:** The character performs exceptionally effective rope work, achieving superior security, efficiency, or control beyond normal expectations.
-- **Natural 20:** The character’s knotwork is dangerously flawed or overcomplicated in a way that appears secure but fails at a critical moment or produces unintended entanglement, at the DM’s discretion.
-
-The character may use rope to assist in climbing or securing others, improving stability and reducing risk when properly applied. The character is also highly effective in the use of rope-based weapons such as lassos, gaining increased accuracy and control when employing them in appropriate circumstances.
-
-A character with this proficiency may also attempt to escape bonds with a proficiency check, reflecting advanced knowledge of knots and restraint techniques. Failure indicates that the bindings hold firm, though repeated attempts may be possible depending on circumstances.
-
-This character gains a +2 bonus to all attacks made with a lasso. The character also receives a +10% bonus to all climbing checks made while he is using a rope, including attempts to belay (secure the end of a climbing rope) companions.
+The character gains a +2 bonus to attacks made with a lasso or similar rope-based entangling weapons. They also gain a +10% bonus to climbing checks when using rope assistance, including climbing, descending, and belaying others.
 
 ## Running
-A character with this proficiency is trained in sustained overland running and endurance pacing, allowing them to travel at greatly increased speed over long distances.
+The character is trained in sustained overland running and endurance pacing, allowing them to travel at increased speed over long distances and better manage physical exertion. In routine conditions, the character may travel at up to twice their normal daily movement rate for a single day without a proficiency check, provided they maintain a steady pace and have adequate rest.
 
-When using this ability, the character can move at up to twice their normal daily travel rate for extended periods, provided they maintain a disciplined pace and receive adequate rest.
+A proficiency check is required to sustain this pace for additional consecutive days, or when running under adverse conditions such as rough terrain, poor weather, or limited rest.
 
-After each day spent traveling in this manner, the character must make a proficiency check to determine whether they can safely continue the same level of exertion.
-
-- **Success:** The character successfully maintains their endurance and may continue running travel at twice normal movement rate the following day.
-- **Failure:** The character is exhausted from overexertion and cannot use running movement the following day, though they may still travel at normal rates.
-- **Failure by 5 or more:** The character suffers significant fatigue and may require additional rest or reduced movement beyond the following day, at the DM’s discretion.
-- **Natural 1:** The character achieves exceptional conditioning, allowing sustained running without interruption for an extended period beyond normal expectations.
-- **Natural 20:** The character pushes beyond safe limits, resulting in severe exhaustion or injury that may impair movement or combat effectiveness until adequate rest is taken.
-
-While traveling at this accelerated pace, the character suffers a -1 penalty to attack rolls during any combat encountered on the same day due to fatigue and reduced readiness.
-
-This proficiency represents long-distance endurance running rather than short bursts of speed, and its benefits apply primarily to overland travel rather than tactical movement in combat.
+When running or sprinting in combat, the character gains a +2 bonus to Constitution checks made to resist exhaustion from sustained exertion, but gains no increase to movement rate and remains subject to all normal rules for running and sprinting in combat.
 
 ## Sage Knowledge
-A character with this proficiency is trained in a specialized field of scholarly study, representing deep academic expertise and research skill. A sage is capable of answering questions, interpreting phenomena, and conducting research within their field of knowledge.
+*This proficiency is available to PCs but is typically more appropriate for NPCs*
 
-A character with Sage Knowledge is assumed to have a broad understanding of their chosen field and can generally recall common facts, theories, and principles without difficulty. More obscure or technical information may require study or consultation with reference materials.
+A character with this proficiency possesses deep scholarly expertise in a specific academic field, representing formal study, research training, and sustained intellectual focus. The character must choose a defined discipline (such as history, theology, natural philosophy, or arcane theory). Within this field, the character can recall established facts, recognize standard principles, and interpret well-documented phenomena without requiring a proficiency check.
 
-In addition to research-based knowledge, the character may attempt to apply their expertise in the field to real-world situations, making field observations or educated deductions based on limited information.
-### Using Sage Knowledge
-In routine circumstances, the character may recall or identify information within their field without requiring a proficiency check, provided the information is common, well-established, or directly relevant to their area of expertise.
+A proficiency check is required only when dealing with obscure, fragmentary, or highly specialized information, or when attempting to draw conclusions from incomplete, ambiguous, or indirect evidence. This includes interpreting damaged texts, reconciling conflicting sources, identifying unusual phenomena, or making informed deductions based on limited observation. The DM may apply modifiers based on the availability of reference materials, the quality of information, and how closely the subject aligns with the character’s specialization.
 
-A proficiency check is required when the information is obscure, ambiguous, incomplete, or when the character is attempting to draw conclusions from limited or indirect evidence.
+Sage Knowledge may also be used to conduct research given access to appropriate resources such as libraries, archives, or laboratories. Routine research within the field does not require a check, but complex or obscure inquiries do, with time requirements determined by scope and difficulty. The character may also apply their expertise in practical contexts—such as identifying objects, analyzing evidence, or interpreting inscriptions—resolving uncertainty with a proficiency check where appropriate. Additional proficiency slots may be spent to specialize further within the field, increasing depth of knowledge and reducing the need for checks in routine circumstances.
 
-This includes, but is not limited to:
-
-- Interpreting partial, damaged, or conflicting information
-- Recalling obscure historical, scientific, or cultural details
-- Making deductions from field observations without full context
-- Identifying unusual phenomena outside standard reference material
-### Resolution
-- **Success:** The character recalls or deduces correct and useful information relevant to the question or situation.
-- **Failure:** The character cannot recall or determine any useful information.
-- **Failure by 5 or more:** The character reaches a plausible but incorrect conclusion based on incomplete or misleading information.
-- **Natural 1:** The character achieves an unusually deep insight or discovers an important connection beyond the expected scope of the question.
-- **Natural 20:** The character forms a confident but incorrect interpretation, potentially leading to significant misunderstanding if acted upon.
-### Research
-Sage Knowledge may also be used to conduct research given access to appropriate resources such as libraries, archives, laboratories, or other repositories of knowledge.
-
-The time required for research is determined by the scope and complexity of the question, ranging from hours to weeks at the DM’s discretion. More extensive or obscure inquiries require proportionally greater time and resources.
-
-### Field Application
-A sage may apply their expertise in practical situations, such as identifying objects, interpreting inscriptions, analyzing environmental or biological evidence, or recognizing patterns relevant to their field.
-
-Such applications typically resolve in a single proficiency check when uncertainty is present.
-### Specialization
-A character may spend additional proficiency slots to specialize in a subfield of their chosen discipline. Specialization provides one of the following benefits, chosen when the slot is spent:
-
-- Broader depth of knowledge within a narrower topic
-- Increased reliability when dealing with specialized information
-- Ability to answer more detailed or technical questions without requiring a check in routine circumstances
-
-Multiple specializations may be taken within the same broad field.
-
-### Cross-Disciplinary Interaction
-
-If the character possesses related proficiencies, the DM may grant bonuses or improved reliability when those skills overlap with Sage Knowledge (for example: Healing with Medicine, Mining with Geology, Religion with Theology).
+Note: Sage Knowledge is not intended to provide perfect answers to any question, but rather reliable expert interpretation based on available knowledge. When uncertainty exists, the proficiency determines how well the character can narrow, interpret, or contextualize that uncertainty.
 
 ## Scribe
-A character with this proficiency is trained in the craft of professional manuscript copying, calligraphy, and basic page preparation. The character is skilled in producing clear, accurate written copies of texts, including decorative or formal presentation when required.
+The character is trained in the accurate copying and presentation of written texts, including manuscripts, formal documents, and complex notations such as arcane writing. This includes preparation of pages, controlled handwriting, and decorative or formal script. In routine circumstances, the character can accurately copy legible texts without a proficiency check, provided sufficient time, materials, and working conditions are available.
 
-This proficiency is especially valuable to spellcasters, as it allows for more efficient and reliable transcription of magical writings.
+A proficiency check is required when working from damaged, obscured, or difficult source material, under time pressure or poor conditions, or when exceptional precision is required, such as illuminated works or coded texts. When used in conjunction with spell transcription, a character capable of copying spells may make a proficiency check to improve their chance of success.
 
-In routine circumstances, a character with Scribe proficiency can accurately copy text without requiring a proficiency check, provided the source is legible and sufficient time and materials are available.
+When used with spell transcription, a successful proficiency check grants a +5% bonus to any rolls required to determine success in copying a spell to their spellbook or to a scroll.
 
-A proficiency check is required when the work is performed under pressure, when the source material is damaged or difficult to read, or when exceptional precision is required (such as illuminated manuscripts, coded texts, or magical transcription).
-### Using Scribe
-
-A character with this proficiency may copy, transcribe, or reproduce written works with a high degree of accuracy. This includes ordinary documents, formal records, and complex written formats such as arcane notation.
-
-When used in conjunction with spell transcription (spellbooks or scrolls), Scribe proficiency improves the reliability of the process.
-### Resolution
-
-- **Success:** The transcription is accurate and cleanly executed, with no loss of meaning or structure.
-- **Failure:** The copy is produced, but contains errors, omissions, or degraded clarity requiring correction or interpretation.
-- **Failure by 5 or more:** The work contains significant errors that may alter meaning, disrupt function (for magical texts), or require complete revision.
-- **Natural 1:** The work is exceptionally well-executed, producing a flawless or aesthetically superior result.
-- **Natural 20:** The transcription is deceptively flawed in a way that is not immediately apparent, potentially causing later misinterpretation or functional failure when used.
-### Spell Transcription
-
-When copying spells into a spellbook or onto a scroll, a successful use of Scribe proficiency grants a **+5% bonus** to any required chance of success for the transcription process.
-
-Failure does not necessarily prevent completion, but may introduce errors at the DM’s discretion, particularly in complex or high-level spells.
-### Time and Materials
-
-Scribing requires appropriate writing materials, ink, and suitable working conditions. The DM may adjust time requirements based on complexity, quality expectations, or environmental constraints.
-
-### Specialization (optional)
-
-Additional proficiency slots may be spent to specialize in one of the following areas:
-
-- Arcane transcription (spellbooks, scrolls, magical notation)
-- Legal or administrative documentation
-- Artistic calligraphy and illumination
-- Rapid transcription under time pressure
-
-Specialization improves reliability in that area and may reduce or eliminate the need for checks in routine conditions.
-
-### Cross-Proficiency Interaction
-
-If the character also possesses Ancient Languages, Religion, or other scholarly proficiencies, the DM may allow improved interpretation or reduced error rates when copying complex or archaic texts.
+Note: This proficiency neither requires nor imparts comprehension of the words written; the character is skilled in accurate reproduction and artistic embellishment of text.
 
 ## Seamanship
-A character with this proficiency is trained in the basic operation, maintenance, and handling of seagoing vessels. The character is competent as an ordinary crew member aboard ships, though they are not trained in navigation or command.
+The character is trained in the operation, maintenance, and handling of seagoing vessels, and is competent as an ordinary crew member. This includes sail handling, rigging work, rowing, cargo handling, and general shipboard maintenance, but does not include navigation or command. In routine conditions, the character can perform standard shipboard duties without a proficiency check, and a vessel crewed primarily by proficient characters operates more efficiently, with improved handling, coordination, and reduced loss of speed or control at the DM’s discretion.
 
-In routine conditions, a character with Seamanship can perform standard shipboard duties without requiring a proficiency check. This includes sail handling, rigging work, rowing, cargo handling, and general maintenance tasks.
-
-A proficiency check is required only when performing shipboard tasks under hazardous conditions, during combat at sea, or when attempting unusually difficult or coordinated maneuvers.
-### Crew Efficiency
-
-A ship crewed primarily by characters with Seamanship proficiency operates more effectively than an untrained crew. Vessels benefit from improved handling, coordination, and reduced inefficiency during travel and maneuvering.
-
-Inland or river boats with a trained crew gain a **50% increase to movement rate** due to improved handling and coordination.
-
-### Failure (situational)
-
-When a proficiency check is required:
-
-- **Success:** Task is completed correctly
-- **Failure:** Task is not completed or must be redone
-- **Failure by 5+:** Complication occurs (delays, minor damage, or loss of efficiency)
-- **Natural 1:** Exceptional execution or unexpected improvement in performance
-- **Natural 20:** Misplay results in meaningful operational setback (DM-defined, typically temporary)
-
-### Notes
-
-Seamanship does not confer knowledge of navigation, ship design, or command of vessels unless gained through other proficiencies.
+A proficiency check is required when performing shipboard tasks under hazardous conditions, during combat at sea, or when attempting unusually difficult or precisely coordinated manoeuvres.
 
 ## Seamstress/Tailor
-A character with this proficiency is trained in the design, construction, and repair of clothing and fabric goods. The character can sew garments, alter existing clothing, and perform embroidery or ornamental stitching.
+The character is trained in the design, construction, alteration, and repair of clothing and fabric goods, including fitted garments, decorative stitching, and specialized apparel. In routine circumstances, the character can automatically produce, alter, or repair ordinary garments and fabric items, provided appropriate materials and tools are available.
 
-In routine circumstances, the character automatically succeeds at basic tailoring tasks provided they have appropriate materials and tools (such as needle, thread, and fabric). No proficiency check is required for ordinary work.
+A proficiency check is required when creating fitted or specialized garments (such as protective clothing, ceremonial garb, or garments requiring precise fit), working under poor conditions, using inferior or unusual materials, or repairing heavily damaged items.
 
-A proficiency check is only required when attempting unusually complex designs, working under poor conditions, creating specialized garments (such as protective, ceremonial, or fitted gear), or repairing severely damaged fabric in difficult circumstances.
+Well-made garments produced by a proficient tailor are typically more durable, better fitted, and more comfortable than common clothing, and thus more valuable, at the DM’s discretion. 
 
-Success indicates a functional and well-made result, while failure indicates flawed construction, poor fit, or aesthetic issues that may require correction or rework.
+## Set Snares
+The character is trained in constructing and concealing traps and snares for hunting, security, or protection, including rope snares, spring traps, pit traps, and similar devices intended to capture or restrain creatures. In routine conditions, a properly constructed simple snare functions as intended if triggered, provided suitable materials are used and adequate concealment is available.
 
-## Set Snares (Rogue)
-A character with this proficiency is trained in constructing and concealing simple traps and snares used primarily for hunting or security. This includes rope snares, spring traps, pit traps, and similar devices designed to catch or restrain creatures.
+A proficiency check is required when constructing or setting a trap in uncertain terrain, poor conditions, limited materials, or when concealment is difficult, as well as each time a trap is set or reset in a new location. Larger or more complex traps (such as pit traps or net traps) may be constructed with a –4 penalty to the proficiency check. Any creature may trigger a trap if it encounters it; however, only rogues may construct man-traps specifically intended for use against intelligent creatures.
 
-In routine circumstances, a successfully constructed snare functions as intended if triggered, provided appropriate materials and concealment are used. No check is required for simple, well-prepared setups in suitable terrain.
+Construction times are 1 hour for a small snare, 2d4 hours for a large trap (typically requiring assistance), and 1d8 hours for a man-trap depending on complexity. At least one participant must possess Set Snares proficiency.
 
-A proficiency check is required when constructing or setting a snare under uncertain conditions, poor terrain, limited materials, or when concealment is difficult. A separate check is also required each time a trap is set or reset in a new location.
-
-Failure indicates a functional flaw or error in placement or concealment; the trap does not function properly when triggered, though the exact cause is not necessarily apparent.
-### Larger and Complex Traps
-
-The character may construct larger or more complex traps intended for bigger creatures or humanoid targets, such as pit traps or net snares. These require a proficiency check with a **–4 penalty**.
-
-Success indicates a mechanically sound trap that functions if triggered. Failure indicates structural or concealment flaws that prevent proper operation.
-
-These traps do not guarantee capture; they only determine whether the mechanism functions when activated. Activation is always determined by the DM.
-
-### Man-Traps (Rogue only)
-
-A rogue with this proficiency may construct lethal or semi-lethal mechanical traps intended for use against intelligent creatures. These may include crossbow traps, deadfalls, spike boards, or similar devices.
-
-Construction follows the same rules as larger traps, and always requires appropriate materials and time. The DM determines damage and secondary effects based on trap design.
-### Time Requirements
-
-- Small snare: 1 hour
-- Large trap: 2d4 hours, typically requiring assistance
-- Man-trap: 1d8 hours, one or more participants depending on complexity
-
-At least one participant must possess Set Snares proficiency.
-### Special Interaction
-
-Characters with Animal Lore gain a +2 bonus when setting snares intended for hunting or capturing non-intelligent creatures. This bonus does not apply when targeting monsters or intelligent beings.
-
-## Set Snares (Warrior)
-A character with this proficiency is trained in constructing and concealing simple hunting traps and snares, including rope snares and spring traps intended primarily for catching small game.
-
-In routine conditions, a properly constructed snare will function as intended if triggered, provided suitable materials and basic concealment are used. A proficiency check is required when constructing or setting a snare in uncertain terrain, poor conditions, or when concealment is difficult. A check is also required each time a snare or trap is set or reset in a new location.
-
-A failed check indicates a flaw in construction or placement, such as poor workmanship, inadequate concealment, or leaving signs that compromise the trap. The exact cause does not need to be determined.
-
-
-### Larger Traps
-
-The character may construct larger traps intended for bigger creatures, such as pit traps or net snares. These require a proficiency check with a **–4 penalty**.
-
-Success indicates a mechanically sound trap that will function if triggered. Failure indicates structural or placement issues that prevent proper operation.
-
-Successful construction does not guarantee that a trap is triggered; activation is always determined by the DM.
-
-### Man-Traps
-
-Only rogues with this proficiency may construct man-traps designed to harm intelligent creatures. These may include crossbows, deadfalls, spiked springboards, and similar devices.
-
-Man-traps use the same construction procedure as large traps, and the DM determines damage and secondary effects based on design and context.
-
-### Time and Materials
-
-- Small snare: 1 hour
-- Large trap: 2d4 hours, typically requiring assistance
-- Man-trap: 1d8 hours, depending on complexity
-
-All traps require appropriate materials and tools for construction.
-
-### Special Interaction
-
-Characters with Animal Lore gain a +2 bonus when setting snares intended for hunting or trapping non-intelligent creatures. This bonus does not apply when attempting to trap monsters or intelligent beings.
+Characters with Animal Lore gain a +2 bonus when setting traps intended for non-intelligent creatures; this bonus does not apply when targeting intelligent creatures. Rogues with this proficiency also gain a +5% bonus when disarming non-magical mechanical traps of a type they could reasonably construct with this proficiency.
 
 ## Signalling
-A character with this proficiency is trained in sending and receiving long-distance messages using non-verbal signalling systems such as smoke, flags, drums, whistles, or reflective signals. The character must choose one or more primary signalling methods, and additional methods may be learned by spending further proficiency slots.
+The character is trained in structured non-verbal communication systems that allow messages to be transmitted using flags, smoke patterns, lantern and mirror flashes, drums, or other instruments. Such systems may be broadly known (e.g., widely used standards) or specific to a region, culture, tribe, or organization. Multiple signalling systems may be learned by spending additional proficiency slots. In normal conditions, a proficient character can automatically encode and transmit routine instructions or warnings using any known system. Any recipient familiar with the same system can understand such routine messages without requiring proficiency, provided they have been exposed to its basic meanings and conventions.
 
-In routine conditions, the character can send and interpret simple signals without requiring a proficiency check, provided visibility or audibility is clear and both parties are familiar with the method being used.
+With a successful proficiency check, the character may operate under adverse conditions such as battlefield disruption, poor visibility, or interference, where accuracy or timing is critical, and may transmit complex or detailed instructions. Complex instructions are understood automatically by recipients proficient with the same system, while those merely familiar with the system must make a proficiency check to interpret them correctly.
 
-A proficiency check is required when conditions are impaired (such as poor visibility, distance, interference, or battlefield chaos), when messages are complex, or when precise transmission is critical.
-
-### Communication Limits
-
-A character can transmit up to approximately 10 words per round using an established signalling method, though complexity and clarity may reduce effective communication speed at the DM’s discretion.
-
-Successful communication requires that both sender and receiver share:
-
-- The Signalling proficiency
-- The same signalling method
-- Line of sight or audibility as appropriate
-
-### Resolution
-
-If a check is required:
-
-- **Success:** Message is correctly transmitted and understood
-- **Failure:** Message is distorted and must be retransmitted
-- **Failure by 5 or more:** Message is significantly garbled or misinterpreted
-- **Natural 1:** Exceptional clarity or unusually efficient transmission
-- **Natural 20:** Message is transmitted and received with the opposite meaning
-
-If either participant fails a required check, the message is not reliably conveyed and may require repetition.
+This proficiency governs reliability, complexity, and performance under stress rather than basic comprehension of signals.
 
 ## Singing
-The character is an accomplished singer capable of performing for entertainment, ceremony, or modest income (bards are assumed to have this ability automatically).
+The character is an accomplished singer capable of performing for entertainment, ceremony, or modest income (bards are assumed to possess this proficiency automatically). The character can perform competent vocal music in appropriate conditions without a proficiency check, including standard songs, ceremonial singing, and rehearsed performances.
 
-No proficiency check is required for normal performance or routine singing.
-
-A proficiency check may be required when:
-
-- Attempting to perform under distracting or adverse conditions
-- Trying to impress, influence, or emotionally move a specific audience
-- Creating original or complex choral works
-- Success: The performance is considered notably skilled and achieves the intended effect.
-- Failure: The performance is competent but fails to stand out or achieve any special impact.
-- Natural 1: The performance is exceptionally moving or memorable, exceeding expectations.
-- Natural 20: The performance is notably poor or mishandled, producing an unintended negative impression.
+With a successful proficiency check, the character may perform under distracting or adverse conditions, or deliver a particularly compelling performance that stands out for its quality, emotional resonance, or technical difficulty, including simple choral or multi-voice arrangements where appropriate.
 
 ## Spell Research
-A character with this proficiency is trained in the theory and practice of magical research, including the use of libraries, laboratories, and experimental methods.
+This proficiency represents training in magical research methodology, including the use of libraries, laboratories, and structured experimental practices for studying spells and magical effects. The character can perform routine magical research tasks, including locating relevant reference material, following known research methodologies, and conducting standard spell research under normal conditions.
 
-A proficiency check is not normally required for routine research activity.
+With a successful proficiency check, the character may undertake complex or novel spell research, operate under time pressure or resource constraints, or develop or refine methods for replicating known magical effects or creating magical items, where such procedures are already understood or partially documented.
 
-A proficiency check may be required when:
-
-- Attempting unusually complex or novel spell research
-- Working under time pressure or constrained resources
-- Determining methods for creating or replicating magical effects or items
-- Success: The character gains a +5% bonus to spell research success rolls and halves the time required for spell research or for determining the method of creating a magical item (costs remain unchanged).
-- Failure: No benefit is gained; research proceeds at normal time and risk.
-- Natural 1: The research yields an unexpected insight or breakthrough at DM discretion.
-- Natural 20: The research leads to a misleading conclusion or flawed theoretical result that appears plausible until tested.
+When using this proficiency, the character gains a +5% bonus to spell research success rolls and reduces the time required for spell research or determining the method of creating a magical item by half (costs remain unchanged).
 
 ## Spellcraft
-This proficiency grants familiarity with the forms, components, and observable rites of spellcasting, but does not confer the ability to cast spells.
+This proficiency grants familiarity with the observable forms, components, and manifestations of spellcasting, but does not confer the ability to cast spells or analyze their underlying theory. The character can automatically recognize that spellcasting is occurring when it is clearly visible or audible, and may distinguish effects created by a spell from those with another source.
 
-A proficiency check is required when:
+With a successful proficiency check, the character may identify a specific spell being cast, provided the casting is observed clearly and uninterrupted or sufficient components are evident. The character may also recognize obvious magical effects and distinguish broad categories of magical constructs at the DM’s discretion. Specialist Wizards gain a +3 bonus when identifying spells from their own school.
 
-- Attempting to identify a spell being cast by observation or by examining its components
-- Attempting to recognize magical or magically endowed constructs (at reduced effectiveness)
-- Success: The spell is correctly identified if observed through completion or clearly discernible casting elements are present.
-- Failure: The spell cannot be identified beyond obvious sensory effects.
-- Natural 1: The spell is identified with exceptional clarity, including secondary details (DM discretion).
-- Natural 20: The spell is misidentified as a different spell or effect.
-
-Additional rules:
-
-- Wizard specialists gain a +3 bonus when identifying spells from their own school.
-- Combat spells are difficult to identify unless casting is observed uninterrupted.
-- Recognition of magical constructs is made at half the normal proficiency check chance.
+Additional penalties may be imposed for identifying spells cast during combat, or that use subtle components. 
 
 ## Spelunking
-A character with this proficiency has knowledge of cave systems, underground geology, and the hazards associated with natural subterranean environments.
+The character has knowledge of natural cave systems, underground geology, and the hazards associated with unworked subterranean environments, including cave-ins, flooding risks, and structural instability. The character can automatically identify obvious hazards and general environmental risks in natural cave systems without a proficiency check.
 
-A proficiency check is required when attempting to assess uncertain or hazardous underground conditions.
+With a successful proficiency check, the character may assess likely subterranean hazards (such as collapse or flooding risk), estimate the difficulty or time required to clear natural obstructions, determine the safest means of clearing or bypassing them, or reduce the likelihood of becoming lost in natural cave systems, as determined by the DM.
 
-A proficiency check may be used to:
-
-- Assess the likelihood of natural hazards such as cave-ins or flash flooding in unworked cave systems
-- Estimate the time required to clear or excavate rubble-blocked passages
-- Reduce the chance of becoming lost in complex natural cave networks (subject to environmental conditions and DM adjudication)
-- Success: The character correctly assesses hazard likelihood, excavation difficulty, or navigational risk, as appropriate.
-- Failure: No reliable information is gained beyond what is immediately obvious.
-- Natural 1: The character gains unusually accurate or insightful understanding of the cave system.
-- Natural 20: The character misjudges conditions in a materially dangerous way (e.g., underestimating hazards or navigation risk), at DM discretion.
-
-Additional limits:
-
-- Does not apply to constructed or heavily modified underground structures unless the DM rules otherwise.
+This proficiency applies only to natural or unworked subterranean environments. It does not normally apply to constructed or heavily modified underground structures unless the DM determines otherwise.
 
 ## Stonemasonry
-A character with this proficiency is trained in shaping, fitting, and constructing structures from stone, including basic decorative carving and structural supervision.
+The character is trained in the shaping, fitting, and construction of stone structures, including basic decorative carving and the assessment of structural integrity. This includes walls, foundations, and other worked stone construction, assuming appropriate tools and materials are available.
 
-A proficiency check is not normally required for routine masonry work under proper conditions.
+The character can automatically perform routine stonework under proper conditions, including standard construction, fitting, and finishing tasks that do not involve unusual precision, pressure, or complexity.
 
-A proficiency check may be required when:
+With a successful proficiency check, the character may complete complex, time-sensitive, or high-precision stonework, or accurately assess the stability, workmanship, or structural integrity of existing stone construction.
 
-- Working under time pressure or adverse conditions
-- Designing or executing unusually complex or precise stonework
-- Assessing structural integrity of existing stone construction
-- Success: The work is completed as intended, producing stable and functional stone construction or accurate assessment of stonework quality.
-- Failure: The work is completed but contains flaws or inefficiencies that may require correction or DM-defined consequences.
-- Natural 1: The work is exceptionally well executed, potentially improving durability or quality beyond expectations.
-- Natural 20: The work contains a critical structural flaw that may not become apparent until stress is applied.
+A trained stonemason can construct a basic stone wall (1 ft thick, 10 ft long, 5 ft high) in one day, assuming prepared materials and appropriate tools.
 
-Additional capabilities:
+A character with this proficiency may supervise quarrying or large-scale stonework operations; one trained mason can oversee up to five unskilled laborers.
 
-- A trained stonemason can construct a basic stone wall (1 ft thick, 10 ft long, 5 ft high, assuming prepared stone and tools) in one day.
-- Can supervise quarrying operations; one mason is required per five unskilled laborers.
-- Dwarves receive a +2 bonus to checks involving stonemasonry.
+Dwarves receive a +2 bonus to Stonemasonry checks.
 
 ## Survival
-This proficiency must be assigned to a specific terrain type (such as arctic, desert, woodland, mountain, steppe, or tropical). The character has basic survival knowledge for that environment. Additional slots may be used to gain proficiency in additional terrain types.
+This proficiency must be assigned to a specific terrain type (e.g., arctic, desert, woodland, mountain, steppe, or tropical). The character has basic survival knowledge for that environment, including its common hazards, methods of avoiding exposure, and techniques for locating the absolute minimum of food and water necessary to prevent starvation or dehydration. Additional proficiency slots may be used to gain Survival in additional terrain types.
 
-A character with survival skill understands the basic hazards of the environment, methods of avoiding exposure, and techniques for locating minimal food and water sources sufficient to avoid starvation or dehydration. The character can also assist others using the same knowledge.
+The character can automatically avoid obvious environmental hazards and secure sufficient food and water for *their own* subsistence in the normal conditions of their chosen terrain without a proficiency check. The character may also assist others using this knowledge, granting a +2 bonus to Survival checks made by *non-proficient* characters attempting to use Survival in the same terrain.
 
-A proficiency check is required when attempting to secure food, water, or other essential survival needs in harsh conditions.
+With a successful proficiency check, the character may maintain subsistence under harsh conditions in the relevant terrain, including scarce resources, degraded environments, or environmental pressures that would normally prevent reliable survival.
 
-- Success: The character locates or produces minimal viable sustenance (food and/or water) appropriate to the environment.
-- Failure: No usable resources are found, and no further attempt may be made in that terrain that day.
-- Natural 1: The character finds an unusually abundant or high-quality source for the environment.
-- Natural 20: The character misjudges conditions, potentially wasting time or exposing themselves to additional environmental risk at DM discretion.
-
-Additional notes:
-
-- Survival does not eliminate environmental hazards; it only mitigates their effects.
-- Resources found are minimal and sufficient only for basic survival, not comfort or abundance.
-- Rangers possess survival in their primary terrain type automatically and may expand into additional terrains with further slots.
+Note: Survival does not negate environmental hazards, but may reduce their impact at the DM’s discretion.
 
 ## Swimming
-A character with this proficiency is trained in aquatic movement and is able to swim effectively. Characters without this proficiency cannot swim, though they may float and hold their breath.
+The character is trained in aquatic movement and is able to swim effectively. Characters without this proficiency cannot normally swim, though they may float or tread water for short periods under favourable conditions. The character can automatically swim in calm water and maintain direction and pace without a proficiency check.
 
-A proficiency check is required when attempting difficult or hazardous swimming conditions (such as rough water, strong currents, exhaustion, or carrying heavy loads), as determined by the DM.
+With a successful proficiency check, the character may swim in difficult or hazardous conditions, including rough water, strong currents, fatigue, or while carrying moderate loads, as determined by the DM.
 
-- Success: The character swims safely and effectively under the conditions attempted.
-- Failure: The character cannot make meaningful progress and may begin to struggle or drift, at DM discretion.
-- Natural 1: The character performs exceptionally well, gaining improved control or efficiency in the water.
-- Natural 20: The character misjudges conditions and may suffer a dangerous setback (such as being pulled off course or becoming briefly endangered), at DM discretion.
-
-Additional notes:
-
-- Movement while swimming follows the standard rules for aquatic movement.
-- Non-proficient characters cannot propel themselves through water, though they may survive briefly by floating or treading water under favourable conditions.
+Swimming governs aquatic movement only. All combat effects of being underwater are handled by the rules given in 'Combat in the Water'.
 
 ## Tactics of Magic
-A character with this proficiency has practical battlefield knowledge of spell use, including targeting, area effects, and magical interactions in combat conditions.
+For some wizards, the principal use of their art is on the battlefield. This proficiency reflects practical experience in the use of magic in combat conditions, including selecting appropriate spells and anticipating their immediate effects. Under normal conditions the character can automatically estimate range to visible targets accurately and recognize obvious areas of effect.
 
-A proficiency check is required when attempting to make rapid tactical assessments in combat or time-sensitive magical situations.
+With a successful proficiency check, the character may make rapid tactical assessments of magical effects in combat, including estimating how many targets are likely to be affected by an area of effect spell, or determining whether casting spells in confined or complex environments may result in dangerous rebound or unintended effects (e.g., _fireball_ or _lightning bolt_ in enclosed spaces).
 
-A proficiency check may be used to:
+In addition, when a relevant but easily overlooked interaction arises, the DM may allow a proficiency check to determine whether the character recalls it. This includes known spell interactions (such as _magic missile_ and _shield_) or other tactical details the character could reasonably have learned but the player has forgotten.
 
-- Estimate range, area of effect, or likely targets affected by a spell
-- Assess potential danger from spell interactions (e.g., rebound effects or confined-space casting risks)
-- Recall relevant tactical details about known spells or common magical interactions that the character could reasonably know
-- Success: The character gains accurate tactical insight relevant to the situation (as above, at DM discretion).
-- Failure: No useful tactical insight is gained beyond obvious observation.
-- Natural 1: The character gains exceptionally precise tactical insight or identifies an optimal course of magical action.
-- Natural 20: The character forms a dangerously incorrect tactical assumption that appears reasonable but is wrong, at DM discretion.
-
-Additional limits:
-
-- Cannot reveal unknown special properties of monsters, items, or spells outside the character’s plausible knowledge base.
-- Represents tactical reasoning, not arcane analysis or spell identification.
+This proficiency cannot reveal unknown properties of spells, monsters, or magical items, nor provide information beyond what the character could reasonably be expected to know through experience or study.
 
 ## Tailing
-This proficiency represents skill in following a target through urban environments without being detected, including navigating crowds, streets, and populated districts.
+The character is trained in following a target through urban environments without being detected, including crowds, streets, and populated districts. The character can automatically maintain brief visual contact with a target in favourable conditions (open streets, low crowd density, or predictable movement) without a proficiency check.
 
-A proficiency check is required when attempting to follow a target or maintain a pursuit under uncertain conditions.
+With a successful proficiency check, the character may follow a target through complex or crowded environments, maintain pursuit after the target becomes suspicious or attempts to evade, or navigate unfamiliar urban areas while maintaining contact.
 
-A proficiency check is used to:
-
-- Follow a target without being noticed in a populated area
-    
-- Maintain contact after the target becomes aware of pursuit and attempts to evade
-    
-- Navigate complex or unfamiliar urban environments while tailing a subject
-    
-- Success: The character successfully maintains visual contact or position relative to the target.
-    
-- Failure: The character loses the target or is unable to continue the pursuit effectively.
-    
-- Natural 1: The character maintains exceptionally effective tracking or positioning without detection.
-    
-- Natural 20: The character loses the target in a significant or potentially critical way (or draws attention that compromises the pursuit), at DM discretion.
-    
-
-Additional modifiers and interactions:
-
-- Targets with Alertness impose a –5 penalty to the tailing check.
-    
-- If the target is aware and actively evading, further checks may be required.
-    
-- Familiarity with the area may grant a situational modifier (typically –3 to +3, DM determined).
-    
-- Crowded or open environments may modify difficulty as appropriate.
-    
-- If both characters possess Tailing, the follower suffers a –3 penalty.
+Targets with Alertness impose a –5 penalty to Tailing checks. If the target is actively aware and evading, additional checks may be required. The degree of familiarity with an area may grant a situational modifier (typically –3 to +3, DM discretion). Crowded or open environments may modify difficulty as appropriate. If both parties possess Tailing, the follower suffers a –3 penalty.
 
 ## Thaumaturgy
-A character with this proficiency has studied the theory and practice of spellcasting, including the interaction of verbal, somatic, and material components.
+The character has studied the theory and structure of spellcasting, including the interaction of verbal, somatic, and material components. The character can automatically recognize and interpret general principles of spellcasting, magical structure, and theoretical frameworks without a proficiency check. This can identify the general school or nature of a spell or effect (illusion, necromancy, etc) and relative power or complexity (low-, mid-, or high-level), but cannot identify specific spells or effects in detail.
 
-A proficiency check is required when attempting to apply this knowledge to specific magical analysis or study.
+With a successful proficiency check, the character may analyze observed magical effects in theoretical terms, gain deeper understanding of spellcasting methodology, or apply thaumaturgic insight during study or research. When used in this manner, the character gains a +5% bonus to rolls to learn spells.
 
-A proficiency check may be used to:
-
-- Analyse the structure or methodology of spellcasting in theoretical terms
-    
-- Gain deeper understanding of observed magical effects or practices
-    
-- Support study and learning of new spells through applied knowledge of magical theory
-    
-- Success: The character gains a +5% bonus to learn spell rolls when applying thaumaturgic knowledge during study or research.
-    
-- Failure: No benefit is gained from theoretical insight.
-    
-- Natural 1: The character gains an unusually clear or insightful understanding of the magical theory in question.
-    
-- Natural 20: The character develops a flawed or misleading theoretical interpretation that appears sound but is incorrect until tested.
-    
-
-Additional notes:
-
-- Represents theoretical mastery of spellcasting principles, not spell identification or combat tactics.
-    
-- Benefits apply only when the proficiency is actively used to inform study or learning.
+This proficiency reflects theoretical mastery of magical principles rather than practical spell identification or combat application. Its benefits apply only when actively used to inform study, research, or structured analysis.
 
 ## Tightrope Walking
-A character with this proficiency is trained in maintaining balance on narrow or unstable surfaces, including ropes, beams, and similar structures (generally up to a 45° incline).
+The character is trained in maintaining balance on narrow or unstable surfaces, including ropes, beams, and similar structures (generally up to a 45° incline). The character can automatically traverse stable surfaces as narrow as the width of their foot under favourable conditions without a proficiency check.
 
-Movement on such surfaces is typically 60 feet per round, with a proficiency check required at intervals determined by distance and conditions.
+With a successful proficiency check, the character may traverse narrower or unstable surfaces, maintain balance under adverse conditions (e.g., wind or movement), or perform actions such as turning, stopping, or reacting while balanced. Movement is typically reduced while balancing, at the DM’s discretion.
 
-A proficiency check is required when:
+Surface width, stability, and environmental conditions modify difficulty; wider or stable surfaces may require no check, while very narrow or unstable ones impose penalties. Balancing aids (such as poles or counterweights) may grant bonuses.
 
-- Traversing narrow or unstable surfaces
-    
-- Operating under environmental interference (wind, vibration, or similar effects)
-    
-- Fighting or reacting to attacks while balanced on a narrow surface
-    
-- Success: The character maintains balance and continues movement or action safely.
-    
-- Failure: The character loses balance and falls (or becomes destabilised, at DM discretion depending on context).
-    
-- Natural 1: The character performs exceptionally well, maintaining balance with unusual ease or stability.
-    
-- Natural 20: The character suffers a significant loss of balance, resulting in a fall or critical failure of the attempt.
-    
-
-Additional modifiers:
-
-- Surface width affects difficulty (very narrow surfaces are significantly harder; wider beams may require no check).
-    
-- Balancing aids (such as a pole) may reduce difficulty.
-    
-- Environmental instability (wind, shaking, etc.) may increase difficulty.
-    
-
-Combat while balancing:
-
-- Attacking while on a narrow surface imposes penalties and requires a check each round to avoid falling.
-    
-- Being struck while balancing requires an immediate check to remain upright.
-    
-- Dexterity-based defensive benefits do not apply while maintaining balance.
+In combat, maintaining balance requires a successful check each round when taking actions or reacting to attacks; failure may result in loss of balance. Dexterity-based defensive benefits may be reduced or negated while balancing, at the DM’s discretion.
 
 ## Tracking
-A character with this proficiency can follow the trail of creatures across appropriate terrain by interpreting physical signs such as footprints, broken vegetation, and disturbed ground. Non-rangers suffer a –6 penalty to their effective Wisdom for tracking; rangers do not.
+The character can follow the trail of creatures across appropriate terrain by interpreting physical signs such as footprints, disturbed vegetation, and ground markings. The character can automatically follow clear, fresh trails under favourable conditions (soft ground, good visibility, minimal disturbance) without a proficiency check.
 
-A proficiency check is required when attempting to locate or continue following a trail under uncertain conditions.
+With a successful proficiency check, the character may locate, follow, or re-establish a trail under uncertain or adverse conditions, and may determine the general type and approximate number of creatures being tracked.
 
-A proficiency check is used to:
+Tracking requires a physical trail; some creatures (e.g., flying or incorporeal beings) may be untrackable at the DM’s discretion. Environmental conditions (terrain, weather, age of trail, and interference) modify the difficulty. If the modified chance falls below 0, the trail cannot be followed. Movement while tracking is reduced based on conditions. When tracking in a group, the most skilled character makes the check with a +1 bonus; if that character loses the trail, it is lost for all. 
 
-- Locate an initial trail based on evidence or observation
-    
-- Continue following a trail as conditions change or become more difficult
-    
-- Re-establish a lost trail after a period of searching
-    
-- Identify the type and approximate number of creatures being tracked (when possible)
-    
-- Success: The character successfully finds, follows, or interprets the trail as appropriate.
-    
-- Failure: The trail is lost or cannot be interpreted; further attempts are restricted as normal.
-    
-- Natural 1: The character gains unusually clear or insightful understanding of the trail, including highly accurate identification or interpretation.
-    
-- Natural 20: The character misreads the trail in a significantly misleading way, at DM discretion.
-    
-
-Additional rules and limitations:
-
-- Tracking requires the presence of a physical trail; many creatures (e.g., flying or incorporeal) are normally untrackable.
-    
-- Environmental and situational modifiers apply cumulatively (terrain, weather, visibility, disturbance, etc.).
-    
-- If the modified chance drops below 0, the trail is permanently lost to that character.
-    
-- Group tracking allows a +1 bonus from the most skilled tracker; once that character loses the trail, it is lost for all.
-    
-- Movement speed is reduced while tracking based on difficulty.
-    
-- Rangers typically gain tracking in outdoor terrain automatically and may have additional terrain specialisations depending on kit or class options.
+Rangers gain a +3 bonus to Tracking checks and may attempt to track in conditions that would normally preclude it, at the DM’s discretion.
 
 ## Trail Marking
-A character with this proficiency can mark a route through wilderness using subtle environmental alterations such as notching trees, arranging stones, or modifying natural features. This allows the character to create a retraceable path through outdoor terrain.
+The character can mark and maintain a navigable route through wilderness terrain using subtle alterations to the environment (e.g., notching trees, arranging stones, or modifying natural features). The character can automatically lay a clear and retraceable trail under normal conditions without a proficiency check, though movement is reduced while doing so.
 
-No proficiency check is required to mark a trail under normal conditions, though the character must move at reduced speed while doing so.
+With a successful proficiency check, the character may follow a previously marked trail under difficult conditions, including degraded markings, poor visibility, or disrupted terrain. Each successful check allows the character to follow the trail for a distance up to their level in miles.
 
-A proficiency check is required when attempting to follow a previously marked trail back through wilderness.
-
-A proficiency check is used to:
-
-- Retrace one’s own marked trail through wilderness terrain
-    
-- Maintain orientation on a previously laid route under changing or unclear conditions
-    
-- Attempt to follow a partially obscured or degraded trail (at DM discretion)
-    
-- Success: The character successfully follows the marked trail for a distance up to their level in miles per successful check.
-    
-- Failure: The character loses the trail and cannot continue without alternative means of navigation or tracking.
-    
-- Natural 1: The character follows the trail with exceptional clarity or efficiency.
-    
-- Natural 20: The character misreads or loses the trail in a significant way, at DM discretion.
-    
-
-Additional rules and limitations:
-
-- Marked trails degrade over time or due to environmental effects (weather, fire, etc.), as determined by the DM.
-    
-- Characters with Tracking proficiency may attempt to follow marked or degraded trails using tracking rules instead.
-    
-- Rangers and trackers may be able to recover or interpret obscured trail markings where others cannot.
+Marked trails degrade over time or due to environmental effects (weather, fire, traffic, etc.) at the DM’s discretion. Characters with Tracking may attempt to follow marked or degraded trails using that proficiency. This proficiency governs route marking and recovery, not symbolic communication (see Trail Signs).
 
 ## Trail Signs
+The character can create and interpret symbolic messages in the wilderness using arranged natural objects (stones, branches, and similar markers). When this proficiency is taken, the character selects a specific cultural or personal system of signs. The character can automatically create and interpret clear trail signs made within this system without a proficiency check.
 
-A character with this proficiency can interpret and use symbolic messages left in the wilderness through arranged natural objects such as stones, branches, or other environmental markers. The character must select a preferred cultural or personal method of sign-making when the proficiency is chosen.
+With a successful proficiency check, the character may interpret unfamiliar, complex, or degraded trail signs, identify the cultural or tribal origin of markings, or decipher signs made using other systems (typically at a penalty).
 
-A proficiency check is required when attempting to interpret unfamiliar, complex, or ambiguous trail signs.
+Trail signs are generally unintelligible to characters without this proficiency. This proficiency reflects symbolic communication and cultural literacy, not the ability to track creatures or follow physical trails.
 
-A proficiency check is used to:
-
-- Interpret the meaning of encountered trail signs
-    
-- Identify the cultural or tribal origin of a set of trail markings
-    
-- Attempt to interpret signs made using unfamiliar methods (at reduced effectiveness)
-    
-- Success: The character correctly interprets the intended meaning or origin of the trail sign.
-    
-- Failure: The message cannot be reliably interpreted.
-    
-- Natural 1: The character gains unusually clear or insightful understanding of the sign’s meaning or origin.
-    
-- Natural 20: The character misinterprets the sign in a significant way, at DM discretion.
-    
-
-Additional rules and limitations:
-
-- Trail signs are unintelligible to characters without this proficiency.
-    
-- Signs made in unfamiliar systems may be interpreted at reduced effectiveness (typically halved chance).
-    
-- Represents cultural literacy in symbolic wilderness communication rather than general tracking ability.
+**Note:** This proficiency governs symbolic _communication_, not navigation. Trail signs most commonly convey information about resources (food, water, shelter), hazards, or territorial boundaries, but may also encode more complex messages or instructions.
 
 ## Tumbling
-A character with this proficiency is trained in acrobatic movement including rolls, flips, dives, and other controlled physical manoeuvres. Tumbling requires light encumbrance or less.
+The character is trained in acrobatic movement, including rolls, dives, flips, and controlled falls. Tumbling requires light encumbrance or less. The character can automatically perform simple acrobatic movements, maintain balance in motion, and reduce the effects of minor falls (10 feet or less) without a proficiency check.
 
-A proficiency check is required when attempting to use tumbling in combat or to mitigate environmental hazards such as falls.
+With a successful proficiency check, the character may use tumbling to improve mobility or survivability in hazardous situations, including reducing damage from falls (up to 60 feet), performing complex manoeuvres under pressure, or gaining a defensive or positional advantage in combat when acting first and forgoing attacks.
 
-A proficiency check may be used to:
-
-- Improve defensive or offensive effectiveness through acrobatic movement in combat
-    
-- Reduce damage from falls or controlled drops
-    
-- Perform complex acrobatic manoeuvres under pressure
-    
-- Success: The character gains the intended benefit (e.g. improved combat defence/offence or reduced fall damage as applicable).
-    
-- Failure: The attempt provides no benefit beyond normal movement or circumstances.
-    
-- Natural 1: The character performs exceptionally well, gaining enhanced control or positioning.
-    
-- Natural 20: The character mishandles the manoeuvre, potentially worsening positioning or increasing vulnerability, at DM discretion.
-    
-
-Additional effects:
-
-- In combat, the character may improve AC against attacks directed solely at them if foregoing attacks that round and acting first.
-    
-- In unarmed combat, the character may gain a bonus to attack rolls through acrobatic movement.
-    
-- Falls of 60 feet or less may have damage reduced; falls of 10 feet or less may cause no damage if the check succeeds.
+In combat, a successful use of tumbling may improve Armor Class against attacks directed solely at the character or grant a minor positional advantage; in unarmed combat, it may grant a bonus to attack rolls. The exact benefit depends on circumstances and is determined by the DM.
 
 ## Undead Lore
-A character with this proficiency is knowledgeable about the nature, abilities, and weaknesses of undead creatures.
+The character is knowledgeable in the nature, habits, and general abilities of undead creatures. The character can automatically identify common types of undead and recall their broadly known traits (e.g., animating forces, general resistances, typical behaviour) without a proficiency check.
 
-A proficiency check is required when attempting to recall specific information about an undead creature in an active or uncertain situation.
+With a successful proficiency check, the character may identify rarer types of undead, recall detailed abilities, weaknesses, or vulnerabilities, that may provide effective tactical guidance during encounters.
 
-A proficiency check may be used to:
-
-- Identify an undead creature and recall its general capabilities
-    
-- Recall specific weaknesses, vulnerabilities, or tactical considerations
-    
-- Provide relevant guidance during encounters with undead beings
-    
-- Success: The character recalls accurate and useful information about the undead in question, including known weaknesses or effective tactics where applicable.
-    
-- Failure: No reliable information is recalled beyond general knowledge.
-    
-- Natural 1: The character recalls unusually detailed or highly useful insight about the undead creature.
-    
-- Natural 20: The character recalls incorrect or misleading information that appears plausible, at DM discretion.
-    
-
-Additional limits:
-
-- Information is limited to known lore; it cannot reveal unique or unknown properties of specific individuals unless those are part of established knowledge.
+Information gained through this proficiency is limited to established lore and cannot reveal unique properties of specific creatures unless such traits are widely known.
 
 ## Ventriloquism
-A character with this proficiency can create the illusion that their voice originates from a nearby source, using timing, misdirection, and vocal control rather than magical sound projection.
+The character can project their voice to create the illusion that it originates from another nearby source, using timing, misdirection, and vocal control. The character can produce simple, momentary misdirection (e.g., brief sounds or single words from an adjacent location) without a proficiency check when circumstances are favourable and the source is plausible.
 
-A proficiency check is required when attempting to deceive observers with a false source of speech.
+With a successful proficiency check, the character may convincingly project speech from a chosen source, sustain the illusion over multiple exchanges, or even deceive attentive observers. Modifiers may apply based on plausibility (e.g., an appropriate speaker vs. an inanimate object) and the intelligence or attentiveness of the audience.
 
-A proficiency check is used to:
-
-- Make it appear that speech is coming from a nearby object or person
-    
-- Sustain a deception over multiple spoken lines or exchanges
-    
-- Adjust for target perception, intelligence, and plausibility of the “speaking” source
-    
-- Success: The audience is successfully deceived into believing the sound originates from the intended source for that utterance.
-    
-- Failure: The deception is detected or fails to convince the audience.
-    
-- Natural 1: The effect is exceptionally convincing, even under scrutiny.
-    
-- Natural 20: The deception is immediately or obviously exposed in a way that undermines the attempt.
-    
-
-Additional modifiers and limitations:
-
-- Inanimate or implausible “speaking” sources impose penalties; believable sources may grant bonuses.
-    
-- Higher intelligence targets are more difficult to deceive; lower intelligence targets are more susceptible.
-    
-- One check is required per sentence or discrete spoken response.
-    
-- Requires the audience to be able to see the performer.
-    
-- Limited to sounds the character could plausibly produce; cannot mimic inherently unnatural vocalisations.
-    
-- Has no effect on non-intelligent creatures.
+The effect is limited to sounds the character could plausibly produce and requires line of sight to the intended audience. It has no effect on non-intelligent creatures. This proficiency may be used in conjunction with Disguise and/or Voice Mimicry at the DM’s discretion.
 
 ## Veterinary Healing
-The character is trained in the diagnosis and treatment of wounds, diseases, and poisons affecting normal animals. He is familiar with practical field medicine, including the setting of bones, cleaning of wounds, and preparation of herbal remedies and simple treatments.
+The character is trained in the diagnosis and treatment of wounds, diseases, and poisons affecting mundane animals, including the setting of bones, treatment of injuries, and preparation of simple remedies. This proficiency functions as Healing when applied to non-sapient animals. When treatment is applied within one round of injury, the character restores 1–3 hit points; each creature may benefit from this once per day. With continued care, the character can restore 1 additional hit point per day to up to six animals during light activity or travel.
 
-This proficiency functions as the healing proficiency when used on non-sapient animals. When applied promptly (within one round of injury), it can restore 1–3 hit points, once per creature per day. With continued care, the character can restore 1 hit point per day to up to six animals during light activity or travel.
+With a successful proficiency check, the character may treat poison or disease in animals, granting a +2 bonus to saving throws if care is applied within one round of exposure and maintained for 5 rounds. The character may also diagnose non-magical diseases; natural diseases treated in this manner are considered to have their mildest form and shortest duration.
 
-The character can also treat poisoning and disease in animals. If treatment is applied within one round of exposure and maintained for 5 rounds, the subject gains a +2 bonus to saving throws against the effect. The character may also attempt to diagnose diseases; natural diseases are treated as being in their mildest form and shortest duration when properly treated.
-
-Supernatural creatures (such as undead) and extraplanar beings cannot be treated with this proficiency.
-
-The character may apply this proficiency to humans, demihumans, and humanoids, but does so at half normal effectiveness.
-
-This proficiency is not cumulative with the healing proficiency; only one may be applied to a given treatment.
+This proficiency has no effect on undead, extraplanar creatures, or other unnatural beings. It may be applied to humans, demihumans, and humanoids at half effectiveness. This proficiency is not cumulative with Healing; only one may be applied to a given creature at a time.
 
 ## Voice Mimicry
-The character is trained in the controlled imitation of spoken voices, including accents, tone, cadence, and individual vocal patterns. This skill requires practice in breath control and vocal manipulation rather than simple imitation.
+The character is trained in the imitation of voices, including accents, tone, cadence, and individual vocal patterns. The character can reproduce any accent previously heard without a proficiency check and pass most casual inspection.
 
-The character can automatically reproduce any accent he has previously heard. A proficiency check is required only when speaking in that accent to listeners who themselves use it; in such cases, the check is made with a +2 modifier.
+With a successful proficiency check, the character may convincingly imitate a specific individual’s voice, provided they are familiar with it. This check is modified by the listener’s familiarity with the imitated speaker: no modifier if unfamiliar; –2 if acquainted; –5 if well acquainted; –7 if intimately familiar. If speaking more than a few words in a reproduced accent to native speakers, a check is also required with a -2 modifier.
 
-More difficult is the imitation of a specific individual’s voice. To do so, the character must be familiar with the target’s voice. A proficiency check is required to determine whether the imitation is detected. The difficulty depends on the listener’s familiarity with the original speaker: no modifier applies when the listener does not know the voice; 0 modifier for acquaintances; –2 for friends; –5 for close friends; and –7 for individuals with intimate familiarity (such as family members or spouses).
-
-Voice mimicry is often used in conjunction with Disguise. If Disguise is resolved first and succeeds, the voice mimicry check gains a +5 bonus, as visual confirmation reinforces belief. If Disguise fails, voice mimicry alone cannot compensate. If voice mimicry is successful first, the subsequent Disguise check gains a +1 bonus.
+When used in conjunction with the Disguise proficiency, a successful Disguise check grants a +5 bonus to Voice Mimicry checks, while a successful Voice Mimicry check grants a +1 bonus to subsequent Disguise checks. If Disguise fails however, Voice Mimicry cannot compensate for the visual inconsistencies.
 
 ## Weaponsmithing
-The character is trained in the forging, shaping, and finishing of metal weapons, particularly edged and hafted weapons such as swords, axes, spears, and similar arms. This work requires a properly equipped smithy, including forge, bellows, anvil, and specialist tools.
+The character is trained in forging, shaping, and finishing metal weapons, including edged and hafted arms (swords, axes, spears, and similar weapons). Work requires a properly equipped smithy (forge, bellows, anvil, and appropriate tools). The character can produce standard weapons according to normal time and cost requirements (see Table 41) without a proficiency check; such weapons are reliable and properly balanced.
 
-Using this proficiency, the character can construct weapons according to the time and cost listed in Table 41: Weapon Construction. No proficiency check is normally required for standard, well-supported work.
+With a successful proficiency check, the character may work under adverse conditions, use inferior materials, rush production, or produce finely balanced, high-quality, or unusual weapons (including nonstandard designs at the DM’s discretion).
 
-A proficiency check is required when working under adverse conditions, using inferior materials, attempting unusually complex or finely balanced designs, or rushing construction. The DM may also require a check when producing experimental or nonstandard weapons.
-
-Success indicates a properly forged and functional weapon. Failure results in a flawed item that may be unreliable or inferior at the DM’s discretion.
+Weapons produced with exceptional care or success may command higher value, grant minor advantages (e.g., improved durability or balance), or even be suitable for enchantment at the DM’s discretion.
 
 ## Weaponsmithing, Crude
-The character is trained in the construction of simple weapons from natural materials such as wood, stone, bone, sinew, and reed. This skill is most common among primitive or tribal cultures. The DM may allow additional crude weapons beyond the basic list where appropriate.
+The character is trained in constructing simple weapons from natural materials (wood, stone, bone, sinew, reed, and similar resources). The character must be proficient in a weapon to attempt its construction. Given suitable materials, the character can produce basic weapons according to normal construction times without a proficiency check; such weapons are functional but inherently fragile.
 
-The character must be proficient in the use of a weapon to attempt its construction. Construction time varies by weapon type (see table). No proficiency check is normally required when working under suitable conditions with adequate materials.
+With a successful proficiency check, the character may work under poor conditions, use otherwise unsuitable materials, or produce more durable and reliable crude weapons.
 
-The chance of success is based on Wisdom with a –3 penalty. Warriors and characters with the hunting proficiency gain a +3 bonus. A successful check indicates the weapon is usable and functions as intended.
+Crude weapons are prone to breakage. Each time a crude weapon successfully deals damage, roll 1d10; stone weapons break on a 1, bone weapons on a 1–2, other materials at the DM’s discretion. More durable weapons produced with a successful check may reduce or ignore this risk at the DM’s discretion.
 
-Failure indicates the weapon is too flawed for use. A natural 20 indicates a weapon that appears sound but breaks on first use. A natural 1 indicates exceptional craftsmanship; the weapon does not break under normal use, except against harder materials at the DM’s discretion.
-
-Crude weapons are subject to breakage in use. Whenever a crude weapon deals damage, roll 1d6: bone weapons break on a 1–2, stone weapons break on a 1.
-
-Construction times:
-
-Arrows: 7 per day  
-Axe, Battle: 4 days  
-Axe, Hand: 1 day  
-Axe, Throwing: 6 days  
-Bow, Long: 15 days (seasoning wood requires 1 year)  
-Bow, Short: 12 days  
-Dagger: 2 days  
-Dart: 3 days  
-Javelin: 1 day  
-Knife: 2 days  
-Quarterstaff: 1 day  
-Spear: 2 days  
-Staff Sling: 3 days  
-Warhammer: 5 days
+Warriors and characters with Hunting proficiency gain a +2 bonus to proficiency checks made with this skill.
 
 ## Weather Sense
-Weather Sense: The character is trained in interpreting natural atmospheric signs to predict short-term weather conditions.
+The character is skilled in interpreting natural atmospheric signs to predict short-term weather conditions. Under normal conditions, the character can anticipate obvious or imminent weather changes (e.g., approaching storms, sudden winds, visible fronts) without a proficiency check and can distinguish natural weather from magically influenced conditions, though this grants no insight into specific causes.
 
-A successful proficiency check indicates the character correctly forecasts general weather conditions for the next six hours. A failed check results in an incorrect forecast, as the character misreads environmental signs. The DM should make this roll in secret.
+With a successful proficiency check, the character can forecast general weather conditions for the next 24 hours, including precipitation, wind trends, and significant changes in visibility. A check may be attempted once every 12 hours. For each uninterrupted hour spent observing local weather, the character gains a +1 bonus to the next check (maximum +3); this bonus is lost if observation is interrupted for more than one hour before the check is made. The DM should make all checks in secret.
 
-A check may be made once every six hours. For each uninterrupted six-hour period spent observing the weather, the character gains a cumulative +1 bonus to the next check, representing increased familiarity with changing conditions. This bonus is lost if the character’s attention is significantly diverted or if they rest for an extended period.
-
-In situations where weather changes are obvious (such as visible storms, tornadoes, or clearly approaching fronts), no check is required, and the outcome is considered self-evident.
+The character gains a +1 bonus to Boating, Seamanship, and Survival proficiency checks. At the DM’s discretion, a successful forecast may also grant bonuses when avoiding or mitigating weather-related hazards.
 
 ## Weaving
-The character is trained in the production of cloth and textile goods from spun fibers such as wool, cotton, or similar materials. This work requires a spinning apparatus and a loom.
+The character is trained in producing cloth and textile goods from fibers, given access to a spinning apparatus and loom. The character can produce up to two square yards of finished cloth per day and create simple, durable textiles suitable for clothing, packing, or general use without a proficiency check.
 
-Using this proficiency, the character can produce approximately two square yards of finished cloth per day. No proficiency check is normally required for routine production.
+With a successful proficiency check, the character may work under adverse conditions, use poor-quality materials, or produce fine, dense, or specialized weaves (e.g., tightly woven cloth, decorative patterns, silk textiles, or materials suitable for upholstery or padded armor).
 
-A proficiency check may be required when working under adverse conditions, using poor-quality materials, or attempting unusually fine or complex patterns. Failure indicates flawed or unusable material at the DM’s discretion.
-
-The character can also use this proficiency to produce basic garments, draperies, and tapestries from finished cloth, assuming adequate time and materials are available.
+This proficiency governs the creation of cloth only; cutting, fitting, and finishing garments fall under Tailoring/Seamstress. High-quality weaves may grant bonuses to durability, value, or effectiveness at the DM’s discretion (e.g., improved wear resistance, suitability for armor padding).
 
 ## Whistling/Humming
-The character is highly skilled in producing controlled whistled or hummed tones, capable of reproducing melodies, patterns, and simple coded signals.
+The character can produce controlled whistled or hummed tones, reproduce melodies and simple patterns, and be clearly heard at up to 500 feet under favourable conditions. The character can accurately reproduce any tune they are reasonably familiar with; if also proficient in a musical proficiency, they may interpret and reproduce written music in a recognized notation.
 
-The character can accurately reproduce any tune he has previously heard. A proficiency check may be used to learn or reproduce an unfamiliar tune on the spot.
+With a successful proficiency check, the character may be heard at up to 1,000 feet under favourable conditions, reproduce melodies heard only once, or harmonize with other singers or instruments.
 
-If the character also possesses Animal Lore, he can mimic bird calls he has previously heard.
+The character may communicate a single simple concept (e.g., danger, come, all clear) to allies within hearing; both sender and receiver must succeed on a proficiency check to encode and interpret the signal. Complex ideas cannot be conveyed. If also proficient in Animal Lore, the character may mimic specific bird calls they have previously heard (check required).
 
 More practically, this proficiency allows limited communication between characters who also possess it. If both parties succeed on a proficiency check, a single simple concept can be transmitted by whistled or hummed code (such as warnings, directions, or brief tactical instructions). Complex ideas cannot be conveyed in this manner.
