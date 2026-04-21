@@ -74,7 +74,7 @@ As a general guideline, learning a new proficiency requires 1d8+4 weeks of downt
 | 19                 | 8     |
 
 ## Nonweapon Proficiency Groups
-Nonweapon proficiencies are organised into proficiency groups representing skills that can be easily learned by anyone (the general group) and skills that can be *more easily* learned by specific groups of character classes. These groups are not restrictive - **i.e. any character may learn any proficiency (unless barred by a kit)** - *however* acquiring a skill from a proficiency group that is not associated with a character's class will cost one more non-weapon proficiency slot than listed. Consult the table below to see which proficiency groups your character has access to based on their class:
+Nonweapon proficiencies are organised into proficiency groups representing skills that can be learned by anyone (the general group) and skills that can be *more easily* learned by specific groups of character classes. These groups are not restrictive - **i.e. any character may learn any proficiency (unless barred by a kit)** - *however* acquiring a skill from a proficiency group that is not associated with a character's class will cost one more non-weapon proficiency slot than listed. Consult the table below to see which proficiency groups your character has access to based on their class:
 
 | Class      | Proficiency Groups              |
 | ---------- | ------------------------------- |
@@ -89,8 +89,55 @@ Nonweapon proficiencies are organised into proficiency groups representing skill
 | Bard       | Rogue, Warrior, Wizard, General |
 
 
-## Proficiency Group Tables (to be added)
-
+## Proficiency Group Tables (in progress)
+### General Group
+| Proficiency                                                                       | Slots | Ability      | Modifier |
+| --------------------------------------------------------------------------------- | ----- | ------------ | -------- |
+| Acting                                     | 1     | Charisma     | -1       |
+| Agriculture                           | 1     | Intelligence | 0        |
+| Alertness                               | 1     | Wisdom       | 1        |
+| Animal Handling                   | 1     | Wisdom       | 0        |
+| Animal Training                   | 1     | Wisdom       | 0        |
+| Artistic Ability                 | 1     | Wisom        | 0        |
+| Blacksmithing                       | 1     | Strength     | 0        |
+| Boating                                   | 1     | Wisdom       | 1        |
+| Boatwright                             | 1     | Intelligence | -2       |
+| Brewing                                   | 1     | Intelligence | 0        |
+| Carpentry                               | 1     | Strength     | 0        |
+| Cartography                           | 1     | Intelligence | -2       |
+| Caving                                     | 2     | Wisdom       | Varies   |
+| Chanting                                 | 1     | Charisma     | 2        |
+| Cobbling                                 | 1     | Dexterity    | 0        |
+| Cooking                                   | 1     | Intelligence | 0        |
+| Craft Instrument                 | 2     | Dexterity    | -2       |
+| Crowd Working                       | 1     | Charisma     | 0        |
+| Dancing                                   | 1     | Dexterity    | 0        |
+| Direction Sense                   | 1     | Wisdom       | 1        |
+| Distance Sense                     | 1     | Wisdom       | 0        |
+| Etiquette                               | 1     | Charisma     | 0        |
+| Fire-Building                       | 1     | Wisdom       | -1       |
+| Fishing                                   | 1     | Wisdom       | -1       |
+| Heraldry                                 | 1     | Intelligence | 0        |
+| Languages, Modern               | 1     | Intelligence | 0        |
+| Leatherworking                     | 1     | Intelligence | 0        |
+| Mining                                     | 2     | Wisdom       | -3       |
+| Observation                           | 1     | Intelligence | 0        |
+| Persuasion                             | 1     | Charisma     | 0        |
+| Poetry                                     | 1     | Intelligence | -2       |
+| Pottery                                   | 1     | Dexterity    | -2       |
+| Riding, Airborne                 | 2     | Wisdom       | -2       |
+| Riding, Land-Based             | 1     | Wisdom       | 3        |
+| Riding, Sea-Based               | 2     | Dexterity    | -2       |
+| Rope Use                                 | 1     | Dexterity    | 0        |
+| Seamanship                             | 1     | Dexterity    | 1        |
+| Seamstress-Tailor               | 1     | Dexterity    | -1       |
+| Signalling                             | 1     | Intelligence | -2       |
+| Singing                                   | 1     | Charisma     | 0        |
+| Stonemasonry                         | 1     | Strength     | -2       |
+| Swimming                                 | 1     | Strength     | 0        |
+| Weather Sense                      | 1     | Wisdom       | -1       |
+| Weaving                                   | 1     | Intelligence | -1       |
+| Whistling or Humming         | 1     | Dexterity    | 2        |
 
 
 # Nonweapon Proficiency Descriptions
