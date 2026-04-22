@@ -31,10 +31,12 @@ As a general rule, tasks requiring a skilled character to make a proficiency che
 ## Situational Modifiers
 The Dungeon Master determines the modifiers that apply to a specific proficiency check before any rolls are made (whether or not they announce them) based on the situation and what the players have described their character attempting. To give a general sense of the sort of modifiers a DM might apply:
 
-Difficult Task -2
-Improvised Tools -2
-Non-standard materials -2
-Extreme situations (example: working while significantly injured, poisoned, or diseased, etc) -4
+|Factor|Modifer|
+|-|-|
+|Unusually Difficult Task |-2|
+|Improvised Tools |-2|
+|Non-standard or Low-quality Materials |-2|
+|Extreme Situations <br/>(example: working while significantly injured, poisoned, or diseased, etc)| -4|
 
 Proficiencies that involve crafting or technical work require appropriate tools and facilities. Without them, attempts either fail automatically or require a proficiency check at significant penalty.
 
@@ -90,7 +92,7 @@ Nonweapon proficiencies are organised into proficiency groups representing skill
 
 
 ## Proficiency Group Tables (in progress)
-### General Group
+### General Proficiency Group
 | Proficiency                                                                       | Slots | Ability      | Modifier |
 | --------------------------------------------------------------------------------- | ----- | ------------ | -------- |
 | Acting                                     | 1     | Charisma     | -1       |
@@ -105,7 +107,7 @@ Nonweapon proficiencies are organised into proficiency groups representing skill
 | Brewing                                   | 1     | Intelligence | 0        |
 | Carpentry                               | 1     | Strength     | 0        |
 | Cartography                           | 1     | Intelligence | -2       |
-| Caving                                     | 2     | Wisdom       | Varies   |
+| Caving                                     | 2     | Wisdom       | -2   |
 | Chanting                                 | 1     | Charisma     | 2        |
 | Cobbling                                 | 1     | Dexterity    | 0        |
 | Cooking                                   | 1     | Intelligence | 0        |
@@ -139,6 +141,133 @@ Nonweapon proficiencies are organised into proficiency groups representing skill
 | Weaving                                   | 1     | Intelligence | -1       |
 | Whistling or Humming         | 1     | Dexterity    | 2        |
 
+### Priest Proficiency Group
+| Proficiency                                                           | Slots | Ability      | Modifier |
+| --------------------------------------------------------------------- | ----- | ------------ | -------- |
+| Administration         | 1     | Intelligence | 1        |
+| Alms                             | 1     | Charisma     | 0        |
+| Ancient History       | 1     | Intelligence | -1       |
+| Astrology                   | 2     | Intelligence | 0        |
+| Bookbinding               | 1     | Intelligence | 0        |
+| Bureaucracy               | 2     | Intelligence | 0        |
+| Ceremony                     | 1     | Charisma     | 0        |
+| Diagnostics               | 1     | Wisdom       | -1       |
+| Diplomacy                   | 1     | Charisma     | -1       |
+| Engineering               | 2     | Intelligence | -3       |
+| Healing                       | 2     | Wisdom       | 0        |
+| Herbalism                   | 2     | Intelligence | -2       |
+| Investigation           | 1     | Intelligence | -2       |
+| Languages, Ancient | 1     | Intelligence | 0        |
+| Law                               | 1     | Wisdom       | 0        |
+| Local History           | 1     | Charisma     | 0        |
+| Musical Instrument | 1     | Dexterity    | -1       |
+| Navigation                 | 1     | Intelligence | -2       |
+| Omen Reading             | 1     | Wisdom       | -2       |
+| Oratory                       | 1     | Charisma     | 0        |
+| Papermaking               | 1     | Intelligence | 0        |
+| Reading-Writing       | 1     | Intelligence | 1        |
+| Religion                     | 1     | Wisdom       | 0        |
+| Sage Knowledge         | 2     | Intelligence | -2       |
+| Scribe                         | 1     | Dexterity    | 1        |
+| Spellcraft                 | 1     | Intelligence | -2       |
+| Undead Lore               | 1     | Intelligence | -1       |
+| Veterinary Healing | 1     | Wisdom       | -3       |
+
+### Rogue Proficiency Group
+
+| Proficiency                                                                 | Slots | Ability              | Modifier |
+| --------------------------------------------------------------------------- | ----- | -------------------- | -------- |
+| Ancient History             | 1     | Intelligence         | -1       |
+| Animal Noise                   | 1     | Wisdom               | -1       |
+| Appraising                       | 1     | Intelligence         | 0        |
+| Begging                             | 1     | Charisma             | 0   |
+| Blind-Fighting               | 2     | NA                   | NA       |
+| Bureaucracy                     | 2     | Intelligence         | 0        |
+| Camouflage                       | 1     | Wisdom               | 0        |
+| Disguise                           | 1     | Charisma             | -1       |
+| Fast-Talking                   | 1     | Charisma             | -1   |
+| Foraging                           | 1     | Intelligence         | -2       |
+| Forgery                             | 1     | Dexterity            | -1       |
+| Fortune Telling             | 2     | Charisma             | 2        |
+| Gaming                               | 1     | Charisma             | 0        |
+| Gem Cutting                     | 2     | Dexterity            | -2       |
+| Information Gathering | 1     | Intelligence         | -1   |
+| Intimidation                   | 1     | Strength or Charisma | 0        |
+| Juggling                           | 1     | Dexterity            | -1       |
+| Jumping                             | 1     | Strength             | 0        |
+| Local History                 | 1     | Charisma             | 0        |
+| Locksmithing                   | 1     | Dexterity            | 0        |
+| Looting                             | 1     | Dexterity            | 0        |
+| Musical Instrument       | 1     | Dexterity            | -1       |
+| Reading Lips                   | 2     | Intelligence         | -2       |
+| Set Snares (Rogue only)       | 1     | Dexterity            | -1       |
+| Tailing                             | 1     | Dexterity            | 0   |
+| Tightrope Walking         | 1     | Dexterity            | 0        |
+| Trail Signs                     | 1     | Intelligence         | -1       |
+| Tumbling                           | 1     | Dexterity            | 0        |
+| Ventriloquism                 | 1     | Intelligence         | -2       |
+| Voice Mimicry                 | 2     | Charisma             | 0   |
+
+### Warrior Proficiency Group
+
+| Proficiency                                                                 | Slots | Ability      | Modifier |
+| --------------------------------------------------------------------------- | ----- | ------------ | -------- |
+| Animal Lore                     | 1     | Intelligence | 0        |
+| Armorer                             | 2     | Intelligence | -2       |
+| Blind-Fighting               | 2     | NA           | NA       |
+| Bowyer/Fletcher         | 1     | Dexterity    | -1       |
+| Camouflage                       | 1     | Wisdom       | 0        |
+| Charioteering                 | 1     | Dexterity    | 2        |
+| Endurance                         | 2     | Constitution | 0        |
+| Foraging                           | 1     | Intelligence | -2       |
+| Gaming                               | 1     | Charisma     | 0        |
+| Hunting                             | 1     | Wisdom       | -1       |
+| Jousting                           | 1     | Dexterity    | 2        |
+| Law                                     | 1     | Wisdom       | 0        |
+| Mountaineering               | 1     | Wisdom           | 0       |
+| Navigation                       | 1     | Intelligence | -2       |
+| Oratory                             | 1     | Charisma     | 0        |
+| Running                             | 1     | Constitution | -6       |
+| Set Snares   | 1     | Intelligence | -1       |
+| Spelunking                       | 1     | Intelligence | -2       |
+| Survival                           | 2     | Intelligence | 0        |
+| Tracking                           | 2     | Wisdom       | 0        |
+| Trail Marking                 | 1     | Wisdom       | 0        |
+| Trail Signs                     | 1     | Intelligence | -1       |
+| Weaponsmithing, Crude | 1     | Wisdom       | -3       |
+| Weaponsmithing               | 3     | Intelligence | -3       |
+
+### Wizard Proficiency Group
+
+| Proficiency                                                           | Slots | Ability      | Modifier |
+| --------------------------------------------------------------------- | ----- | ------------ | -------- |
+| Alchemy                       | 2     | Intelligence | -3       |
+| Anatomy                       | 2     | Intelligence | -2       |
+| Ancient History       | 1     | Intelligence | -1       |
+| Arcanology                 | 1     | Intelligence | -3       |
+| Astrology                   | 2     | Intelligence | 0        |
+| Bookbinding               | 1     | Intelligence | 0        |
+| Concentration           | 2     | Wisdom       | -2       |
+| Dowsing                       | 1     | Wisdom       | -3       |
+| Engineering               | 2     | Intelligence | -3       |
+| Gem Cutting               | 2     | Dexterity    | -2       |
+| Glassblowing             | 1     | Dexterity    | 0        |
+| Herbalism                   | 2     | Intelligence | -2       |
+| Hypnotism                   | 1     | Charisma     | -2       |
+| Languages, Ancient | 1     | Intelligence | 0        |
+| Mental Resistance   | 1     | Wisdom       | -1       |
+| Navigation                 | 1     | Intelligence | -2       |
+| Omen Reading             | 1     | Wisdom       | -2       |
+| Papermaking               | 1     | Intelligence | 0        |
+| Prestidigitation     | 1     | Dexterity    | -1       |
+| Reading-Writing       | 1     | Intelligence | 1        |
+| Religion                     | 1     | Wisdom       | 0        |
+| Sage Knowledge         | 2     | Intelligence | -2       |
+| Scribe                         | 1     | Dexterity    | 1        |
+| Spell Research         | 1     | Intelligence | 0        |
+| Spellcraft                 | 1     | Intelligence | -2       |
+| Tactics of Magic     | 1     | Intelligence | -1       |
+| Thaumaturgy               | 1     | Intelligence | -2       |
 
 # Nonweapon Proficiency Descriptions
 ## Acting
