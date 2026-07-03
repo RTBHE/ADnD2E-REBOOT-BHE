@@ -465,6 +465,7 @@ Though their methods differ, all wizards share certain defining traits. They rel
 Wizards are among the most intellectually powerful and versatile characters in the game world, but also among the most physically vulnerable. Their studies leave little time for martial training, and many arcane techniques require freedom of movement, careful breath control, precise gestures, and uninterrupted concentration. As a result, most wizards are limited in the armour and weapons they can employ effectively.
 
 Despite these limitations, few forces rival the versatility of arcane magic. Wizards may conjure flame from empty air, transform matter, alter perception, traverse great distances, command unseen forces, summon extraplanar beings, reshape living bodies, bind power into enchanted objects, or uncover secrets long buried by time and death. Their pursuit of knowledge often leads them toward mysteries, powers, and dangers that others were never meant to encounter.
+
 #### Arcane Magic
 Arcane spells are formulae that shape and direct the energetic and elemental structures of the weft. These formulae combine symbolic language, gesture, mental discipline, material correspondences, and precise energetic sequencing in order to produce supernatural effects.
 
@@ -483,10 +484,10 @@ A wizard’s spellbook is both laboratory journal and personal reference work, r
 
 Arcane spells cannot ordinarily be improvised from casual reading alone. Before a spell may be cast quickly and reliably, the wizard must study and memorize the formula, imprinting a temporary energetic pattern within the mind. Casting the spell releases this prepared structure, erasing it from memory until studied again.
 
-However, wizards may sometimes cast certain spells directly from their spellbooks or ritual texts without prior memorization. Such ritual casting requires substantially more time than normal spellcasting and demands uninterrupted concentration, full material components, and access to the written formula throughout the casting process. Ritual spells are unsuitable for combat or other immediate situations, but allow the wizard greater flexibility in employing rarely needed magic.
+However, wizards may sometimes cast certain spells directly from their spellbooks or ritual texts without prior memorization. Such ritual casting requires substantially more time than normal spellcasting and demands uninterrupted concentration, full material components, and access to the written formula throughout the casting process. Ritual spells are generally unsuitable for combat or other immediate situations, but allow the wizard greater flexibility in employing rarely needed magic.
 
 #### Learning Spells
-Wizards do not automatically gain complete knowledge of new spells when advancing in level. Arcane knowledge must be discovered, traded, researched, purchased, copied, stolen, or otherwise acquired during play.
+Wizards do not automatically gain access to an array of new spells when advancing in level. Arcane knowledge must be discovered, traded, researched, purchased, copied, stolen, or otherwise acquired during play.
 
 When a wizard encounters a spell not already known, he may attempt to learn it by studying the formula and deciphering its structure. Success is determined by the character’s chance to learn spells based upon Intelligence.
 
@@ -529,65 +530,427 @@ Beginning at 11th level, wizards no longer gain additional Hit Dice. Instead, th
 #### Experience and Advancement
 Wizards advance according to the following table:
 
-| Level | Mage/Specialist | Hit Dice |
-| ----- | --------------- | -------- |
-| 1     | 0               | 1d4      |
-| 2     | 2,500           | 2d4      |
-| 3     | 5,000           | 3d4      |
-| 4     | 10,000          | 4d4      |
-| 5     | 20,000          | 5d4      |
-| 6     | 40,000          | 6d4      |
-| 7     | 60,000          | 7d4      |
-| 8     | 90,000          | 8d4      |
-| 9     | 135,000         | 9d4      |
-| 10    | 250,000         | 10d4     |
-| 11    | 375,000         | 10d4+1   |
-| 12    | 750,000         | 10d4+2   |
-| 13    | 1,125,000       | 10d4+3   |
-| 14    | 1,500,000       | 10d4+4   |
-| 15    | 1,875,000       | 10d4+5   |
-| 16    | 2,250,000       | 10d4+6   |
-| 17    | 2,625,000       | 10d4+7   |
-| 18    | 3,000,000       | 10d4+8   |
-| 19    | 3,375,000       | 10d4+9   |
-| 20    | 3,750,000       | 10d4+10  |
+| Level | Mage/Specialist | Hit Dice | Spell Points (note 1) |
+| ----- | --------------- | -------- | --------------------- |
+| 1     | 0               | 1d4      | 4 (+4)                |
+| 2     | 2,500           | 2d4      | 8 (+4)                |
+| 3     | 5,000           | 3d4      | 15 (+10)              |
+| 4     | 10,000          | 4d4      | 25 (+10)              |
+| 5     | 20,000          | 5d4      | 40 (+20)              |
+| 6     | 40,000          | 6d4      | 55 (+20)              |
+| 7     | 60,000          | 7d4      | 70 (+35)              |
+| 8     | 90,000          | 8d4      | 95 (+35)              |
+| 9     | 135,000         | 9d4      | 120 (+60)             |
+| 10    | 250,000         | 10d4     | 150 (+60)             |
+| 11    | 375,000         | 10d4+1   | 200 (+60)             |
+| 12    | 750,000         | 10d4+2   | 250 (+90)             |
+| 13    | 1,125,000       | 10d4+3   | 300 (+90)             |
+| 14    | 1,500,000       | 10d4+4   | 350 (+130)            |
+| 15    | 1,875,000       | 10d4+5   | 400 (+130)            |
+| 16    | 2,250,000       | 10d4+6   | 475 (+180)            |
+| 17    | 2,625,000       | 10d4+7   | 550 (+180)            |
+| 18    | 3,000,000       | 10d4+8   | 625 (+240)            |
+| 19    | 3,375,000       | 10d4+9   | 700 (+240)            |
+| 20    | 3,750,000       | 10d4+10  | 800 (+240)            |
 
-#### Wizard Spell Progression
+Note 1: Numbers in parentheses are additional points specialists add to their base spell points.
 
-All wizards use the following spell progression table unless otherwise modified by class abilities or specialist traditions.
+#### Wizard Daily Casting Limits
+
+A wizard is limited in the number of spells they may cast each day at each spell level. This limit applies regardless of casting method, including fixed magic, free magic, and ritual casting.
+
+Specialists may cast one spell more than the table gives at each spell level, provided at least one spell of that level, and cast in the same day, falls within their specialty. 
+
+This restriction represents the finite limits of mortal cognition and arcane stabilization. Regardless of available Spell Points, a wizard can safely shape only a limited number of spell structures of each level within a given day before mental fatigue, symbolic degradation, and energetic instability begin to overwhelm coherent casting.
 
 | Wizard Level | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1            | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3            | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
-| 4            | 3   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 5            | 4   | 2   | 1   | —   | —   | —   | —   | —   | —   |
-| 6            | 4   | 2   | 2   | —   | —   | —   | —   | —   | —   |
-| 7            | 4   | 3   | 2   | 1   | —   | —   | —   | —   | —   |
-| 8            | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9            | 4   | 3   | 3   | 2   | 1   | —   | —   | —   | —   |
-| 10           | 4   | 4   | 3   | 2   | 2   | —   | —   | —   | —   |
-| 11           | 4   | 4   | 4   | 3   | 2   | 1   | —   | —   | —   |
-| 12           | 4   | 4   | 4   | 4   | 3   | 2   | —   | —   | —   |
-| 13           | 5   | 5   | 4   | 4   | 4   | 2   | 1   | —   | —   |
-| 14           | 5   | 5   | 5   | 4   | 4   | 3   | 2   | —   | —   |
-| 15           | 5   | 5   | 5   | 5   | 4   | 3   | 2   | 1   | —   |
-| 16           | 5   | 5   | 5   | 5   | 5   | 4   | 3   | 2   | —   |
-| 17           | 6   | 5   | 5   | 5   | 5   | 4   | 3   | 2   | 1   |
-| 18           | 6   | 6   | 5   | 5   | 5   | 5   | 4   | 3   | 1   |
-| 19           | 6   | 6   | 6   | 5   | 5   | 5   | 4   | 3   | 2   |
-| 20           | 6   | 6   | 6   | 6   | 5   | 5   | 5   | 4   | 2   |
+| 1            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2            | 4   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3            | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 4            | 5   | 4   | —   | —   | —   | —   | —   | —   | —   |
+| 5            | 6   | 4   | 3   | —   | —   | —   | —   | —   | —   |
+| 6            | 6   | 4   | 4   | —   | —   | —   | —   | —   | —   |
+| 7            | 6   | 5   | 4   | 3   | —   | —   | —   | —   | —   |
+| 8            | 6   | 5   | 5   | 4   | —   | —   | —   | —   | —   |
+| 9            | 6   | 5   | 5   | 4   | 3   | —   | —   | —   | —   |
+| 10           | 6   | 6   | 5   | 4   | 4   | —   | —   | —   | —   |
+| 11           | 6   | 6   | 6   | 5   | 4   | 3   | —   | —   | —   |
+| 12           | 6   | 6   | 6   | 6   | 5   | 4   | —   | —   | —   |
+| 13           | 7   | 7   | 6   | 6   | 6   | 4   | 3   | —   | —   |
+| 14           | 7   | 7   | 7   | 6   | 6   | 5   | 4   | —   | —   |
+| 15           | 7   | 7   | 7   | 7   | 6   | 5   | 4   | 2   | —   |
+| 16           | 7   | 7   | 7   | 7   | 7   | 6   | 5   | 4   | —   |
+| 17           | 8   | 7   | 7   | 7   | 7   | 6   | 5   | 4   | 1   |
+| 18           | 8   | 8   | 7   | 7   | 7   | 7   | 6   | 5   | 2   |
+| 19           | 8   | 8   | 8   | 7   | 7   | 7   | 6   | 5   | 3   |
+| 20           | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 6   | 4   |
 
-## Priests Group
+### Mage
+
+Mages are the most versatile practitioners of arcane magic, pursuing no single doctrine to the exclusion of others. Where specialists devote themselves to one particular understanding of magical substance, the mage studies the broad interplay of the Art as a whole. This breadth grants flexibility and adaptability, though never the depth of mastery attained by a true specialist.
+
+Arcane magic concerns itself with the manipulation of **substance**: elemental force, material transformation, sensation, thought, life, death, motion, and the innumerable hidden properties underlying the manifest world. To the mage, the multiverse is not a fixed creation, but mutable actuality—matter and energy awaiting manipulation through knowledge, will, and disciplined practice.
+
+Because their studies range widely across many magical disciplines, mages are uniquely suited to confronting unfamiliar circumstances. A specialist may wield terrifying command within his chosen field yet remain dangerously limited outside it; the mage, though less refined in any single doctrine, possesses a broader command of the Art and is therefore more adaptable in the uncertain conditions of adventuring life.
+
+This versatility comes at a cost. The mage cannot achieve the same intuitive grasp of any single discipline as a specialist wizard. The subtle resonances, hidden sympathies, and perfected techniques known to dedicated specialists remain beyond the mage’s reach. Thus specialists learn, research, and employ the magic of their chosen disciplines with greater ease and potency.
+
+Mages occupy many roles within society. Some pursue knowledge in great libraries and academies, while others live as reclusive hermits, itinerant scholars, court advisers, physicians, astrologers, or alchemists. Whatever their station, they share a belief that the hidden structures of the world can be understood through disciplined study.
+
+### Specialist Wizards
+
+Specialist wizards devote themselves to a single school of arcane study. Rather than seeking broad understanding of the Weave, they pursue mastery through depth, refining their knowledge of one magical tradition at the expense of others. This focus grants exceptional command within their chosen discipline, but inevitably limits their understanding of competing approaches to arcane magic.
+
+Specialist wizards gain significant advantages within their chosen discipline, but these are balanced by corresponding limitations. Their mastery allows them to cast, learn, and research the magic of their specialty more effectively than a mage, while restricting or preventing access to incompatible schools of arcane study.
+
+As a specialist's understanding deepens, it becomes increasingly shaped by the assumptions and methods of a single magical tradition. Other schools, particularly those founded upon opposing principles, become progressively more difficult to comprehend until they can no longer be practised safely. This limitation reflects the specialist's worldview as much as any technical inability.
+
+Not all wizards can become specialists. The player character must meet certain requirements to become a specialist. Most specialist wizards must be single-classed; with few exceptions multi-classed characters cannot become specialists. Dual-class humans _can_ choose to become specialists. The dedication to a particular school of magic requires all the attention and concentration of the character. Such dedication demands complete concentration, leaving little opportunity for the training required by another class.
+
+In addition, each school has different restrictions on race, ability scores, and schools of magic allowed. These restrictions are given in the table below. Note that universal magic is not available as a specialty. The spells of this group, vital to the functioning of a wizard, are available to all wizards.
+
+##### Specialist Wizard Requirements
+
+| Specialist                    | Races         | Minimum Ability Score | Opposition Schools                 |
+| ----------------------------- | ------------- | --------------------- | ---------------------------------- |
+| **Philosophical Traditions**  |               |                       |                                    |
+| Abjurer                       | H             | 9 Int, 15 Wis         | Alteration, Illusion               |
+| Conjurer                      | H, 1/2E       | 9 Int, 15 Con         | Divination, Invoc/Evoc             |
+| Diviner                       | H, 1/2E, E    | 9 Int, 16 Wis         | Conj/Summon                        |
+| Enchanter                     | H, 1/2E, E    | 9 Int, 16 Cha         | Invoc/Evoc, Necromancy             |
+| Illusionist                   | H, E, G       | 9 Int, 16 Dex         | Necromancy, Invoc/Evoc, Abjuration |
+| Invoker                       | H             | 9 Int, 16 Con         | Ench/Charm, Conj/Summon            |
+| Necromancer                   | H             | 9 Int, 16 Wis         | Illusion, Ench/Charm               |
+| Transmuter                    | H, 1/2E       | 9 Int, 15 Dex         | Abjuration, Necromancy             |
+| **Effectual Traditions**      |               |                       |                                    |
+| Elementalist                  | H             | 9 Int                 | Special                            |
+| Dimensionalist                | H, 1/2E, E    | 16 Int                | Ench/Charm, Necromancy             |
+| Force Mage                    | H, 1/2E       | 12 Int, 15 Con        | Divination, Illusion               |
+| Shadow Mage                   | H, E          | 15 Int, 16 Wis        | Invoc/Evoc, Abjuration             |
+| **Thaumaturgical Traditions** |               |                       |                                    |
+| Alchemist                     | H, G          | 15 Int, 14 Dex        | Illusion, Necromancy               |
+| Artificer                     | H, G          | 12 Int, 15 Con        | Necromancy, Ench/Charm             |
+| Geometer                      | H, 1/2E, E, G | 15 Int, 14 Wis        | Ench/Charm, Illusion               |
+| Song Mage                     | H, 1/2E, E    | 14 Int, 15 Cha        | Necromancy, Divination, Invoc/Evoc |
+| Wild Mage                     | H, 1/2E, E    | 16 Int                | none                               |
+
+**Race** lists those races that, either through a natural tendency or a quirk of fate, are allowed to specialize in that art.
+
+**Minimum Ability Score** lists the ability minimums needed to study intensively in that school.
+
+**Opposition School(s)** represent the philosophical schools of magic that are fundamentally incompatible with a specialist’s methods, training, and understanding of arcane structure. Specialists cannot learn spells belonging to their opposition schools, nor use magical items that duplicate spells from those schools. Elementalists are an exception: their restrictions derive not from philosophical incompatibility, but from the natural opposition of the elements themselves, with fire opposing water and earth opposing air.
+
+#### Specialist Wizard Benefits
+A specialist may cast one additional spell of each spell level per day, provided at least one spell cast at that level belongs to the specialist's school.
+
+Because specialists have an enhanced understanding of spells within their school, they receive a +1 bonus when making saving throws against those spells when cast by other wizards. Likewise, other characters suffer a -1 penalty when making saving throws against a specialist casting spells within his school. Both of these modifiers can be in effect at the same time--for example, when an enchanter casts an enchantment spell at another enchanter, the modifiers cancel each other out.
+
+Specialists receive a bonus of +15% when learning spells from their school and a penalty of -15% when learning spells from other schools. The bonus or penalty is applied to the percentile dice roll the player must make when the character tries to learn a new spell (see Intelligence Table).
+
+Whenever a specialist reaches a new spell level, he automatically gains one spell of his school to add to his spell books. No roll for learning the spell need be made. It is assumed that the character has discovered this new spell during the course of his research and study.
+
+When determining the difficulty of researching a new spell within the specialist's school, treat the spell as one level lower than its actual level. An enchanter attempting to create a new enchantment spell would have an easier time of it than an illusionist attempting to do the same.
+
+#### Abjurer
+
+Abjurers study the principles of magical stability, protection, containment, and resistance. Where other wizards seek to alter the substance of the Weave, abjurers concern themselves with preserving structure, defining boundaries, and preventing unwanted change. Their art governs wards, barriers, banishment, dispelling, and the suppression of hostile magic.
+
+To an abjurer, the multiverse is sustained not only by creation and transformation, but by the limits that prevent those forces from descending into chaos. Every barrier - physical, magical, or conceptual - represents an expression of ordered structure imposed upon the mutable substance of reality.
+
+The discipline demands patience, restraint, and sound judgement. A moment's carelessness may leave a ward incomplete or a protective working fatally compromised. For this reason, successful abjurers possess exceptional self-control and disciplined thought, qualities reflected in the Wisdom required to master the school.
+
+**Saving Throw Modifiers:** All opponents modify their saving throws by -1 when attempting to save against an abjuration spell cast by an abjurer. An abjurer adds a +1 bonus when saving against abjuration spells.
+
+**Acquired Powers:** 
+
+At **17th level**, he acquires immunity to all forms of _hold_ spells and adds a +1 bonus when saving against poison, paralyzation, and death magic. 
+
+At **20th level**, his mastery of protective and stabilizing magic has become so powerful that his Base Armour Class is improved from 10 to 9. He is still forbidden to wear armour.
+
+#### Alchemist
+
+Alchemists study the transformation of matter through elemental principles, treating all substances as combinations and recombinations of air, earth, fire, and water. Their magic and craft blur the boundary between science and sorcery, as they seek to understand, isolate, and reproduce the underlying properties that govern material change. Their focus is experimental, empirical, and relentlessly inquisitive.
+
+To an alchemist, the Weave is expressed through physical substance and its mutable composition. Reality is not shaped primarily through force or symbolism, but through the rearrangement of elemental building blocks that define all material things. Magic is therefore a process of analysis and reconstruction, where understanding precedes manipulation and precision determines outcome.
+
+The discipline demands patience, accuracy, and disciplined experimentation. Alchemy tolerates no imprecision; small errors in measurement or formulation can produce unpredictable or dangerous results. Successful alchemists possess exceptional Intelligence and Dexterity, reflecting both their analytical capacity and their steady control in practical application.
+
+**Saving Throw Modifiers:** Alchemists do not gain modifiers to their own saving throws, nor do they impose modifiers on the saving throws of others.
+
+**Acquired Powers:**
+
+At **6th level**, an alchemist gains the ability to create potions through structured alchemical research and formulation. This process allows the alchemist to develop and reproduce potion effects through laboratory work rather than magical spellcasting, provided they have access to appropriate facilities and materials.
+
+At **17th level**, the alchemist becomes exceptionally efficient in alchemical research and production, significantly improving reliability and consistency when creating or replicating potions.
+
+At **20th level**, the alchemist achieves near-complete mastery of transmutative chemistry, allowing rapid refinement and synthesis of complex alchemical compounds, including the ability to reliably reproduce previously researched formulas under controlled conditions.
+
+#### Artificer
+
+Artificers study the manipulation, containment, and redirection of magical energy through physical form. Where most wizards work directly upon the Weave, artificers impose structure upon it through crafted intermediaries—objects, vessels, and arcane frameworks designed to store or channel spellcraft. Their magic is not merely cast, but engineered.
+
+To an artificer, magic is not an ephemeral force but a substance that can be measured, shaped, and retained. Every spell has weight, cost, and configuration; every enchantment is a problem of design. In this view, the multiverse is a system of energies that can be stabilized through correct construction, allowing power to be held rather than simply released.
+
+Mastering this discipline requires patience, precision, and an unusually methodical intellect. Artificers must be able to think in terms of structure and consequence rather than impulse, and they rely heavily on careful planning and disciplined execution. Their work demands both technical intelligence and the endurance to sustain long, meticulous processes.
+
+**Saving Throw Modifiers:** Artificers have no saving throw modifiers of their own, and do not impose saving throw penalties on the targets of their spells.
+
+**Acquired Powers:**  
+
+At **4th level**, the artificer gains the ability to store spells within specially prepared items, allowing memorized spells to be retained in external form and cast later from those objects.
+
+At **7th level**, the artificer gains the ability to create temporary magical items that function only for him. These items replicate the effects of existing magical items for a limited duration before fading, after which they may be re-enchanted through further work and expenditure.
+
+At **12th level**, the artificer gains a heightened affinity for identifying and analyzing magical items through study alone. His ability to intuit the function and purpose of magical objects improves significantly with experience.
+
+#### Conjurer
+
+Conjurers study the creation, calling, and transference of substance across the boundaries of reality. Their art encompasses the summoning of creatures, the creation of temporary matter, the opening of pathways between distant places, and the manipulation of the unseen connections linking the planes of existence.
+
+To a conjurer, distance and separation are not immutable facts, but conditions that may be overcome through sufficient understanding of the Weave. Matter may be called where none previously existed, creatures may answer bindings laid across the planes, and places far apart may be brought into temporary contact. Every successful conjuration demonstrates that the divisions mortals perceive between worlds are neither absolute nor permanent.
+
+The discipline demands endurance, concentration, and unwavering force of will. Errors in a conjuration may produce unstable manifestations, uncontrolled entities, or breaches through which unwanted forces enter the world. Successful conjurers possess exceptional stamina, reflected in the Constitution required to master the school.
+
+**Saving Throw Modifiers:** All opponents modify their saving throws by -1 when attempting to save against a conjuration or summoning spell cast by a conjurer. A conjurer adds a +1 bonus when saving against conjuration spells or against attacks from creatures or forces created by conjuration or summoning magic.
+
+**Acquired Powers:**
+
+At **17th level**, a conjurer no longer requires material components when casting spells from the school of conjuration or summoning.
+
+At **20th level**, a conjurer may instantly dispel creatures created by a _monster summoning_ spell, or an equivalent effect. Up to 10 Hit Dice of creatures may be affected with each use, though no creature with more than 5 Hit Dice can be dispelled in this way. The ability may be used three times per day by pointing at the affected creatures and concentrating.
+
+#### Dimensionalist
+Dimensionalists study the manipulation of space, time, and extradimensional structure. Their magic concerns the boundaries between realities: pockets of folded space, alternate planes, temporal distortion, and the hidden geometry that underlies movement and distance. They are students of transit, containment, and dislocation, operating at the edges of what reality permits.
+
+To a dimensionalist, the Weave is not only substance but structure: a layered continuum of connected spaces and hidden interfaces between worlds. Spells are understood as controlled breaches, folds, or reconfigurations of spatial law, allowing access to otherwise unreachable positions or states of existence. Magic is therefore a matter of geometry, positioning, and dimensional logic rather than elemental force or transformation.
+
+The discipline demands exceptional intellect, spatial reasoning, and abstract comprehension. Dimensional magic relies on concepts that defy intuitive understanding, and errors in interpretation can result in dangerous displacement or loss of access to reality. Only those with strong Intelligence can reliably grasp and manipulate these structures.
+
+**Saving Throw Modifiers:** All opponents suffer a -1 penalty when making saving throws against dimensionalist spells. A dimensionalist gains a +1 bonus when saving against dimensional effects and spells.
+
+**Acquired Powers:**
+
+At **8th level**, a dimensionalist gains the ability to _disappear_ by stepping into a personal pocket dimension once per day. While within this extradimensional space, the dimensionalist is immune to all attacks and external effects and can only be detected by magic that reveals dimensional openings. However, the dimensionalist has no awareness of events in the world left behind.
+
+The dimensionalist may remain within the pocket dimension for up to one hour. During this time, they may perform personal actions such as resting, reading, or consuming a potion, but cannot affect or interact with the outside world. The point of exit is always the exact location at which the dimensionalist entered the dimension, and no magic (including _teleport_, _dimension door_, _shadow walk_, or similar effects) functions to allow escape from within the pocket dimension.
+
+At **11th level**, the dimensionalist may bring one other human-sized creature or an object weighing up to 500 pounds into the pocket dimension.
+
+At **14th level**, the dimensionalist may bring up to five companions or a total of 1,500 pounds of non-living matter into the pocket dimension.
+
+#### Diviner
+Diviners study the hidden patterns by which knowledge is revealed. Their art encompasses perception beyond the ordinary senses, the discovery of concealed truths, the interpretation of omens, and the observation of distant places, forgotten events, and possible futures.
+
+To a diviner, the Weave contains far more information than mortal minds ordinarily perceive. Past and present leave enduring impressions upon reality, while the future exists as a shifting tapestry of possibilities rather than fixed destiny. Divination does not create knowledge, but uncovers what already exists, allowing the wizard to perceive truths hidden by distance, time, deception, or ignorance.
+
+The discipline demands patience, insight, and careful judgement. A diviner must distinguish genuine revelation from misleading possibility, symbolic vision, or deliberate magical deception. Successful diviners possess exceptional perception and strength of mind, qualities reflected in the Wisdom required to master the school.
+
+**Saving Throw Modifiers:** All opponents modify their saving throws by -1 when attempting to save against a divination spell cast by a diviner. A diviner gains a +1 bonus when saving against divination spells or magical effects that duplicate them.
+
+**Acquired Powers:**
+
+At **17th level**, a diviner becomes immune to magical scrying. Spells such as _ESP_ and _know alignment_, together with magical items that duplicate such effects, cannot reveal information about the diviner. Attempts to observe the diviner through spells such as _clairaudience_ or similar magic automatically fail without alerting the caster to the diviner's presence.
+
+At **19th level**, a diviner may cast a special _find traps_ effect three times per day without verbal or material components. The effect functions as the priest spell, except that it has a range of 30 yards and affects a path 10 feet wide extending to that range.
+
+At **20th level**, a diviner may cast a special _divination_ effect once per day without verbal or material components by concentrating for one full turn. The effect otherwise functions as the priest spell.
+
+### Elementalist
+
+Elementalists study arcane magic through the lens of the four classical elements: air, earth, fire, and water. Rather than interpreting magic through the philosophical schools, they reduce arcane structure to elemental forces, treating all spells as expressions of elemental affinity or non-elemental interference. Their practice is defined by alignment with a chosen element and rejection of its natural opposition.
+
+To an elementalist, the Weave is fundamentally material and environmental. Magic is not an abstract system of competing theories, but the direct expression of elemental forces that permeate existence. Fire, air, earth, and water are not symbolic categories but active principles through which arcane power is shaped and expressed in the world.
+
+The discipline demands attunement, instinct, and disciplined focus. Elemental magic is intensely specialized and often volatile, requiring the wizard to maintain absolute control over a narrow domain of power while remaining unable to safely access its opposing force. Strong will and perceptive control are essential to prevent elemental imbalance.
+
+**Saving Throw Modifiers:** All opponents suffer a -2 penalty when making saving throws against spells of the elementalist’s specialty element. The elementalist gains a +2 bonus when saving against spells of their specialty element.
+
+**Acquired Powers:**
+
+At **17th level**, an elementalist may cast one memorized spell of their specialty per day as if they were 1d4 levels higher, increasing range, duration, area of effect, and damage accordingly.
+
+At **20th level**, the elementalist no longer requires concentration to control an elemental of their specialty summoned through _conjure elemental_, and summoned elementals of their specialty can no longer turn against them.
+
+#### Enchanter
+Enchanters study the manipulation of thought, emotion, perception, and will. Their art governs the shaping of desire, the alteration of mood, the imposition of suggestion, and the subtle binding of one mind to another. Through enchantment, the wizard does not alter the substance of the world, but the way it is perceived and responded to by living minds.
+
+To an enchanter, consciousness is not fixed or wholly self-determined, but a fluid expression of underlying arcane patterns. Thoughts, fears, loyalties, and desires are subject to influence and reshaping through precise interaction with the Weave. The boundary between persuasion and compulsion is not always clear, and enchantment explores that boundary directly.
+
+The discipline demands empathy, perception, and careful control. Misjudgement in enchantment risks backlash, resistance, or unintended alteration of personality and intent. Successful enchanters possess exceptional force of personality, reflected in the Charisma required to master the school.
+
+**Saving Throw Modifiers:** All opponents modify their saving throws by -1 when attempting to save against an enchantment/charm spell cast by an enchanter. An enchanter gains a +1 bonus when saving against enchantment/charm spells.
+
+**Acquired Powers:**
+
+**17th Level:** The enchanter becomes immune to all forms of _charm_ spells.
+
+**20th Level:** Once per day, the enchanter may cast _free action_ without material components or verbal gestures by touching the subject and concentrating for a moment. The effect lasts for 1 hour. It negates all magical and non-magical effects that restrict movement or actions, including _hold_ and _slow_ effects. Underwater, the subject moves and fights as if on land.
+
+#### Force Mage
+Force mages study the manipulation of raw magical force: coherent arcane energy shaped into force-fields, barriers, impacts, and construct-like expressions of power. Their magic is neither subtle nor indirect; it is the application of structured force that mimics solidity, pressure, and directed kinetic effect.
+
+To a force mage, the Weave is best understood as a reservoir of pure energetic pressure that can be condensed and shaped into stable forms. Magic is treated as a physical analogue—something that can exert force, resist intrusion, or impose movement and constraint upon matter. Spells are therefore exercises in containment and projection rather than transformation or illusion.
+
+The discipline demands strength of will, endurance, and precise control under strain. Force magic is taxing and difficult to stabilise, requiring both intellectual discipline and physical resilience to prevent backlash or collapse of constructed effects. A strong Intelligence and Constitution are required to master this school.
+
+**Saving Throw Modifiers:** All opponents suffer a -1 penalty when making saving throws against force spells cast by a force mage. A force mage gains a +1 bonus when saving against force spells and effects.
+
+**Acquired Powers:**
+
+At **8th level**, a force mage’s saving throw bonus against force spells and effects increases by +1, for a total bonus of +2.
+
+At **11th level**, the force mage may attempt a saving throw for half damage against any force-based spell that inflicts damage, even if the spell does not normally allow a saving throw.
+
+At **14th level**, the force mage’s saving throw bonus against magical force increases to +3.
+
+#### Geometer
+Geometers study the structure of magic as a system of symbols, spatial relations, and precise arcane notation. Rather than treating spells as fluid expressions of will, they reduce them to diagrams of force, inscribed patterns, and geometric relationships that encode magical effects. Their work lies at the intersection of mathematics, linguistics, and arcane theory, where correctness of form is inseparable from correctness of effect.
+
+To a geometer, the Weave is not a living or reactive substance but a structured field that can be mapped, measured, and replicated through perfect notation. Spells are not “cast” so much as _solved_—the correct arrangement of symbols, proportions, and spatial constraints produces predictable arcane outcomes. In this worldview, error is not misfortune but distortion: a flaw in structure that must be eliminated through refinement.
+
+Mastery of this discipline requires exceptional intellect, patience, and obsessive attention to detail. The geometer must be able to hold complex symbolic systems in mind and reproduce them with absolute precision, since even minor deviation can result in failure or unpredictable magical consequences. This is a school for methodical thinkers who prefer certainty of structure over improvisation.
+
+**Saving Throw Modifiers:** Geometers have no saving throw modifiers of their own, and do not impose saving throw penalties on the targets of their spells.
+
+**Acquired Powers:**  
+
+At **4th level**, the geometer gains the ability to inscribe spells into specialized geometric formulae, allowing prepared spells to be recorded, stored, and re-prepared without requiring full restudy in the usual manner.
+
+At **7th level**, the geometer gains the ability to create and utilize complex magical diagrams that can hold or shape spell effects, effectively extending his ability to prepare and deploy structured spell sequences beyond normal limitations.
+
+At **12th level**, the geometer gains enhanced mastery of arcane notation, allowing him to analyze magical effects and reconstruct their underlying structure with exceptional accuracy, improving his ability to understand and reproduce complex spellforms.
+
+#### Illusionist
+Illusionists study the manipulation of perception, sensation, and the interpretation of reality within the minds of observers. Their art governs the creation of false images, altered sounds, sensory distortions, and constructed experiences that exist only through the interaction between the Weave and conscious perception. Illusion does not alter substance directly, but reshapes the way substance is perceived.
+
+To an illusionist, reality is inseparable from observation. What is experienced is not necessarily what is, and what is “true” depends upon the limits and reliability of perception. Illusion magic exploits this uncertainty, constructing coherent sensory frameworks that may mislead, conceal, or overwhelm the senses of those exposed to it.
+
+The discipline demands precision, imagination, and an intuitive understanding of perception. Illusions must be internally consistent to remain convincing; inconsistencies risk immediate collapse of the effect. Successful illusionists possess exceptional dexterity, reflecting the fine control required to shape complex sensory patterns.
+
+**Saving Throw Modifiers:** Illusionists add a +1 bonus when making saving throws against illusion spells. Opponents suffer a -1 penalty when making saving throws against illusion/phantasm spells cast by an illusionist. These modifiers apply only when a saving throw is normally permitted.
+
+**Acquired Powers:**
+
+At **18th level**, an illusionist gains a +1 bonus on saving throws against illusions cast by non-illusionists. This stacks with their existing resistance, for a total bonus of +2 against such effects.
+
+At **20th level**, an illusionist may cast a special _dispel illusion_ up to three times per day. This ability has a range of 30 yards and has a casting time of 1. No components are required, only the ability to point at the target. The illusionist may target any _phantasmal force_ or equivalent illusion *not* created by another illusionist. The base chance of success is 50%, modified by 5% per level difference between the illusionist and the original caster. If successful, the illusion is immediately dispelled. If used against a non-illusory effect, the attempt has no effect but still expends one daily use.
+
+> It's not clear why elves and half-elves are unable to specialise in this school, though some speculate that the same inborn magical resistance that helps make them immune to charm spells also limits their ability to focus the magical energy needed to create illusions.
+
+#### Invoker
+Invokers study the direct manipulation of raw arcane force. Their art concerns the shaping of energy itself into destructive, transformative, or controlling effects: flame, lightning, force, sound, and the many expressions of power that act upon the world without intermediary form. Invocation does not conceal or redirect reality, but imposes arcane energy upon it with overwhelming immediacy.
+
+To an invoker, the Weave is not subtle or interpretive but immediate and coercive—a substrate through which power may be expressed with minimal abstraction. Magic is not suggestion or transformation, but direct application of force shaped by will and precision. The discipline is therefore defined by intensity, clarity of purpose, and control under pressure.
+
+The discipline demands resilience, focus, and exceptional endurance. The sustained channeling of raw arcane energy places significant strain upon both body and mind, and misjudgement in its application can result in catastrophic feedback or uncontrolled release. Successful invokers possess exceptional Constitution, reflecting their ability to withstand this burden.
+
+**Saving Throw Modifiers:** All opponents suffer a -1 penalty when making saving throws against invocation/evocation spells cast by an invoker. An invoker adds a +1 bonus when saving against invocation/evocation spells.
+
+**Acquired Powers:**
+
+At **17th level**, an invoker gains an additional +1 bonus when saving against invocation/evocation spells and magical devices that duplicate their effects, increasing their total resistance.
+
+At **20th level**, this bonus increases by a further +1, improving the invoker’s total saving throw bonus against such effects to +3.
+
+#### Necromancer
+Necromancers study the boundary between life and death, and the flow of vitality that defines both. Their magic concerns decay, mortality, negative energy, and the manipulation of life force—whether weakening the living, restoring what has been lost, or binding the dead to service. No other school confronts the nature of existence so directly or so uncomfortably.
+
+To the necromancer, life and death are not moral absolutes but states of energetic transition within the Weave. Life is a temporary expression of ordered vitality; death is not an ending but a transformation into different patterns of energy and entropy. Their magic operates at this boundary, and constant exposure to such forces often shapes both perception and temperament.
+
+The discipline demands emotional resilience, intellectual discipline, and a willingness to confront concepts that most others avoid. Necromancy is not inherently corrupt, but it is isolating: those who practice it must endure fear, revulsion, and misunderstanding, while maintaining control over forces that easily overwhelm weaker wills. A strong Wisdom is required to master the school safely.
+
+**Saving Throw Modifiers:** All opponents suffer a -1 penalty when making saving throws against necromancy spells cast by a necromancer, or against attacks made by undead creatures created or controlled by a necromancer. A necromancer adds a +1 bonus when saving against necromancy spells and against attacks made by undead creatures.
+
+**Acquired Powers:**
+
+At **17th level**, a necromancer gains an additional +1 bonus when saving against necromancy spells and against attacks made by undead creatures, increasing their total resistance.
+
+At **20th level**, a necromancer gains the ability to cast a special form of _speak with dead_ once per day. This requires no verbal or material components, and allows the necromancer to question a single dead creature for one turn. The corpse must not be older than 100 years. The creature answers up to four questions, drawing only on knowledge it possessed in life. Responses may be brief, cryptic, or incomplete, but the spell cannot be resisted once cast.
+
+#### Shadow Mage
+Shadow mages study the arcane nature of darkness, twilight, and obscured perception. Their magic is rooted in the belief that all shadows are metaphysically linked through the Demiplane of Shadow, forming a hidden network through which perception, concealment, and influence can be extended. Their spells draw upon this connection to manipulate visibility, misdirection, and the boundary between seen and unseen.
+
+To a shadow mage, the Weave is partially concealed—an underlayer of reality that becomes accessible through darkness and absence of light. Shadow is not merely the negation of illumination, but a distinct medium of arcane interaction, capable of carrying influence, shaping perception, and bridging the material world with deeper, obscured planes of existence.
+
+The discipline demands keen perception, mental discipline, and emotional resilience. Shadow magic relies on subtle interpretation of light and absence, requiring precise control over shifting conditions and an ability to operate without reliable sensory certainty. Strong Intelligence and Wisdom are required to master this school safely.
+
+**Saving Throw Modifiers:** Opponents’ saving throw modifiers against a shadow mage vary depending on lighting conditions, ranging from +2 in bright light to −4 in deep shadow (see table below). The shadow mage gains no saving throw modifier against any spells.
+
+| Lighting Conditions              | Modifier |
+| -------------------------------- | -------- |
+| Bright daylight/continual light  | +2       |
+| Weak daylight/dusk/light         | none     |
+| Twilight/moonlight/lantern light | -1       |
+| Weak moonlight/torch light       | -2       |
+| Candlelight/starlight            | -3       |
+| Total darkness                   | -4       |
+
+**Acquired Powers:**
+
+At **4th level**, the shadow mage can see as well in moonlight as a human can in daylight, and darkness-based combat penalties are reduced by 1.
+
+At **7th level**, the shadow mage can see clearly by starlight, reducing darkness-related combat penalties by 2.
+
+At **10th level**, the shadow mage can see perfectly in total darkness, negating all normal darkness-based combat penalties (though magical blindness, fog, or similar effects still impair vision).
+
+#### Song Mage
+Song mages study the shaping of magic through voice, rhythm, and structured sound. Their discipline treats melody and speech not as expression, but as precise arcane instrumentation: carefully controlled sequences of pitch, cadence, and resonance that align the Weave into specific magical effects. Where other wizards rely on gestures and formulae, the song mage uses performance as the primary structure of spellcasting.
+
+To a song mage, magic is fundamentally harmonic. The universe is understood as a system that can be influenced through resonance, where sound becomes a bridge between intention and reality. Spells are not imposed upon the world but _brought into alignment_ with it through correct auditory form. In this view, failure is discord—an inability to maintain the necessary coherence of voice and meaning.
+
+Mastering this school requires both intellectual discipline and expressive precision. A song mage must be able to control subtle variations in tone and timing while maintaining mental focus on complex magical structures. This makes the discipline unusually demanding, requiring analytical understanding paired with performance skill and force of personality.
+
+**Saving Throw Modifiers:** Song mages have no saving throw modifiers of their own and do not impose saving throw penalties on the targets of their spells.
+
+**Acquired Powers:**  
+
+At **4th level**, the song mage gains the ability to enhance the effects of musical or sound-based magic items, increasing their effective potency and range when used by him.
+
+At **7th level**, the song mage gains the ability to counter magical sound- or song-based effects by performing a sustained vocalization, negating such effects within a limited area centered on himself.
+
+At **12th level**, the song mage gains mastery over harmonic disruption, allowing him to extend his countering ability and better resist or suppress hostile auditory or resonance-based magic.
+
+#### Transmuter
+Transmuters study the alteration of substance: the reshaping, recombination, and reconfiguration of matter, energy, and living form. Their magic concerns transformation in its most practical sense, whether subtle adjustments to physical properties or dramatic changes that rewrite the nature of a target entirely.
+
+To a transmuter, reality is a system of interacting components rather than fixed truths. Everything can be adjusted, refined, or rebuilt given sufficient understanding of its underlying structure. Their perspective is analytical and mechanical: even living creatures are complex systems governed by rules that can, in principle, be understood and modified.
+
+The discipline demands precision, patience, and careful observation. Alteration magic is highly sensitive to error, and even small miscalculations can produce unstable or unintended results. Successful transmuters possess strong Dexterity and a disciplined, methodical mindset that allows them to control delicate and intricate magical processes.
+
+**Saving Throw Modifiers:** All opponents suffer a -1 penalty when making saving throws against alteration spells cast by a transmuter. A transmuter adds a +1 bonus when saving against alteration spells cast by others.
+
+**Acquired Powers:**
+
+At **17th level**, a transmuter gains one additional non-weapon wizard proficiency of their choice, representing expanded practical expertise.
+
+At **20th level**, the transmuter gains a second additional non-weapon wizard proficiency. If all wizard proficiencies are already known at the time these are gained, the transmuter may instead select a general non-weapon proficiency.
+
+### Wild Mage
+Wild mages study magic as an expression of instability, probability, and unpredictable interaction between arcane forces. Rather than treating the Weave as a structured system to be understood and controlled, they regard it as a fluctuating field of potential outcomes where certainty is always approximate. Their discipline is built on the premise that randomness is not failure of understanding, but a fundamental property of magical reality.
+
+To a wild mage, spellcasting is not the application of fixed formulas but the release of controlled variance within a system that cannot be fully predicted. Every spell is an experiment in probability, where intent is filtered through unstable arcane conditions. In this view, the multiverse is not governed by strict rules, but by patterns of fluctuation that can be influenced—but never entirely stabilized.
+
+Mastering this discipline requires intellectual resilience, adaptability, and a willingness to operate without certainty. Wild mages must be able to function under conditions where outcomes cannot be guaranteed, maintaining focus despite unpredictable results. This makes the tradition mentally demanding in a fundamentally different way from other schools, rewarding flexibility of thought over precision.
+
+**Saving Throw Modifiers:** Wild mages have no saving throw modifiers of their own and do not impose saving throw penalties on the targets of their spells.
+
+**Acquired Powers:**
+
+At **4th level**, the wild mage gains a limited ability to influence certain chaotic magical items, improving his ability to exert partial control over inherently unpredictable artifacts.
+
+At **7th level**, the wild mage gains a deeper attunement to chaotic magical expression, allowing him to better tolerate and occasionally benefit from fluctuations in spell potency and effect.
+
+At **12th level**, the wild mage gains heightened resilience to magical instability, improving his capacity to survive and adapt to unpredictable surges and altered spell outcomes.
+
+## Priests
 Priests are intermediaries between the mortal world and the powers beyond it. Through devotion, ritual, discipline, sacrifice, and sacred knowledge, priests gain the ability to invoke divine magic and act in service of religious, spiritual, or cosmological principles greater than themselves.
 
-The priest group encompasses many different traditions. Clerics serve organized religions, temples, and established pantheons; druids preserve ancient natural and cosmic orders; shamans mediate between mortals and the spirit world through ecstatic rites, visions, and ancestral traditions. Though their practices differ greatly, all priests derive power from faith, spiritual authority, and recognized connection to the higher powers and structures underlying the cosmos.
+The priest group encompasses many different traditions. Clerics and priests of a specific mythos serve organized religions, temples, and established pantheons; druids preserve ancient natural and cosmic orders; shamans mediate between mortals and the spirit world through ecstatic rites, visions, and ancestral traditions. Though their practices differ greatly, all priests derive power from faith, spiritual authority, and recognized connection to the higher powers and structures underlying the cosmos.
 
 Priests are not merely believers. Common worshippers may pray, sacrifice, or observe religious customs without possessing any divine power whatsoever. A priest is instead one who has been entrusted with sacred authority and granted the ability to act directly as an agent of divine or spiritual forces.
 
 Priests combine spiritual power with practical capability. Though less specialized in combat than warriors, priests are expected to defend their faith, protect their followers, confront supernatural threats, and survive the dangers associated with their calling.
-
 #### Divine Magic
 All priests cast divine spells. Unlike wizardly magic, priestly magic is not produced through personal manipulation of arcane forces, but through alignment with the greater powers and principles that shape the structure of the multiverse itself.
 
@@ -596,8 +959,6 @@ The powers worshipped by priests—whether gods, pantheons, cosmic principles, a
 Through prayer, ritual, devotion, sacrifice, and obedience to sacred obligations, priests learn to invoke and direct these forces in limited ways. Divine magic is therefore neither purely external nor purely personal. A priest does not simply command power, but acts as an intermediary through whom higher structures of reality are expressed.
 
 Because divine magic depends upon spiritual alignment and sacred relationship rather than technical formulae, priests are constrained by doctrine, obligation, taboo, and the expectations of the powers they serve. These differing relationships to divine power are represented mechanically through categories known as spheres of influence. A priest’s class or specific faith determines which spheres are available and whether access is major or minor.
-
-A priest with major access to a sphere may eventually cast all spells within it. A priest with minor access may cast only spells of 1st through 3rd level from that sphere.
 
 The spheres are:
 
@@ -621,7 +982,6 @@ The spheres are:
 Additional spheres may exist in particular campaign settings or mythoi.
 
 Divine magic should not be confused with mysticism. Priests invoke powers associated with the ordering structure of the cosmos itself, while mystics cultivate mastery over the essential cohesion that exists between the threads of the Weave. Though both may produce supernatural effects, their methods, philosophies, and underlying principles are fundamentally different.
-
 #### Clerics, Druids, and Other Priests
 Not all priests serve religion in the same manner.
 
@@ -636,74 +996,72 @@ Druids serve ancient natural mysteries, seasonal cycles, sacred landscapes, and 
 Other priestly traditions may exist depending upon the campaign setting, including shamans, spirit-speakers, ancestral priests, philosophers, tribal holy men, or specialized priesthoods dedicated to individual deities or supernatural powers.
 
 The exact structure and role of priesthoods varies greatly between cultures and mythologies.
-
 #### Arms and Armour
 Priests are trained for battle, though not to the same degree as warriors. Their permitted weapons and armour vary according to faith, doctrine, spiritual tradition, and religious obligation.
 
 Some priesthoods forbid edged weapons, others require ritual arms, and still others permit unrestricted martial training. Restrictions are described in the individual class entries or faith descriptions.
-
 #### Hit Dice and Constitution Bonuses
 Priests gain 1d8 hit points per level from 1st through 9th level. Constitution bonuses apply normally during these levels.
 
 Beginning at 10th level, priests no longer gain additional Hit Dice. Instead, they gain a flat 2 hit points per level thereafter, and no further Constitution bonuses are applied.
+#### Wisdom and Bonus Divine Spell Points
+Priests are the only class that gains additional Divine Spell Points from high Wisdom.
 
-#### Wisdom and Bonus Spells
-Priests are the only class group able to gain additional spell slots from high Wisdom scores.
-
-These bonus spells reflect exceptional spiritual insight, devotion, discipline, and closeness to divine power rather than superior memory or intellect.
-
+This bonus reflects increased spiritual attunement, allowing a more stable connection to divine authority rather than improved memory or intellect.
 #### Experience and Advancement
 Priests advance according to the following table:
 
-| Level | Cleric    | Druid     | Hit Dice |
-| ----- | --------- | --------- | -------- |
-| 1     | 0         | 0         | 1d8      |
-| 2     | 1,500     | 2,000     | 2d8      |
-| 3     | 3,000     | 4,000     | 3d8      |
-| 4     | 6,000     | 7,500     | 4d8      |
-| 5     | 13,000    | 12,500    | 5d8      |
-| 6     | 27,500    | 20,000    | 6d8      |
-| 7     | 55,000    | 35,000    | 7d8      |
-| 8     | 110,000   | 60,000    | 8d8      |
-| 9     | 225,000   | 90,000    | 9d8      |
-| 10    | 450,000   | 125,000   | 9d8+2    |
-| 11    | 675,000   | 200,000   | 9d8+4    |
-| 12    | 900,000   | 300,000   | 9d8+6    |
-| 13    | 1,125,000 | 750,000   | 9d8+8    |
-| 14    | 1,350,000 | 1,500,000 | 9d8+10   |
-| 15    | 1,575,000 | 3,000,000 | 9d8+12   |
-| 16    | 1,800,000 | 3,500,000 | 9d8+14   |
-| 17    | 2,025,000 | 500,000*  | 9d8+16   |
-| 18    | 2,250,000 | 1,000,000 | 9d8+18   |
-| 19    | 2,475,000 | 1,500,000 | 9d8+20   |
-| 20    | 2,700,000 | 2,000,000 | 9d8+22   |
+| Level | Cleric    | Druid     | Hit Dice | Base Divine Spell Points |
+| ----- | --------- | --------- | -------- | ------------------------ |
+| 1     | 0         | 0         | 1d8      | 4                        |
+| 2     | 1,500     | 2,000     | 2d8      | 8                        |
+| 3     | 3,000     | 4,000     | 3d8      | 12                       |
+| 4     | 6,000     | 7,500     | 4d8      | 20                       |
+| 5     | 13,000    | 12,500    | 5d8      | 32                       |
+| 6     | 27,500    | 20,000    | 6d8      | 44                       |
+| 7     | 55,000    | 35,000    | 7d8      | 56                       |
+| 8     | 110,000   | 60,000    | 8d8      | 72                       |
+| 9     | 225,000   | 90,000    | 9d8      | 100                      |
+| 10    | 450,000   | 125,000   | 9d8+2    | 128                      |
+| 11    | 675,000   | 200,000   | 9d8+4    | 160                      |
+| 12    | 900,000   | 300,000   | 9d8+6    | 192                      |
+| 13    | 1,125,000 | 750,000   | 9d8+8    | 232                      |
+| 14    | 1,350,000 | 1,500,000 | 9d8+10   | 272                      |
+| 15    | 1,575,000 | 3,000,000 | 9d8+12   | 320                      |
+| 16    | 1,800,000 | 3,500,000 | 9d8+14   | 368                      |
+| 17    | 2,025,000 | 500,000*  | 9d8+16   | 424                      |
+| 18    | 2,250,000 | 1,000,000 | 9d8+18   | 480                      |
+| 19    | 2,475,000 | 1,500,000 | 9d8+20   | 540                      |
+| 20    | 2,700,000 | 2,000,000 | 9d8+22   | 600                      |
 * See the rules for hierophant druids in the Druid class description.
+### #### Priest Daily Casting Limits
 
-#### Priest Spell Progression
-All priests use the following spell progression table unless otherwise noted by class abilities.
+A priest is limited in the number of spells they may cast each day at each spell level. This limit applies regardless of casting method, including invoked magic and ritual casting.
 
-| Priest Level | 1   | 2   | 3   | 4   | 5   | 6*  | 7** |
-| ------------ | --- | --- | --- | --- | --- | --- | --- |
-| 1            | 1   | —   | —   | —   | —   | —   | —   |
-| 2            | 2   | —   | —   | —   | —   | —   | —   |
-| 3            | 2   | 1   | —   | —   | —   | —   | —   |
-| 4            | 3   | 2   | —   | —   | —   | —   | —   |
-| 5            | 3   | 3   | 1   | —   | —   | —   | —   |
-| 6            | 3   | 3   | 2   | —   | —   | —   | —   |
-| 7            | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 8            | 3   | 3   | 3   | 2   | —   | —   | —   |
-| 9            | 4   | 4   | 3   | 2   | 1   | —   | —   |
-| 10           | 4   | 4   | 3   | 3   | 2   | —   | —   |
-| 11           | 5   | 4   | 4   | 3   | 2   | 1   | —   |
-| 12           | 6   | 5   | 5   | 3   | 2   | 2   | —   |
-| 13           | 6   | 6   | 6   | 4   | 2   | 2   | —   |
-| 14           | 6   | 6   | 6   | 5   | 3   | 2   | 1   |
-| 15           | 6   | 6   | 6   | 6   | 4   | 2   | 1   |
-| 16           | 7   | 7   | 7   | 6   | 4   | 3   | 1   |
-| 17           | 7   | 7   | 7   | 7   | 5   | 3   | 2   |
-| 18           | 8   | 8   | 8   | 8   | 6   | 4   | 2   |
-| 19           | 9   | 9   | 8   | 8   | 6   | 4   | 2   |
-| 20           | 9   | 9   | 9   | 8   | 7   | 5   | 2   |
+This restriction represents the maximum number of times divine authority may be successfully invoked for a given level of effect within a single day.
+
+| Priest Level | 1   | 2   | 3   | 4   | 5   | 6*  | 7** |     |
+| ------------ | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1            | 4   | —   | —   | —   | —   | —   | —   |     |
+| 2            | 4   | —   | —   | —   | —   | —   | —   |     |
+| 3            | 4   | 2   | —   | —   | —   | —   | —   |     |
+| 4            | 6   | 3   | —   | —   | —   | —   | —   |     |
+| 5            | 8   | 4   | 2   | —   | —   | —   | —   |     |
+| 6            | 8   | 4   | 3   | —   | —   | —   | —   |     |
+| 7            | 8   | 4   | 3   | 2   | —   | —   | —   |     |
+| 8            | 8   | 4   | 4   | 3   | —   | —   | —   |     |
+| 9            | 10  | 5   | 4   | 3   | 2   | —   | —   |     |
+| 10           | 10  | 5   | 4   | 4   | 3   | —   | —   |     |
+| 11           | 12  | 5   | 5   | 4   | 3   | 2   | —   |     |
+| 12           | 12  | 6   | 6   | 4   | 3   | 3   | —   |     |
+| 13           | 14  | 7   | 7   | 5   | 3   | 3   | —   |     |
+| 14           | 14  | 7   | 7   | 6   | 4   | 3   | 2   |     |
+| 15           | 14  | 7   | 7   | 7   | 5   | 3   | 2   |     |
+| 16           | 16  | 8   | 8   | 7   | 5   | 4   | 2   |     |
+| 17           | 16  | 8   | 8   | 8   | 6   | 4   | 3   |     |
+| 18           | 18  | 9   | 9   | 9   | 7   | 5   | 3   |     |
+| 19           | 20  | 10  | 9   | 9   | 7   | 5   | 3   |     |
+| 20           | 20  | 10  | 10  | 9   | 8   | 6   | 3   |     |
 
 \* 6th-level spells are usable only by priests with Wisdom 17 or higher.  
 ** 7th-level spells are usable only by priests with Wisdom 18 or higher.
