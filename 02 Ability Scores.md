@@ -120,10 +120,8 @@ If a character's Constitution changes during the course of adventuring, his hit 
 
 **Regeneration** enables those with specially endowed Constitutions (perhaps by a _wish_ or magical item) to heal at an advanced rate, regenerating damage taken. The character heals 1 point of damage after the passage of the listed number of turns. However, fire and acid damage (which are more extensive than normal wounds) cannot be regenerated in this manner. These injuries must heal normally or be dealt with by magical means.
 
-|                   |                       |                  |                        |                  |                     |
+| Ability Score| Hit Point Adjustment|System Shock|Resurrection Survival|Poison Save|Regeneration    |
 | ----------------- | --------------------- | ---------------- | ---------------------- | ---------------- | ------------------- |
-| **Ability  <br>** | **Hit Point  <br>**   | **System  <br>** | **Resurrection  <br>** | **Poison  <br>** |                     |
-| **Score  <br>**   | **Adjustment  <br>**  | **Shock  <br>**  | **Survival  <br>**     | **Save  <br>**   | **Regeneration**    |
 | **1  <br>**       | **-3  <br>**          | **25%  <br>**    | **30%  <br>**          | **-2  <br>**     | **Nil  <br>**       |
 | 2                 | -2                    | 30%              | 35%                    | -1               | Nil                 |
 | 3                 | -2                    | 35%              | 40%                    | 0                | Nil                 |
@@ -172,6 +170,7 @@ However, the true capabilities of a mind lie not in numbers--I.Q., Intelligence 
 This number indicates the maximum number of spells of a particular level that a wizard can copy to their spellbook without expending the time and cost necessary for spell research. Once a wizard has learned the maximum number of spells he is allowed for a given spell level, he must follow the spell research rules to learn additional spells of that level. Once a spell is learned, it cannot be unlearned and replaced by a new spell.
 
 **Spell Immunity** is gained by those with exceptionally high Intelligence scores. Those with the immunity notice some inconsistency or inexactness in the illusion or phantasm, automatically allowing them to make their saving throws. All benefits are cumulative, thus, a character with a 20 Intelligence is not fooled by 1st- or 2nd-level illusion spells.
+
 | Ability Score | Extra Proficiencies | Spell Level   | Chance to Learn Spell | Max # of Spells/Level | Illusion Immunity   |
 | ------------- | ------------------- | ------------- | --------------------- | --------------------- | ------------------- |
 | **1  <br>**   | **0**[^1]           | **--  <br>**  | **--  <br>**          | **--  <br>**          | **--  <br>**        |
@@ -213,11 +212,8 @@ Wisdom (Wis) describes a composite of the character's enlightenment, judgement, 
 
 **Spell Immunity** gives those extremely wise characters complete protection from certain spells, spell-like abilities, and magical items as listed. These immunities are cumulative, so that a character with a Wisdom of 23 is immune to all listed spells up to and including those listed on the 23 Wisdom row.
 
-|                   |                      |                    |                    |                                           |
+|Ability Score|Magical Deffense Adjustment|Bonus Spells|Chance of Spell Failure|Spell Immunity|
 | ----------------- | -------------------- | ------------------ | ------------------ | ----------------------------------------- |
-|                   | **Magical  <br>**    |                    | **Chance  <br>**   |                                           |
-| **Ability  <br>** | **Defense  <br>**    | **Bonus  <br>**    | **of Spell  <br>** | **Spell  <br>**                           |
-| **Score  <br>**   | **Adjustment  <br>** | **Spells  <br>**   | **Failure  <br>**  | **Immunity**                              |
 | **1  <br>**       | **-6  <br>**         | **--  <br>**       | **80%  <br>**      | **--  <br>**                              |
 | 2                 | -4                   | --                 | 60%                | --                                        |
 | 3                 | -3                   | --                 | 50%                | --                                        |
@@ -236,19 +232,13 @@ Wisdom (Wis) describes a composite of the character's enlightenment, judgement, 
 | 16                | +2                   | 2nd                | 0%                 | --                                        |
 | 17                | +3                   | 3rd                | 0%                 | --                                        |
 | 18                | +4                   | 4th                | 0%                 | --                                        |
-| **19  <br>**      | **+4  <br>**         | **1st, 3rd  <br>** | **0%  <br>**       | **_cause fear, charm person,  <br>_**     |
-|                   |                      |                    |                    | **_command, friends, hypnotism  <br>_**   |
-| **20  <br>**      | **+4  <br>**         | **2nd, 4th  <br>** | **0%  <br>**       | **_forget, hold person, ray of  <br>_**   |
-|                   |                      |                    |                    | **_enfeeblement, scare  <br>_**           |
+| **19  <br>**      | **+4  <br>**         | **1st, 3rd  <br>** | **0%  <br>**       | **_cause fear, charm person, command, friends, hypnotism  <br>_**   |
+| **20  <br>**      | **+4  <br>**         | **2nd, 4th  <br>** | **0%  <br>**       | **_forget, hold person, ray of enfeeblement, scare  <br>_**           |
 | **21  <br>**      | **+4  <br>**         | **3rd, 5th  <br>** | **0%  <br>**       | **_fear_  <br>**                          |
-| **22  <br>**      | **+4  <br>**         | **4th, 5th  <br>** | **0%  <br>**       | **_charm monster, confusion,  <br>_**     |
-|                   |                      |                    |                    | **_emotion, fumble, suggestion  <br>_**   |
-| **23  <br>**      | **+4  <br>**         | **1st, 6th  <br>** | **0%  <br>**       | **_chaos, feeblemind, hold  <br>_**       |
-|                   |                      |                    |                    | **_monster, magic jar, quest  <br>_**     |
-| **24  <br>**      | **+4  <br>**         | **5th, 6th  <br>** | **0%  <br>**       | **_geas, mass suggestion, rod of  <br>_** |
-|                   |                      |                    |                    | **_rulership  <br>_**                     |
-| **25  <br>**      | **+4  <br>**         | **6th, 7th  <br>** | **0%  <br>**       | **_antipathy/sympathy, death  <br>_**     |
-|                   |                      |                    |                    | **_spell, mass charm  <br>_**             |
+| **22  <br>**      | **+4  <br>**         | **4th, 5th  <br>** | **0%  <br>**       | **_charm monster, confusion,emotion, fumble, suggestion  <br>_**   |
+| **23  <br>**      | **+4  <br>**         | **1st, 6th  <br>** | **0%  <br>**       | **_chaos, feeblemind, hold monster, magic jar, quest  <br>_**     |
+| **24  <br>**      | **+4  <br>**         | **5th, 6th  <br>** | **0%  <br>**       | **_geas, mass suggestion, rod of rulership  <br>_**                     |
+| **25  <br>**      | **+4  <br>**         | **6th, 7th  <br>** | **0%  <br>**       | **_antipathy/sympathy, death spell, mass charm  <br>_**             |
 
 ### Charisma
 The Charisma (Cha) score measures a character's persuasiveness, personal magnetism, and ability to lead. It is not a reflection of physical attractiveness, although attractiveness certainly plays a role. It is important to all characters, but especially to those who must deal with nonplayer characters (NPCs), mercenary hirelings, retainers, and intelligent monsters. It dictates the total number of henchmen a character can retain and affects the loyalty of henchmen, hirelings, and retainers.
@@ -259,11 +249,8 @@ The Charisma (Cha) score measures a character's persuasiveness, personal magneti
 
 **Reaction Adjustment** indicates the penalty or bonus due to the character because of Charisma when dealing with nonplayer characters and intelligent creatures. For example, Rath encounters a centaur, an intelligent creature. Rath's Charisma is only 6, so he is starting off with one strike against him. He probably should try to overcome this slight handicap by making generous offers of gifts or information.
 
-|                   |                    |                   |                    |
+|Ability Score|Maximum # of Henchmen|Loyalty Base|Reaction Adjustment|
 | ----------------- | ------------------ | ----------------- | ------------------ |
-|                   | **Maximum  <br>**  |                   |                    |
-| **Ability  <br>** | **# of  <br>**     | **Loyalty  <br>** | **Reaction  <br>** |
-| **Score  <br>**   | **Henchmen  <br>** | **Base  <br>**    | **Adjustment**     |
 | **1  <br>**       | **0  <br>**        | **-8  <br>**      | **-7  <br>**       |
 | **2  <br>**       | **1  <br>**        | **-7  <br>**      | **-6  <br>**       |
 | 3                 | 1                  | -6                | -5                 |
