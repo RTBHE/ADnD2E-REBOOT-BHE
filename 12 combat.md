@@ -906,3 +906,327 @@ Marine creatures used as mounts generally follow the rules given in the mounted 
 Spellcasting is also significantly affected underwater as will be detailed in the next chapter, *Magic*. To preview just some of the issues caster's face: verbal components suffer the same problems as communicating, somatic components may be as difficult to perform as swinging a weapon, and some material components may be destroyed underwater. Some spells behave very differently, or not at all, when cast underwater.
 
 Even using magic items can be affected by being underwater - uncorking a normal potion bottle would contaminate or dilute its contents, dusts and powders are likewise unusable, scrolls are made of high quality paper and fine ink but these are not of themselves magical and are susceptible to water damage (as are most spellbooks), items with command words are affected by the limits on speaking, and like spells, the effects of magical items may operate differently in this environment.
+
+## Special Defences
+
+Combat is not merely making attacks, but also defending against them; in fact, avoiding damage is arguably the most important part of combat. Some parts of defence have already been introduced or alluded to elsewhere – wielding shields and wearing armour; using movement, positioning, and fighting in formations to avoid being flanked or attacked from the rear; making use of cover and concealment; using a character’s action to perform special manoeuvres such as blocks and parries. Spells are detailed later in this book and many have defensive uses. The most common defences not detailed elsewhere are saving throws, magic resistance, and turning undead.
+
+### Saving Throws
+
+Saving throws represent instinctive reactions on the part of a character – dropping to the ground to avoid a fireball, raising a shield to fend off an acid spray – the chance, however slim, that a creature avoids or lessens the damage taken.
+
+How a successful or failed saving throw is described should be tailored to the events of the moment, but this description is merely added colour and has no bearing on the mechanics.
+
+#### Saving Throw Categories
+
+Effects that permit saving throws are normally assigned to one of the following categories:
+
+- Paralyzation, Poison, and Death Magic (PPDM),
+    
+- Rods, Staffs, and Wands (RSW),
+    
+- Petrification or Polymorph (PP)
+    
+- Breath Weapons, or (BW)
+    
+- Spells (SP).
+    
+
+This is an ordered list and where more than one of the categories could apply the highest priority save should be used – for example a _wand of polymorph_ would use the RSW save rather than PP, while a polymorph spell uses the PP save rather than the one for SP.
+
+**Paralyzation, Poison, and Death Magic**: This save is used for any attack that has a paralyzing effect, all strengths of poison, and any spell or item that can instantly kill a character (other than by HP loss). It is also used in any situation demanding exceptional will or fortitude.
+
+**Rods, Staffs, and Wands:** In addition to the obvious usage implicit in its name, this save may be used to save against magical attacks from unusual sources.
+
+**Petrification or Polymorph:** This save may be used anytime the character’s body must withstand a massive alteration, with petrification and polymorph being the two most well-known examples.
+
+**Breath Weapons:** In addition to monster breath weapons, this save may be used where a combination of dexterity and stamina are critical to survival.
+
+**Spells:** This is the fallback save, used against magical attacks from any source that do not belong to a higher category, and may also be used against any other attack that triggers a save but which cannot be categorized.
+
+When characters attempt to use their abilities to react to a danger (such as diving out of the way of a falling boulder) the DM may allow an appropriate ability check to be made in lieu of a saving throw.
+
+#### Rolling Saving Throws
+
+A saving throw is rolled with 1d20. The result of the roll must be equal to or higher than the number given in the Character Saving Throws table for the character’s class group and level against the category of attack.
+
+**Table 69: Character Saving Throws**
+ 
+| Class Group | Level | PPDM | RSW | PP  | BW  | SP  |
+| ----------- | ----- | ---- | --- | --- | --- | --- |
+| Priest      | 1-3   | 10   | 14  | 13  | 16  | 15  |
+|             | 4-6   | 9    | 13  | 12  | 15  | 14  |
+|             | 7-9   | 7    | 11  | 10  | 13  | 12  |
+|             | 10-12 | 6    | 10  | 9   | 12  | 11  |
+|             | 13-15 | 5    | 9   | 8   | 11  | 10  |
+|             | 16-18 | 4    | 8   | 7   | 10  | 9   |
+|             | 19+   | 2    | 6   | 5   | 8   | 7   |
+| Rogues      | 1-4   | 13   | 14  | 12  | 16  | 15  |
+|             | 5-8   | 12   | 12  | 11  | 15  | 13  |
+|             | 9-12  | 11   | 10  | 10  | 14  | 11  |
+|             | 13-16 | 10   | 8   | 9   | 13  | 9   |
+|             | 17-20 | 9    | 6   | 8   | 12  | 7   |
+|             | 21+   | 8    | 4   | 7   | 11  | 5   |
+| Warriors    | 1-2   | 14   | 16  | 15  | 17  | 17  |
+|             | 3-4   | 13   | 15  | 14  | 16  | 16  |
+|             | 5-6   | 11   | 13  | 12  | 13  | 14  |
+|             | 7-8   | 10   | 12  | 11  | 12  | 13  |
+|             | 9-10  | 8    | 10  | 9   | 9   | 11  |
+|             | 11-12 | 7    | 9   | 8   | 8   | 10  |
+|             | 13-14 | 5    | 7   | 6   | 5   | 8   |
+|             | 15-16 | 4    | 6   | 5   | 4   | 7   |
+|             | 17+   | 3    | 5   | 4   | 4   | 6   |
+| Wizards     | 1-5   | 14   | 11  | 13  | 15  | 12  |
+|             | 6-10  | 13   | 9   | 11  | 13  | 10  |
+|             | 11-15 | 11   | 7   | 9   | 11  | 8   |
+|             | 16-20 | 10   | 5   | 7   | 9   | 6   |
+|             | 21+   | 8    | 3   | 5   | 7   | 4   |
+| Adepts      | 1-4   | 13   | 15  | 10  | 16  | 15  |
+|             | 5-8   | 12   | 13  | 9   | 15  | 14  |
+|             | 9-12  | 11   | 11  | 8   | 13  | 12  |
+|             | 13-16 | 10   | 9   | 7   | 12  | 11  |
+|             | 17-20 | 9    | 7   | 6   | 11  | 9   |
+|             | 21+   | 8    | 5   | 5   | 9   | 7   |
+| None        | 0     | 16   | 18  | 17  | 20  | 19  |
+
+A character may voluntarily choose to not resist or react to a spell or other effect, in which case no saving throw is rolled. This intention must be clearly stated, and cannot be reversed, even if the character was duped as to the exact nature of the spell or effect that would be directed at them.
+
+#### Modifying Saving Throws
+
+Magical Items, specific abilities, and special situations may increase or decrease the chance of success. These **modifiers are applied to the roll result**, not to the saving throw number, consequently a positive modifier increases the chance of success, while a negative decreases it.
+
+Some of the common sources of saving throw modifiers are:
+
+**High Ability Scores:** Some abilities grant bonuses to saving throws against specific effects
+
+**Magical Items:** Items like a _ring of protection_ may give a bonus to all saving throws, or against certain effects. Other items – particularly cursed ones – may instead impose penalties.
+
+**Magical Armour:** An armour’s magical bonus is also applied to saving throws against effects that can cause physical damage that armour could reasonably be expected to mitigate. This never applies to gases, poisons, or spells and effects that affect the mind.
+
+**Spells:** Spells may impose penalties against saves made to avoid their effects as given in the spell description.
+
+**Poisons:** Weaker poisons often allow a bonus to saving throws to avoid their effects.
+
+**Specific Locations:** Sanctified and desecrated ground, lairs, other planes and dimensions, and many other locations, may impose bonuses or penalties on saving throws.
+
+### Magic Resistance
+
+Some creatures possess an inherent resistance to magical effects. This resistance is thought to be one manifestation of an unusually strong cohesion (see The Weave); the creature’s essence is sufficiently unified that external magical forces have difficulty establishing themselves upon it.
+
+This effect is not immunity, nor does it dispel or unravel magic that has already successfully taken hold. Like saving throws, magic resistance can voluntarily be suspended by the creature, and once this occurs it cannot be reversed even if the character was deceived as to the nature of the magic being used.
+
+When a spell or other magical effect would directly affect a creature with magic resistance, the creature first makes a magic resistance check by rolling 1d100. If the roll is equal or less than the creature’s magic resistance, the creature successfully resists and is unaffected. If the roll fails, the magical effect affects the character normally, including any applicable saving throws.
+
+Magic resistance only applies to a direct magical effect upon the creature with magic resistance. It does not stop the spell’s effect on other creatures targeted, or in the area of effect, and it does not prevent the _indirect_ consequences of a spell. For example, Magic Resistance may protect against the direct damage of a fireball spell, but not damage caused when the fire ignites a wooden roof and causes it to collapse. It does not protect against creatures, objects, or weapons merely because magic was involved in creating, summoning, or empowering them. If such a creature, object, or weapon subsequently produces a magical effect that directly affects the resistant creature, that effect is subject to magic resistance normally.
+
+In the case of continuing or permanent effects such as _protection from evil_ or a permanent _wall of force,_ a successful check continues to apply while the creature remains in the area of effect. If the creature exits and subsequently re-enters the area of effect a new check is required.
+
+#### Magic Resistance and Mysticism
+
+Magic Resistance is related to, but entirely separate from, the ability to resist mystical powers and influence. Mystical effects do not trigger a magic resistance check and are instead resolved according to the rules for Mystic Integrity , Imposition, and Cohesion.
+
+Under those rules, a creature with Magic Resistance of **50% or less** is considered to have a minimum **+1 Cohesion Modifier**, while a creature with Magic Resistance **greater than 50%** has a minimum **+2 Cohesion Modifier**.
+
+This does not mean that all creatures with a high Cohesion Bonus possess Magic Resistance. Magic Resistance is only one possible expression of high cohesion.
+
+Any spell, power, or item that reduces a magic-resistant creature's Cohesion Modifier also reduces its Magic Resistance. **For each point by which the creature's Cohesion Modifier is reduced, its current Magic Resistance is reduced by 25% of its current value.** This reduction is applied separately for each point of Cohesion lost. Thus, a creature with **80% Magic Resistance** that suffers a **2-point reduction to its Cohesion Modifier** has its Magic Resistance reduced first to 60%, and then to 45%.
+
+Conversely, any spell, power, or item that grants or increases Magic Resistance may also increase the creature's Cohesion Modifier, if necessary, to meet the minimums given above.
+
+These adjustments to Magic Resistance persist only for as long as the corresponding change in Cohesion persists. When the creature's Cohesion returns to its normal value, its Magic Resistance likewise returns to its normal value.
+
+### Turning Undead
+
+An important, and potentially life-saving defence possessed by many priests and paladins is the ability to turn undead, wherein they channel a portion of a deity’s power to cause undead to flee or, in some cases, be destroyed.
+
+As a mortal vessel is limited in the divine power it can safely channel, a character may make only one turning attempt per encounter, and the effect is neither guaranteed nor absolute.
+
+To make a turning attempt, a character must have their hands free except for their holy symbol, which they must hold aloft, and they must be able to speak words of condemnation. Only undead with line of sight to the holy symbol are affected. Unlike spells, a turning attempt does not require concentration; unless the character is incapacitated, the attempt is not interrupted by damage.
+
+#### Making a Turning Attempt
+
+A turning attempt begins by rolling **2d6**. The result is the number of undead the character can normally affect during the attempt. This is referred to as the character's **turning pool**.
+
+Next, consult Table 70 using the column corresponding to the character's turning level. If several types of undead are present, begin with the first-listed type, or the type with the lowest Hit Dice, and proceed through the table in order. While the turning pool is greater than 0:
+
+If the entry is **D**, a creature of that type is immediately destroyed. Subtract one from the turning pool for each creature of that type.
+
+If the entry is **T**, a creature of that type is automatically turned. Subtract one from the turning pool for each creature of that type
+
+If the entry is a number, roll 1d20. Only one roll is made during a turning attempt; the same result is used for all numerical entries encountered during that attempt. If the number in the table is less than the d20 result, a creature of that type is turned. Subtract one from the turning pool for each creature of that type.
+
+Continue resolving undead in this manner until the turning pool is exhausted or there are no eligible undead remaining.
+
+#### Bonus Turning
+
+At turning level 8 or higher, certain types of undead are marked with an asterisk next to a **D** result. When such a result is encountered, roll **2d4** to establish a separate **bonus turning pool**. There is only one bonus pool for the entire turning attempt, not a separate pool for each type of undead marked with an asterisk.
+
+While the number of undead remaining is greater than the character's normal turning pool, undead of a type marked with an asterisk are **turned rather than destroyed**. Each such creature is subtracted from the bonus turning pool rather than the normal turning pool.
+
+Bonus turning ends when any of the following occurs:
+
+- the number of undead remaining becomes equal to or less than the character's normal turning pool;
+    
+- the bonus turning pool is exhausted; or
+    
+- no undead of an asterisked type remain.
+    
+
+Once bonus turning ends, all remaining undead are resolved normally and affected creatures are subtracted from the normal turning pool.
+
+**Table 70: Turning Undead**
+
+| Type or HD       | Turning Level |     |     |     |     |     |     |     |     |       |       |     |
+| ---------------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | ----- | --- |
+|                  | 1             | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10-11 | 12-13 | 14+ |
+| Skeleton or 1 HD | 13            | 10  | 7   | 4   | T   | T   | D   | D   | D*  | D*    | D*    | D*  |
+| Ghoul or 2 HD    | 16            | 13  | 10  | 7   | 4   | T   | T   | D   | D   | D*    | D*    | D*  |
+| Shadow or 3-4 HD | 19            | 16  | 13  | 10  | 7   | 4   | T   | T   | D   | D     | D*    | D*  |
+| Wight or 5 HD    | 20            | 19  | 16  | 13  | 10  | 7   | 4   | T   | T   | D     | D     | D*  |
+| Ghast            |               | 20  | 19  | 16  | 13  | 10  | 7   | 4   | T   | T     | D     | D   |
+| Wraith or 6 HD   |               |     | 20  | 19  | 16  | 13  | 10  | 7   | 4   | T     | T     | D   |
+| Mummy or 7 HD    |               |     |     | 20  | 19  | 16  | 13  | 10  | 7   | 4     | T     | T   |
+| Spectre or 8 HD  |               |     |     |     | 20  | 19  | 16  | 13  | 10  | 7     | 4     | T   |
+| Vampire or 9 HD  |               |     |     |     |     | 20  | 19  | 16  | 13  | 10    | 7     | 4   |
+| Ghost or 10 HD   |               |     |     |     |     |     | 20  | 19  | 16  | 13    | 10    | 7   |
+| Lich or 11+ HD   |               |     |     |     |     |     |     | 20  | 19  | 16    | 13    | 7   |
+| Special (note 1) |               |     |     |     |     |     |     |     | 20  | 19    | 16    | 13  |
+
+1. 1. Special Creatures include unique undead and undead that dwell in other planes.
+    
+
+The exact effect of being turned depends on whether the creature is **free-willed** or **bound/mindless**. In either case, the effect persists for up to **1d10+2 rounds**.
+
+**Mindless or bound undead** retreat, preferably returning to their original position or post if possible. They will not willingly re-engage the character or their companions for the duration, regardless of what their opponents do, including attacking the turned undead or ceasing to maintain the turning.
+
+**Free-willed undead** remain subject to the turning only while the character continues to maintain it. They attempt to flee until they are out of the character's sight. If they cannot escape the character's sight, they attempt to remain at least 10 feet from the character while continuing to seek an opportunity to flee. They may engage companions who attempt to prevent their escape, but will not willingly approach the turning character. If forced within 10 feet of the character, such as by being cornered, the turning is broken and the undead immediately prioritizes attacking the character.
+
+Maintaining a turning attempt requires the character to continue holding their holy symbol aloft and uttering condemnations, but does not require additional checks or prevent movement.
+
+## Injury, Recovery, and Death
+
+The adventuring life is an especially risky one, and it is nearly inevitable that at some time—if not daily—a character will come to harm.
+
+While there are some injuries which can affect a character’s abilities in more specific ways, most damage is handled abstractly through the use of hit points.
+
+Hit points represent both physical resilience and the capacity to remain effective while wounded. The more hit points a character possesses, the greater the amount of physical harm they can endure before they are no longer capable of continuing.
+
+When an injury is inflicted on a character, any damage rolled is subtracted from the character’s pool of hit points. This hit point loss is cumulative until the character either recovers hit points or dies.
+
+Some effects may cause specific injuries that have other consequences, such as reducing movement, penalizing attacks, or lowering ability scores. These effects may be in addition to, or in place of, hit point damage, and may be temporary or permanent, though magic of sufficient power can often heal even injuries described as permanent.
+
+#### Damage Mulitpliers
+
+Some mechanics, such as critical hits, backstabs, or using a lance in a mounted charge, can multiply the damage of an attack. The multiplier applies only to the result of the damage dice; any modifiers are added after multiplication.
+
+#### Temporary Damage
+
+As described in the Non-Lethal Attacks section of this chapter, some attacks inflict temporary damage. Temporary damage still reduces a character’s cumulative hit point pool as normal, but the amount of temporary damage should be tracked separately, as it is recovered more quickly. If a character is reduced to 0 hit points by an attack that includes temporary damage, they are rendered unconscious rather than killed.
+
+#### Falling
+
+Adventurers have a peculiar penchant for falling, typically from great heights and onto hard surfaces. The rules do not attempt to model the physics of a falling object or the force of impact. Unless the DM rules otherwise—for example, allowing a _deliberate_ high dive into water—a character suffers **1d6 damage per 10 feet fallen**, to a maximum of 20d6.
+
+If a fall occurs during aerial combat, refer to the rules in that section to determine the height.
+
+### Special Damage
+
+As mentioned above, hit point loss is not the only type of damage, though it is the most common. Critical hits, for example, have a small chance of being severe enough to disfigure, break bones, or sever limbs. These injuries have specific effects, often in addition to hit point loss.
+
+Special damage effects are typically explained in the rules for whatever causes them, be it a spell, item, or ability, but a few types of special damage are enumerated here.
+
+#### Paralysis
+
+A creature that suffers paralysis is rendered completely immobile. It loses all voluntary motor function and cannot speak or move any part of its body. It can, however, still breathe, see, hear, and think. Any item, ability, or power that requires only coherent thought can still be triggered by a paralyzed creature.
+
+Paralysis is especially devastating for flying creatures as most do not fly by will alone, and only stay aloft through movement. It can also be very dangerous for creatures in the water to lose the ability to swim. Even if they are capable of breathing underwater, sinking to too great a depth can still crush many creatures not adapted to that environment.
+
+Even a creature such as a beholder, which can levitate at will and can still use most of its innate spell-like powers while paralyzed, is disadvantaged by paralysis: it cannot turn its eyestalks and must instead rotate its entire body toward a target, potentially exposing itself to opportunity attacks and attacks from the rear.
+
+#### Energy Drain
+
+Energy Drain, often an ability of powerful undead, is a particularly nasty power, as it can cause a character to lose one or more experience levels.
+
+When a character is affected by an energy-draining creature, in addition to any hit point loss, the character loses one or more levels. This means losing the Hit Dice, hit points, and Constitution bonuses conferred by those levels. Also lost are any abilities granted by the lost levels, including proficiencies, and access to any spells and powers that are in excess of the character’s new level.
+
+If the level or levels lost granted a fixed amount of hit points, those are subtracted from the character’s maximum hit points. If the hit points for the lost levels were rolled, the player rolls the appropriate die for the class and levels lost and subtracts the result from their maximum hit points.
+
+Any prepared spells of a higher level than the character can cast at their new level are immediately forgotten and unavailable. Other prepared spells remain in memory even if they use more spell points than are available at the reduced level, but the caster cannot prepare any new spells until the total is less than their new spell point pool. All spells an arcane caster loses access to remain in their spellbook and/or arcane archive, but must be relearned once the caster regains the necessary levels.
+
+A character’s experience points are reduced to the midpoint between the minimum experience required for their new level and the minimum experience required for the next level.
+
+Multiclass and dual-class characters lose only one class level at a time, from whichever class is highest. If they are of equal level in each class, they lose a level from the class requiring the most experience first.
+
+If a character is drained to 0th level, but their maximum hit points remain above 0, they lose all class abilities, cannot regain levels, and must retire from adventuring. The only way for the character to resume their adventuring career is through powerful magic, such as a _restoration_ or _wish_ spell.
+
+If the character is subsequently affected by another energy drain, or if an energy drain reduces their maximum hit points to 0 or less (regardless of the level they have been reduced to), they are instantly slain. If the character’s former companions do not learn and perform the appropriate actions to prevent it, the character returns as an undead creature of the same type as the one that slew them after 2d4 days. They become a levelled NPC with half the experience the character had at the beginning of their last encounter. This creature’s goals are the opposite of those it had in life, and it holds particular hatred and contempt for its former comrades.
+
+#### Poison
+
+Few in the world, except perhaps cheating spouses and royalty, find themselves poisoned as frequently as adventurers. Perhaps this is the natural consequence of a life eating questionable meals in even-more-questionable taverns and inns, being bitten and stung by fell creatures, falling victim to traps, and gaining the enmity of the sort of villains that employ assassins.
+
+There are many categories of poisons and venoms, not just one. Each may require a specific route of administration and have its own onset time, potency, effects, and duration.
+
+The most common routes of poisoning are injection or ingestion, though some of the most dangerous and lethal poisons are inhaled or absorbed through the skin. Natural poisons used for defence by creatures and plants typically have shorter or even immediate onset times, while manufactured ones may have very lengthy onsets to allow the poisoner to avoid detection.
+
+While a poison may have other specific effects, many common poisons are either paralytic or debilitating.
+
+A **paralytic poison** leaves a character paralyzed for 2d6 hours. Their body is limp, making it difficult for companions to move them, but paralysis caused by poison is, on its own, unlikely to lead to the character’s death.
+
+A **debilitating poison** weakens a character for 1d3 days, reducing all ability scores by half. In addition to the effect the reduced ability scores have on modifiers and rolls, the character’s movement is also reduced by half.
+
+A character cannot recover hit points by either normal or magical means until the poison is neutralized or the duration of its effect runs its course.
+
+### Recovery
+
+If a character survives whatever has caused them injury, they will of course wish to recover. Characters can recover through simple rest and the natural healing of their wounds, through the care of a skilled healer, or through magical or mystical means.
+
+The only general limit on healing is that a character cannot recover more hit points than their current maximum.
+
+#### Natural Healing
+
+Natural healing of lost hit points is a slow process. Assuming a character has adequate food, water, and sleep, they recover **1 hit point for each day of rest**.
+
+A day of rest need not mean complete inactivity. Light activity such as travelling at a normal pace, riding a horse, researching, haggling with merchants, keeping watch, or mild carousing does not prevent natural healing. Strenuous activity, however—such as fighting, fleeing, moving excessively heavy objects, or repairing armour—is likely to strain or reopen wounds. A character who engages in such activity during the day recovers no hit points from natural healing that day.
+
+Likewise, a character who does not have adequate food, water, or sleep cannot recover hit points naturally.
+
+With **complete bed rest**, doing nothing beyond eating, sleeping, and occasionally attending to the necessities of life, a character recovers **3 hit points per day**. If a character remains undisturbed under complete bed rest for an entire week, they may also add their **Constitution bonus** to the 21 hit points recovered during that week.
+
+Naturally recovering from specific injuries such as broken bones is an even lengthier process and can take months of bed rest. The most severe injuries may not be recoverable through natural healing at all.
+
+#### Skilled Healers
+
+Characters may receive care from a skilled healer, accelerating their natural recovery. The **Healing** proficiency provides the normal rules for such care, but NPCs, character kits, or other special rules may provide additional forms of non-magical healing or recovery.
+
+Daily care from skilled healers reduces the time required to recover from specific injuries by half.
+
+#### Magical and Mystical Healing
+
+Magical and mystical healing offer a much speedier, often immediate, means of recovery, instantly closing wounds and restoring vigour. Only the most foolhardy or desperately poor adventuring parties would proceed without some means of magical healing at hand, whether through potions and other magical items or through magic-users with access to healing spells or powers.
+
+Magical and mystical healing is independent of any natural healing that may occur during the same day.
+
+There is no limit to the amount of magical healing that may be applied, except that any healing in excess of the character’s maximum hit point total is lost.
+
+Curative magic and mystical powers may be used to heal specific injuries _instead of_ restoring hit points, but the strength of the effect must match or exceed the severity of the injury. An effect capable of restoring at least 5 hit points can heal injuries of minor severity; one capable of restoring at least 20 hit points can repair major injuries. Severe injuries can only be healed by higher-level magic, such as _regeneration_, while mortal injuries can only be repaired by the most powerful magics, such as _limited wish_ and _wish_.
+
+#### Disease
+
+Characters may acquire diseases in a number of ways including by being infected by some creature’s attacks. Diseases vary considerably in their symptoms, severity, onset, duration, and effect. For non-magical diseases, characters proficient in **Diagnostics** can identify diseases and their likely causes, while those proficient in **Healing** can assist in their treatment. In contrast, magical diseases may only be cured with appropriate magic.
+
+### Character Death
+
+When a character is reduced to 0 hit points, unless the final attack was explicitly made as a non-lethal attack, the character is immediately dead and unable to do anything unless a specific effect overrides this.
+
+#### Death from Massive Damage
+
+If a character suffers 50 or more points of damage from a **single attack** they must roll a saving throw vs. Death. If they fail, the injury was so traumatic that they are immediately reduced to 0 hit points and are dead.
+
+#### Inescapable Death
+
+Very rarely there may be situations where a character’s death is unavoidable no matter how many hit points they have. Triggering a particularly heinous trap protecting a powerful artifact might.
+
+#### Death from Poison
+
+Poison remains in a characters system for 2d6 hours after death. If the character is successfully raised from the dead in this time, and the poison has not been neutralized, the character must immediately roll a saving throw against the poison or suffer all the effects of the poison – depending on the poison this might immediately kill the character seconds after they have been returned to life.
