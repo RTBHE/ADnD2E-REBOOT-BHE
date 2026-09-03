@@ -206,6 +206,7 @@ Once a character advances beyond their threshold, all further level advancement 
 | Gnome    | -         | -    | 9             | -     | 11      | 10              | -    | 13     | 15    | -       | -      | 13    |
 | Half-Elf | -         | U    | 14            | 9     | 14      | 12              | 14   | -      | -     | -       | 16     | 12    |
 | Halfling | 9*        | -    | 8             | -     | 9       | -               | -    | 14     | 12    | -       | -      | 15    |
+
 **U** - Unlimited Levels in this class  
 \* Only Sylvan Elves, and among Halflings, the Furchin and Hardfell subraces, may become barbarians.
 
