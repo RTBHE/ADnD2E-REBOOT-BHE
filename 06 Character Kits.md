@@ -1,4 +1,4 @@
-# Chapter 6:Character Kits
+# Chapter 6: Character Kits
 
 Character kits are a tool to help players develop their characters into a specific role, archetype, or identity within the game world. The DM may restrict which kits are available in the campaign and may create additional kits tailored to specific factions, orders, or cultures in their world.
 
@@ -69,11 +69,325 @@ Warriors of 5th level or higher, other characters of 8th level or higher, and an
 **Restrictions:** An Amazon suffers a −3 penalty to reaction rolls when dealing with NPCs from male-dominated societies who are unfamiliar with her. This penalty does not apply to NPCs who have come to respect her or who are already familiar with Amazon warriors.
 
 **Additional Notes:** .  
+
 **Dwarven Amazons:** Replace the required Spear and Long Bow proficiencies with Axe and Hammer. Dwarven Amazons traditionally favour the boar as a mount and gain the same benefits from Riding (Land-Based) when riding a trained boar.
 
 **Gnome Amazons:** Replace the required Spear and Long Bow proficiencies with Throwing Axe and Short Sword. Replace the bonus Riding (Land-Based) and Animal Training proficiencies with Tracking and Survival.
 
 **Halfling Amazons:** Replace the required Spear and Long Bow proficiencies with Javelin and Sling. Replace the bonus Riding (Land-Based) and Animal Training proficiencies with Endurance and Set Snares.
+
+#### Animal Master
+
+**Requirements**
+
+Ability: Wisdom 12+
+
+Race: Dwarf
+
+**Description:** The Animal Master is a dwarf trained to care for and employ the animals used by dwarven communities for guarding, hunting, transport, and war. He looks after his charges, ensuring that they are properly fed, exercised, and trained. Through close familiarity with them, he develops an unusually strong bond with his animals and is reluctant to expose them to unnecessary danger.
+
+**Role:** The Animal Master is the party's specialist in trained animals. He can provide and direct animal companions, track and handle animals, and make use of creatures that would otherwise be difficult to control. His skills are particularly valuable when the party must travel through the wilderness or underground, where a well-trained animal can serve as a guard, scout, or fighting companion.
+
+Within dwarven communities, Animal Masters are responsible for the animals that protect and serve a stronghold. These may include bears, wolves, boars, giant lizards, giant rats, or other creatures suited to the local environment. Where a stronghold maintains cavalry or pack animals, Animal Masters may also be responsible for their training and care.
+
+**Nonweapon Proficiencies:** Bonus: Animal Lore, Animal Training (chosen animal), Endurance. Recommended: Animal Handling, Animal Training (other animal), Appraising, Direction Sense, Dwarf Runes, Etiquette, Herbalism, Hunting, Modern Languages, Rope Use, Sign Language, Signalling, Underground Survival.
+
+**Equipment:** The Animal Master may begin with any weapons and equipment normally available to his class. He begins play with one fully trained animal of his choice, which may be equipped with leather or metal barding appropriate to its size and capabilities.
+
+**Special Benefits:** The Animal Training proficiency gained as a bonus proficiency is automatically at **+1**. The Animal Master must choose the species to which this proficiency applies. Additional Animal Training proficiencies do not receive this bonus.
+
+The bonus Animal Training proficiency allows the Animal Master to train **four animals simultaneously** rather than three. Each additional slot devoted to Animal Training allows one additional animal to be trained at a time. Each slot also increases the number of tasks the animals can be taught by one and reduces the normal training time by one week, to a minimum of two weeks.
+
+When working with animals whose mother he has personally trained, the Animal Master receives a **+4 bonus** to his chance of taming them. Such animals obey his commands on a roll of 1–19 on 1d20; only a roll of 20 causes them to refuse.
+
+If he has **Sign Language**, the Animal Master may direct his own trained animals with hand signals, provided they can see him. With **Signalling**, he may direct his own trained animals with simple sound signals. He may also use such signals to direct other trained animals by succeeding with an Animal Training check.
+
+**Special Hindrances:** Animal Masters often spend more time with their charges than with other dwarves, and their profession is less closely associated with the traditional crafts of dwarven society. Other dwarves therefore tend to regard them with a degree of wary respect rather than easy familiarity. Dwarves who do not know an Animal Master react to him at **-2**. This represents caution and reserve rather than hostility; most will respect his abilities even if they do not readily consider him a friend.
+
+**Additional Notes:** The animals maintained by an Animal Master should reflect the stronghold and its surroundings. A community in deep caverns might employ bears, wolves, giant rats, or giant lizards, while a surface settlement might favour dogs, boars, horses, or other animals suited to its environment. The Animal Master need not be restricted to the animals traditionally used by his own people, and his personal companion may be an animal he encountered and trained during his travels.
+
+#### Archer
+
+**Requirements**
+
+Ability: Dexterity 13+.
+
+Class: Fighter, Ranger.
+
+Race: Elf.
+
+**Description:** The Archer is an elf who has devoted much of his martial training to mastery of the bow. He practices constantly, learning to judge distance, wind, concealment, and movement so that difficult shots become routine. An Archer is confident in his ability to place an arrow where it is needed, even when conditions make the shot unusually difficult.
+
+**Role:** Archers serve as scouts, hunters, border guards, and skirmishers, but their skills are equally valuable to adventuring parties. They excel at engaging dangerous targets from a distance, particularly when terrain or concealment makes an ordinary shot difficult. An Archer is less versatile in close combat than other warriors, but can compensate by controlling distance and exploiting difficult firing positions.
+
+**Weapon Proficiencies:** The Archer must specialize in either the long or short bow. He may only gain the benefits of proficiency for the long sword, short sword, and dagger as melee weapons.
+
+**Nonweapon Proficiencies:** Bonus: Bowyer/Fletcher, Hunting. Recommended: Animal Lore, Endurance, Fire-building, Jumping, Running, Survival, Tracking.
+
+**Equipment:** The Archer must purchase a fine quality long or short bow at 150% of the normal cost. He may otherwise equip himself normally. His personal bow is carefully maintained, and he prepares and sharpens his own arrows.
+
+**Special Benefits:** When using his specialized bow, the Archer may choose each round to emphasize either rapid fire or precision.
+
+**Rapid Fire:** The Archer gains **+0.5 Rate of Fire**. If he remains stationary for the entire round, he may instead gain **+1 Rate of Fire**. These benefits include any movement allowed by the normal rate of fire.
+
+**Trick Shot:** The Archer is able to make unusually difficult or precise attacks. He reduces any attack penalty arising from the difficulty of a shot (such as the penalties imposed on called shots or by concealment) by **1 for every four experience levels** when making a trick shot. This cannot reduce a penalty below 0.
+
+In addition, when using a bow that he has personally maintained for at least one month and arrows that he has personally prepared and sharpened, the Archer gains **+1 damage** with those weapons.
+
+These benefits are in addition to those granted by specialization or other sources.
+
+**Special Hindrances:** The Archer's focus on the bow comes at the cost of training in other weapons. He may only gain the benefits of proficiency with the long sword, short sword, and dagger as melee weapons. He suffers a **−1 penalty to attack rolls** when using these weapons and never gains a bonus to attack rolls from proficiency, specialization, or racial ability when using them.
+
+His benefits depend upon the quality of his personal equipment. If he uses a bow that he has not maintained for at least one month or arrows he has not personally prepared, he does not gain the additional damage. The Archer must repair or replace damaged or inferior missile equipment whenever possible and will not knowingly use equipment of inferior quality except when in mortal danger or when necessary for the success of a mission. A replacement bow must be maintained for one month before it qualifies as his personal weapon. Sharpened arrows must be carefully stored to prevent their points from becoming dulled.
+
+#### Axe-for-Hire
+
+**Requirements:**
+
+Race: Dwarf
+
+**Description:** The Axe-for-Hire is a dwarf who makes a profession of selling his martial skills. He may serve as a mercenary, caravan guard, expeditionary soldier, bodyguard, or hired defender, accepting employment wherever his abilities are needed and the terms are satisfactory. Although the name reflects the traditional dwarven association with the axe, an Axe-for-Hire is generally an all-around warrior, capable of fighting at close quarters as well as making effective use of crossbows and other missile weapons.
+
+**Role:** The Axe-for-Hire has chosen a profession that gives him greater freedom of movement than is customary for a dwarf closely tied to a clan or stronghold. He may be motivated by wanderlust and a desire to see the wider world, by a desire for independence, or simply by the belief that his martial skills are worth more when offered to those who need them.
+
+An Axe-for-Hire might guard a merchant travelling between settlements, accompany an expedition into the depths, serve a dwarf noble visiting distant relatives, or join an expedition attempting to reclaim a mine or stronghold from monsters. He may accept employment from another race as readily as from his own people, provided the pay and terms are acceptable.
+
+The Axe-for-Hire need not have abandoned his clan or community. He may regard his profession as a way of travelling while still maintaining strong ties to his homeland, returning home between contracts. Others may have deliberately chosen a more independent life. The character's reasons for becoming an Axe-for-Hire are a matter of his individual background.
+
+**Nonweapon Proficiencies:** Bonus: Endurance, Local Dwarf History, Local History. Recommended: Alertness, Armorer, Bowyer/Fletcher, Direction Sense, Dwarf Runes, Fire-building, Survival, Underground Navigation, Weaponsmith.
+
+**Equipment:** The Axe-for-Hire may spend his starting money on whatever arms, armour, and equipment he can afford. If it is agreed that he begins play as part of a military force with specific equipment requirements, he must purchase that equipment, but pays only half its normal price.
+
+**Special Benefits:** An Axe-for-Hire receives one free weapon specialization with a hand or missile weapon commonly associated with dwarven warriors.
+
+When employed, the Axe-for-Hire does not normally pay for his own basic upkeep. His employer provides reasonable lodging, food, and drink for the duration of his employment.
+
+**Special Hindrances:** Dwarves are generally accustomed to strong ties between individuals, clans, and communities, and may be suspicious of those who deliberately pursue an independent life. When dealing with other dwarves in circumstances unrelated to military service, an Axe-for-Hire suffers a **−3 reaction adjustment**.
+
+When an Axe-for-Hire is part of a military or mercenary force, he is subject to the discipline and legitimate orders of its commander. He is no longer free to come and go as he pleases, and is bound by the terms of whatever contract he has accepted. Many such contracts are for a fixed duration and require him to remain available throughout the term. Abandoning a contract without good reason is likely to damage his reputation and make future employment more difficult to obtain.
+
+There is also always the possibility that an employer has assigned the Axe-for-Hire a particularly dangerous task, perhaps expecting him to serve as a delaying force, decoy, or sacrifice while others perform a more important or safer duty.
+
+#### Battlerager
+
+**Requirements**
+
+Ability: Strength 15+; Intelligence 10 or less; Wisdom 10 or less.
+
+Class: Fighter
+
+Race: Dwarf.
+
+**Description:** The Battlerager is a member of a distinctive dwarven warrior tradition who can work himself into a murderous battle fury. While enraged, his muscles swell, his features become distorted, his eyes bulge and redden, and he becomes almost impervious to pain or fear. Battleragers are valued as shock troops, but their loss of control makes them dangerous even to their allies.
+
+**Role:** The Battlerager is a shock warrior. He excels when the party needs to break through a strong opponent, hold a dangerous position, or destroy enemies quickly and without regard for his own safety. Once his rage begins, however, he cannot be relied upon for subtle tactics or careful discrimination between targets. The party must therefore choose when and where to unleash him, particularly in confined spaces or battles involving large numbers of allies.
+
+**Weapon Proficiencies:** The Battlerager must pursue specialization in battle axe (single- or two-handed) and warhammer as soon as they are able. They can never gain proficiency in missile weapons, as the warhammer is the only weapon a Battlerager may ever use at range, and then only as described in the Benefits section below.
+
+**Nonweapon Proficiencies:** Bonus: Endurance, Intimidation, Singing. Recommended: Appraising, Armourer, Blind-fighting, Dancing, Direction Sense, Sound Analysis, Underground Navigation, Underground Survival.
+
+**Equipment:** A Battlerager must begin play with a battle axe and warhammer. He may wear any armour available to a dwarf, but it must be fitted loosely enough to accommodate his increased size while enraged. Battleragers often carry wineskins of _gutshaker_, a fermented mixture of goat's milk and herbs which they can consume without becoming violently ill.
+
+Many Battleragers decorate their hair, beards, faces, or bodies with dyes, tattoos, rings, or other marks associated with their particular tradition.
+
+**Special Benefits:**
+
+When making a charge, a Battlerager may throw a warhammer at his target immediately before his movement begins, in addition to the normal melee attack at the end of the charge. This is the only ranged attack a Battlerager may ever make.
+
+A Battlerager who is threatened, insulted, or enters combat immediately begins working himself up, bellowing out a battle song as loud as he can. At the end of five rounds, during which he can fight and perform other physical activities, he enters a **killing rage**. He can try to avoid entering the rage by making a Wisdom check. If successful he is able to keep control of himself for the remainder of the encounter.
+
+Once entered, the rage continues until the Battlerager is able to regain control, he is incapacitated, or there are no living creatures in sight. Throughout the rage he continues singing, pausing only to hurl insults and invectives. He may attempt a Wisdom check to regain control at the start of each round.
+
+While enraged, the Battlerager gains **+1 to attack rolls, +3 to damage rolls, +10** **temporary** **hit points, and a −1 bonus to Armor Class**. He is immune to _charm person, emotion, fear, friends, hypnotism, sleep, irritation, ray of enfeeblement, scare,_ and _geas_, and to the priest spells _command, charm person or mammal, enthrall, cloak of bravery, remove fear,_ and _symbol_.
+
+He receives a **+4 saving throw bonus**, in addition to his normal dwarven resistance, against _blindness, Tasha's uncontrollable hideous laughter, hold person, charm monster,_ and _confusion_, and against the priest spells _hold person_ and _hold animal_.
+
+A _finger of death_ kills an enraged Battlerager immediately if he fails his saving throw. If he succeeds, the spell's 2d8+1 damage is delayed until the rage ends. He is immune to knockout results from Punching and Wrestling and takes half damage from bare-hand attacks.
+
+A _silence_ spell prevents a Battlerager from entering his rage. If he can identify the caster, he attacks him; otherwise, he attacks anyone who obstructs him.
+
+**Special Hindrances:** While enraged, the Battlerager is oblivious to pain. The DM records his hit points when the rage begins and tracks subsequent damage without informing the player of his current total. The player learns how much damage he has taken when the rage ends or the character dies.
+
+The Battlerager must attack an enemy within reach each round, and if there is none he must move toward and attack the nearest enemy. He cannot intentionally use cover and concealment, or change positions to take cover from missile attacks.
+
+If another character appears to attack him—for example, by striking him to move him aside—he must make an Intelligence check. If successful, he recognizes the character as an ally; if he fails, he treats that character as an enemy until the rage has ended.
+
+He is temporarily unaffected by _bless, cure light wounds, aid, cure serious wounds, cure critical wounds, heal, regenerate,_ and _wither_, receiving their benefits only after the rage ends. The _taunt_ spell automatically succeeds and causes him to abandon his current opponent and attack the taunter.
+
+When the rage ends, the Battlerager loses the +10 temporary hit points and all other benefits of the rage. If this reduces him to 0 or fewer hit points, the normal consequences apply. He then suffers **−1 to attack rolls, −3 to damage rolls, and a +1 penalty to Armor Class** for a number of rounds equal to the number of rounds he spent enraged.
+
+**Additional Notes:** Battleragers occupy an uneasy position in dwarven society. They may be revered as warriors touched by a deity or honoured tradition, feared as dangerously unstable, or simply regarded as specialists whose abilities are most useful in war. Their beliefs and behaviour outside combat vary accordingly; the Battlerager need not be irrational, boorish, or incapable of diplomacy.
+
+The tradition is particularly suited to assaults in which overwhelming violence is more valuable than careful tactics. Battleragers often advance ahead of the main force and attack the enemy before other warriors engage, but experienced commanders understand that once committed, a Battlerager cannot easily be recalled.
+
+#### Beastmaster
+
+**Requirements:**
+
+Class: Ranger;
+
+Primary Terrain: Any non-aquatic;
+
+**Description:** A wanderer, the Beastmaster has a natural affinity for animals; in fact, he has a limited form of telepathic communication with them. This is often the result of a magical bond with the Animal Kingdom, formed either at the time of his birth or upon reaching young adulthood. Unlike other adventurers, the Beastmaster does not command, train, or control his animal companions; rather, they are his friends and comrades-in-arms. Misunderstood and feared by nobles and common folk alike for his unnatural abilities with animals, the Beastmaster seldom stays in one place for long, nor is he comfortable in civilized lands.
+
+**Role:** The Beastmaster is a wilderness-oriented warrior and scout whose abilities are closely tied to his animal companions. His animals provide additional strength in combat, scouting, tracking, and wilderness travel, while his ability to communicate with them allows the party to gather information and operate effectively in environments where other characters cannot. The Beastmaster is particularly valuable when the party travels through wild country, where his knowledge of the natural world and his animal allies can provide warning of danger, locate prey or enemies, and perform tasks that would otherwise require considerable risk.
+
+His animal companions can fight alongside the party, but they are not simply expendable combat assets. The Beastmaster's ability to maintain and communicate with these allies gives the party a flexible resource for scouting and reconnaissance, while his own martial abilities allow him to stand alongside the party's other warriors when battle is joined.
+
+**Weapon Proficiencies:** A Beastmaster is initially limited to proficiency in weapons that he can make himself: axe (any), club, dagger, dart, javelin, knife, quarterstaff, sling, or spear.
+
+**Nonweapon Proficiencies:** _Bonus:_ None, but see Special Benefits. _Recommended:_ Agriculture, Bowyer/Fletcher, Endurance, Hunting, Leather Working, Running, Swimming, Weather Sense. _Optional:_ Weaponsmithing (Crude), as described in the Mountain Man section. _Barred:_ Armorer, Etiquette, Heraldry, Navigation, Weaponsmithing.
+
+**Equipment:** The Beastmaster starts only with leather armor and weapons he has made.
+
+**Rogue Abilities:** The Beastmaster gains +5% to hide in shadows while in natural surroundings.
+
+**Special Benefits:**
+
+_Animal Henchmen:_ Although a Beastmaster receives no special followers at high level, he can acquire normal or giant animals as henchmen. He may acquire them at any level, and their number depends on his Charisma. If these animals are slain or driven away, they can be replaced by new animals without penalty, though this may take some time.
+
+_Animal Telepathy:_ The Beastmaster can establish telepathic communication with any normal or giant animal within 30', if he does nothing else in the round. The animal must have a minimum Intelligence of 1. This has the following benefits:
+
+- The Beastmaster can communicate to the creature that he desires its friendship. If the offer is sincere—and the animal will be able to sense if it isn't—the creature can be calmed and will not attack or flee unless it is attacked.
+    
+- The Beastmaster can recruit an animal he has befriended as a henchman if he is not at his limit and if the creature fails a saving throw vs. rods. The saving throw is penalized by -1 for every three levels of experience the Beastmaster has earned. At the DM's option, animals may present themselves for recruitment in the same way that followers appear to other rangers.
+    
+
+_Animal Bonding:_ The Beastmaster forms a mental bond with any animal he recruits as a henchman. There is no distance limit, but this ability does not cross planar boundaries. This bond has the following effects:
+
+- The Beastmaster can communicate directly with any animal henchman to which he has a bond. This gives him the ability to directly explain tricks or tasks he wishes the animal to attempt, or to communicate needs and desires. Conversely, the animal can also communicate its needs and desires to him.
+    
+- He can see through the eyes of the animal by concentrating on the mental link. He can see through the eyes of one creature in a round, himself included.
+    
+- He has the Animal Lore proficiency with respect to the bonded animal. Furthermore, if he is mentally linked to the animal, success with the proficiency is automatic.
+    
+- Every time the Beastmaster gains a level, all of his current animal henchmen gain an additional hit point.
+    
+
+_Animal Horde:_ At 9th level, the Beastmaster can summon a horde of wild animals to fight for him. They must come from a land that he controls, and it takes one week to gather them.
+
+They can be brought together only for some great purpose that can be explained simply. Up to 100 Hit Dice of animals per level of the Beastmaster will come. For every 10 animals, there will be a pack leader with one additional Hit Die and maximum hit points. The horde will stay together for one week for each level of the Beastmaster. There is no record of a Beastmaster summoning more than one horde in a year.
+
+_Optional Rule:_ The Beastmaster can split his experience award, giving up to half of his earned experience to any or all of his animal henchmen that played a role in the adventure. Such henchmen advance on the Fighter Experience Table, receiving +1 to attack rolls and +3 hit points for every level gained.
+
+**Special Hindrances:**
+
+_Empathic Shock:_ The Beastmaster feels pain when one of his henchmen is wounded, suffering a -2 penalty to all rolls in the next round. If he is mentally linked with a henchman when it is killed, he suffers a -2 penalty to all rolls for the next 24 hours.
+
+_Unruly Allies:_ The Beastmaster's animal henchmen are free to come, go, or act as they will. Any attempt to arbitrarily restrict or regulate their freedom, or habitually ignoring their needs and desires, will result in resentment, sulkiness, and possible abandonment.
+
+_Outcast:_ The Beastmaster suffers a -1 penalty to reaction rolls by common NPCs, and a -2 when dealing with a civilized aristocracy. Further, his maximum effective Charisma when dealing with his own race is 15.
+
+_Limited Funds:_ The Beastmaster starts with 1d4 - 10 gp.
+
+_No Fortress:_ At no time will the Beastmaster build a fortress. At 9th level, he may establish himself as the protector of an area of land equivalent to a barony.
+
+#### Beast-Rider
+
+**Requirements:**
+
+Ability: Charisma 13+;
+
+**Description:** The Beast-Rider is a warrior whose culture has developed a close relationship with a particular species of animal. The animal may be an established riding animal, such as a horse or camel, or a species not normally trained as a mount. Through generations of familiarity, specialized training, and selective breeding where appropriate, the Beast-Rider's people have learned to work with these animals in ways unfamiliar to most other cultures.
+
+The Beast-Rider is not necessarily a member of a primitive or isolated society. He may come from a nomadic clan that follows herds across the plains, a woodland community that breeds and rides great wolves, a coastal people who train aquatic creatures, or an organized kingdom whose warriors ride unusual beasts. The relationship between the people and their animals should reflect their environment, history, and traditions.
+
+The Beast-Rider's connection to his chosen animal is unusually strong. He is trained not merely to ride it, but to understand its behaviour, communicate with it, and fight alongside it as a partner. His mount is therefore an important part of his identity and training rather than simply another piece of equipment.
+
+**Role:** The Beast-Rider is a mobile warrior whose effectiveness is closely tied to his animal companion. His mount may provide speed, mobility, unusual senses, or other capabilities that benefit the entire adventuring party.
+
+Outside his own culture, the Beast-Rider's methods may be unfamiliar or difficult for others to understand. A warrior who rides a horse is unremarkable in many societies; one who arrives on a great wolf, elephant, giant lizard, or other unusual creature attracts considerably more attention. The Beast-Rider may consequently find himself treated as an oddity, particularly by people who have never encountered his tradition.
+
+The Beast-Rider should nevertheless be treated as a warrior first. His unusual mount does not require him to be uncivilized, primitive, or socially inept. He may be a disciplined soldier, a noble warrior, a professional scout, or any other type of fighter appropriate to his culture.
+
+**Weapon Proficiencies:** Recommended: Weapons commonly associated with mounted warfare or with the Beast-Rider's culture, including Bow (Composite Short Bow, Short Bow), Horseman's Flail, Horseman's Mace, Horseman's Pick, Lance (any, according to the size of the mount), Spear, Bastard Sword, and Long Sword.
+
+**Nonweapon Proficiencies:** Bonus: Animal Training, Riding (Land-Based). The character must designate one species of animal to which both proficiencies apply. Recommended: Animal Handling, Animal Lore, Direction Sense, Fire-Building, Hunting, Mountaineering, Set Snares, Survival, Tracking, and, for aquatic Beast-Riders, Seamanship and Swimming. Healing may be taken specifically for veterinary purposes.
+
+**Equipment:** At character creation, the Beast-Rider may begin with only Hide, Leather, Padded, or lighter armour, together with a shield and helm. He may subsequently acquire heavier armour, provided that his mount can carry both the character and the armour without exceeding its normal weight-bearing capacity.
+
+His starting weapons must be selected from the weapons listed above or from weapons customary to his culture. The DM may alter this list to reflect the traditions of the Beast-Rider's people.
+
+**Benefits:** The Beast-Rider has an extraordinary rapport with one species of animal. With the DM's approval, the player chooses the species. The animal must be capable of carrying the character as a mount, although the species need not normally be used as one. The DM may prohibit a choice that would give the character an unreasonable advantage for the campaign, particularly among unusually powerful, intelligent, or magical creatures.
+
+The Beast-Rider receives a **+5 reaction adjustment** when dealing with normal members of his chosen species. Animals of this species are unusually receptive to him. If such an animal would normally react as Hostile, a reaction roll of 9 or less is sufficient for the Beast-Rider to persuade it not to attack him or his companions, provided there is some reasonable basis for the animal to withdraw rather than continue the attack. This ability does not compel an animal to perform actions contrary to its nature.
+
+The Beast-Rider begins play with one animal of his chosen species as his personal mount and companion. The animal is exceptionally loyal to him and willingly places itself in danger on his behalf. The Beast-Rider is expected to show the same loyalty toward his companion.
+
+The Beast-Rider and his companion possess a limited **telepathic rapport**. While they are touching or within visual range of one another, the Beast-Rider can perceive the animal's emotional state and, if the animal is sufficiently intelligent, receive simple impressions of its thoughts. The two can communicate simple ideas, intentions, and emotions without speaking or making visible signals.
+
+When they are separated beyond visual range, each can still sense the other's general emotional state and whether the other is seriously hurt. Each can determine the general direction in which the other lies and can estimate the distance separating them in broad terms, such as a hundred yards, an hour's travel, or several days' travel. This sense does not provide an exact location and does not allow either to perceive what the other can see or hear.
+
+If the Beast-Rider's companion dies, the Beast-Rider immediately suffers **2d6 points of damage** from the shock of the broken bond and must make a saving throw vs. spells. If the saving throw fails, he is overcome by grief and shock and is incapable of meaningful action for **2d6 hours**, though he may defend himself normally if directly threatened. A successful saving throw does not prevent the character from experiencing profound grief, and the player should role-play an appropriate reaction.
+
+The Beast-Rider may eventually acquire another companion of the same species. This should be part of the campaign rather than an automatic replacement. The character must seek out a suitable animal and establish a new bond with it. The new companion should be an exceptional example of its species, and the DM may require a bonding ritual, trial, hunt, training period, or other appropriate event before the animal accepts the character as its new partner.
+
+The Beast-Rider's mount does not gain additional hit points, attacks, or other extraordinary abilities merely by virtue of this kit. Its capabilities remain those of a normal, trained member of its species unless the campaign provides some other reason for them to be exceptional.
+
+**Restrictions:** The Beast-Rider's relationship with his mount is conspicuous in societies unfamiliar with the chosen animal. NPCs who have never encountered such a partnership may be suspicious, fascinated, or simply uncertain how to deal with the character. He suffers a **−2 reaction adjustment** when dealing with NPCs who are unfamiliar with his tradition and who regard his mount or its use as unusual. This penalty does not apply to NPCs who are accustomed to the species, have previously encountered Beast-Riders, or have come to know the character personally.
+
+The Beast-Rider is expected to provide appropriate care for his companion. He must make reasonable efforts to provide it with food, shelter, exercise, and medical attention. He cannot normally abandon, sell, or deliberately place his companion in unnecessary danger without serious consequences. If the character repeatedly mistreats or neglects his companion, the DM may determine that the bond is broken and that the character has abandoned this kit.
+
+The Beast-Rider must also consider his companion when making plans. An unusual mount may be unable to enter buildings, travel through certain terrain, accompany the party aboard ordinary ships, or remain unnoticed in settled areas. The character is not prohibited from entering such places, but must make reasonable arrangements for his mount rather than simply assuming that it can be accommodated like an ordinary horse.
+
+**Additional Notes:** The Beast-Rider's chosen species should be appropriate to the character's culture and the environment in which that culture developed. The choice should also be discussed with the DM before play begins, particularly if the animal is unusually large, intelligent, magical, aquatic, or capable of flight.
+
+The following are examples of creatures that may serve as Beast-Rider mounts:
+
+- Bat, Huge (Mobat) — normally suitable only for Small characters
+    
+- Bear
+    
+- Boar
+    
+- Buffalo
+    
+- Camel
+    
+- Dolphin — aquatic campaigns
+    
+- Dragon — only in exceptionally high-powered campaigns
+    
+- Elephant
+    
+- Griffon
+    
+- Hippogriff
+    
+- Horse
+    
+- Hyaenodon
+    
+- Lizard (Fire, Giant, or Minotaur)
+    
+- Lobster, Giant — aquatic campaigns
+    
+- Pegasus
+    
+- Ray, Manta — aquatic campaigns
+    
+- Sea-Horse, Giant — aquatic campaigns
+    
+- Smilodon
+    
+- Tiger, Wild
+    
+- Unicorn — subject to the creature's own requirements and temperament
+    
+- Wolf, Dire
+    
+- Winter Wolf — potentially appropriate for an evil or otherwise exceptional Beast-Rider
+    
+
+This list is not exhaustive. The DM should evaluate proposed mounts according to their size, strength, intelligence, movement capabilities, and special abilities rather than treating the list as an exclusive catalogue.
+
+Flying mounts can substantially alter the nature of a campaign, particularly at low levels, by allowing the party to bypass terrain and travel rapidly. Aquatic mounts create similar considerations in campaigns where most adventures take place on land. Powerful magical creatures may likewise provide abilities far beyond those normally available to a beginning character. The DM should therefore approve unusual mounts according to the needs of the campaign.
+
+The Beast-Rider's mount must be able to bear the character's weight and equipment. To determine its carrying capacity, compare the creature to the animals listed in the Player's Handbook and use the carrying capacity of the closest equivalent in size and mass, adjusting the result when the creature's anatomy clearly warrants it.
+
+The Beast-Rider's culture should be developed according to the chosen animal. A people who ride horses may be highly mobile and accustomed to open plains; a society that rides boars might be adapted to dense forests; elephant-riders may have traditions built around settled agriculture and warfare; and a maritime people who ride aquatic creatures may have little use for roads or conventional stables. These cultural differences are suggestions rather than requirements. The Beast-Rider's chosen animal should influence his background and training without determining his personality or alignment.
+
+Any race may produce Beast-Riders where the culture and environment support the tradition. Dwarves might ride boars or bears, elves might ride great cats or dire wolves, halflings might train giant dogs or other creatures appropriate to their size, and aquatic demihumans might use giant sea creatures as mounts. Such choices should reflect the particular culture rather than being treated as universal racial traditions.
 
 #### Berserker
 
@@ -193,6 +507,120 @@ A first deliberate violation of the code results in a warning from the DM. A sec
 
 **Additional Notes:** The precise details of the Cavalier’s code, equipment, and social obligations may vary between cultures and should be discussed with the DM.
 
+#### Explorer
+
+**Requirements:**
+
+Ability: Intelligence 12+;
+
+Class: Ranger;
+
+**Description:** The restless spirit of the Explorer makes him the most nomadic of all Rangers. His travels take him around the world, as he continually seeks new lands to investigate and new cultures to study. No region is too remote, no society too unfamiliar to pique the Explorer's interest. An expert in communication, survival, and anthropology, the Explorer's skills are invaluable for safely navigating unfamiliar terrain and negotiating with suspicious strangers.
+
+**Role:** The Explorer is the party's guide, scout, and field scholar. He excels when the adventurers must travel through unfamiliar territory, establish a route, interpret maps and other geographical information, or deal with a society whose customs are unknown to them. His broad knowledge allows him to fill gaps that other wilderness-oriented characters may leave uncovered.
+
+An Explorer is particularly valuable on expeditions into regions the party has never visited before. He can help determine where to travel, recognize the practical dangers of unfamiliar environments, communicate with inhabitants, and advise the party on local customs. His ability to gather information without necessarily resorting to violence also makes him useful when the party encounters isolated or suspicious communities.
+
+The Explorer is generally less focused on direct combat than other Rangers. He prefers to avoid unnecessary fights and encourages his companions to consider negotiation, retreat, or careful preparation before committing themselves to a dangerous battle. When combat is unavoidable, however, he is capable of acting decisively and without hesitation.
+
+**Weapon Proficiencies:** Recommended: Short Bow, Light Crossbow, Dagger, Dart, Knife, Sling, Short Sword. The Explorer may not begin play proficient with weapons outside this list.
+
+**Nonweapon Proficiencies:** Bonus: Survival. The Explorer receives the benefits of Survival in all terrain types. Assigning additional proficiency slots to Survival does not improve this benefit.
+
+Required: Cartography, Reading/Writing.
+
+Recommended: Ancient History, Bowyer/Fletcher, Camouflage, Direction Sense, Distance Sense, Endurance, Fire-Building, Fishing, Foraging, Herbalism, Hunting, Languages (Ancient and Modern), Mountaineering, Navigation, Rope Use, Signaling, Swimming, Trail Marking, Trail Signs, Weather Sense.
+
+**Equipment:** The Explorer has no special equipment requirements. He rarely wears armour heavier than leather, however, and most Explorers find shields awkward and confining.
+
+**Benefits:**
+
+Each proficiency slot the Explorer devotes to Languages allows him to learn two languages instead of one.
+
+Once per week, the Explorer can flawlessly determine the correct direction toward a desired geographical location in an outdoor setting. He must possess some clue, map, information, or body of research concerning the destination. The ability provides guidance for one day and is therefore most useful during extended expeditions.
+
+The Explorer does not automatically know the safest or fastest route, nor does this ability reveal obstacles, inhabitants, or other dangers along the way. It simply indicates the direction that will eventually lead toward the desired locale.
+
+Once per week, the Explorer can attempt to acquire a general understanding of the laws and customs of a tribe, village, or settlement by touching one of its members. The target must possess sufficient knowledge of the society; an infant or mentally deficient individual, for example, cannot provide useful information. The target need not willingly cooperate.
+
+An unwilling target makes a saving throw vs. spells. If the saving throw succeeds, the Explorer learns nothing. If it fails, he gains an immediate understanding of the target's laws and customs, including customs shared by related clans or tribes in the region.
+
+This information may include local laws, accepted courtesies, social expectations, and cultural taboos. Successful use of the ability also grants the Explorer a +1 reaction adjustment when dealing with other members of the same tribe, village, or settlement.
+
+The ability does not guarantee that the Explorer will behave appropriately. His actions, and those of his companions, still determine how others ultimately react to them. The DM determines the precise nature and extent of the information revealed.
+
+**Restrictions:**
+
+**Limited Animal Empathy:** The Explorer spends comparatively little time developing his natural affinity with animals. Wild or attack-trained animals receive a +2 bonus to their saving throws against his animal empathy ability. When attempting to calm or befriend a domestic animal, the Explorer must also succeed at a Wisdom check.
+
+**Few Followers:** The Explorer prefers to travel with a small, lightly equipped group and does not willingly accumulate a large body of followers. He can have no more than two followers at a time. If he already has two followers, another follower will not join him until one of his existing followers is dismissed, lost, or killed.
+
+**No Fortifications:** The Explorer has little interest in property ownership or the responsibilities that accompany it. He will never build a castle or other permanent fortification.
+
+#### Falconer
+
+**Requirements:**  
+Class: Ranger.  
+Primary Terrain: Desert, Forest, Hill, Mountain, or Plains.
+
+**Description:** The Falconer is an expert in the handling and training of falcons, birds of prey capable of learning an impressive range of tricks and tasks. Under the direction of a skilled Falconer, a falcon can be taught to snatch a coin purse from a victim's belt, bring down game birds in mid-flight, and fight effectively against creatures many times its size. In addition to his expertise as a bird trainer, the Falconer excels as a hunter and outdoorsman.
+
+**Role:** Many Falconers serve as retainers of kings or nobles. Others work as guides, hunters, scouts, or mercenaries. Some stage public performances in rented halls or on street corners, demonstrating their birds' remarkable abilities for appreciative crowds. Regardless of how they make their living, Falconers are generally held in high regard, as few people fail to be impressed by the remarkable rapport between a skilled Falconer and his birds.
+
+Falcons are sensitive creatures, and their handlers must therefore be patient, even-tempered, and self-assured. These qualities also make the Falconer a dependable member of an adventuring party, although his attention may sometimes be divided by the needs of his bird. Falconers often share some of the characteristics of their chosen companions, being fierce, swift, alert, and observant.
+
+In combat, the Falconer and his falcon generally concentrate their attacks upon the same opponent, allowing the bird to harry or distract a foe while its master closes with the enemy. The Falconer may also direct his falcon against targets he cannot reach himself. If forced to choose between protecting his falcon and protecting another companion, he will often favour his bird. An honourable Falconer makes this loyalty clear before joining an adventuring company.
+
+**Weapon Proficiencies:** Required: Two of the Falconer's initial weapon proficiency slots must be spent on weapons selected from the following: Bow (any), Crossbow (Light), Dagger, Knife, Sling, or Spear. His remaining initial weapon proficiency slots and all subsequent weapon proficiency slots may be used normally.
+
+**Nonweapon Proficiencies:** Bonus: Animal Training (Falcon)_. Recommended: Alertness_, Bowyer/Fletcher, Endurance, Hunting, Leatherworking, Veterinary Medicine*.
+
+**Armor/Equipment:** A Falconer has no special armor or equipment requirements. Each falcon he trains requires a set of falconry training equipment, as described in Chapter 7.
+
+**Followers:** Unlike other Rangers, a Falconer receives an allotment of 3d6 followers at 1st level. This number is determined when the character is created and represents the total number of followers the Falconer may acquire during his career.
+
+The Falconer immediately receives a falcon follower at 1st level, which counts against this allotment. This falcon is an exceptionally strong and capable specimen. The DM may use the statistics provided for falcons in the Animal Training (Falcon) proficiency for this follower and for any subsequent falcon followers.
+
+Until 10th level, a Falconer can have only one follower at a time, and that follower must be a falcon. If the falcon follower dies or is otherwise permanently lost, a replacement falcon will arrive according to the normal guidelines for Ranger followers. The replacement counts against the Falconer's remaining follower allotment.
+
+At 10th level, the Falconer is no longer restricted to a single follower or to falcon followers. From this point onward, he may acquire additional followers according to the normal Ranger follower rules and the circumstances of the campaign, subject to his remaining follower allotment. All followers acquired after 10th level count against the same allotment established at 1st level.
+
+A Falconer's follower is a bird or other creature of rare and remarkable characteristics and loyalty. The Falconer may also train ordinary falcons and other birds for himself or others using the normal rules for Animal Training (Falcon); such animals are not followers and do not count against his follower allotment.
+
+**Special Benefits:**
+
+**Enhanced Training:** If a falcon being trained by the Falconer fails a proficiency check required to learn a trick or task and consequently becomes untrainable, the Falconer may attempt to train that falcon again after he gains a level. The falcon is otherwise subject to the normal rules for Animal Training (Falcon).
+
+**Attuned Follower:** Whenever a Falconer acquires a new falcon follower, including the falcon he receives at 1st level, he may either begin training the falcon normally or attempt to establish an attunement with it. Once the Falconer begins training the falcon, it cannot subsequently become attuned.
+
+Attuning a falcon requires six weeks. During this period, the Falconer must spend at least one hour each day talking to the bird, grooming it, feeding it, and engaging in other nurturing activities. The Falconer teaches the bird no specific tricks or tasks during this time, although the bird becomes accustomed to his voice and manner.
+
+If combat occurs during the attunement period, the falcon flees to safety at the first sign of danger and returns to the Falconer's shoulder when the danger has passed.
+
+At the end of the six-week period, the Falconer makes a Wisdom check. If the check fails, the attunement attempt fails. The falcon remains a normal follower, and the Falconer may begin training it according to either the Standard or Alternate method described in Chapter 3. The Falconer cannot attempt to attune that falcon again.
+
+If the check succeeds, the falcon becomes attuned.
+
+An attuned falcon may be trained according to either the Standard or Alternate method, but its training time is reduced by half. An attuned falcon may learn up to 2d4 tricks or tasks normally, plus one additional trick or task each time the Falconer gains a level. These additional tricks or tasks may be learned in any combination. An attuned falcon never becomes untrainable.
+
+When a falcon first becomes attuned, it receives a one-time bonus to its hit points equal to twice the Falconer's current level. This bonus does not increase when the Falconer subsequently gains levels.
+
+The following benefits apply only to a Falconer and his attuned falcon:
+
+**Fearless Falcon:** When fighting on behalf of its Falconer or under his direction, an attuned falcon never needs to make a morale check.
+
+**Falcon Species Enemy:** An attuned falcon gains a species enemy of its own. When the falcon becomes attuned, determine its species enemy by rolling on the appropriate table in Chapter 2 or by selecting one at the DM's discretion. The falcon may have the same species enemy as its Falconer. The falcon receives all bonuses and penalties associated with a species enemy as described in Chapter 2.
+
+**Attack Bonus:** An attuned falcon receives a +2 bonus to all attack rolls. This bonus increases to +4 when attacking its species enemy.
+
+**Speak with Falcon:** At 10th level, the Falconer gains the ability to speak with an attuned falcon. This functions as the 2nd-level priest spell _speak with animals_, except that it requires no components or casting time and can be used at will. The Falconer can communicate in this manner only with his attuned falcon.
+
+**Mental Communication:** At 15th level, the Falconer can communicate mentally with his attuned falcon. The Falconer and falcon can send and receive thoughts at will, provided they are within 100 yards per level of the Falconer. Walls and other physical barriers have no effect on this communication.
+
+**Special Restrictions:**
+
+**Grief:** If an attuned falcon dies or is permanently lost, the Falconer is overcome with grief and despair for 1d4 weeks. During this period, he suffers a −2 penalty to all attack rolls and ability checks. He cannot acquire a new follower and cannot use his Animal Empathy ability.
+
 #### Gladiator
 
 **Requirements:**
@@ -216,6 +644,42 @@ Gladiatorial traditions vary considerably. Some emphasize lethal contests betwee
 **Restrictions:** Gladiators are recognizable as such in many places. Their appearance, manner, or reputation may make it difficult to conceal their identity or movements. NPCs who recognize the character may be able to identify him from descriptions given by witnesses.
 
 Gladiators may also attract the attention of, or be actively sought out by, unscrupulous arena promoters, managers, sponsors, or former employers. Such individuals may attempt to coerce the character into returning to the arena, participating in particular contests, or undertaking other work connected with gladiatorial combat. The DM should ensure that such complications remain a common annoyance and occasional threat, rather than allowing them to dictate the character's actions or unduly restrict player agency.
+
+#### Hearth Guard
+
+**Requirements**
+
+Race: Dwarf
+
+Other: Female Gender.
+
+**Description:** The Hearth Guard is a female dwarf who has received intensive military training in the defence of her stronghold and its people. Hearth Guards are frequently weapon specialists, and are trained to fight as effectively as any other dwarven warrior.
+
+Not all dwarven strongholds maintain Hearth Guards. In some, warfare is considered exclusively a male responsibility; in others, women have long formed an important part of the stronghold's defence. The Hearth Guard is therefore a cultural institution rather than a universal dwarven tradition. Female dwarves are not required to become Hearth Guards, and may choose any kit available to them.
+
+**Role:** The Hearth Guard is a disciplined defensive warrior, particularly suited to protecting the party, holding a position, and fighting in an organized formation. Her training makes her a reliable front-line combatant and weapons specialist, while her traditions give her a strong commitment to defending those under her protection.
+
+Hearth Guards were originally established to defend strongholds during attack, but members are free to travel and adventure. A Hearth Guard may therefore regard the adventuring party as another group under her protection, particularly when its members have earned her trust. Her training is equally useful when defending a settlement, escorting civilians, or holding a difficult position against superior numbers.
+
+Outside dwarven society, a Hearth Guard may attract attention or be underestimated by those accustomed to seeing heavily armed warriors as male. Such assumptions are generally dispelled quickly in combat.
+
+**Weapon Proficiencies:** The Hearth Guard must be proficient in battle axe (one- or two-handed), spear, and light crossbow. She may specialize only in these weapons.
+
+**Nonweapon Proficiencies:** Bonus: Endurance, Fire-building, Local Dwarf History. Recommended: Alertness, Blind-fighting, Direction Sense, Dwarf Runes, Fletcher/Bowyer, Intimidation, Rope Use, Sign Language, Signalling, Slow Respiration, Weaponsmithing.
+
+**Equipment:** The Hearth Guard must begin play with at least chain mail armour, a battle axe, a spear, and a light crossbow. She also receives the traditional red surcoat bearing the orange fire emblem of the Hearth Guard tradition.
+
+**Special Benefits:** A Hearth Guard receives one free specialization in battle axe, spear, or light crossbow. She must still possess the weapon proficiency normally required for specialization.
+
+A Hearth Guard receives a **+1 bonus to attack and damage rolls when defending those under her protection**. This includes defending her stronghold and its inhabitants, protecting members of her adventuring party, or guarding others entrusted to her care. When fighting to protect young dwarves or other helpless noncombatants, this bonus increases to **+2**. The bonus applies when an opponent is in a position to physically harm those she protects or is attempting to enter a place where they are sheltered.
+
+**Special Hindrances:** Within dwarven society, a Hearth Guard suffers no general reaction penalty. In strongly male-dominated dwarven communities that do not recognize the tradition, however, she may be treated with suspicion or disapproval.
+
+In cultures where female warriors are not taken seriously, NPCs unfamiliar with Hearth Guards react to her at **−3**. This reaction reflects underestimation rather than fear; opponents who dismiss her abilities are likely to discover their mistake in combat.
+
+**Additional Notes:** Hearth Guards should not be portrayed as inherently more aggressive, masculine, or martial than other female dwarves. The kit represents membership in a particular military tradition, not a universal characteristic of dwarven women.
+
+The precise duties and status of Hearth Guards vary between strongholds. In some communities they are an elite military corps; in others they may primarily defend homes and noncombatants while the main army is deployed elsewhere. A stronghold in which Hearth Guards have existed for generations may entrust them with command, training, or other responsibilities traditionally associated with military leadership.
 
 #### Myrmidon
 
@@ -271,13 +735,13 @@ These are ideals rather than requirements of character. A Noble Warrior may sinc
 
 **Equipment:** The Noble Warrior must begin play with at least brigandine or scale mail armour, a shield, one weapon larger than a dagger, and a horse. The horse must be at least a riding horse. He must also purchase a riding saddle, bit and bridle, horseshoes and shoeing, halter, and saddle blanket before play begins.
 
-The Noble Warrior receives an additional 225 gp in starting funds, in addition to the normal starting funds for his class group. This additional wealth is intended in part to meet the kit's mandatory equipment requirements.
+**Wealth:** The Noble Warrior receives an additional 225 gp in starting funds, in addition to the normal starting funds for of a warrior. This additional wealth is intended in part to meet the kit's mandatory equipment requirements.
 
 **Benefits:** The Noble Warrior receives a +3 reaction adjustment when dealing with members of his own culture.
 
 When travelling within his own nation, the Noble Warrior may demand shelter from persons of lower social status. Nobles and others of equal or higher status will generally offer shelter when practical. A host of appropriate status will normally provide accommodation for the Noble Warrior and up to two companions per experience level, although the quality and extent of such hospitality depend upon the host and circumstances.
 
-Within his own land, a Noble Warrior may exercise whatever customary authority his rank grants over commoners. In a feudal or similarly structured society, this may include judging minor offences, imposing customary penalties, or ordering the apprehension of offenders. The precise extent of this authority depends upon the laws and customs of the campaign.
+Within his own lands, a Noble Warrior may exercise whatever customary authority his rank grants over commoners. In a feudal or similarly structured society, this may include judging minor offences, imposing customary penalties, or ordering the apprehension of offenders. The precise extent of this authority depends upon the laws and customs of the campaign.
 
 **Restrictions:** The Noble Warrior has sworn an oath of loyalty to a superior noble, knight, ruler, or other authority appropriate to his rank. He is expected to honour this oath when called upon to do so. Depending on the circumstances, this may require military service, providing troops or resources, accompanying his lord on campaign, or supporting his lord at considerable personal expense. The oath does not normally require the character to abandon his adventuring career in response to every ordinary request, but genuine emergencies or obligations of exceptional importance may demand his service.
 
@@ -309,7 +773,7 @@ A Peasant Hero may be a rebel against an oppressive ruler, a farmboy destined to
 
 **Nonweapon Proficiencies:** Bonus: Agriculture or Fishing; and Weather Sense or Animal Lore; Recommended: Any General proficiency.
 
-**Equipment:** The Peasant Hero may spend his starting wealth as he chooses, but may have no more than 3 gp remaining when play begins.
+**Equipment:** The Peasant Hero may spend his starting wealth as he chooses, but may have no more than 3 gp in currency remaining when play begins.
 
 **Benefits:** The Peasant Hero is welcomed in his home community and generally receives shelter and practical assistance from its people. Unless it is known that he has deliberately harmed members of his own community, the locals will normally provide food, drink, and lodging, hide him and his companions from the authorities, and offer whatever simple equipment or weapons they can spare. They may also provide willing helpers, including inexperienced young people eager to assist their local hero.
 
@@ -347,6 +811,43 @@ A Pirate or Outlaw who is captured may face imprisonment, execution, forced labo
 
 **Additional Notes:** The distinction between a Pirate and an Outlaw is primarily one of environment and organization.
 
+#### Rapid Response Rider
+
+**Requirements**
+
+Ability: Dexterity 12+.
+
+Class: Fighter.
+
+Race: Dwarf.
+
+**Description:** The Rapid Response Rider is a mounted warrior trained to provide dwarven strongholds with a mobility normally lacking in their infantry-based armies. Ponies and mules are common mounts, but bears, boars, dire wolves, and other sturdy creatures may be employed. In strongholds where suitable flying mounts are available, griffons, hippogriffs, pegasi, or other creatures may serve the same purpose.
+
+Rapid Response Riders are uncommon, found primarily in strongholds where the ability to move quickly between threatened positions is particularly valuable. Their mounts allow them to scout, carry messages, reinforce threatened positions, and strike opponents before slower infantry can arrive.
+
+**Role:** The Rapid Response Rider is the party's mounted combat specialist and mobile warrior. He excels at covering ground quickly, pursuing fleeing enemies, carrying messages, and bringing his greater mobility to bear in combat. His training is particularly useful when the party must respond quickly to threats or operate over a wide area.
+
+Among dwarves, Rapid Response Riders are respected but somewhat unusual. Their training and equipment are built around mobility rather than the close formations and heavy infantry tactics traditionally favoured by dwarven armies. Some Riders take pride in their elite status and regard ordinary infantry as mere foot soldiers; others simply regard their role as another military specialty.
+
+**Weapon Proficiencies:** The Rapid Response Rider must be proficient in a lance appropriate to the size of his mount and should pursue specialization in it as soon as able. He may otherwise select weapons normally.
+
+**Nonweapon Proficiencies:** Bonus: Animal Training, Endurance, Riding (Land-based). Recommended: Animal Handling, Armorer, Blind-fighting, Intimidation, Leatherworking, Sign Language, Signalling, Tracking, Underground Direction Sense, Underground Navigation. If the character uses a flying mount, Riding (Airborne) replaces Riding (Land-based).
+
+**Equipment:** The Rapid Response Rider may wear any armour except plate mail and must begin play with a lance. He may otherwise equip himself with weapons and equipment normally available to his class. His equipment must be suitable for use while mounted.
+
+**Special Benefits:** The Rapid Response Rider begins play with a fully grown mount appropriate to his Riding proficiency. The mount has at least **75% of its maximum possible hit points**; roll its hit points normally, increasing the result to 75% of its possible total if necessary.
+
+The mount is exceptionally well trained and responds to all commands given by its rider. The Rider has no telepathic or supernatural rapport with his mount; if the mount dies, he suffers no special physical or mental effect beyond the ordinary consequences of losing a valued companion.
+
+A Rapid Response Rider gains a **+1 bonus to attack and damage rolls when fighting while mounted**.
+
+**Special Hindrances:** Rapid Response Riders are unusually dependent upon their mounts and are sometimes regarded by other dwarves as eccentric or excessively attached to animals. Dwarves unfamiliar with the tradition react to them at **−2**.
+
+**Additional Notes:** The choice of mount should reflect the stronghold and its environment. A Rider's mount need not be a conventional cavalry animal, provided it is physically capable of carrying him and is appropriate to the campaign. The kit should not normally grant access to a flying mount merely because one exists in the rules; such mounts should remain subject to the DM's approval and the availability of suitable animals in the campaign.
+
+  
+  
+
 #### Samurai/Ronin
 
 **Requirements:**
@@ -369,7 +870,7 @@ The player and DM should establish the character's cultural background, lord, ob
 
 **Nonweapon Proficiencies:** Bonus: Etiquette, Riding (Land-Based); Required: Reading/Writing (Priest and Wizard, 2 slots unless Paladin or Ranger); Recommended: Artistic Ability/Calligraphy, Artistic Ability/Painting, Blind-Fighting, Running.
 
-**Equipment:** The Samurai/Ronin must purchase starting equipment from the Samurai weapons, armour, and equipment available in the Equipment chapter and may have no more than 10 gp remaining after these purchases. The character receives a katana without charge.
+**Equipment:** The Samurai/Ronin must purchase starting equipment from the Samurai weapons, armour, and equipment available in the Equipment chapter and may have no more than 10 gp in currency remaining after these purchases. The character receives a katana without charge.
 
 **Benefits:** The Samurai/Ronin can focus his vital energy to temporarily increase his physical strength. Once per day per experience level, he may increase his Strength to 18/00 for one round. He must precede this exertion with a loud _kiai_ shout, making the ability impossible to use silently or without drawing attention.
 
@@ -430,6 +931,45 @@ The Savage is expected to regard these restrictions as part of his character rat
 
 **Additional Notes:** Demihumans are often thought of as more cultured and refined than humans owing to their longevity, but pockets of individuals might still live primitively.
 
+#### Sharpshooter
+
+**Requirements**
+
+Ability: Dexterity 13+.
+
+Class: Fighter.
+
+Race: Dwarf.
+
+**Description:** The Sharpshooter is a dwarf who has devoted much of his training to mastery of the crossbow. He learns to load and fire rapidly, maintain his own weapon, and prepare ammunition for maximum effect. Most are confident in their abilities and prefer to defeat an enemy at a distance rather than engage in hand-to-hand combat.
+
+**Role:** Sharpshooters serve in dedicated crossbow units, defend strongholds from elevated positions, or earn their living competing at fairs and other shooting contests. In battle they are particularly valuable for eliminating enemy officers, spellcasters, and other important targets before they can coordinate their forces or bring their abilities to bear.
+
+**Weapon Proficiencies:** The Sharpshooter must specialize in either the light or heavy crossbow. They may only gain the benefits of proficiency for the small weapons and hand axes used as sidearms for personal defence.
+
+**Nonweapon Proficiencies:** Bonus: Artistic Ability, Bowyer/Fletcher, Endurance. Recommended: Alertness, Appraising, Direction Sense, Rope Use, Sign Language, Signalling.
+
+**Equipment:** The Sharpshooter begins play with the type of crossbow in which he specializes at no cost. He may otherwise equip himself normally. His personal crossbow is constructed and maintained to his exact specifications, and he prepares and sharpens his own ammunition.
+
+**Special Benefits:** **While using his custom-built crossbow and bolts that he has personally sharpened he gains the following benefits:**
+
+- **+1 bonus to attack rolls**
+    
+- **Damage die increase****s** **by one step (i.e. d6 becomes d8)**
+    
+- **+0.5 Rate of Fire**
+    
+
+**The increased rate of fire requires that the sharpshooter be able to lay out his bolts so they are within easy reach.**
+
+**These benefits are in addition to those granted by specialization or other sources.**
+
+**Special Hindrances:** The Sharpshooter's focus on perfecting his use of the crossbow comes at the cost of training in weapons more broadly. He trains only in small sidearms that can be quickly brought to hand if his position is overrun, and may only gain proficiency with small weapons and hand axes.
+
+His benefits depend upon his personal weapon and ammunition. If he uses bolts that he has not personally prepared he does not gain the increased damage, and if his custom-built crossbow is lost or damaged he loses all benefits until he fine-tunes a replacement. A replacement crossbow must be used regularly for **1d4 weeks** before it becomes sufficiently familiar to serve as his personal weapon. Sharpening a bolt takes **one hour**, and prepared bolts must be carefully stored to prevent their points from becoming dulled.
+
+**Additional Notes:** The Sharpshooter's crossbow and ammunition are often objects of considerable personal pride. Intricate carving, inlay, or other decoration is common, but the craftsmanship is functional as well as ornamental. The exact appearance of the weapon should reflect the individual craftsman's preferences rather than a standardized dwarven style.
+
 #### Swashbuckler
 
 **Requirements:**
@@ -461,3 +1001,87 @@ The Swashbuckler is also an inherently romantic figure. He receives a +2 reactio
 The Swashbuckler has a tendency to become involved in dramatic situations. Rivals may challenge him to duels, strangers may seek his assistance in matters of honour, fugitives may seek his protection, and other complications may arise simply because he happens to be present when something interesting occurs. The DM should use such incidents to create opportunities for action and role-playing rather than as arbitrary punishments.
 
 **Additional Notes:** The Swashbuckler is particularly appropriate to urban and courtly campaigns, but the archetype can exist wherever a culture values sophisticated warriors, personal duelling, wit, and social confidence.
+
+#### Wilderness Runner
+
+**Requirements**
+
+Ability: Wisdom 13+.
+
+Class: Ranger.
+
+Race: Elf.
+
+**Description:** The Wilderness Runner is an elf ranger who has chosen to live almost entirely beyond the bounds of settled society. He is deeply attuned to the natural world and has learned to travel, hunt, hide, and survive with little dependence on civilized equipment or infrastructure. Wilderness Runners may serve their communities as scouts or advance guards, but their lives are spent in the wilderness rather than within the settlements they protect.
+
+**Role:** The Wilderness Runner is a scout and wilderness specialist. He excels at reconnaissance, tracking, survival, and moving through difficult terrain while carrying little equipment. He is particularly useful when an adventuring party must travel or operate for extended periods away from civilization.
+
+A Wilderness Runner may have little interest in the affairs of settled communities, but this need not make him antisocial or contemptuous of civilization. He may simply regard the wilderness as his home and return to settlements only when necessary.
+
+**Weapon Proficiencies:** Bonus: quarterstaff and long bow. Recommended: Two-Handed Style, dagger, and organic weapons.
+
+**Nonweapon Proficiencies:** Bonus: Endurance, Running, Set Snares. Recommended: Fire-building, Fishing, Hunting, Mountaineering, Survival, Swimming.
+
+**Wealth:** The Wilderness Runner starts with **3d10 gp**. He must create or acquire the remainder of his equipment from natural materials or through his own efforts.
+
+**Equipment:** The Wilderness Runner travels light and begins play with only the equipment he considers necessary for survival and his duties. He prefers equipment that can be repaired or replaced from materials found in the wilderness.
+
+**Special Benefits:** The Wilderness Runner gains a **+2 bonus to Tracking**. This is in addition to the normal benefits of the Tracking proficiency.
+
+His constant exposure to the elements makes him resistant to ordinary extremes of temperature. Unless the temperature falls below **32°F** or rises above **100°F**, he suffers no adverse effects from temperature alone.
+
+The Wilderness Runner may use **Set Snares** to construct traps capable of capturing creatures of any appropriate size, including humanoids. He may use his proficiency to select suitable locations and bait and to conceal such traps as effectively as a thief.
+
+A Wilderness Runner can improvise useful equipment  
+from natural materials. When appropriate materials are available, he can fashion simple weapons, tools, containers, shelters, and similar equipment without access to manufactured goods. Such equipment is functional, although its appearance is generally crude. The DM determines what can reasonably be produced from the materials and time available.
+
+**Special Hindrances:** The Wilderness Runner is uncomfortable spending extended periods in settled or enclosed environments. After one day within a settlement, he must make a **Wisdom check with a −4 penalty** each day or become unable to remain comfortably within its walls. After failing a check, he must spend his time outside the settlement whenever practical.
+
+He suffers similar discomfort in dungeons, crypts, and other enclosed underground environments. Natural caves and caverns do not impose the daily Wisdom check, although prolonged confinement still causes considerable discomfort.
+
+The Wilderness Runner does not willingly use a mount. He prefers to travel under his own power and considers mounted travel incompatible with the freedom and movement he requires in the wilderness.
+
+**Additional Notes:** Wilderness Runners may be found among any elven culture that maintains a tradition of rangers. Among high elves, the tradition may represent a deliberate rejection of settled life; among more wilderness-oriented elves, it may simply represent the fullest expression of an established way of life. A Wilderness Runner need not be dirty, uncivilized, or hostile to civilization—the defining trait is his **dependence on and commitment to the wilderness**, rather than a rejection of other elves.
+
+#### Windrider
+
+**Requirements**
+
+Class: Fighter, Ranger.
+
+Race: Elf.
+
+**Description:** The Windrider is an elite elven warrior trained to fight from the back of a flying mount. Windriders serve as aerial scouts, messengers, and combatants, and are particularly valuable when defending elven lands against flying creatures or enemies approaching from above. Their training combines mounted combat with an understanding of wind, weather, navigation, and the care of their unusual mounts.
+
+**Role:** The Windrider is a mobile warrior and aerial scout. Once he has earned his place in the order, his mount gives the party a means of travelling rapidly over difficult terrain, scouting from above, and attacking from unexpected directions. In battle, a Windrider is particularly effective at striking isolated targets and supporting ground forces from the air.
+
+The benefits of a flying mount can substantially expand the scope of an adventure, however. The DM should consider the availability of Windriders carefully, particularly in campaigns where flight would bypass significant terrain or exploration challenges.
+
+**Weapon Proficiencies:** Bonus: lance (appropriate to the size of his mount). Recommended: short bow, flail, and long sword.
+
+**Nonweapon Proficiencies:** Bonus: Riding (Airborne), Animal Handling (mount species), Animal Training (mount species). Recommended: Direction Sense, Navigation, Weather Sense.
+
+**Wealth:** **The Windrider starts with 6d4×10 gp. This wealth may be spent normally, but the character must ensure that sufficient funds remain to provide for the care of his mount once he receives it.**
+
+**Equipment:** The Windrider must maintain the equipment necessary for his mount, including a suitable saddle and means of securing and carrying food. He may otherwise equip himself normally, subject to the carrying capacity of his mount.
+
+**Special Benefits:** A character who takes this kit begins as an aspirant to the Windrider tradition. He must prove himself worthy before receiving a mount and completing the training required to become a full Windrider. The character may not have another kit.
+
+Upon reaching the level at which he is admitted to the order, the character spends **one year** in intensive training. During this time he is generally unavailable for normal adventuring. At the completion of his training, he receives a trained flying mount chosen from **griffon, hippogriff, or pegasus**, subject to the availability of that species in the campaign.
+
+The Windrider is trained to ride flying creatures without compromising their aerial manoeuvrability. **His mount does not suffer the normal reduction to manoeuvrability class for carrying a rider.**
+
+The Windrider gains the ability to communicate with members of his mount's species in a simple manner. This is not telepathy and does not allow the exchange of complex ideas.
+
+While travelling with his mount, the Windrider gains a **+2 reaction adjustment** from members of social groups that recognize the Windrider tradition or regard aerial warriors with respect. This reaction adjustment does not represent universal approval and does not apply to creatures or cultures unfamiliar with the order.
+
+The Windrider's mount is exceptionally loyal and will defend him at considerable risk to itself. The Windrider is expected to show the same concern for his mount.
+
+**Special Hindrances:** The Windrider's training and equipment are dependent upon his mount. If his mount dies, he immediately loses access to the benefits that depend upon having a mount. He may seek and train another suitable mount, but this requires the DM to determine an appropriate opportunity and period of training. Until he has acquired a replacement, he cannot function as a Windrider in mounted combat.
+
+The Windrider is also expected to place the welfare of his mount ahead of convenience. He must provide adequate food, shelter, rest, and veterinary care whenever these are reasonably available. Neglect may cause the mount to become unwilling to serve him and may result in the loss of the kit's benefits until the relationship is restored.
+
+**Additional Notes:** Windriders are most commonly associated with grey elves, high elves, and sylvan elves, although other elven cultures may maintain equivalent traditions.
+
+The choice of mount should have meaningful consequences for the campaign. Griffons, hippogriffs, and pegasi differ considerably in temperament, capabilities, and the environments in which they can comfortably operate. The DM should also consider whether the chosen mount is available in the campaign before allowing  
+the character to select it.
