@@ -1,10 +1,14 @@
-# Chapter 8 - Money and Equipment
+# Chapter 8: Money and Equipment
+
 ## Money and Wealth
+
 Although characters possess skills, training, and special abilities, they cannot adventure effectively without proper equipment. Arms, armour, mounts, tools, provisions, transportation, lodging, and hired services all require money.
+
 ### Coinage
 
 The standard AD&D monetary system is based on coinage measured in copper, silver, electrum, gold, and platinum pieces. Unless otherwise noted, all prices in this book are listed using the standard exchange rates below.
-##### Standard Exchange Rates
+
+**Table 32: Standard Exchange Rates**
 
 | Coin                | CP  | SP   | EP   | GP    | PP    |
 | ------------------- | --- | ---- | ---- | ----- | ----- |
@@ -28,13 +32,13 @@ The purchasing power of money also varies considerably by region. A single gold 
 
 Foreign or politically suspect coinage may also be discounted or refused entirely. Money changers and merchants commonly exchange unfamiliar currency for local coinage, usually charging commissions ranging from 10% to 30%.
 
-## Starting Money
+### Starting Money
 
 Beginning characters receive a quantity of starting funds used to purchase equipment prior to play. These funds may represent savings, gifts, military pay, inheritance, stolen wealth, or any other suitable origin determined by the player.
 
 To determine starting funds, roll the appropriate dice for the character’s class group.
 
-##### Starting Funds
+**Table 33: Starting Funds**
 
 | Character Group | Starting Funds    |
 | --------------- | ----------------- |
@@ -46,12 +50,15 @@ To determine starting funds, roll the appropriate dice for the character’s cla
 Multi-class characters without kits use the most favourable starting funds available among their classes.
 
 Characters that adopt a character kit (See Chapter 6) may receive different starting funds or equipment than what is given above.
+
 ##### Priest Characters
+
 Priest characters are normally expected to spend their starting funds on equipment, offerings, vestments, supplies, and other necessities appropriate to their faith. Once initial purchases are completed, all but a few remaining coins are typically surrendered to the priesthood, temple, or religious order supporting the character.
 
 Priests may not ordinarily transfer or lend starting funds to other player characters unless specifically permitted by the DM or by the customs of their faith.
 
 ## Equipment Lists
+
 The equipment tables presented in this chapter include examples of adventuring gear, weapons, armour, mounts, clothing, trade goods, tools, provisions, transportation, and services that may be available.
 
 Not every item is available in every town, city, region, or campaign. The technological level, culture, geography, trade conditions, and historical era of the setting may restrict or eliminate certain goods. Likewise, unusual or exotic equipment may only be obtainable in major cities or specialized markets.
@@ -61,11 +68,15 @@ Prices listed throughout this chapter represent average values under normal econ
 Characters may attempt to bargain over prices where appropriate, although routine haggling is generally assumed to produce only minor variations unless roleplayed in detail or supported by proficiencies, reaction adjustments, or exceptional circumstances.
 
 Tables are supported by text descriptions where appropriate - not every piece of equipment is described as some things have obvious function, form, and purpose.
-### Social Restrictions
+
+##### Social Restrictions
+
 Certain realms may restrict the purchase, possession, or use of certain items to members of particular classes, guilds, priesthoods, or noble houses or declare specific items to be contraband (many specialized tools for thieves fall in this category). Such restrictions may range from detailed regulations concerning colours, materials, or styles of dress to broad prohibitions against commoners bearing weapons or wearing armour. Wearing restricted attire without proper status may result in fines, confiscation, ridicule, arrest, or hostile reactions.
 
 Conversely, characters appropriately equipped and dressed for their apparent station may receive favourable reaction modifiers when dealing with nobles, officials, merchants, priesthoods, or other social institutions.
+
 ### Clothing
+
 Clothing may immediately identify occupation, wealth, nationality, religion, and social standing. Characters dressed appropriately for their station may receive more favourable reactions in civilized society, while visibly poor, foreign, or inappropriate dress may impose penalties at the DM’s discretion.
 
 Peasants and laborers typically wear layered wool or linen garments intended for warmth and durability: tunics, braies, cloaks, aprons, hoods, and heavy boots. Clothing is practical, patched repeatedly, and seldom decorative.
@@ -76,61 +87,68 @@ Priests, scholars, and wizards commonly wear robes, cassocks, layered tunics, ho
 
 Nobles and courtiers favour fine tailoring, imported fabrics, jewellery, decorative belts, elaborate hats, embroidered gloves, rare dyes, and fur trim. Court fashion often values appearance over practicality.
 
-| Item                               | Cost  |
-| ---------------------------------- | ----- |
-| Apron, cloth                       | 6 sp  |
-| Apron, leather                     | 10 gp |
-| Baldric or bandoleer               | 4 gp  |
-| Belt or braces                     | 3 sp  |
-| Boots, riding                      | 3 gp  |
-| Boots, soft                        | 1 gp  |
-| Braies or drawers                  | 8 sp  |
-| Breeches                           | 2 gp  |
-| Cap or hood                        | 1 sp  |
-| Cassock or heavy coat              | 8 gp  |
-| Chemise or shirt                   | 5 sp  |
-| Cloak, common                      | 8 sp  |
-| Cloak, fur-lined                   | 50 gp |
-| Coif                               | 3 sp  |
-| Doublet or vest                    | 6 sp  |
-| Girdle                             | 3 gp  |
-| Gloves                             | 1 gp  |
-| Gloves, ornate                     | 15 gp |
-| Gloves, archery                    | 5 gp  |
-| Gown, common                       | 12 sp |
-| Hat                                | 1 sp  |
-| Hose                               | 2 gp  |
-| Knife sheath                       | 3 cp  |
-| Mittens                            | 3 sp  |
-| Pin or clasp                       | 6 gp  |
-| Plain brooch                       | 10 gp |
-| Pouch or purse                     | 5 cp  |
-| Robe, common                       | 9 sp  |
-| Robe, embroidered                  | 20 gp |
-| Ruff or formal collar              | 10 gp |
-| Sandals                            | 5 cp  |
-| Sash                               | 2 sp  |
-| Shoes                              | 1 gp  |
-| Silk jacket                        | 80 gp |
-| Surcoat                            | 6 sp  |
-| Sword scabbard, hanger, or baldric | 4 gp  |
-| Tabard                             | 6 sp  |
-| Toga, coarse                       | 8 cp  |
-| Tunic                              | 8 sp  |
-#### Clothing Quality and Materials
-The prices above assume plain but serviceable construction. Clothing may vary considerably in quality, durability, comfort, and appearance.
-##### Clothing Quality Modifiers
+**Table 34: Clothing**
 
-| Quality | Cost Modifier | Typical Materials                                  |
-| ------- | ------------- | -------------------------------------------------- |
-| Poor    | ×1/2          | Rough wool, rawhide, patched cloth, homespun linen |
-| Common  | ×1            | Wool, linen, leather, simple fur                   |
-| Fine    | ×3            | Dyed cloth, velvet, silk trim, quality leather     |
-| Noble   | ×10 or more   | Silk, brocade, sable, ermine, embroidery, jewels   |
+|Item|Cost|
+|---|---|
+|Apron, cloth|6 sp|
+|Apron, leather|10 gp|
+|Baldric or bandoleer|4 gp|
+|Belt or braces|3 sp|
+|Boots, riding|3 gp|
+|Boots, soft|1 gp|
+|Braies or drawers|8 sp|
+|Breeches|2 gp|
+|Cap or hood|1 sp|
+|Cassock or heavy coat|8 gp|
+|Chemise or shirt|5 sp|
+|Cloak, common|8 sp|
+|Cloak, fur-lined|50 gp|
+|Coif|3 sp|
+|Doublet or vest|6 sp|
+|Girdle|3 gp|
+|Gloves|1 gp|
+|Gloves, ornate|15 gp|
+|Gloves, archery|5 gp|
+|Gown, common|12 sp|
+|Hat|1 sp|
+|Hose|2 gp|
+|Knife sheath|3 cp|
+|Mittens|3 sp|
+|Pin or clasp|6 gp|
+|Plain brooch|10 gp|
+|Pouch or purse|5 cp|
+|Robe, common|9 sp|
+|Robe, embroidered|20 gp|
+|Ruff or formal collar|10 gp|
+|Sandals|5 cp|
+|Sash|2 sp|
+|Shoes|1 gp|
+|Silk jacket|80 gp|
+|Surcoat|6 sp|
+|Sword scabbard, hanger, or baldric|4 gp|
+|Tabard|6 sp|
+|Toga, coarse|8 cp|
+|Tunic|8 sp|
+
+#### Clothing Quality and Materials
+
+The prices above assume plain but serviceable construction. Clothing may vary considerably in quality, durability, comfort, and appearance.
+
+**Table 35: Clothing Quality Modifiers**
+
+|Quality|Cost Modifier|Typical Materials|
+|---|---|---|
+|Poor|×1/2|Rough wool, rawhide, patched cloth, homespun linen|
+|Common|×1|Wool, linen, leather, simple fur|
+|Fine|×3|Dyed cloth, velvet, silk trim, quality leather|
+|Noble|×10 or more|Silk, brocade, sable, ermine, embroidery, jewels|
+
 Poor clothing is uncomfortable, patched, or badly fitted. Fine and noble clothing is often tailored, decorated, embroidered, or lined with costly materials.
 
 Fur-lined garments suitable for winter travel generally increase the listed cost by ×2 to ×5 depending on the quality and rarity of the fur used.
-### Clothing Descriptions
+
+#### Clothing Descriptions
 
 **Baldric or Bandoleer:** A shoulder strap used to carry weapons, pouches, horns, or tools.
 
@@ -152,159 +170,176 @@ Fur-lined garments suitable for winter travel generally increase the listed cost
 
 **Tabard:** A sleeveless overgarment bearing heraldic colors or insignia.
 
-## Food, Lodging, and Provisioning
+### Food, Lodging, and Provisioning
+
 Characters are assumed to purchase food, drink, shelter, fuel, and other daily necessities throughout the course of play. Rather than tracking every loaf of bread or sack of grain, the following costs represent typical daily living expenses under ordinary conditions.
 
 Prices may increase significantly during war, famine, siege, winter, or in isolated regions.
-### Daily Living Expenses
+
+#### Daily Living Expenses
+
 Living standard affects how NPCs perceive a character’s apparent status and may influence morale, reaction rolls, hiring, and social access at the DM’s discretion.
 
-##### Living Standards
+**Table 36: Living Standards**
 
-| Standard | Cost per Day | Typical Conditions                             |
-| -------- | ------------ | ---------------------------------------------- |
-| Squalid  | 2 cp         | Bare subsistence; poor shelter; spoiled food   |
-| Poor     | 1 sp         | Common laborer fare; crowded lodging           |
-| Common   | 5 sp         | Modest inn meals and reasonable lodging        |
-| Good     | 2 gp         | Private rooms, quality meals, servants         |
-| Wealthy  | 10 gp+       | Noble accommodations, luxury foods, attendants |
+|Standard|Cost per Day|Typical Conditions|
+|---|---|---|
+|Squalid|2 cp|Bare subsistence; poor shelter; spoiled food|
+|Poor|1 sp|Common laborer fare; crowded lodging|
+|Common|5 sp|Modest inn meals and reasonable lodging|
+|Good|2 gp|Private rooms, quality meals, servants|
+|Wealthy|10 gp+|Noble accommodations, luxury foods, attendants|
+
 Characters maintaining poor conditions for extended periods may suffer fatigue, illness, low morale among retainers, or unfavorable reactions in civilized society.
 
-### Household Provisioning
+#### Household Provisioning
+
 Strongholds, military camps, temples, guildhouses, and noble estates commonly maintain stores of food, drink, fuel, and household goods. Rather than tracking individual commodities, DMs are encouraged to use broad provisioning categories.
-##### Household Provisioning
 
-| Quality | Cost per Person per Day | Typical Fare                            |
-| ------- | ----------------------- | --------------------------------------- |
-| Poor    | 5 cp                    | Gruel, coarse bread, weak ale           |
-| Common  | 2 sp                    | Bread, vegetables, stew, beer           |
-| Good    | 1 gp                    | Meat, wine, spices, fresh produce       |
-| Noble   | 5 gp+                   | Imported wines, exotic spices, servants |
+**Table 37: Household Provisioning**
+  
+|Quality|Cost per Person per Day|Typical Fare|
+|---|---|---|
+|Poor|5 cp|Gruel, coarse bread, weak ale|
+|Common|2 sp|Bread, vegetables, stew, beer|
+|Good|1 gp|Meat, wine, spices, fresh produce|
+|Noble|5 gp+|Imported wines, exotic spices, servants|
+
 Retainers and hirelings receiving poor food or accommodations for extended periods may suffer morale penalties. Generous provisioning may improve loyalty and reactions.
-### Basic Services
 
-| Service                          | Cost             |
-| -------------------------------- | ---------------- |
-| Bath                             | 3 cp             |
-| Clerk or scribe                  | 2 sp per page    |
-| Courier or messenger             | 1 sp per message |
-| Doctor, barber-surgeon, or leech | 3 gp             |
-| Guide (city)                     | 2 sp/day         |
-| Guide (wilderness)               | 1 gp/day or more |
-| Laundry                          | 1 cp/load        |
-| Lantern or torchbearer           | 1 sp/night       |
-| Minstrel or entertainer          | 3 gp/performance |
-| Teamster with wagon              | 1 sp/mile        |
+#### Basic Services
 
-### Skilled Services
+|Service|Cost|
+|---|---|
+|Bath|3 cp|
+|Clerk or scribe|2 sp per page|
+|Courier or messenger|1 sp per message|
+|Doctor, barber-surgeon, or leech|3 gp|
+|Guide (city)|2 sp/day|
+|Guide (wilderness)|1 gp/day or more|
+|Laundry|1 cp/load|
+|Lantern or torchbearer|1 sp/night|
+|Minstrel or entertainer|3 gp/performance|
+|Teamster with wagon|1 sp/mile|
 
-| Service                    | Typical Cost                     |
-| -------------------------- | -------------------------------- |
-| armour repair               | 5–20% of item value              |
-| Weapon repair              | 1–10 gp                          |
-| Item appraisal             | 1–5% of assessed value           |
-| Sage research              | Variable; usually 100 gp or more |
-| Translation work           | 5–50 gp                          |
-| Spell copying assistance   | Variable                         |
-| Heraldic or legal research | 10–100 gp                        |
-| Cartography or map copying | 5–50 gp                          |
+#### Skilled Services
+
+|Service|Typical Cost|
+|---|---|
+|Armour repair|5–20% of item value|
+|Weapon repair|1–10 gp|
+|Item appraisal|1–5% of assessed value|
+|Sage research|Variable; usually 100 gp or more|
+|Translation work|5–50 gp|
+|Spell copying assistance|Variable|
+|Heraldic or legal research|10–100 gp|
+|Cartography or map copying|5–50 gp|
+
 Rare expertise, secrecy, urgency, dangerous subjects, or restricted knowledge may greatly increase costs.
 
-### Inn and Tavern Costs
+#### Inn and Tavern Costs
 
-| Item                       | Cost            |
-| -------------------------- | --------------- |
-| Ale or small beer (gallon) | 5 cp            |
-| Common wine (pitcher)      | 2 sp            |
-| Meal, poor                 | 1 sp            |
-| Meal, common               | 3 sp            |
-| Meal, good                 | 5 sp            |
-| Inn lodging, poor          | 5 cp/night      |
-| Inn lodging, common        | 5 sp/night      |
-| Inn lodging, good          | 2 gp/night      |
-| Banquet                    | 10 gp per guest |
-### Expedition Provisions
+|Item|Cost|
+|---|---|
+|Ale or small beer (gallon)|5 cp|
+|Common wine (pitcher)|2 sp|
+|Meal, poor|1 sp|
+|Meal, common|3 sp|
+|Meal, good|5 sp|
+|Inn lodging, poor|5 cp/night|
+|Inn lodging, common|5 sp/night|
+|Inn lodging, good|2 gp/night|
+|Banquet|10 gp per guest|
 
-| Item                                 | Cost            |
-| ------------------------------------ | --------------- |
-| Dry rations (1 week)                 | 10 gp           |
-| Grain and stabling for horse (daily) | 5 sp            |
-| Firewood or fuel (daily)             | 1 cp            |
-| Fodder for livestock (daily)         | 2 cp per animal |
+#### Expedition Provisions
+
+|Item|Cost|
+|---|---|
+|Dry rations (1 week)|10 gp|
+|Grain and stabling for horse (daily)|5 sp|
+|Firewood or fuel (daily)|1 cp|
+|Fodder for livestock (daily)|2 cp per animal|
+
 One week of dry rations supplies a single human-sized creature with preserved food suitable for overland travel, military campaigning, or dungeon expeditions.
 
-## Animals and Livestock
+### Animals and Livestock
+
 Animal prices vary considerably by region, breeding, training, and availability. War, famine, plague, or military demand may dramatically increase prices for mounts and draft animals.
 
 Trained animals generally require daily feeding, shelter, and handlers to remain healthy and obedient.
 
-| Animal                     | Cost     |
-| -------------------------- | -------- |
-| Boar                       | 10 gp    |
-| Bull                       | 20 gp    |
-| Calf                       | 5 gp     |
-| Camel                      | 50 gp    |
-| Capon                      | 3 cp     |
-| Cat                        | 1 sp     |
-| Chicken                    | 2 cp     |
-| Cow                        | 10 gp    |
-| **Dog**                    | --       |
-| - Guard                    | 25 gp    |
-| - Hunting                  | 17 gp    |
-| - War                      | 20 gp    |
-| Donkey, mule, or ass       | 8 gp     |
-| **Elephant**               | --       |
-| - Labor                    | 200 gp   |
-| - War                      | 500 gp   |
-| Falcon (trained)           | 1,000 gp |
-| Goat                       | 1 gp     |
-| Goose                      | 5 cp     |
-| Guinea hen                 | 2 cp     |
-| **Horse**                  | --       |
-| - Draft                    | 200 gp   |
-| - Heavy war                | 400 gp   |
-| - Light war                | 150 gp   |
-| - Medium war               | 225 gp   |
-| - Riding                   | 75 gp    |
-| Hunting cat (jaguar, etc.) | 5,000 gp |
-| Ox                         | 15 gp    |
-| Partridge                  | 5 cp     |
-| Peacock                    | 5 sp     |
-| Pig                        | 3 gp     |
-| Pigeon                     | 1 cp     |
-| Pigeon, homing             | 100 gp   |
-| Pony                       | 30 gp    |
-| Ram                        | 4 gp     |
-| Sheep                      | 2 gp     |
-| Songbird                   | 10 sp    |
-| Swan                       | 5 sp     |
+**Table 38: Animals and Livestock**
+
+|Animal|Cost|
+|---|---|
+|Boar|10 gp|
+|Bull|20 gp|
+|Calf|5 gp|
+|Camel|50 gp|
+|Capon|3 cp|
+|Cat|1 sp|
+|Chicken|2 cp|
+|Cow|10 gp|
+|**Dog**|--|
+|- Guard|25 gp|
+|- Hunting|17 gp|
+|- War|20 gp|
+|Donkey, mule, or ass|8 gp|
+|**Elephant**|--|
+|- Labor|200 gp|
+|- War|500 gp|
+|Falcon (trained)|1,000 gp|
+|Goat|1 gp|
+|Goose|5 cp|
+|Guinea hen|2 cp|
+|**Horse**|--|
+|- Draft|200 gp|
+|- Heavy war|400 gp|
+|- Light war|150 gp|
+|- Medium war|225 gp|
+|- Riding|75 gp|
+|Hunting cat (jaguar, etc.)|5,000 gp|
+|Ox|15 gp|
+|Partridge|5 cp|
+|Peacock|5 sp|
+|Pig|3 gp|
+|Pigeon|1 cp|
+|Pigeon, homing|100 gp|
+|Pony|30 gp|
+|Ram|4 gp|
+|Sheep|2 gp|
+|Songbird|10 sp|
+|Swan|5 sp|
 
 ### Equipment for Mounts
 
 Mounts require specialized equipment for riding, transport, warfare, and husbandry. While many animals can be led with simple ropes or improvised gear, proper tack and harness improve control, comfort, and safety for both rider and beast. Military mounts may also be equipped with barding to protect them in combat.
+
 #### Tack and Harness
 
-| Item                 | Cost  | Weight  |
-| -------------------- | ----- | ------- |
-| Bit and bridle       | 15 sp | 3 lbs.  |
-| Bridoon              | 25 sp | 4 lbs.  |
-| Cart harness         | 2 gp  | 10 lbs. |
-| Cavesson             | 15 sp | 4 lbs.  |
-| Halter               | 5 cp  | —       |
-| Horseshoes & shoeing | 1 gp  | 10 lbs. |
-| **Saddle**           | --    | --      |
-| - Pack               | 5 gp  | 15 lbs. |
-| - Riding             | 10 gp | 35 lbs. |
-| - War                | 25 gp | 45 lbs. |
-| **Saddle bags**      | --    | --      |
-| - Large              | 4 gp  | 8 lbs.  |
-| - Small              | 3 gp  | 5 lbs.  |
-| Saddle blanket       | 3 sp  | 4 lbs.  |
-| Spurs                | 5 sp  | —       |
-| Stirrups (pair)      | 1 gp  | 3 lbs.  |
-| **Yoke**             | --    | --      |
-| - Horse              | 5 gp  | 15 lbs. |
-| - Ox                 | 3 gp  | 20 lbs. |
+**Table 39: Tack and Harness**
+
+|Item|Cost|Weight|
+|---|---|---|
+|Bit and bridle|15 sp|3 lbs.|
+|Bridoon|25 sp|4 lbs.|
+|Cart harness|2 gp|10 lbs.|
+|Cavesson|15 sp|4 lbs.|
+|Halter|5 cp|—|
+|Horseshoes & shoeing|1 gp|10 lbs.|
+|**Saddle**|--|--|
+|- Pack|5 gp|15 lbs.|
+|- Riding|10 gp|35 lbs.|
+|- War|25 gp|45 lbs.|
+|**Saddle bags**|--|--|
+|- Large|4 gp|8 lbs.|
+|- Small|3 gp|5 lbs.|
+|Saddle blanket|3 sp|4 lbs.|
+|Spurs|5 sp|—|
+|Stirrups (pair)|1 gp|3 lbs.|
+|**Yoke**|--|--|
+|- Horse|5 gp|15 lbs.|
+|- Ox|3 gp|20 lbs.|
 
 **Bit and Bridle:** A bridle consists of straps fitted around a mount's head together with a metal bit placed in its mouth. Reins attached to the bit allow the rider to direct and control the animal. Riding and war mounts are normally assumed to be equipped with a suitable bit and bridle.
 
@@ -339,24 +374,27 @@ Mounted warriors equipped with stirrups can deliver more effective charges and a
 **Bridle Cutter:** A hooked cutting tool designed to sever an opponent's reins during mounted combat. In addition to its intended purpose, a bridle cutter may be used as a weapon. It inflicts 1d4 points of damage against Small or Medium creatures and 1d3 points of damage against Large creatures.
 
 #### Barding
+
 Barding is armour designed specifically for mounts. Warhorses, elephants, and other combat-trained animals represent a significant investment, and barding provides valuable protection against missiles, melee attacks, and battlefield hazards, protecting the head, neck, chest, flanks, and hindquarters of the mount. Half barding, which protects only the front half of the mount is also available; it's reduced weight and cost make it common among light cavalry and frontier forces.
 
 The Armour Class provided by barding depends on the type of armour as shown in the table below. Unless otherwise noted, barding follows the same general construction and appearance as the corresponding type of armour that may be worn by characters. Construction times given are for full barding, half barding requires 2 weeks less than given.
 
-| Barding Type    | AC  | Weight  | Cost      | Half Wt | Half Cost | Construction Time |
-| --------------- | --- | ------- | --------- | ------- | --------- | ----------------- |
-| Padded          | 6   | 60 lbs. | 150 gp    | 25 lbs. | 100 gp    | 4 weeks           |
-| Leather         | 6   | 60 lbs. | 150 gp    | 25 lbs. | 100 gp    | 4 weeks           |
-| Ring            | 5   | 80 lbs. | 800 gp    | 55 lbs. | 400 gp    | 8 weeks           |
-| Studded Leather | 5   | 80 lbs. | 800 gp    | 50 lbs. | 400 gp    | 8 weeks           |
-| Scale           | 5   | 75 lbs. | 1,000 gp  | 50 lbs. | 500 gp    | 8 weeks           |
-| Brigandine      | 5   | 70 lbs. | 1,000 gp  | 45 lbs. | 500 gp    | 8 weeks           |
-| Chain           | 4   | 70 lbs. | 500 gp    | 45 lbs. | 300 gp    | 10 weeks          |
-| Banded          | 3   | 85 lbs. | 1,750 gp  | 60 lbs. | 1,000 gp  | 14 weeks          |
-| Splint          | 3   | 85 lbs. | 1,750 gp  | 60 lbs. | 1,000 gp  | 14 weeks          |
-| Plate           | 2   | 85 lbs. | 2,000 gp  | 65 lbs. | 1,500 gp  | 16 weeks          |
-| Field Plate     | 1   | 90 lbs. | 5,000 gp  | 70 lbs. | 3,000 gp  | 18 weeks          |
-| Full Plate      | 0   | 90 lbs. | 8,000+ gp | 70 lbs. | 5,000+ gp | 20 weeks          |
+**Table 40: Barding**
+
+|Barding Type|AC|Weight|Cost|Half Wt|Half Cost|Construction Time|
+|---|---|---|---|---|---|---|
+|Padded|6|60 lbs.|150 gp|25 lbs.|100 gp|4 weeks|
+|Leather|6|60 lbs.|150 gp|25 lbs.|100 gp|4 weeks|
+|Ring|5|80 lbs.|800 gp|55 lbs.|400 gp|8 weeks|
+|Studded Leather|5|80 lbs.|800 gp|50 lbs.|400 gp|8 weeks|
+|Scale|5|75 lbs.|1,000 gp|50 lbs.|500 gp|8 weeks|
+|Brigandine|5|70 lbs.|1,000 gp|45 lbs.|500 gp|8 weeks|
+|Chain|4|70 lbs.|500 gp|45 lbs.|300 gp|10 weeks|
+|Banded|3|85 lbs.|1,750 gp|60 lbs.|1,000 gp|14 weeks|
+|Splint|3|85 lbs.|1,750 gp|60 lbs.|1,000 gp|14 weeks|
+|Plate|2|85 lbs.|2,000 gp|65 lbs.|1,500 gp|16 weeks|
+|Field Plate|1|90 lbs.|5,000 gp|70 lbs.|3,000 gp|18 weeks|
+|Full Plate|0|90 lbs.|8,000+ gp|70 lbs.|5,000+ gp|20 weeks|
 
 Not all mounts are capable of functioning in every type of barding. Light warhorses, riding horses, and ponies can normally wear only padded or leather barding (AC6) while medium warhorses can wear up to chain barding (AC4). When using half barding, such mounts may wear barding one category heavier than normally permitted (AC 5 for light warhorses and riding horses, AC 3 for medium warhorses). Heavy warhorses can wear any form of barding.
 
@@ -366,48 +404,53 @@ Barding must be carefully fitted to both mount and rider. Poorly fitted armour m
 
 Leather or padded barding requires approximately 15 minutes to remove and 30 minutes to fit. Other types of barding require approximately 30 minutes to remove and one hour to fit.
 
-Creatures possessing natural Armour Classes superior to those of ordinary mounts may still benefit from barding. Refer to the rules given under the heading "Creatures with Natural Armour" later in this chapter. 
+Creatures possessing natural Armour Classes superior to those of ordinary mounts may still benefit from barding. Refer to the rules given under the heading "Creatures with Natural Armour" later in this chapter.
 
 Some campaigns may permit piecemeal barding assembled from individual sections of armour. Such equipment is less protective than a complete suit but may be cheaper, easier to obtain, or salvaged from battlefield remains. It may also be the only practical option for unusual mounts that would otherwise require custom barding to be crafted.
 
 A suit of barding consists of six principal sections: a head piece, neckguard, breast plate, two flank guards, and a crupper protecting the hindquarters. Individual sections protect only the areas they cover. The DM may resolve attacks against the Armour Class of the piecemeal suit as a whole, against the Armour Class of a specific barding section (such as for a called shot), or against the mount's natural Armour Class when an attack strikes an unprotected area. The latter is usually determined by the direction of attack (front, flank, or rear).
 
 To determine the Armour Class of a piecemeal suit, total the AC Bonus values (given in table below) of all six barding sections (0 for pieces not worn), divide the result by five, and round fractions down. Subtract the resulting value from AC 10 to determine the suit's effective Armour Class. Even when all sections are of the same armour type, piecemeal barding remains less effective than a properly fitted suit unless a skilled armourer spends time refitting and rebuilding the pieces.
-
-| Barding Type                     | AC Bonus |
-| -------------------------------- | -------- |
-| Leather or Padded                | +1       |
-| Ring, Studded, Scale, Brigandine | +2       |
-| Chain                            | +3       |
-| Banded or Splint                 | +4       |
-| Plate                            | +5       |
-| Field Plate                      | +6       |
-| Full Plate                       | +7       |
+ 
+|Barding Type|AC Bonus|
+|---|---|
+|Leather or Padded|+1|
+|Ring, Studded, Scale, Brigandine|+2|
+|Chain|+3|
+|Banded or Splint|+4|
+|Plate|+5|
+|Field Plate|+6|
+|Full Plate|+7|
 
 To determine the weight of a piecemeal barding set, multiply the weight of a full suit of the appropriate barding type by the percentages given below. The same percentages may be used to determine the cost of individual sections when purchased separately.
+ 
+|Section|% of Full Weight or Cost|
+|---|---|
+|Head piece|10%|
+|Neckguard|15%|
+|Breast plate|20%|
+|Flank guard (each)|20%|
+|Crupper|15%|
 
-| Section            | % of Full Weight or Cost |
-| ------------------ | ------------------------ |
-| Head piece         | 10%                      |
-| Neckguard          | 15%                      |
-| Breast plate       | 20%                      |
-| Flank guard (each) | 20%                      |
-| Crupper            | 15%                      |
 ### Transport
 
 Characters may travel using a wide variety of vehicles and vessels. The tables below provide typical costs, capacities, and movement rates. Actual performance may vary depending upon terrain, weather, road quality, crew experience, load, and other circumstances.
+
 #### Land Transport
 
-| Vehicle            | Cost     | Capacity   | Draft Animals | Move |
-| ------------------ | -------- | ---------- | ------------- | ---- |
-| Cart               | 15 gp    | 500 lbs.   | 1             | 18   |
-| Wagon              | 50 gp    | 2,000 lbs. | 2             | 12   |
-| Carriage, common   | 150 gp   | 1,000 lbs. | 2             | 18   |
-| Coach, ornamented  | 7,000 gp | 1,500 lbs. | 4             | 18   |
-| Chariot, riding    | 200 gp   | 500 lbs.   | 2             | 24   |
-| Chariot, war       | 500 gp   | 600 lbs.   | 2–4           | 24   |
-| Sedan chair        | 100 gp   | 300 lbs.   | 2 bearers     | 9    |
-| Replacement Wheels | 5 gp     | —          | —             | —    |
+**Table 41: Land Transport**
+
+|Vehicle|Cost|Capacity|Draft Animals|Move|
+|---|---|---|---|---|
+|Cart|15 gp|500 lbs.|1|18|
+|Wagon|50 gp|2,000 lbs.|2|12|
+|Carriage, common|150 gp|1,000 lbs.|2|18|
+|Coach, ornamented|7,000 gp|1,500 lbs.|4|18|
+|Chariot, riding|200 gp|500 lbs.|2|24|
+|Chariot, war|500 gp|600 lbs.|2–4|24|
+|Sedan chair|100 gp|300 lbs.|2 bearers|9|
+|Replacement Wheels|5 gp|—|—|—|
+
 **Cart:** A simple two-wheeled vehicle used for hauling supplies, trade goods, and agricultural produce.
 
 **Wagon:** A four-wheeled freight vehicle intended for transporting heavy cargo over long distances.
@@ -416,7 +459,7 @@ Characters may travel using a wide variety of vehicles and vessels. The tables b
 
 **Coach, Ornamented:** A luxurious carriage fitted with fine furnishings, decorations, and other displays of wealth or status.
 
-**Chariot:** A light two-wheeled vehicle used for racing, hunting, ceremony, or warfare. A riding chariot accommodates two occupants: one driver and one passenger who may make attacks. A war chariot is wider and more heavily braced, accommodating three occupants; the third is commonly a shield-bearer who provides cover to the crew. 
+**Chariot:** A light two-wheeled vehicle used for racing, hunting, ceremony, or warfare. A riding chariot accommodates two occupants: one driver and one passenger who may make attacks. A war chariot is wider and more heavily braced, accommodating three occupants; the third is commonly a shield-bearer who provides cover to the crew.
 
 The war chariot’s design provides a more stable platform for making missile attacks. For the purposes of _Archery from Mounts and Vehicles_, a war chariot is treated as moving one category slower than its actual movement. Thus, at a run it is treated as moving at full movement, at full movement it is treated as half movement, and at half movement it is treated as stationary.
 
@@ -424,31 +467,33 @@ The war chariot’s design provides a more stable platform for making missile at
 
 #### Water Transport
 
-| Vessel       | Seaworthiness | Cost      | Length      | Draft    | Crew  | Cargo         | Move |
-| ------------ | ------------- | --------- | ----------- | -------- | ----- | ------------- | ---- |
-| Barge        | River         | 500 gp    | 40–80 ft.   | 5 feet   | 4–8   | 50 tons       | 6    |
-| Canoe, small | River         | 30 gp     | 10–20 ft.   | 1/2 foot | 1–4   | 500 lbs.      | 6    |
-| Canoe, war   | River         | 50 gp     | 20–40 ft.   | 1 foot   | 6–20  | 1 ton         | 9    |
-| Caravel      | Ocean         | 10,000 gp | 70 ft.      | 10 feet  | 30–40 | 150–200 tons  | 15   |
-| Coaster      | Coastal       | 5,000 gp  | 60–70 ft.   | 9 feet   | 20–30 | 100 tons      | 9    |
-| Cog          | Ocean         | 10,000 gp | 75–90 ft.   | 10 feet  | 18–20 | 100–200 tons  | 9    |
-| Curragh      | Coastal       | 500 gp    | 20–40 ft.   | 1/2 foot | 6–8   | 2 tons        | 9    |
-| Dhow         | Ocean         | 4,000 gp  | 50-80 ft.   | 6 feet   | 10-20 | 30-100 tons   | 15   |
-| Drakkar      | Coastal       | 25,000 gp | 100 ft.     | 3 feet   | 60–80 | Negligible    | 15   |
-| Dromond      | Coastal       | 15,000 gp | 130–175 ft. | 8 feet   | 200   | 70–100 tons   | 12   |
-| Fishing Boat | Coastal       | 50 gp     | 15-30 ft.   | 1 foot   | 1-4   | 500-1,000 lbs | 6    |
-| Galleon      | Ocean         | 50,000 gp | 130 ft.     | 20 feet  | 130   | 500 tons      | 12   |
-| Great Galley | Coastal       | 30,000 gp | 130 ft.     | 8 feet   | 140   | 150 tons      | 15   |
-| Keelboat     | River         | 100 gp    | 20–50 ft.   | 3 feet   | 2–6   | 5 tons        | 6    |
-| Knarr        | Ocean         | 3,000 gp  | 50–75 ft.   | 5 feet   | 8–14  | 10–50 tons    | 12   |
-| Longship     | Ocean         | 10,000 gp | 75 ft.      | 4 feet   | 40–50 | 50 tons       | 15   |
-| Outrigger    | Ocean         | 75 gp     | 30 ft.      | 1/2 foot | 3-6   | 500 pounds    | 9    |
-| Raft         | River         | 50 gp     | 10–30 ft.   | 1 foot   | 1+    | 1 ton         | 3    |
-| Skiff        | River         | 25 gp     | 16 feet     | 1 foot   | 1-4   | 500 lbs       | 6    |
-| Trireme      | Coastal       | 20,000 gp | 135 ft.     | 4 feet   | 170   | Negligible    | 18   |
-| Oar, common  | —             | 2 gp      | —           | —        | —     | —             | —    |
-| Oar, galley  | —             | 10 gp     | —           | —        | —     | —             | —    |
-| Sail         | —             | 20 gp     | —           | —        | —     | —             | —    |
+**Table 42: Water Transport**
+
+|Vessel|Seaworthiness|Cost|Length|Draft|Crew|Cargo|Move|
+|---|---|---|---|---|---|---|---|
+|Barge|River|500 gp|40–80 ft.|5 feet|4–8|50 tons|6|
+|Canoe, small|River|30 gp|10–20 ft.|1/2 foot|1–4|500 lbs.|6|
+|Canoe, war|River|50 gp|20–40 ft.|1 foot|6–20|1 ton|9|
+|Caravel|Ocean|10,000 gp|70 ft.|10 feet|30–40|150–200 tons|15|
+|Coaster|Coastal|5,000 gp|60–70 ft.|9 feet|20–30|100 tons|9|
+|Cog|Ocean|10,000 gp|75–90 ft.|10 feet|18–20|100–200 tons|9|
+|Curragh|Coastal|500 gp|20–40 ft.|1/2 foot|6–8|2 tons|9|
+|Dhow|Ocean|4,000 gp|50-80 ft.|6 feet|10-20|30-100 tons|15|
+|Drakkar|Coastal|25,000 gp|100 ft.|3 feet|60–80|Negligible|15|
+|Dromond|Coastal|15,000 gp|130–175 ft.|8 feet|200|70–100 tons|12|
+|Fishing Boat|Coastal|50 gp|15-30 ft.|1 foot|1-4|500-1,000 lbs|6|
+|Galleon|Ocean|50,000 gp|130 ft.|20 feet|130|500 tons|12|
+|Great Galley|Coastal|30,000 gp|130 ft.|8 feet|140|150 tons|15|
+|Keelboat|River|100 gp|20–50 ft.|3 feet|2–6|5 tons|6|
+|Knarr|Ocean|3,000 gp|50–75 ft.|5 feet|8–14|10–50 tons|12|
+|Longship|Ocean|10,000 gp|75 ft.|4 feet|40–50|50 tons|15|
+|Outrigger|Ocean|75 gp|30 ft.|1/2 foot|3-6|500 pounds|9|
+|Raft|River|50 gp|10–30 ft.|1 foot|1+|1 ton|3|
+|Skiff|River|25 gp|16 feet|1 foot|1-4|500 lbs|6|
+|Trireme|Coastal|20,000 gp|135 ft.|4 feet|170|Negligible|18|
+|Oar, common|—|2 gp|—|—|—|—|—|
+|Oar, galley|—|10 gp|—|—|—|—|—|
+|Sail|—|20 gp|—|—|—|—|—|
 
 **Barge:** A broad, flat-bottomed cargo vessel intended for rivers and sheltered waterways.
 
@@ -485,134 +530,137 @@ The war chariot’s design provides a more stable platform for making missile at
 **Trireme:** A classical war galley powered primarily by three banks of oars. Fast and manoeuvrable, triremes are designed for naval warfare rather than cargo transport.
 
 ### Miscellaneous Equipment
+
 The following items represent the general tools, supplies, containers, and expedition equipment commonly used by adventurers.
 
-| Item                        | Cost     | Weight   | Notes                                         |
-| --------------------------- | -------- | -------- | --------------------------------------------- |
-| Acid, lock-eating (vial)    | 100+ gp  | 1 lb.    | Rare                                          |
-| Aniseed Vial                | 2 gp     | —        | Breaks scent trails (1d4+1 hrs)               |
-| Arm Sling                   | 5 sp     | *        | Pick Pockets special                          |
-| **Arrows, Special Purpose** | --       | --       |                                               |
-| - Adamantite Stone Biter    | 25 gp    | —        | Works on hard stone                           |
-| - Grapple, Major            | 25 gp    | 1 lb.    | Deploys full grapple on tension               |
-| - Grapple, Minor            | 10 gp    | —        | Small grapple head; short range anchor        |
-| - Stone Biter               | 5 gp     | —        | Anchors in soft stone (brick/sandstone)       |
-| - Wood Biter                | 2 gp     | —        | Best in wood; rope anchor                     |
-| **Backpack**                | --       | --       |                                               |
-| - Canvas                    | 4 sp     | 1 lb.    |                                               |
-| - Wicker                    | 5 sp     | 3 lbs.   |                                               |
-| - Leather                   | 2 gp     | 2 lbs.   |                                               |
-| Barrel, small               | 2 gp     | 30 lbs.  |                                               |
-| **Basket**                  | --       | --       |                                               |
-| - Large                     | 3 sp     | 1 lb.    |                                               |
-| - Small                     | 5 cp     | *        |                                               |
-| Bell                        | 1 gp     | *        |                                               |
-| **Belt Pouch**              | --       | --       |                                               |
-| - Large                     | 1 gp     | 1 lb.    |                                               |
-| - Small                     | 7 sp     | ½ lb.    |                                               |
-| Blade Pole                  | 3 gp     | 4 lb.    | Cuts tripwires at range                       |
-| **Block and Tackle**        | --       | --       |                                               |
-| - Light                     | 8 gp     | 10 lbs.  | 200 lb lift capacity                          |
-| - Medium                    | 15 gp    | 50 lbs.  | 1,000 lb lift capacity                        |
-| - Heavy                     | 25 gp    | 200 lbs. | 5,000 lb lift capacity                        |
-| Bolt Case                   | 1 gp     | 1 lb.    | carries 12 heavy or 18 light quarrels         |
-| Bucket                      | 5 sp     | 3 lbs.   |                                               |
-| Caltrops (10)               | 1 gp     | 2 lb.    | Area hazard; slows pursuit                    |
-| **Chain** (per ft.)         | --       | --       |                                               |
-| - Heavy                     | 4 gp     | 3 lbs.   |                                               |
-| - Light                     | 3 gp     | 1 lb.    |                                               |
-| Charcoal Kit                | 2 cp     | *        | +2% Hide in Shadows                           |
-| **Chest**                   | --       | --       |                                               |
-| - Large                     | 2 gp     | 25 lbs.  |                                               |
-| - Small                     | 1 gp     | 10 lbs.  |                                               |
-| Climbing Dagger             | 5 gp     | 1 lb.    | +10% climb                                    |
-| Climbing Pole               | 1 gp     | 8 lb.    | Notched climb aid                             |
-| Climbing Spikes (10)        | 1 gp     | 5 lb.    | Anchors; slow placement; noisy                |
-| **Cloth** (10 sq. yds.)     | --       | --       |                                               |
-| - Common                    | 7 gp     | 10 lbs.  |                                               |
-| - Fine                      | 50 gp    | 10 lbs.  |                                               |
-| - Rich                      | 100 gp   | 10 lbs.  |                                               |
-| Candle                      | 1 cp     | *        |                                               |
-| Canvas (sq. yd.)            | 4 sp     | 1 lb.    |                                               |
-| Chalk                       | 1 cp     | *        |                                               |
-| Chisel, lock                | 5 gp     | 2 lbs.   | Force locks                                   |
-| Crampons                    | 4 gp     | 2 lbs.   | +15% Climb Walls                              |
-| Crowbar                     | 2 gp     | 5 lb.    | +10 bend bars; forced entry                   |
-| File, metal                 | 3 gp     | 1 lb.    |                                               |
-| Fishhook                    | 1 sp     | **       |                                               |
-| Fishing Net (10-ft. sq.)    | 4 gp     | 5 lbs.   |                                               |
-| Flint and Steel             | 5 sp     | *        |                                               |
-| Funnel, narrow-necked       | 2 sp     | *        | Lock lubrication                              |
-| Glass Bottle                | 10 gp    | *        |                                               |
-| Grappling Hook              | 8 sp     | 4 lbs.   |                                               |
-| Grappling Iron              | 4 gp     | 4 lb.    | Rope anchor; +40% climb; noisy; variable hold |
-| Hacksaw                     | 5 gp     | 2 lbs.   |                                               |
-| Healer's Bag                | 6 gp     | 3 lbs.   | +1 Healing proficiency                        |
-| Holy Item                   | 25 gp    | *        |                                               |
-| Hooked Pole                 | 2 gp     | 4 lb.    | Retrieve/snare objects                        |
-| Hourglass                   | 25 gp    | 1 lb.    |                                               |
-| Iron Pot                    | 5 sp     | 2 lbs.   |                                               |
-| Ladder (10 ft.)             | 5 cp     | 20 lbs.  |                                               |
-| **Lantern**                 | --       | --       |                                               |
-| - Beacon                    | 150 gp   | 50 lbs.  | 240-ft. radius                                |
-| - Bullseye                  | 12 gp    | 3 lbs.   | 60-ft. beam                                   |
-| - Hand Lamp                 | 5 gp     | 1 lb.    | Dim focused light; stealth work               |
-| - Hand-Warming              | 1 gp     | 1 lb.    | Prevents cold penalties                       |
-| - Hooded                    | 7 gp     | 2 lbs.   | 30-ft. radius                                 |
-| Limewood Strips (10)        | 5 sp     | —        | Opens simple latches                          |
-| Listening Cone              | 2 gp     | 1 lb.    | +5 Detect Noise                               |
-| **Lock**                    | --       | --       |                                               |
-| - Good                      | 100 gp   | 1 lb.    |                                               |
-| - Poor                      | 20 gp    | 1 lb.    |                                               |
-| Magnifying Glass            | 100 gp   | *        | Fire starting                                 |
-| Map or Scroll Case          | 8 sp     | ½ lb.    |                                               |
-| Marbles (Bag of 30)         | 2 sp     | 1 lb.    | Slows movement; trip hazard                   |
-| Merchant's Scale            | 2 gp     | 1 lb.    | Coin verification                             |
-| Mirror, Metal               | 10 gp    | *        |                                               |
-| Mirror Pole                 | 5 gp     | 4 lb.    | Corner/overlook vision                        |
-| Musical Instrument          | 5–100 gp | ½–3 lbs. |                                               |
-| **Oil** (flask)             | --       | --       |                                               |
-| - Greek Fire                | 10 gp    | 2 lbs.   | Combat use                                    |
-| - Lamp Oil                  | 6 cp     | 1 lb.    | 6 hours                                       |
-| Paper (sheet)               | 2 gp     | **       |                                               |
-| Papyrus (sheet)             | 8 sp     | **       |                                               |
-| Parchment (sheet)           | 1 gp     | **       |                                               |
-| Perfume (vial)              | 5 gp     | *        |                                               |
-| Piton                       | 3 cp     | ½ lb.    |                                               |
-| Plant Dyes                  | 5 sp     | *        | +2% Hide in Shadows outdoors                  |
-| Quiver                      | 8 sp     | 1 lb.    | carries 24 sheaf or 30 flight arrows          |
-| **Rope** (50 ft.)           | --       | --       |                                               |
-| - Hemp                      | 1 gp     | 20 lbs.  | Holds 500 lbs.                                |
-| - Silk                      | 10 gp    | 8 lbs.   | Holds 200 lbs.                                |
-| **Sack**                    | --       | --       |                                               |
-| - Large                     | 2 sp     | ½ lb.    |                                               |
-| - Small                     | 5 cp     | *        |                                               |
-| Sealing Wax (lb.)           | 1 gp     | 1 lb.    |                                               |
-| Sewing Needle               | 5 sp     | *        |                                               |
-| Sextant                     | 20 gp    | 1 lb     |                                               |
-| Sharkskin (per sq. ft.)     | 3 gp     | —        | Grip surface; tool hold                       |
-| Signal Whistle              | 8 sp     | *        |                                               |
-| Signet Ring or Seal         | 5 gp     | *        |                                               |
-| Soap (lb.)                  | 5 sp     | 1 lb.    |                                               |
-| Spyglass                    | 1,000 gp | 1 lb.    | ×3 magnification                              |
-| Strapping (pair)            | 5 sp     | 2 lbs.   | Silent movement aid                           |
-| Sword Stick                 | 15 gp    | 3 lb.    | Concealed short sword                         |
-| Tar Paper                   | 1 sp     | 1 lb.    | Noise reduction (glass); holds shards         |
-| **Tent**                    | --       | --       |                                               |
-| - Large                     | 25 gp    | 20 lbs.  | 6 person capacity                             |
-| - Pavilion                  | 100 gp   | 50 lbs.  | 12 person capacity                            |
-| - Small                     | 5 gp     | 10 lbs.  | 2 person capacity                             |
-| Torch                       | 1 cp     | 1 lb.    |                                               |
-| Water Clock                 | 1,000 gp | 200 lbs. |                                               |
-| Wax Pad                     | 5 sp     | —        | Key/seal impressions                          |
-| Whetstone                   | 2 cp     | 1 lb.    |                                               |
-| Wineskin                    | 8 sp     | 1 lb.    | Holds 2 quarts                                |
-| Winter Blanket              | 5 sp     | 3 lbs.   |                                               |
-| Wire Cutters                | 8 gp     | 1 lb.    |                                               |
-| Woodland Suit               | 30 gp    | 5 lbs.   | +5% Hide in Shadows outdoors                  |
-| Writing Ink (vial)          | 8 gp     | *        |                                               |
+**Table 43: Miscellaneous Equipment**
 
-* Ten such items weigh one pound.
+|Item|Cost|Weight|Notes|
+|---|---|---|---|
+|Acid, lock-eating (vial)|100+ gp|1 lb.|Rare|
+|Aniseed Vial|2 gp|—|Breaks scent trails (1d4+1 hrs)|
+|Arm Sling|5 sp|*|Pick Pockets special|
+|**Arrows, Special Purpose**|--|--||
+|- Adamantite Stone Biter|25 gp|—|Works on hard stone|
+|- Grapple, Major|25 gp|1 lb.|Deploys full grapple on tension|
+|- Grapple, Minor|10 gp|—|Small grapple head; short range anchor|
+|- Stone Biter|5 gp|—|Anchors in soft stone (brick/sandstone)|
+|- Wood Biter|2 gp|—|Best in wood; rope anchor|
+|**Backpack**|--|--||
+|- Canvas|4 sp|1 lb.||
+|- Wicker|5 sp|3 lbs.||
+|- Leather|2 gp|2 lbs.||
+|Barrel, small|2 gp|30 lbs.||
+|**Basket**|--|--||
+|- Large|3 sp|1 lb.||
+|- Small|5 cp|*||
+|Bell|1 gp|*||
+|**Belt Pouch**|--|--||
+|- Large|1 gp|1 lb.||
+|- Small|7 sp|½ lb.||
+|Blade Pole|3 gp|4 lb.|Cuts tripwires at range|
+|**Block and Tackle**|--|--||
+|- Light|8 gp|10 lbs.|200 lb lift capacity|
+|- Medium|15 gp|50 lbs.|1,000 lb lift capacity|
+|- Heavy|25 gp|200 lbs.|5,000 lb lift capacity|
+|Bolt Case|1 gp|1 lb.|carries 12 heavy or 18 light quarrels|
+|Bucket|5 sp|3 lbs.||
+|Caltrops (10)|1 gp|2 lb.|Area hazard; slows pursuit|
+|**Chain** (per ft.)|--|--||
+|- Heavy|4 gp|3 lbs.||
+|- Light|3 gp|1 lb.||
+|Charcoal Kit|2 cp|*|+2% Hide in Shadows|
+|**Chest**|--|--||
+|- Large|2 gp|25 lbs.||
+|- Small|1 gp|10 lbs.||
+|Climbing Dagger|5 gp|1 lb.|+10% climb|
+|Climbing Pole|1 gp|8 lb.|Notched climb aid|
+|Climbing Spikes (10)|1 gp|5 lb.|Anchors; slow placement; noisy|
+|**Cloth** (10 sq. yds.)|--|--||
+|- Common|7 gp|10 lbs.||
+|- Fine|50 gp|10 lbs.||
+|- Rich|100 gp|10 lbs.||
+|Candle|1 cp|*||
+|Canvas (sq. yd.)|4 sp|1 lb.||
+|Chalk|1 cp|*||
+|Chisel, lock|5 gp|2 lbs.|Force locks|
+|Crampons|4 gp|2 lbs.|+15% Climb Walls|
+|Crowbar|2 gp|5 lb.|+10 bend bars; forced entry|
+|File, metal|3 gp|1 lb.||
+|Fishhook|1 sp|**||
+|Fishing Net (10-ft. sq.)|4 gp|5 lbs.||
+|Flint and Steel|5 sp|*||
+|Funnel, narrow-necked|2 sp|*|Lock lubrication|
+|Glass Bottle|10 gp|*||
+|Grappling Hook|8 sp|4 lbs.||
+|Grappling Iron|4 gp|4 lb.|Rope anchor; +40% climb; noisy; variable hold|
+|Hacksaw|5 gp|2 lbs.||
+|Healer's Bag|6 gp|3 lbs.|+1 Healing proficiency|
+|Holy Item|25 gp|*||
+|Hooked Pole|2 gp|4 lb.|Retrieve/snare objects|
+|Hourglass|25 gp|1 lb.||
+|Iron Pot|5 sp|2 lbs.||
+|Ladder (10 ft.)|5 cp|20 lbs.||
+|**Lantern**|--|--||
+|- Beacon|150 gp|50 lbs.|240-ft. radius|
+|- Bullseye|12 gp|3 lbs.|60-ft. beam|
+|- Hand Lamp|5 gp|1 lb.|Dim focused light; stealth work|
+|- Hand-Warming|1 gp|1 lb.|Prevents cold penalties|
+|- Hooded|7 gp|2 lbs.|30-ft. radius|
+|Limewood Strips (10)|5 sp|—|Opens simple latches|
+|Listening Cone|2 gp|1 lb.|+5 Detect Noise|
+|**Lock**|--|--||
+|- Good|100 gp|1 lb.||
+|- Poor|20 gp|1 lb.||
+|Magnifying Glass|100 gp|*|Fire starting|
+|Map or Scroll Case|8 sp|½ lb.||
+|Marbles (Bag of 30)|2 sp|1 lb.|Slows movement; trip hazard|
+|Merchant's Scale|2 gp|1 lb.|Coin verification|
+|Mirror, Metal|10 gp|*||
+|Mirror Pole|5 gp|4 lb.|Corner/overlook vision|
+|Musical Instrument|5–100 gp|½–3 lbs.||
+|**Oil** (flask)|--|--||
+|- Greek Fire|10 gp|2 lbs.|Combat use|
+|- Lamp Oil|6 cp|1 lb.|6 hours|
+|Paper (sheet)|2 gp|**||
+|Papyrus (sheet)|8 sp|**||
+|Parchment (sheet)|1 gp|**||
+|Perfume (vial)|5 gp|*||
+|Piton|3 cp|½ lb.||
+|Plant Dyes|5 sp|*|+2% Hide in Shadows outdoors|
+|Quiver|8 sp|1 lb.|carries 24 sheaf or 30 flight arrows|
+|**Rope** (50 ft.)|--|--||
+|- Hemp|1 gp|20 lbs.|Holds 500 lbs.|
+|- Silk|10 gp|8 lbs.|Holds 200 lbs.|
+|**Sack**|--|--||
+|- Large|2 sp|½ lb.||
+|- Small|5 cp|*||
+|Sealing Wax (lb.)|1 gp|1 lb.||
+|Sewing Needle|5 sp|*||
+|Sextant|20 gp|1 lb||
+|Sharkskin (per sq. ft.)|3 gp|—|Grip surface; tool hold|
+|Signal Whistle|8 sp|*||
+|Signet Ring or Seal|5 gp|*||
+|Soap (lb.)|5 sp|1 lb.||
+|Spyglass|1,000 gp|1 lb.|×3 magnification|
+|Strapping (pair)|5 sp|2 lbs.|Silent movement aid|
+|Sword Stick|15 gp|3 lb.|Concealed short sword|
+|Tar Paper|1 sp|1 lb.|Noise reduction (glass); holds shards|
+|**Tent**|--|--||
+|- Large|25 gp|20 lbs.|6 person capacity|
+|- Pavilion|100 gp|50 lbs.|12 person capacity|
+|- Small|5 gp|10 lbs.|2 person capacity|
+|Torch|1 cp|1 lb.||
+|Water Clock|1,000 gp|200 lbs.||
+|Wax Pad|5 sp|—|Key/seal impressions|
+|Whetstone|2 cp|1 lb.||
+|Wineskin|8 sp|1 lb.|Holds 2 quarts|
+|Winter Blanket|5 sp|3 lbs.||
+|Wire Cutters|8 gp|1 lb.||
+|Woodland Suit|30 gp|5 lbs.|+5% Hide in Shadows outdoors|
+|Writing Ink (vial)|8 gp|*||
+
+\* Ten such items weigh one pound.
 
 ** No appreciable weight for encumbrance purposes.
 
@@ -652,6 +700,8 @@ The following items represent the general tools, supplies, containers, and exped
 
 In most civilized lands ownership of, and trade in, these items is viewed with suspicion even where they are not specifically outlawed. Some may be purchased openly from craftsmen or merchants, while others are available only through thieves' guilds, smugglers, fences, and similar contacts.
 
+**Table 44: Illicit Goods**
+
 | Item                     | Cost     | Weight  | Notes                                |
 | ------------------------ | -------- | ------- | ------------------------------------ |
 | **Biased Dice**          | --       | --      |                                      |
@@ -685,7 +735,7 @@ In most civilized lands ownership of, and trade in, these items is viewed with s
 | Weaponblack              | 1 gp     | ½ lb.   | +5% Hide in Shadows                  |
 | Wrist Sheath             | 3 sp     | *       |                                      |
 
-* Ten such items weigh one pound.
+\* Ten such items weigh one pound.
 
 **Biased Dice:** Weighted dice designed for gambling fraud. Characters using biased dice gain a -1 bonus to Gaming proficiency checks when cheating successfully.
 
@@ -740,7 +790,10 @@ The device must be primed before initiative is rolled in order to be used in com
 **Wrist Sheath:** A concealed forearm sheath designed to hide and quickly deploy a knife or dagger.
 
 ### Armour
-The descriptions that follow discuss the common forms of armour encountered in most campaigns, together with any special properties, cultural associations, or optional rules relevant to their use. Unless otherwise noted, armour requires periodic maintenance and repair to remain effective. 
+
+The descriptions that follow discuss the common forms of armour encountered in most campaigns, together with any special properties, cultural associations, or optional rules relevant to their use. Unless otherwise noted, armour requires periodic maintenance and repair to remain effective.
+
+**Table 45: Armour**
 
 | Amour                    | AC  | Cost     | Weight  |
 | ------------------------ | --- | -------- | ------- |
@@ -766,7 +819,10 @@ The descriptions that follow discuss the common forms of armour encountered in m
 | Field Plate Armour       | 2   | 2000 gp  | 60 lb.  |
 | Dwarven Plate Mail       | 2*  | 6000+ gp | 75 lb.  |
 | Full Plate Armour        | 1   | 4000+ gp | 70 lb.  |
+
 **Note:** The racial armours listed in the above table are special versions of high-quality armour (see next sub-section). They are rarely, if ever, made for other races. If a craftsman could be convinced to make a set for a member of a different race, the cost would be at least 150-200% the price listed above.
+
+#### Armour Descriptions
 
 **Leather armour (AC 8):** Hardened and shaped leather armour worn over ordinary clothing. It provides modest protection while remaining light, durable, and relatively comfortable for extended wear.
 
@@ -790,7 +846,7 @@ Studded leather is relatively inexpensive and easier to manufacture than most me
 
 When overbearing or grappling, the wearer inflicts additional piercing damage on a successful attack. A Small wearer inflicts 1d2 points of damage, a Medium wearer 1d3 points, and a Large wearer 1d4 points. This damage is inflicted for each successful overbear or grapple attack, not for each round a target remains grappled.
 
-**Gnomish Workman's Leather armour (AC 7):** A specialised form of high-quality gnomish leather armour, workman's leather is covered with pouches, loops, tool racks, hidden compartments, and ingenious fastening systems. Laden with tools, spare parts, and half-finished inventions, it provides protection equivalent to studded leather armour. A suit can carry up to 10 pounds of equipment, of which up to half may be concealed in hidden compartments.
+**Gnomish Workman's Leather armour (AC 7):** A specialized form of high-quality gnomish leather armour, workman's leather is covered with pouches, loops, tool racks, hidden compartments, and ingenious fastening systems. Laden with tools, spare parts, and half-finished inventions, it provides protection equivalent to studded leather armour. A suit can carry up to 10 pounds of equipment, of which up to half may be concealed in hidden compartments.
 
 In theory, the underlying armour is as quiet and flexible as other high-quality gnomish leather. In practice, the assortment of gadgets, tools, and curiosities attached to it usually produces a constant rattle of metal, leather, and mechanisms. Most suits are highly individualized and frequently modified, with owners adding new compartments, locks, traps, and storage solutions whenever inspiration strikes.
 
@@ -844,7 +900,7 @@ Human and dwarven smiths can imitate its appearance and partial properties, but 
 
 It is primarily crafted for thieves or covert operatives who expect both infiltration and sudden combat. The reduction in noise improves stealth under armour, but the added bulk and stiffness interfere with fine motor tasks and climbing.
 
-  ***Effect on Thief Skills (wearing silenced elven chain):*** Pick Pockets -25%; Open Locks -5%; Find/Remove Traps -5%; Hide in Shadows -10%; Climb Walls -25%. Move Silently, Detect Noise, and Read Languages are unaffected.
+_Effect on Thief Skills (wearing silenced elven chain):_ Pick Pockets -25%; Open Locks -5%; Find/Remove Traps -5%; Hide in Shadows -10%; Climb Walls -25%. Move Silently, Detect Noise, and Read Languages are unaffected.
 
 Such armour is itself a significant undertaking to commission, requiring an exceptional armourer willing to adapt elven techniques—often the focus of entire quests or patron-driven missions in its own right.
 
@@ -897,7 +953,9 @@ Dwarven smiths rarely forge such armour for non-dwarves. The craft is closely gu
 Full plate is exceedingly rare and is usually associated with rulers, great nobles, renowned champions, and the most prestigious knightly orders. In many campaigns, ownership of a suit is as much a symbol of rank and privilege as it is a military asset. Such armour is often bestowed as a reward for extraordinary service, inherited as a treasured heirloom, or sought as the prize of a great quest.
 
 Compared to field plate, full plate offers superior protection through masterful craftsmanship and careful tailoring rather than additional weight. Properly fitted, it allows remarkable freedom of movement for such a heavily armoured suit. However, it remains cumbersome to don without assistance and is rarely worn except when battle or ceremony demands it.
+
 #### High Quality Armours
+
 Master armourers are able to produce special high-quality armour. The benefits of such armour depend on the race of the craftsman overseeing the work, reflecting the fact each culture has its own perspective of what constitutes high quality, as well as their own armouring traditions and techniques. High quality armours cost at least 10 times what normal armour of the same type does, and normally 15 times as much if the person being fitted is of a different race than the craftsman. It also takes 4 times longer to craft.
 
 **Dwarven made**: Dwarves value durability and their armour exemplifies this. Metal armours crafted by dwarves gain a +6 to item saving throws (cumulative with any magic bonuses). They also have twice the damage points of ordinary armour if rules for damage to armour are used.
@@ -911,16 +969,22 @@ Master armourers are able to produce special high-quality armour. The benefits o
 **Human made:** All high-quality human armour is rugged, though not at the level of dwarven craftsmanship. Armours with a base AC of 4 or worse, gain a +2 to item saving throws, while those better gain a +4. They have one and a half times the damage points of ordinary armour if rules for damage to armour are used. Further armours with a base AC better than 4 also give the wearer a +2 to saving throws vs. Breath Weapons and Rods, Staffs, or Wands.
 
 ### Helms
+
 The various helms and helmets offer differing degrees of protection to the wearer's head. Attacks that explicitly or implicitly target the head or face (called shots, saps, falling objects, etc) are made against the AC of the helm worn (if any), but otherwise the helm has no effect on AC. The wearing of helms also affects hearing and vision as given in the table below.
 
-| Helm               | AC  | Cost  | Weight | Notes *                                          |
-| ------------------ | --- | ----- | ------ | ------------------------------------------------ |
-| Cap                | 7   | 4 gp  | 3 lb.  | -1 (-5%) to hearing checks                       |
-| Coif               | 5   | 10 gp | 5 lb.  | -1 (-5%) to hearing checks                       |
-| Open-Face Helmet   | 4   | 12 gp | 7 lb   | -2 (-10%) to hearing checks, -1 to vision checks |
-| Closed-Face Helmet | 3   | 20 gp | 10 lb  | -3 (-15%) to hearing checks, -2 to vision checks |
-| Great Helm         | 1   | 80 gp | 20 lb  | -4 (-20%) to hearing checks, -3 to vision checks |
-* values in parentheses apply to a thief's Hear Noise ability. 
+**Table 46: Helms**
+
+|Helm|AC|Cost|Weight|Notes *|
+|---|---|---|---|---|
+|Cap|7|4 gp|3 lb.|-1 (-5%) to hearing checks|
+|Coif|5|10 gp|5 lb.|-1 (-5%) to hearing checks|
+|Open-Face Helmet|4|12 gp|7 lb|-2 (-10%) to hearing checks, -1 to vision checks|
+|Closed-Face Helmet|3|20 gp|10 lb|-3 (-15%) to hearing checks, -2 to vision checks|
+|Great Helm|1|80 gp|20 lb|-4 (-20%) to hearing checks, -3 to vision checks|
+
+\* values in parentheses apply to a thief's Hear Noise ability. 
+
+#### **Helm Descriptions**
 
 **Cap (AC 7)** : A cap is a padded, leather, or steel skullcap worn much like a close-fitted cap, beret, or bonnet. Caps are usually worn with padded armour, leather, studded leather, hide, or any other lightweight protection.
 
@@ -930,20 +994,26 @@ The various helms and helmets offer differing degrees of protection to the weare
 
 **Closed-Face Helmet (AC 3):** The closed-face helmets are identical to the open-face helmet except for the addition of a visored faceplate. This type of helmet is commonly worn by officers and sergeants-at-arms and are most commonly worn with plate mail. When the visor is up, treat as an open-face helmet.
 
-**Great Helm (AC 1):** A great helm is any massive metal helm that covers the entire head, including the neck and often the upper shoulders. The only gaps in the protection are found in the narrow slits that allow limited vision, and some small holes to permit breathing. The visor is not normally removable. It is rare to find a great helm used with armor lighter than banded mail. Great helms are most often found in combination with plate mail or heavier armor.
-### Shields
-Shields add protection against attacks from the front or flanks, or alternatively shields larger than a targe may be slung providing protection against rear attacks only. Shields cannot protect both front and rear simultaneously. Shields may also be used to make certain types of attacks (see Combat Chapter). 
+**Great Helm (AC 1):** A great helm is any massive metal helm that covers the entire head, including the neck and often the upper shoulders. The only gaps in the protection are found in the narrow slits that allow limited vision, and some small holes to permit breathing. The visor is not normally removable. It is rare to find a great helm used with armour lighter than banded mail. Great helms are most often found in combination with plate mail or heavier armour.
 
-| Shield        | Cost  | Weight |
-| ------------- | ----- | ------ |
-| Buckler/Targe | 1 gp  | 3 lb   |
-| Small Shield  | 3 gp  | 5 lb   |
-| Medium Shield | 7 gp  | 10 lb  |
-| Tower Shield  | 10 gp | 15 lb  |
+### Shields
+
+Shields add protection against attacks from the front or flanks, or alternatively shields larger than a targe may be slung providing protection against rear attacks only. Shields cannot protect both front and rear simultaneously. Shields may also be used to make certain types of attacks (see Combat Chapter).
+
+**Table 47: Shields**
+
+|Shield|Cost|Weight|
+|---|---|---|
+|Buckler/Targe|1 gp|3 lb|
+|Small Shield|3 gp|5 lb|
+|Medium Shield|7 gp|10 lb|
+|Tower Shield|10 gp|15 lb|
+
+#### **Shield Descriptions**
 
 **Buckler (or Targe):** A buckler is a very small shield, usually round and strapped to the forearm rather than gripped in the hand. Its compact size allows it to be worn while using missile weapons, making it popular among archers, crossbowmen, scouts, and other lightly equipped warriors.
 
-A buckler does not provide a constant armour Class bonus. Instead, once per round the wearer may declare its use against a single incoming attack before the attack roll is made. Against *that attack only*, the buckler improves the wearer's armour Class by 1 (or more if the buckler is magical).
+A buckler does not provide a constant armour Class bonus. Instead, once per round the wearer may declare its use against a single incoming attack before the attack roll is made. Against _that attack only_, the buckler improves the wearer's armour Class by 1 (or more if the buckler is magical).
 
 **Small Shield:** A small shield is typically a round shield about 2 feet in diameter, carried on the forearm and gripped with the shield hand. Its relatively light weight allows the wearer to carry small items in that hand (a torch, lantern, map, etc), though not to wield another weapon.
 
@@ -956,7 +1026,9 @@ A medium shield provides protection against any number of frontal and flanking a
 **Tower Shield:** Also known as a kite shield or body shield, a tower shield is a massive shield designed to protect much of the wearer's body. Typically reaching from shoulder or chin to shin, it is strapped firmly to the forearm and requires the full use of the shield arm to carry.
 
 A tower shield grants a +1 armour Class bonus against melee attacks and a +2 armour Class bonus against missile attacks. As with other shields, these bonuses apply only against frontal and flanking attacks.
+
 ### Donning and Doffing Armour
+
 There are occasions when a character must know how quickly armour can be put on or removed. Night attacks, ambushes, accidents, and similar emergencies rarely allow the luxury of full preparation.
 
 Armour that consists primarily of a single garment or piece (such as leather armour, padded armour, hide armour, or chain mail) requires **1 round** to don with assistance, or **2 rounds** without assistance. Metal armours of similarly simple construction require **2 rounds** with assistance, or **4 rounds** without assistance.
@@ -970,40 +1042,53 @@ Complex armours may be donned piecemeal. Each round spent dressing improves the 
 Removing armour is considerably faster. Simple armours can be removed in **1 round**. Complex armours require **1d4+1 rounds** to remove. If the wearer is willing to cut straps, bend fittings, or otherwise damage the armour, this time is halved (round fractions up).
 
 ### Creatures with Natural Armour
+
 Some creatures possess a natural Armour Class equal to or better than that provided by manufactured armour. Such creatures may still benefit from armour, barding, or similar protection.
 
 Rather than replacing the creature's existing Armour Class, armour improves its natural Armour Class by an amount determined by the type of armour worn, up to a maximum Armour Class based on that armour's protective value.
 
-| Armour or Barding Type           | AC Bonus | Maximum AC |
-| -------------------------------- | -------- | ---------- |
-| Leather or Padded                | +1       | 4          |
-| Ring, Studded, Scale, Brigandine | +2       | 3          |
-| Chain                            | +3       | 2          |
-| Banded or Splint                 | +4       | 1          |
-| Plate                            | +5       | 0          |
-| Field Plate                      | +6       | -1         |
-| Full Plate                       | +7       | -2         |
+**Table 48: Armour with Natural Armour**
+  
+|Armour or Barding Type|AC Bonus|Maximum AC|
+|---|---|---|
+|Leather or Padded|+1|4|
+|Ring, Studded, Scale, Brigandine|+2|3|
+|Chain|+3|2|
+|Banded or Splint|+4|1|
+|Plate|+5|0|
+|Field Plate|+6|-1|
+|Full Plate|+7|-2|
+
 For example, a horse with a natural AC of 7 wearing leather barding improves to AC 6. If fitted with chain barding its AC improves to 4. A creature with a natural AC of 1 would gain no benefit from chain barding, as chain cannot improve Armour Class beyond AC 2.
+
 ### Damage to Armour (Optional Rule)
+
 For campaigns that wish to track armour condition, each suit of armour, shield, and helm has a number of **Damage Points (DP)** representing its structural integrity.
 
 Ordinary armour has DP equal to **50 - (AC × 5)**, helms have DP equal to **40 - (Helm AC × 5)**, and shields have DP equal to **5 + (Weight × 2)**.
 
 For magical armour, use the AC of the underlying armour type when calculating DP; enchantment bonuses do not increase an item's Damage Points. Thus a suit of _plate mail +3_ has the same DP as ordinary plate mail. However, armour suitable for enchantment is often high-quality armour and may therefore benefit from any additional DP granted by superior craftsmanship.
+
 #### Taking Damage
+
 Armour normally suffers damage only when its wearer is struck by a **critical hit**. A critical hit automatically inflicts **1 DP** of damage, regardless of the amount of damage caused by the attack.
 
 Damage is applied as follows:
 
 - If the attack was specifically directed at the head (such as a called shot or sap attack), the **helm** loses 1 DP instead of the armour.
+    
 - If the attack was blocked, parried, or otherwise intercepted with a shield, the **shield** loses 1 DP instead of the armour.
+    
 - Particularly devastating attacks, significant accidents, or deliberate attempts to damage equipment may inflict additional DP loss at the DM's discretion.
-
+    
 When an item is reduced to **0 DP**, it is ruined and no longer provides protection. Any item with at least **1 DP** remaining can be repaired.
+
 #### Repairing Damage
+
 Repairing armour typically requires access to a suitable craftsman, forge, workshop, or similar facilities. Each point of damage repaired generally costs 5% of the armour's original value, though costs may vary depending on circumstances.
 
 ### Weapons
+
 The following tables lists the most common weapons found in a typical campaign, along with their cost, weight, damage, and relevant combat statistics. The weapons are divided into weapons usable only in melee, weapons that may be used in melee or at range, and weapons that are ranged only.
 
 A weapon’s listed statistics assume a standard, well-made example suitable for adventuring use. Poorly made or improvised weapons may perform worse at the DM’s discretion, while masterwork or culturally refined variants may offer minor improvements or special characteristics.
@@ -1012,226 +1097,227 @@ Weapon size, speed, and reach are abstracted within the combat system. Unless ot
 
 Some weapons may be used in special manoeuvres such as disarming, grappling, or parrying. These applications are described in the combat rules; unless explicitly stated, weapons do not confer special mechanical advantages beyond their listed statistics.
 
-Missile weapons require appropriate ammunition (arrows, bolts, stones, etc.). 
-#### Melee-Only Weapons
+Missile weapons require appropriate ammunition (arrows, bolts, stones, etc.).
 
-|                      |          |         |          |          |           | **Melee** | **Damage vs. Size** |           |
-| -------------------- | -------- | ------- | -------- | -------- | --------- | --------- | ------------------- | --------- |
-| **Weapon**           | **Cost** | **Wt.** | **Size** | **Type** | **Speed** | **Reach** | **Sm-Med**          | **Large** |
-| Adze                 | 3 sp     | 4       | S        | S/P      | 4         | 1         | 1d4+1               | 1d4       |
-| Ankus                |          | 4       | M        | P/B      | 6         | 1         | 1d4                 | 1d4       |
-| Axe, Battle          | 5 gp     | 7       | M        | S        | 7         | 1         | 1d8                 | 1d8       |
-| Axe, Stone           |          | 6       | M        | B/S      | 6         | 1         | 1d6                 | 1d4       |
-| Axe, Two-handed h    | 10 gp    | 10      | L        | S        | 9         | 1         | 1d10                | 2d8       |
-| Bagh nakh            |          | 1       | S        | S        | 2         | 1         | 1d2                 | 1d2       |
-| Belaying pin         | 2 cp     | 2       | S        | B        | 4         | 1         | 1d3                 | 1d3       |
-| Bo sticks            | 2 cp     | 4       | L        | B        | 3         | 1         | 1d6                 | 1d4       |
-| Brandistock          |          | 5       | M        | P        | 7         | 1         | 1d6                 | 1d6       |
-| Cestus               | 1 gp     | 2       | S        | B        | 2         | 1         | 1d4                 | 1d3       |
-| Chain h, s           | 5 sp     | 3       | L        | B        | 5         | 2         | 1d4+2               | 1d4+1     |
-| Chijikiri h          |          | 6       | M        | P/B      | 7         | 1(2)      | 1d6                 | 1d8       |
-| Club, Great          | 2 gp     | 15      | L        | B        | 9         | 1         | 2d4                 | 1d6+1     |
-| Dirk                 | 2 gp     | 1       | S        | P        | 2         | 1         | 1d4                 | 1d3       |
-| Jambiya              |          | 1       | S        | P/S      | 3         | 1         | 1d4                 | 1d4       |
-| Katar                |          | 1       | S        | P        | 2         | 1         | 1d3+1               | 1d3       |
-| Main-gauche          | 3 gp     | 2       | S        | P/S      | 2         | 1         | 1d4                 | 1d3       |
-| Parrying Dagger      |          | 1       | S        | P        | 2         | 1         | 1d3                 | 1d3       |
-| Elbow Spike          | 1 gp     | 2       | S        | S        | 2         | 1         | 1d4                 | 1d4       |
-| Footman’s Flail      | 15 gp    | 15      | L        | B        | 7         | 1         | 1d6+1               | 2d4       |
-| Grain Flail          | 5 sp     | 3       | M        | B        | 6         | 1         | 1d4                 | 1d4       |
-| Horseman’s Flail     | 8 gp     | 5       | M        | B        | 6         | 1         | 1d4+1               | 1d4+1     |
-| Fork                 | 8 sp     | 6       | L        | P        | 7         | 1         | 1d6                 | 1d6+1     |
-| Gaff/hook            | 5 cp     | 2       | S        | P        | 2         | 1         | 1d4                 | 1d3       |
-| Glove Nail           | 2 gp     | 2       | S        | P        | 2         | 1         | 1d4+1               | 1d4       |
-| Gunsen               |          | 1       | S        | B/P      | 2         | 1         | 1d3                 | 1d2       |
-| Ice Pick             | 1 gp     | 1/2     | S        | P        | 2         | 1         | 1d4                 | 1d3       |
-| Iuak (snow blade)    | 10       | 3       | M        | S        | 4         |           | 1d4                 | 1d6       |
-| Head Spike           | 10 gp    | 10      | M        | P        | 4         | 1         | 1d6                 | 1d8       |
-| Holy symbol, big     | 25 gp    | 4       | S        | B        | 5         | 1         | 1d6                 | 1d3       |
-| Jitte                |          | 2       | S        | B        | 2         | 1         | 1d4                 | 1d2       |
-| Kama                 |          | 2       | S        | P/S      | 4         | 1         | 1d6                 | 1d4       |
-| Kau sin ke           |          | 4       | M        | B        | 6         | 1         | 1d8                 | 1d6       |
-| Kawanaga h           |          | 1       | S        | P/B      | 7         | 2         | 1d3                 | 1d2       |
-| Knee Spike           | 3 gp     | 2       | S        | P        | 1         | 1         | 1d4                 | 1d4       |
-| Harness Knife        | —        | —       | S        | P/S      | 2         | 1         | 1d2                 | 1         |
-| Kusari-gama h        |          | 3       | M        | P/S/B    | 6         | 2         | 1d6                 | 1d4       |
-| Lance, Medium m      | 10 gp    | 10      | L        | P        | 7         | 2         | 1d6+1               | 2d6       |
-| Lance, Heavy m       | 15 gp    | 15      | L        | P        | 10        | 2         | 1d8+1               | 3d6       |
-| Lance, Jousting m    | 20 gp    | 20      | L        | B        | 10        | 2         | 1d3–1               | 1d2–1     |
-| Mace                 |          |         |          |          |           |           |                     |           |
-| Footman's Mace       | 8 gp     | 10      | M        | B        | 7         | 1         | 1d6+1               | 1d6       |
-| Mace-axe             |          | 9       | L        | B/S      | 8         | 1         | 2d4                 | 1d6+1     |
-| Machete or Parang    | 8 gp     | 5       | M        | S        | 6         | 1         | 1d8                 | 1d8       |
-| Mancatcher h, 6      | 30 gp    | 8       | L        | —        | 7         | 1         | —                   | —         |
-| Maul                 |          | 10      | L        | B        | 8         | 1         | 2d4                 | 1d10      |
-| Morningstar          | 10 gp    | 12      | M        | B/P      | 7         | 1         | 2d4                 | 1d6+1     |
-| Pick (Farming tool)  | 4 gp     | 8       | L        | P        | 8         | 1         | 1d6                 | 1d6+1     |
-| Military Pick        |          |         |          |          |           |           |                     |           |
-| Footman's Pick       | 8 gp     | 6       | M        | P        | 7         | 1         | 1d6+1               | 2d4       |
-| Horseman’s Pick      | 7 gp     | 4       | M        | P        | 5         | 1         | 1d4+1               | 1d4       |
-| Pike c, h            |          | 12      | L        | P        | Sl(13)    | 3         | 1d6                 | 1d12      |
-| **Polearms**         |          |         |          |          |           |           |                     |           |
-| - Awl Pike c         | 5 gp     | 12      | L        | P        | Sl(13)    | 3         | 1d6                 | 1d12      |
-| - Bardiche           | 7 gp     | 12      | L        | S        | Sl(9)     | 2         | 2d4                 | 2d6       |
-| - Bec de Corbin h    | 8 gp     | 10      | L        | P/B      | Sl(9)     | 2         | 1d8                 | 1d6       |
-| - Bill h             |          | 15      | L        | P/S      | Sl(10)    | 2         | 2d4                 | 1d10      |
-| - Bill-Guisarme h    | 7 gp     | 15      | L        | P/S      | Sl(10)    | 2         | 2d4                 | 1d10      |
-| - Fauchard           | 5 gp     | 7       | L        | S        | Sl(8)     | 2         | 1d6                 | 1d8       |
-| - Fauchard-Fork      | 8 gp     | 9       | L        | P/S      | 8         | 2         | 1d8                 | 1d10      |
-| - Glaive             |          | 8       | L        | S        | Sl(8)     | 2         | 1d6                 | 1d10      |
-| - Glaive-Guisarme h  | 10 gp    | 10      | L        | P/S      | Sl(9)     | 2         | 2d4                 | 2d6       |
-| - Guisarme h         | 5 gp     | 8       | L        | S        | Sl(8)     | 2         | 2d4                 | 1d8       |
-| - Guisarme-Voulge    | 7 gp     | 15      | L        | P/S      | 10        | 2         | 2d4                 | 2d4       |
-| - Halberd h          | 10 gp    | 15      | L        | P/S      | Sl(9)     | 2         | 1d10                | 2d6       |
-| - Hook Fauchard      | 10 gp    | 8       | L        | P/S      | 9         | 2         | 1d4                 | 1d4       |
-| - Lajatan g          |          | 6       | L        | S        | Av(6)     | 1         | 1d10                | 1d10      |
-| - Lucern hammer c, h | 7 gp     | 15      | L        | P/B      | Sl(9)     | 2         | 2d4                 | 1d6       |
-| - Military fork      | 5 gp     | 7       | L        | P        | Av(7)     | 2         | 1d8                 | 2d4       |
-| - Nagimaki m         |          | 6       | M        | S        | Av(6)     | 2         | 1d6                 | 1d8       |
-| - Naginata m         | 8 gp     | 10      | L        | S        | Av(7)     | 2         | 1d8                 | 1d10      |
-| - Partisan c         | 10 gp    | 8       | L        | P        | Sl(9)     | 2         | 1d6                 | 1d6+1     |
-| - Ranseur c          | 6 gp     | 7       | L        | P        | Sl(8)     | 2         | 2d4                 | 2d4       |
-| - Spetum c           | 5 gp     | 7       | L        | P        | Sl(8)     | 2         | 1d6+1               | 2d6       |
-| - Voulge             | 5 gp     | 12      | L        | S        | Sl(10)    | 2         | 2d4                 | 2d4       |
-| Pry bar              | 2 gp     | 5       | M        | B        | Av(5)     | 1         | 1d6                 | 1d3       |
-| Quarterstaff h       | —        | 4       | L        | B        | Fa(4)     | 1         | 1d6                 | 1d6       |
-| Ritiik               | 10 gp    | 6       | L        | P        | 8         | 1         | 1d6+1               | 1d8+1     |
-| Sai                  | 5 sp     | 2       | S        | B        | Fa(2)     | 1         | 1d4                 | 1d2       |
-| Sang kauwh, s        |          | 10      | L        | P/S      | Av(7)     | 1         | 1d8                 | 1d6       |
-| Sap                  | 5 sp     | 1/2     | S        | B        | Fa(2)     | 1         | 1d2                 | 1d2       |
-| Scourge 8            | 2 gp     | 2       | S        | —        | Av(5)     | 1         | 1d4                 | 1d2       |
-| Scythe               | 3 gp     | 8       | L        | P/S      | Sl(8)     | 1         | 1d6+1               | 1d8       |
-| Sickle               | 6 sp     | 3       | S        | S        | Fa(4)     | 1         | 1d4+1               | 1d4       |
-| Sledge hammer h      | 2 gp     | 10      | M        | B        | Sl(8)     | 1         | 1d6+1               | 1d4+1     |
-| Spade h              | 1 gp     | 5       | M        | S/B      | Av(7)     | 1         | 1d4                 | 1d4       |
-| Spear, Long c, h     |          | 8       | L        | P        | Sl(8)     | 2         | —                   | —         |
-| **Swords**           |          |         |          |          |           |           |                     |           |
-| - Bastard            | 25 gp    | 10      | M        | S        | —         | 1         | —                   | —         |
-| - - One-handed       | —        | —       | —        | —        | 6         | —         | 1d8                 | 1d12      |
-| - - Two-handed       | —        | —       | —        | —        | 8         | —         | 2d4                 | 2d8       |
-| - Boku-To            |          |         |          |          |           |           |                     |           |
-| - Broad-             | 10 gp    | 4       | M        | S        | Av(5)     | 1         | 2d4                 | 1d6+1     |
-| - Claymore h         |          | 8       | M        | S        | Av(7)     | 1         | 2d4                 | 2d8       |
-| - Cutlass            | 12 gp    | 4       | M        | S        | Av(5)     | 1         | 1d6+1               | 1d8+1     |
-| - Drusus             | 50 gp    | 3       | M        | S        | Fa(3)     | 1         | 1d6+1               | 1d8+1     |
-| - Estoc              |          | 5       | M        | P        | Av(5)     | 1         | 1d6                 | 1d8       |
-| - Falchion           |          | 8       | M        | S        | Av(5)     | 1         | 1d6+1               | 2d4       |
-| - Gladius            |          | 3       | S        | P        | Fa(3)     | 1         | 1d6                 | 1d8       |
-| - Katana             | 100 gp   | 6       | M        | S/P      | Fa(4)     | 1         | —                   | —         |
-| - - One-handed       | —        | —       | —        | —        | —         | —         | 1d10                | 1d12      |
-| - - Two-handed       | —        | —       | —        | —        | —         | —         | 2d6                 | 2d6       |
-| - Khopesh            | 10 gp    | 7       | M        | S        | Sl(9)     | 1         | 2d4                 | 1d6       |
-| - Long-              | 15 gp    | 4       | M        | S        | Av(5)     | 1         | 1d8                 | 1d12      |
-| - Ninja-to           |          | 5       | M        | S/P      | Fa(3)     | 1         | 1d8                 | 1d6       |
-| - No-dachi           |          | 10      | L        | S/P      | Sl(8)     | 1         | 1d10                | 1d20      |
-| - Rapier             | 15 gp    | 4       | M        | P        | Fa(4)     | 1         | 1d6                 | 1d8       |
-| - Sabre              | 17 gp    | 5       | M        | S        | Av(5)     | 1         | 1d6+1               | 1d8+1     |
-| - Sapara             |          | 4       | S        | S        | Av(5)     | 1         | 1d6+1               | 1d4       |
-| - Scimitar           | 15 gp    | 4       | M        | S        | Av(5)     | 1         | 1d8                 | 1d8       |
-| - Great              |          | 16      | L        | S        | Sl(9)     | 1         | 2d6                 | 4d4       |
-| - Short              | 10 gp    | 3       | S        | P        | Fa(3)     | 1         | 1d6                 | 1d8       |
-| - Spatha             |          | 4       | M        | S        | Av(5)     | 1         | 1d8                 | 1d12      |
-| - Sword-axe          |          | 12      | L        | S        | Sl(10)    | 1         | 1d8+1               | 1d12+1    |
-| - Tulwar             |          | 8       | M        | S        | Av(5)     | 1         | 1d6+1               | 2d4       |
-| - Two-handed         | 50 gp    | 15      | L        | S        | Sl(10)    | 1         | 1d10                | 3d6       |
-| - Wakizashi          | 50 gp    | 3       | M        | S/P      | Fa(3)     | 1         | 1d8                 | 1d8       |
-| Three-piece rod h, s |          | 5       | L        | B        | Av(7)     | 1         | 1d6                 | 1d4       |
-| Whip 11              | 1 sp     | 2       | M        | —        | Sl(8)     | 3         | 1d2                 | 1         |
+**Table 49: Melee-Only Weapons**
 
-#### Melee or Ranged Weapons
+| **Weapon**           | Trg. | **Cost** | **Wt.** | **Size** | **Type** | **Speed** | **Melee** | **Damage vs. Size** |           |
+| -------------------- | ---- | -------- | ------- | -------- | -------- | --------- | --------- | ------------------- | --------- |
+|                      |      |          |         |          |          |           | **Reach** | **Sm-Med**          | **Large** |
+| Adze                 | 1    | 3 sp     | 4       | S        | S/P      | 4         | 1         | 1d4+1               | 1d4       |
+| Ankus                | 2    |          | 4       | M        | P/B      | 6         | 1         | 1d4                 | 1d4       |
+| Axe, Battle          | 4    | 5 gp     | 7       | M        | S        | 7         | 1         | 1d8                 | 1d8       |
+| Axe, Stone           | 3    |          | 6       | M        | B/S      | 6         | 1         | 1d6                 | 1d4       |
+| Axe, Two-handed h    | 4    | 10 gp    | 10      | L        | S        | 9         | 1         | 1d10                | 2d8       |
+| Bagh nakh            | 2E   |          | 1       | S        | S        | 2         | 1         | 1d2                 | 1d2       |
+| Belaying pin         | 1    | 2 cp     | 2       | S        | B        | 4         | 1         | 1d3                 | 1d3       |
+| Bo sticks            | 2E   | 2 cp     | 4       | L        | B        | 3         | 1         | 1d6                 | 1d4       |
+| Brandistock          | 4    |          | 5       | M        | P        | 7         | 1         | 1d6                 | 1d6       |
+| Cestus               | 2    | 1 gp     | 2       | S        | B        | 2         | 1         | 1d4                 | 1d3       |
+| Chain h, s           | 2    | 5 sp     | 3       | L        | B        | 5         | 2         | 1d4+2               | 1d4+1     |
+| Chijikiri h          | 4E   |          | 6       | M        | P/B      | 7         | 1(2)      | 1d6                 | 1d8       |
+| Club, Great          | 2    | 2 gp     | 15      | L        | B        | 9         | 1         | 2d4                 | 1d6+1     |
+| Dirk                 | 2    | 2 gp     | 1       | S        | P        | 2         | 1         | 1d4                 | 1d3       |
+| Jambiya              | 2E   |          | 1       | S        | P/S      | 3         | 1         | 1d4                 | 1d4       |
+| Katar                | 2E   |          | 1       | S        | P        | 2         | 1         | 1d3+1               | 1d3       |
+| Main-gauche          | 2    | 3 gp     | 2       | S        | P/S      | 2         | 1         | 1d4                 | 1d3       |
+| Parrying Dagger      | 2    |          | 1       | S        | P        | 2         | 1         | 1d3                 | 1d3       |
+| Elbow Spike          | 2    | 1 gp     | 2       | S        | S        | 2         | 1         | 1d4                 | 1d4       |
+| Footman’s Flail      | 4    | 15 gp    | 15      | L        | B        | 7         | 1         | 1d6+1               | 2d4       |
+| Grain Flail          | 1    | 5 sp     | 3       | M        | B        | 6         | 1         | 1d4                 | 1d4       |
+| Horseman’s Flail     | 4    | 8 gp     | 5       | M        | B        | 6         | 1         | 1d4+1               | 1d4+1     |
+| Fork                 | 3    | 8 sp     | 6       | L        | P        | 7         | 1         | 1d6                 | 1d6+1     |
+| Gaff/hook            | 1    | 5 cp     | 2       | S        | P        | 2         | 1         | 1d4                 | 1d3       |
+| Glove Nail           | 2    | 2 gp     | 2       | S        | P        | 2         | 1         | 1d4+1               | 1d4       |
+| Gunsen               | 2E   |          | 1       | S        | B/P      | 2         | 1         | 1d3                 | 1d2       |
+| Ice Pick             | 1    | 1 gp     | 1/2     | S        | P        | 2         | 1         | 1d4                 | 1d3       |
+| Iuak (snow blade)    | 2E   | 10       | 3       | M        | S        | 4         |           | 1d4                 | 1d6       |
+| Head Spike           | 2    | 10 gp    | 10      | M        | P        | 4         | 1         | 1d6                 | 1d8       |
+| Holy symbol, big     | 1    | 25 gp    | 4       | S        | B        | 5         | 1         | 1d6                 | 1d3       |
+| Jitte                | 2E   |          | 2       | S        | B        | 2         | 1         | 1d4                 | 1d2       |
+| Kama                 | 1    |          | 2       | S        | P/S      | 4         | 1         | 1d6                 | 1d4       |
+| Kau sin ke           | 2E   |          | 4       | M        | B        | 6         | 1         | 1d8                 | 1d6       |
+| Kawanaga h           | 4E   |          | 1       | S        | P/B      | 7         | 2         | 1d3                 | 1d2       |
+| Knee Spike           | 2    | 3 gp     | 2       | S        | P        | 1         | 1         | 1d4                 | 1d4       |
+| Harness Knife        | 2    | —        | —       | S        | P/S      | 2         | 1         | 1d2                 | 1         |
+| Kusari-gama h        | 4E   |          | 3       | M        | P/S/B    | 6         | 2         | 1d6                 | 1d4       |
+| Lance, Medium m      | 4    | 10 gp    | 10      | L        | P        | 7         | 2         | 1d6+1               | 2d6       |
+| Lance, Heavy m       | 4    | 15 gp    | 15      | L        | P        | 10        | 2         | 1d8+1               | 3d6       |
+| Lance, Jousting m    | 4    | 20 gp    | 20      | L        | B        | 10        | 2         | 1d3–1               | 1d2–1     |
+| Mace                 | 3    |          |         |          |          |           |           |                     |           |
+| Footman's Mace       | 4    | 8 gp     | 10      | M        | B        | 7         | 1         | 1d6+1               | 1d6       |
+| Mace-axe             | 4    |          | 9       | L        | B/S      | 8         | 1         | 2d4                 | 1d6+1     |
+| Machete or Parang    | 2    | 8 gp     | 5       | M        | S        | 6         | 1         | 1d8                 | 1d8       |
+| Mancatcher h, 6      | 4    | 30 gp    | 8       | L        | —        | 7         | 1         | —                   | —         |
+| Maul                 | 3    |          | 10      | L        | B        | 8         | 1         | 2d4                 | 1d10      |
+| Morningstar          | 4    | 10 gp    | 12      | M        | B/P      | 7         | 1         | 2d4                 | 1d6+1     |
+| Pick (Farming tool)  | 1    | 4 gp     | 8       | L        | P        | 8         | 1         | 1d6                 | 1d6+1     |
+| Military Pick        | 4    |          |         |          |          |           |           |                     |           |
+| Footman's Pick       | 4    | 8 gp     | 6       | M        | P        | 7         | 1         | 1d6+1               | 2d4       |
+| Horseman’s Pick      | 4    | 7 gp     | 4       | M        | P        | 5         | 1         | 1d4+1               | 1d4       |
+| Pike c, h            | 4    |          | 12      | L        | P        | 13        | 3         | 1d6                 | 1d12      |
+| **Polearms**         |      |          |         |          |          |           |           |                     |           |
+| - Awl Pike c         | 4    | 5 gp     | 12      | L        | P        | 13        | 3         | 1d6                 | 1d12      |
+| - Bardiche           | 4    | 7 gp     | 12      | L        | S        | 9         | 2         | 2d4                 | 2d6       |
+| - Bec de Corbin h    | 4    | 8 gp     | 10      | L        | P/B      | 9         | 2         | 1d8                 | 1d6       |
+| - Bill h             | 4    |          | 15      | L        | P/S      | 10        | 2         | 2d4                 | 1d10      |
+| - Bill-Guisarme h    | 4    | 7 gp     | 15      | L        | P/S      | 10        | 2         | 2d4                 | 1d10      |
+| - Fauchard           | 4    | 5 gp     | 7       | L        | S        | 8         | 2         | 1d6                 | 1d8       |
+| - Fauchard-Fork      | 4    | 8 gp     | 9       | L        | P/S      | 8         | 2         | 1d8                 | 1d10      |
+| - Glaive             | 4    |          | 8       | L        | S        | 8         | 2         | 1d6                 | 1d10      |
+| - Glaive-Guisarme h  | 4    | 10 gp    | 10      | L        | P/S      | 9         | 2         | 2d4                 | 2d6       |
+| - Guisarme h         | 4    | 5 gp     | 8       | L        | S        | 8         | 2         | 2d4                 | 1d8       |
+| - Guisarme-Voulge    | 4    | 7 gp     | 15      | L        | P/S      | 10        | 2         | 2d4                 | 2d4       |
+| - Halberd h          | 4    | 10 gp    | 15      | L        | P/S      | 9         | 2         | 1d10                | 2d6       |
+| - Hook Fauchard      | 4    | 10 gp    | 8       | L        | P/S      | 9         | 2         | 1d4                 | 1d4       |
+| - Lajatan g          | 4E   |          | 6       | L        | S        | 6         | 1         | 1d10                | 1d10      |
+| - Lucern hammer c, h | 4    | 7 gp     | 15      | L        | P/B      | 9         | 2         | 2d4                 | 1d6       |
+| - Military fork      | 3    | 5 gp     | 7       | L        | P        | 7         | 2         | 1d8                 | 2d4       |
+| - Nagimaki m         | 4E   |          | 6       | M        | S        | 6         | 2         | 1d6                 | 1d8       |
+| - Naginata m         | 4E   | 8 gp     | 10      | L        | S        | 7         | 2         | 1d8                 | 1d10      |
+| - Partisan c         | 4    | 10 gp    | 8       | L        | P        | 9         | 2         | 1d6                 | 1d6+1     |
+| - Ranseur c          | 4    | 6 gp     | 7       | L        | P        | 8         | 2         | 2d4                 | 2d4       |
+| - Spetum c           | 4    | 5 gp     | 7       | L        | P        | 8         | 2         | 1d6+1               | 2d6       |
+| - Voulge             | 4    | 5 gp     | 12      | L        | S        | 10        | 2         | 2d4                 | 2d4       |
+| Pry bar              | 1    | 2 gp     | 5       | M        | B        | 5         | 1         | 1d6                 | 1d3       |
+| Quarterstaff h       | 1    | —        | 4       | L        | B        | 4         | 1         | 1d6                 | 1d6       |
+| Ritiik               | 3E   | 10 gp    | 6       | L        | P        | 8         | 1         | 1d6+1               | 1d8+1     |
+| Sai                  | 2E   | 5 sp     | 2       | S        | B        | 2         | 1         | 1d4                 | 1d2       |
+| Sang kauwh, s        | 2E   |          | 10      | L        | P/S      | 7         | 1         | 1d8                 | 1d6       |
+| Sap                  | 2    | 5 sp     | 1/2     | S        | B        | 2         | 1         | 1d2                 | 1d2       |
+| Scourge 8            | 2    | 2 gp     | 2       | S        | —        | 5         | 1         | 1d4                 | 1d2       |
+| Scythe               | 1    | 3 gp     | 8       | L        | P/S      | 8         | 1         | 1d6+1               | 1d8       |
+| Sickle               | 1    | 6 sp     | 3       | S        | S        | 4         | 1         | 1d4+1               | 1d4       |
+| Sledge hammer h      | 1    | 2 gp     | 10      | M        | B        | 8         | 1         | 1d6+1               | 1d4+1     |
+| Spade h              | 1    | 1 gp     | 5       | M        | S/B      | 7         | 1         | 1d4                 | 1d4       |
+| Spear, Long c, h     | 4    |          | 8       | L        | P        | 8         | 2         | —                   | —         |
+| **Swords**           |      |          |         |          |          |           |           |                     |           |
+| - Bastard            | 4    | 25 gp    | 10      | M        | S        | —         | 1         | —                   | —         |
+| - - One-handed       |      | —        | —       | —        | —        | 6         | —         | 1d8                 | 1d12      |
+| - - Two-handed       |      | —        | —       | —        | —        | 8         | —         | 2d4                 | 2d8       |
+| - Boku-To            | 2E   |          |         |          |          |           |           |                     |           |
+| - Broad-             | 4    | 10 gp    | 4       | M        | S        | 5         | 1         | 2d4                 | 1d6+1     |
+| - Claymore h         | 4    |          | 8       | M        | S        | 7         | 1         | 2d4                 | 2d8       |
+| - Cutlass            | 3    | 12 gp    | 4       | M        | S        | 5         | 1         | 1d6+1               | 1d8+1     |
+| - Drusus             | 4    | 50 gp    | 3       | M        | S        | 3         | 1         | 1d6+1               | 1d8+1     |
+| - Estoc              | 2    |          | 5       | M        | P        | 5         | 1         | 1d6                 | 1d8       |
+| - Falchion           | 4    |          | 8       | M        | S        | 5         | 1         | 1d6+1               | 2d4       |
+| - Gladius            | 4    |          | 3       | S        | P        | 3         | 1         | 1d6                 | 1d8       |
+| - Katana             | 4E   | 100 gp   | 6       | M        | S/P      | 4         | 1         | —                   | —         |
+| - - One-handed       |      | —        | —       | —        | —        | —         | —         | 1d10                | 1d12      |
+| - - Two-handed       |      | —        | —       | —        | —        | —         | —         | 2d6                 | 2d6       |
+| - Khopesh            | 4E   | 10 gp    | 7       | M        | S        | 9         | 1         | 2d4                 | 1d6       |
+| - Long-              | 4    | 15 gp    | 4       | M        | S        | 5         | 1         | 1d8                 | 1d12      |
+| - Ninja-to           | 2E   |          | 5       | M        | S/P      | 3         | 1         | 1d8                 | 1d6       |
+| - No-dachi           | 4E   |          | 10      | L        | S/P      | 8         | 1         | 1d10                | 1d20      |
+| - Rapier             | 2    | 15 gp    | 4       | M        | P        | 4         | 1         | 1d6                 | 1d8       |
+| - Sabre              | 4    | 17 gp    | 5       | M        | S        | 5         | 1         | 1d6+1               | 1d8+1     |
+| - Sapara             | 3E   |          | 4       | S        | S        | 5         | 1         | 1d6+1               | 1d4       |
+| - Scimitar           | 3    | 15 gp    | 4       | M        | S        | 5         | 1         | 1d8                 | 1d8       |
+| - Great              | 4    |          | 16      | L        | S        | 9         | 1         | 2d6                 | 4d4       |
+| - Short              | 2    | 10 gp    | 3       | S        | P        | 3         | 1         | 1d6                 | 1d8       |
+| - Spatha             | 4    |          | 4       | M        | S        | 5         | 1         | 1d8                 | 1d12      |
+| - Sword-axe          | 4    |          | 12      | L        | S        | 10        | 1         | 1d8+1               | 1d12+1    |
+| - Tulwar             | 4E   |          | 8       | M        | S        | 5         | 1         | 1d6+1               | 2d4       |
+| - Two-handed         | 4    | 50 gp    | 15      | L        | S        | 10        | 1         | 1d10                | 3d6       |
+| - Wakizashi          | 2E   | 50 gp    | 3       | M        | S/P      | 3         | 1         | 1d8                 | 1d8       |
+| Three-piece rod h, s | 4E   |          | 5       | L        | B        | 7         | 1         | 1d6                 | 1d4       |
+| Whip 11              | 2    | 1 sp     | 2       | M        | —        | 8         | 3         | 1d2                 | 1         |
 
-|                           |          |         |          |          |           | **Melee** | **Missile** | **Range**  | **Damage vs. Size** |           |
-| ------------------------- | -------- | ------- | -------- | -------- | --------- | --------- | ----------- | ---------- | ------------------- | --------- |
-| **Weapon**                | **Cost** | **Wt.** | **Size** | **Type** | **Speed** | **Reach** | **ROF**     | **S/M/L**  | **Sm-Med**          | **Large** |
-| Axe, Hand/throwing        | 1 gp     | 5       | M        | S        | 4         | 1         | 1/rnd       | 30/60/90   | 1d6                 | 1d4       |
-| Bottle b                  | —        | 2       | S        | B        | 4         | 1         | 1/rnd       | 30/45/60   | 1d3                 | 1d2       |
-| Boomerang 2               |          | 2       | S        | B        | 4         | 1         | 1/rnd       | 60/120/180 | 1d4                 | 1d4       |
-| Club                      | —        | 3       | M        | B        | 4         | 1         | 1/rnd       | 30/60/90   | 1d6                 | 1d3       |
-| Club, War                 |          | 6       | M        | B/S      | 7         | 1         | 1/rnd       | 30/60/90   | 1d6+1               | 1d4+1     |
-| Dagger                    | 2 gp     | 1       | S        | P        | 2         | 1         | 2/rnd       | 30/60/90   | 1d4                 | 1d3       |
-| Dagger, Boneb             | 1 sp     | 1       | S        | P        | 2         | 1         | 2/rnd       | 30/45/60   | 1d2                 | 1d2       |
-| Stiletto                  | 5 sp     | 1/2     | S        | P        | 2         | 1         | 2/rnd       | 30/60/90   | 1d3                 | 1d2       |
-| Dagger, Stone b           | 2 sp     | 1       | S        | P        | 2         | 1         | 2/rnd       | 30/45/60   | 1d3                 | 1d2       |
-| Grapple                   | 5 gp     | 3       | S        | P/B      | 7         | 1         | 1/2 rnd     | 30/60/90   | 1d4                 | 1d4       |
-| Hammer                    | 5 sp     | 3       | S        | B        | 4         | 1         | 1/rnd       | 30/60/90   | 1d4                 | 1d3       |
-| Harpoon h                 | 20 gp    | 6       | L        | P        | 7         | 2         | 1/rnd       | 30/60/90   | 2d4                 | 2d6       |
-| Harpoon, Bone b, h        |          | 5       | L        | P        | 7         | 2         | 1/rnd       | 30/45/60   | 1d6                 | 1d10      |
-| Hatchet                   | 2 gp     | 3       | S        | S        | 3         | 1         | 1/rnd       | 30/60/90   | 1d4                 | 1d4       |
-| Javelin                   | 5 sp     | 2       | M        | P        | 4         | 1         | 1/rnd       | 60/120/180 | 1d6                 | 1d6       |
-| Javelin, Stone b          | 5 cp     | 2       | M        | P        | 4         | 1         | 1/rnd       | 45/90/135  | 1d4                 | 1d4       |
-| Knife                     | 5 sp     | 1/2     | S        | S/P      | 2         | 1         | 2/rnd       | 30/60/90   | 1d3                 | 1d2       |
-| Knife, Bone b             | 3 cp     | 1/2     | S        | P/S      | 2         | 1         | 2/rnd       | 30/45/60   | 1d2                 | 1d2       |
-| Knife, Stone b            | 5 cp     | 1/2     | S        | P/S      | 2         | 1         | 2/rnd       | 30/45/60   | 1d2                 | 1d2       |
-| Knife, Throwing           |          | 4       | M        | S/P      | 8         | 1         | 1/rnd       | 30/60/90   | 2d4                 | 1d6+1     |
-| Lance, Light m            | 6 gp     | 5       | L        | P        | 6         | 2         | 1/rnd       | 30/45/60   | 1d6                 | 1d8       |
-| Lantern                   | var.     | 2–3     | S        | Bd       | 6         | 1         | 1/rnd       | 30/45/60   | 1d3*                | 1d2*      |
-| Mace, Horseman’s          |          | 6       | M        | B        | 6         | 1         | 1/rnd       | 30/45/60   | 1d6                 | 1d4       |
-| Net h                     | 5 gp     | 10      | M        | —        | 10        | 1         | 1/2 rnd     | 30/45/60   | —                   | —         |
-| Nunchakus                 | 1 gp     | 3       | M        | B        | 3         | 1         | 1/2         | 15/30      | 1d6                 | 1d6       |
-| Polearms, Tetsubo         | 2 gp     | 8       | L        | B        | 7         | 1         | 1/2         | 15/30      | 1d8                 | 1d8       |
-| Pilum                     |          | 3       | M        | P        | 5         | 1         | 1/rnd       | 45/90/135  | 1d6                 | 1d6       |
-| Rock                      | —        | 1       | S        | B        | 2         | 1         | 2/rnd       | 30/60/90   | 1d3                 | 1d2       |
-| Spear, One-handed c       | 8 sp     | 5       | M        | P        | 6         | 1         | 1/rnd       | 30/60/90   | 1d6                 | 1d8       |
-| Spear, Two-handed c       | 8 sp     | 5       | M        | P        | 6         | 1         | 1/rnd       | 30/60/90   | 1d6+1               | 2d6       |
-| Spear, Stone, One-handed  | 8 cp     | 5       | M        | P        | 6         | 1         | 1/rnd       | 30/45/60   | 1d4                 | 1d6       |
-| Spear, Stone,Two-handed c | 8 cp     | 5       | M        | P        | 6         | 1         | 1/rnd       | 30/45/60   | 1d6                 | 2d4       |
-| Torch                     | 1 cp     | 1       | M        | Bd       | 5         | 1         | 1/rnd       | 30/45/60   | 1d4                 | 1d3       |
-| Trident, One-handed       |          | 5       | L        | P        | 7         | 1         | 1/rnd       | 30/45/60   | 1d6+1               | 2d4       |
-| Trident, Two-handed       |          | 5       | L        | P        | 7         | 1         | 1/rnd       | 30/45/60   | 1d8+1               | 3d4       |
-| Warhammer                 | 2 gp     | 6       | M        | B        | 5         | 1         | 1/rnd       | 30/60/90   | 1d4+1               | 1d4       |
+**Table 50: Melee or Ranged Weapons**
 
-#### Ranged-Only Weapons and Ammunition
+|                           |      |          |         |          |          |           | Melee     | Missile | Range      | Damage vs. Size |           |
+| ------------------------- | ---- | -------- | ------- | -------- | -------- | --------- | --------- | ------- | ---------- | --------------- | --------- |
+| **Weapon**                | Trg. | **Cost** | **Wt.** | **Size** | **Type** | **Speed** | **Reach** | **ROF** | **S/M/L**  | **Sm-Med**      | **Large** |
+| Axe, Hand/throwing        | 3    | 1 gp     | 5       | M        | S        | 4         | 1         | 1       | 30/60/90   | 1d6             | 1d4       |
+| Bottle b                  | 1    | —        | 2       | S        | B        | 4         | 1         | 1       | 30/45/60   | 1d3             | 1d2       |
+| Boomerang 2               | 2    |          | 2       | S        | B        | 4         | 1         | 1       | 60/120/180 | 1d4             | 1d4       |
+| Club                      | 1    | —        | 3       | M        | B        | 4         | 1         | 1       | 30/60/90   | 1d6             | 1d3       |
+| Club, War                 | 3    |          | 6       | M        | B/S      | 7         | 1         | 1       | 30/60/90   | 1d6+1           | 1d4+1     |
+| Dagger                    | 1    | 2 gp     | 1       | S        | P        | 2         | 1         | 2       | 30/60/90   | 1d4             | 1d3       |
+| Dagger, Boneb             | 1    | 1 sp     | 1       | S        | P        | 2         | 1         | 2       | 30/45/60   | 1d2             | 1d2       |
+| Stiletto                  | 2    | 5 sp     | 1/2     | S        | P        | 2         | 1         | 2       | 30/60/90   | 1d3             | 1d2       |
+| Dagger, Stone b           | 1    | 2 sp     | 1       | S        | P        | 2         | 1         | 2       | 30/45/60   | 1d3             | 1d2       |
+| Grapple                   | 2    | 5 gp     | 3       | S        | P/B      | 7         | 1         | 0.5     | 30/60/90   | 1d4             | 1d4       |
+| Hammer                    | 1    | 5 sp     | 3       | S        | B        | 4         | 1         | 1       | 30/60/90   | 1d4             | 1d3       |
+| Harpoon h                 | 2    | 20 gp    | 6       | L        | P        | 7         | 2         | 1       | 30/60/90   | 2d4             | 2d6       |
+| Harpoon, Bone b, h        | 2    |          | 5       | L        | P        | 7         | 2         | 1       | 30/45/60   | 1d6             | 1d10      |
+| Hatchet                   | 1    | 2 gp     | 3       | S        | S        | 3         | 1         | 1       | 30/60/90   | 1d4             | 1d4       |
+| Javelin                   | 3    | 5 sp     | 2       | M        | P        | 4         | 1         | 1       | 60/120/180 | 1d6             | 1d6       |
+| Javelin, Stone b          | 2    | 5 cp     | 2       | M        | P        | 4         | 1         | 1       | 45/90/135  | 1d4             | 1d4       |
+| Knife                     | 1    | 5 sp     | 1/2     | S        | S/P      | 2         | 1         | 2       | 30/60/90   | 1d3             | 1d2       |
+| Knife, Bone b             | 1    | 3 cp     | 1/2     | S        | P/S      | 2         | 1         | 2       | 30/45/60   | 1d2             | 1d2       |
+| Knife, Stone b            | 1    | 5 cp     | 1/2     | S        | P/S      | 2         | 1         | 2       | 30/45/60   | 1d2             | 1d2       |
+| Knife, Throwing           | 2    |          | 4       | M        | S/P      | 8         | 1         | 1       | 30/60/90   | 2d4             | 1d6+1     |
+| Lance, Light m            | 3    | 6 gp     | 5       | L        | P        | 6         | 2         | 1       | 30/45/60   | 1d6             | 1d8       |
+| Lantern                   | 1    | var.     | 2–3     | S        | Bd       | 6         | 1         | 1       | 30/45/60   | 1d3*            | 1d2*      |
+| Mace, Horseman’s          | 3    |          | 6       | M        | B        | 6         | 1         | 1       | 30/45/60   | 1d6             | 1d4       |
+| Net h                     | 2    | 5 gp     | 10      | M        | —        | 10        | 1         | 0.5     | 30/45/60   | —               | —         |
+| Nunchakus                 | 2E   | 1 gp     | 3       | M        | B        | 3         | 1         | 0.5     | 15/30      | 1d6             | 1d6       |
+| Polearms, Tetsubo         | 3E   | 2 gp     | 8       | L        | B        | 7         | 1         | 0.5     | 15/30      | 1d8             | 1d8       |
+| Pilum                     | 3    |          | 3       | M        | P        | 5         | 1         | 1       | 45/90/135  | 1d6             | 1d6       |
+| Rock                      | 1    | —        | 1       | S        | B        | 2         | 1         | 2       | 30/60/90   | 1d3             | 1d2       |
+| Spear, One-handed c       | 2    | 8 sp     | 5       | M        | P        | 6         | 1         | 1       | 30/60/90   | 1d6             | 1d8       |
+| Spear, Two-handed c       | 2    | 8 sp     | 5       | M        | P        | 6         | 1         | 1       | 30/60/90   | 1d6+1           | 2d6       |
+| Spear, Stone, One-handed  | 1    | 8 cp     | 5       | M        | P        | 6         | 1         | 1       | 30/45/60   | 1d4             | 1d6       |
+| Spear, Stone,Two-handed c | 1    | 8 cp     | 5       | M        | P        | 6         | 1         | 1       | 30/45/60   | 1d6             | 2d4       |
+| Torch                     | 1    | 1 cp     | 1       | M        | Bd       | 5         | 1         | 1       | 30/45/60   | 1d4             | 1d3       |
+| Trident, One-handed       | 2    |          | 5       | L        | P        | 7         | 1         | 1       | 30/45/60   | 1d6+1           | 2d4       |
+| Trident, Two-handed       | 2    |          | 5       | L        | P        | 7         | 1         | 1       | 30/45/60   | 1d8+1           | 3d4       |
+| Warhammer                 | 3    | 2 gp     | 6       | M        | B        | 5         | 1         | 1       | 30/60/90   | 1d4+1           | 1d4       |
 
-|                   |          |         |          |          |           | **Missile** | **Range**   | **Damage vs. Size** |           |
-| ----------------- | -------- | ------- | -------- | -------- | --------- | ----------- | ----------- | ------------------- | --------- |
-| **Weapon**        | **Cost** | **Wt.** | **Size** | **Type** | **Speed** | **ROF**     | **S/M/L**   | **Sm-Med**          | **Large** |
-| Atl-Atl           | 1 sp     | 1       | S        | —        |           | 2/3         | 90/180/270  |                     |           |
-| Blowgun h         | 5 gp     | 2       | L        | —        | 5         | 2/rnd       | —           | —                   | —         |
-| - Barbed dart     | 1 sp     | *       | S        | P        | —         | —           | 30/60/90    | 1d3                 | 1d2       |
-| - Needle 1        | 2 cp     | *       | S        | P        | —         | —           | 30/60/90    | 1                   | 1         |
-| Bolas             | 5 sp     | 2       | M        | B        | 8         | 1/rnd       | 90/180/270  | 1d3                 | 1d2       |
-| **Bows**          |          |         |          |          |           |             |             |                     |           |
-| Composite long h  | 100 gp   | 3       | L        | (P)      | 7         | 2/rnd       | —           | —                   | —         |
-| - w/flight arrow  | 3 sp/12  | *       | S        | P        | —         | —           | 180/360/630 | 1d6                 | 1d6       |
-| - w/pile arrow    |          | *       | S        | P        | —         | —           | 120/240/510 | 1d6                 | 1d6       |
-| - w/sheaf arrow   | 3 sp/6   | *       | S        | P        | —         | —           | 120/240/510 | 1d8                 | 1d8       |
-| - w/stone arrow b | 3 cp     | *       | S        | P        | —         | —           | 180/360/630 | 1d4                 | 1d4       |
-| Composite short h | 75 gp    | 2       | M        | (P)      | 6         | 2/rnd       | —           | —                   | —         |
-| - w/flight arrow  | 3 sp/12  | *       | S        | P        | —         | —           | 150/300/540 | 1d6                 | 1d6       |
-| - w/stone arrow b |          | *       | S        | P        | —         | —           | 150/300/540 | 1d4                 | 1d4       |
-| Daikyu            | 100 gp   | 3       | L        | (P)      | 7         | 2/rnd       | —           | —                   | —         |
-| - w/yanone        | 3 sp/6   | *       | M        | P        | —         | —           | 210/420/630 | 1d8                 | 1d6       |
-| Long h            | 75 gp    | 3       | L        | (P)      | 7         | 2/rnd       | —           | —                   | —         |
-| - w/flight arrow  | 3 sp/12  | *       | S        | P        | —         | —           | 210/420/630 | 1d6                 | 1d6       |
-| - w/sheaf arrow   | 3 sp/6   | *       | S        | P        | —         | —           | 150/300/510 | 1d8                 | 1d8       |
-| - w/pile arrow    |          | *       | S        | P        | —         | —           | 150/300/510 | 1d6                 | 1d6       |
-| - w/stone arrow   |          | *       | S        | P        | —         | —           | 210/420/630 | 1d4                 | 1d4       |
-| Short h           | 30 gp    | 2       | M        | (P)      | 7         | 2/rnd       | —           | —                   | —         |
-| - w/flight arrow  | 3 sp/12  | *       | S        | P        | —         | —           | 150/300/450 | 1d6                 | 1d6       |
-| - w/stone arrow   |          | *       | S        | P        | —         | —           | 150/300/450 | 1d4                 | 1d4       |
-| Caltrop           |          | *       | S        | P        | —         | —           | —           | 1                   | 1d2       |
-| Chakram           |          | 1       | S        | S        | 4         | 2/rnd       | 60/120/180  | 1d4                 | 1d3       |
-| **Crossbows**     |          |         |          |          |           |             |             |                     |           |
-| Cho-ku-no         |          | 12      | M        | —        | 6         | 2/rnd       | 150/300/450 | —                   | —         |
-| Hand              | 300 gp   | 3       | S        | —        | 5         | 1/rnd       | —           | —                   | —         |
-| - Hand quarrel    | 1 gp     | *       | S        | P        | —         | —           | 60/120/180  | 1d3                 | 1d2       |
-| Heavy h           | 50 gp    | 14      | M        | —        | 10        | 1/2 rnd     | —           | —                   | —         |
-| - Heavy quarrel   | 2 sp     | *       | S        | P        | —         | —           | 240/480/720 | 1d8+1               | 1d10+1    |
-| Light h           | 35 gp    | 7       | M        | —        | 7         | 1/rnd       | —           | —                   | —         |
-| - Light quarrel   | 1 sp     | *       | S        | P        | —         | —           | 180/360/560 | 1d6+1               | 1d8+1     |
-| Pellet bow h      |          | 5       | M        | —        | 7         | 1/rnd       | —           | —                   | —         |
-| - Pellet          |          | *       | S        | B        | —         | —           | 120/240/360 | 1d4                 | 1d4       |
-| Dart              | 5 sp     | 1/2     | S        | P        | 2         | 3/rnd       | 30/60/120   | 1d3                 | 1d2       |
-| Oil flask         | 6 cp     | 1       | S        | d        | 15        | 1/2 rnd     | 30/45/60    | d                   | d         |
-| Lasso             | 5 sp     | 3       | L        | —        | 10        | 1/2 rnd     | 30/60/90    | —                   | —         |
-| Shuriken          | 3 sp     | *       | S        | P        | 2         | 2/rnd       | 45/90/135   | 1d4                 | 1d4       |
-| Sling             | 5 cp     | 1       | S        | —        | 6         | 1/rnd       | —           | —                   | —         |
-| - Bullet          | 1 cp     | *       | S        | B        | —         | —           | 150/300/450 | 1d4+1               | 1d6+1     |
-| - Stone           | —        | *       | S        | B        | —         | —           | 120/240/360 | 1d4                 | 1d4       |
-| Staff sling h, 10 | 2 sp     | 2       | M        | —        | 11        | 1/rnd       | —           | —                   | —         |
-| - Stinkpot        |          | 2       | S        | B        | —         | —           | 90/180/270  | 1d3                 | 1d3       |
-| - Stone           | —        | 2       | S        | B        | —         | —           | 90/180/270  | 1d4+1               | 1d6+1     |
-| Vial b            | 8 sp     | *       | S        | d        | 2         | 1/rnd       | 30/45/60    | d                   | d         |
+**Table 51: Ranged-Only Weapons and Ammunition**
+
+|                   |      |          |         |          |          |           | Missile | Range       | Damage vs. Size |           |
+| ----------------- | ---- | -------- | ------- | -------- | -------- | --------- | ------- | ----------- | --------------- | --------- |
+| **Weapon**        | Trg. | **Cost** | **Wt.** | **Size** | **Type** | **Speed** | **ROF** | **S/M/L**   | **Sm-Med**      | **Large** |
+| Atl-Atl           | 2    | 1 sp     | 1       | S        | —        |           | ⅔       | 90/180/270  |                 |           |
+| Blowgun h         | 2    | 5 gp     | 2       | L        | —        | 5         | 2       | —           | —               | —         |
+| - Barbed dart     |      | 1 sp     | *       | S        | P        | —         | —       | 30/60/90    | 1d3             | 1d2       |
+| - Needle 1        |      | 2 cp     | *       | S        | P        | —         | —       | 30/60/90    | 1               | 1         |
+| Bolas             | 2    | 5 sp     | 2       | M        | B        | 8         | 1       | 90/180/270  | 1d3             | 1d2       |
+| **Bows**          |      |          |         |          |          |           |         |             |                 |           |
+| Composite long h  | 3    | 100 gp   | 3       | L        | (P)      | 7         | 2       | —           | —               | —         |
+| - w/flight arrow  |      | 3 sp/12  | *       | S        | P        | —         | —       | 180/360/630 | 1d6             | 1d6       |
+| - w/pile arrow    |      |          | *       | S        | P        | —         | —       | 120/240/510 | 1d6             | 1d6       |
+| - w/sheaf arrow   |      | 3 sp/6   | *       | S        | P        | —         | —       | 120/240/510 | 1d8             | 1d8       |
+| - w/stone arrow b |      | 3 cp     | *       | S        | P        | —         | —       | 180/360/630 | 1d4             | 1d4       |
+| Composite short h | 2    | 75 gp    | 2       | M        | (P)      | 6         | 2       | —           | —               | —         |
+| - w/flight arrow  |      | 3 sp/12  | *       | S        | P        | —         | —       | 150/300/540 | 1d6             | 1d6       |
+| - w/stone arrow b |      |          | *       | S        | P        | —         | —       | 150/300/540 | 1d4             | 1d4       |
+| Daikyu            | 3E   | 100 gp   | 3       | L        | (P)      | 7         | 2       | —           | —               | —         |
+| - w/yanone        |      | 3 sp/6   | *       | M        | P        | —         | —       | 210/420/630 | 1d8             | 1d6       |
+| Long h            | 3    | 75 gp    | 3       | L        | (P)      | 7         | 2       | —           | —               | —         |
+| - w/flight arrow  |      | 3 sp/12  | *       | S        | P        | —         | —       | 210/420/630 | 1d6             | 1d6       |
+| - w/sheaf arrow   |      | 3 sp/6   | *       | S        | P        | —         | —       | 150/300/510 | 1d8             | 1d8       |
+| - w/pile arrow    |      |          | *       | S        | P        | —         | —       | 150/300/510 | 1d6             | 1d6       |
+| - w/stone arrow   |      |          | *       | S        | P        | —         | —       | 210/420/630 | 1d4             | 1d4       |
+| Short h           | 2    | 30 gp    | 2       | M        | (P)      | 7         | 2       | —           | —               | —         |
+| - w/flight arrow  |      | 3 sp/12  | *       | S        | P        | —         | —       | 150/300/450 | 1d6             | 1d6       |
+| - w/stone arrow   |      |          | *       | S        | P        | —         | —       | 150/300/450 | 1d4             | 1d4       |
+| Caltrop           | 1    |          | *       | S        | P        | —         | —       | —           | 1               | 1d2       |
+| Chakram           | 2E   |          | 1       | S        | S        | 4         | 2       | 60/120/180  | 1d4             | 1d3       |
+| **Crossbows**     |      |          |         |          |          |           |         |             |                 |           |
+| Cho-ku-no         | 2E   |          | 12      | M        | —        | 6         | 2       | 150/300/450 | —               | —         |
+| Hand              | 2    | 300 gp   | 3       | S        | —        | 5         | 1       | —           | —               | —         |
+| - Hand quarrel    |      | 1 gp     | *       | S        | P        | —         | —       | 60/120/180  | 1d3             | 1d2       |
+| Heavy h           | 4    | 50 gp    | 14      | M        | —        | 10        | 0.5     | —           | —               | —         |
+| - Heavy quarrel   |      | 2 sp     | *       | S        | P        | —         | —       | 240/480/720 | 1d8+1           | 1d10+1    |
+| Light h           | 3    | 35 gp    | 7       | M        | —        | 7         | 1       | —           | —               | —         |
+| - Light quarrel   |      | 1 sp     | *       | S        | P        | —         | —       | 180/360/560 | 1d6+1           | 1d8+1     |
+| Pellet bow h      | 2    |          | 5       | M        | —        | 7         | 1       | —           | —               | —         |
+| - Pellet          |      |          | *       | S        | B        | —         | —       | 120/240/360 | 1d4             | 1d4       |
+| Dart              | 1    | 5 sp     | 1/2     | S        | P        | 2         | 3       | 30/60/120   | 1d3             | 1d2       |
+| Oil flask         | 1    | 6 cp     | 1       | S        | d        | 15        | 0.5     | 30/45/60    | d               | d         |
+| Lasso             | 2    | 5 sp     | 3       | L        | —        | 10        | 0.5     | 30/60/90    | —               | —         |
+| Shuriken          | 2E   | 3 sp     | *       | S        | P        | 2         | 2       | 45/90/135   | 1d4             | 1d4       |
+| Sling             | 1    | 5 cp     | 1       | S        | —        | 6         | 1       | —           | —               | —         |
+| - Bullet          |      | 1 cp     | *       | S        | B        | —         | —       | 150/300/450 | 1d4+1           | 1d6+1     |
+| - Stone           |      | —        | *       | S        | B        | —         | —       | 120/240/360 | 1d4             | 1d4       |
+| Staff sling h, 10 | 2    | 2 sp     | 2       | M        | —        | 11        | 1       | —           | —               | —         |
+| - Stinkpot        |      |          | 2       | S        | B        | —         | —       | 90/180/270  | 1d3             | 1d3       |
+| - Stone           |      | —        | 2       | S        | B        | —         | —       | 90/180/270  | 1d4+1           | 1d6+1     |
+| Vial b            | 1    | 8 sp     | *       | S        | d        | 2         | 1       | 30/45/60    | d               | d         |
 
 **Adze:** An adze is a woodworking tool with a blade mounted perpendicular to the haft, resembling an axe turned sideways. Though primarily a tool, short-handled adzes are sometimes adapted for combat and used as chopping weapons. Adzes are commonly found wherever wood is worked.
 
@@ -1247,11 +1333,11 @@ Missile weapons require appropriate ammunition (arrows, bolts, stones, etc.).
 
 **Bastard Sword:** Also known as a hand-and-a-half sword, the bastard sword bridges the gap between the longsword and the two-handed sword. It features a double-edged blade and an extended grip that can be used with either one or two hands. Most examples measure between four and five feet in overall length. A bastard sword may be used either one-handed or two-handed.
 
-**Battle Axe:** The battle axe is a heavy fighting axe designed for use in one hand. Most have a haft about four feet long and a broad cutting blade, though many include spikes, hammers, or secondary blades opposite the main edge. The weapon's long handle provides leverage and striking power while still allowing the use of a shield. 
+**Battle Axe:** The battle axe is a heavy fighting axe designed for use in one hand. Most have a haft about four feet long and a broad cutting blade, though many include spikes, hammers, or secondary blades opposite the main edge. The weapon's long handle provides leverage and striking power while still allowing the use of a shield.
 
 A thrust with an axe spike, if present, inflicts 1d3 points of damage.
 
-**Bec de Corbin:** The bec de corbin is a pole weapon fitted with a beak-like spike designed to punch through or tear armor. Most examples also feature a hammer or axe face opposite the beak. The shaft is typically about eight feet long.
+**Bec de Corbin:** The bec de corbin is a pole weapon fitted with a beak-like spike designed to punch through or tear armour. Most examples also feature a hammer or axe face opposite the beak. The shaft is typically about eight feet long.
 
 **Belaying Pin:** A belaying pin is a short wooden or metal rod used to secure rigging lines aboard a ship. Though not intended as a weapon, it can serve as an improvised club when needed. If thrown, a belaying pin uses the same statistics as a club.
 
@@ -1261,13 +1347,13 @@ A thrust with an axe spike, if present, inflicts 1d3 points of damage.
 
 **Blowgun:** A blowgun is a hollow tube used to fire light projectiles by means of a strong breath. Most blowguns are six to seven feet long, although smaller versions exist. Blowguns may fire blowgun darts or blowgun needles.
 
-Blowgun ammunition is too light to penetrate heavy armor effectively. Attacks against targets wearing any form of brigandine, mail, or plate armor suffer an additional –4 penalty to hit.
+Blowgun ammunition is too light to penetrate heavy armour effectively. Attacks against targets wearing any form of brigandine, mail, or plate armour suffer an additional –4 penalty to hit.
 
-**Bo Stick:** A bo is a hardwood staff, usually six to seven feet long and slightly tapered toward the ends. Though simple in appearance, it is a durable and effective weapon. A wielder suffers a –2 penalty to attack rolls against opponents wearing any form of plate armor.
+**Bo Stick:** A bo is a hardwood staff, usually six to seven feet long and slightly tapered toward the ends. Though simple in appearance, it is a durable and effective weapon. A wielder suffers a –2 penalty to attack rolls against opponents wearing any form of plate armour.
 
 **Boku-To:** A boku-to is a wooden practice sword shaped like a short sword. Although incapable of cutting, it can still be used as a bludgeoning weapon.
 
-**Bolas:** Bolas consist of two or more weighted ends connected by cords or thongs. When thrown, the weights wrap around a target, tangling limbs and hindering movement. 
+**Bolas:** Bolas consist of two or more weighted ends connected by cords or thongs. When thrown, the weights wrap around a target, tangling limbs and hindering movement.
 
 A character must be proficient with bolas to use them effectively. If the attack hits, the target automatically faces a knockdown check. A victim who fails must spend a full round and succeed at a Strength check before standing and moving normally.
 
@@ -1291,13 +1377,13 @@ Five caltrops in the same area grant a +4 bonus on the saving throw. Every addit
 
 **Cestus:** A cestus is a reinforced fighting gauntlet fitted with spikes, blades, metal plates, or weighted inserts. It is worn over the fist and used to enhance punching attacks.
 
-Damage inflicted by the cestus replaces normal punching damage and is treated as normal weapon damage rather than temporary damage. There is no separate proficiency required for the cestus, although warriors may specialize in its use. A cestus suffers a –2 penalty to attack rolls against opponents wearing any form of plate armor.
+Damage inflicted by the cestus replaces normal punching damage and is treated as normal weapon damage rather than temporary damage. There is no separate proficiency required for the cestus, although warriors may specialize in its use. A cestus suffers a –2 penalty to attack rolls against opponents wearing any form of plate armour.
 
 **Chain:** A fighting chain consists of a weighted length of chain used for striking, entangling, and controlling opponents. When used to perform a Pull/Trip maneuver, the wielder gains a +4 bonus to the Strength check. This bonus also applies against mounted opponents.
 
 **Chakram:** A chakram is a circular throwing weapon with a sharpened outer edge. It is thrown with a rapid spinning motion.
 
-The chakram is less effective against heavily armored targets and suffers a –2 penalty to attacks against opponents wearing any form of mail, scale, or plate armor.
+The chakram is less effective against heavily armoured targets and suffers a –2 penalty to attacks against opponents wearing any form of mail, scale, or plate armour.
 
 **Chijikiri:** A chijikiri combines a spear with a length of chain attached to the butt of the shaft. It can be used as a normal spear or reversed and swung with the chain end. When using the chain end, the weapon inflicts damage as a chain and is treated as a Bludgeoning weapon. The wielder gains a +4 bonus to effective Strength for pull/trip maneuvers, but the weapon cannot be used to pull or trip mounted opponents.
 
@@ -1325,7 +1411,7 @@ A basket-hilted cutlass grants the same benefits to Parry maneuvers as a broad s
 
 Daggers are made from a wide variety of materials. Primitive versions may be fashioned from bone or stone, while more advanced examples are typically metal. Decorative daggers often feature carved hilts, engraved blades, or other ornamentation.
 
-**Daikyu:** A daikyu is a large asymmetrical bow approximately seven feet long. The hand grip is positioned below the center of the stave, allowing the bow to be used from horseback or while kneeling.  
+**Daikyu:** A daikyu is a large asymmetrical bow approximately seven feet long. The hand grip is positioned below the center of the stave, allowing the bow to be used from horseback or while kneeling.
 
 **Dart.** A dart is a small thrown missile consisting of a short shaft fitted with a pointed head and stabilizing flights. Easy to conceal and quick to throw, darts are used for hunting, sport, and warfare.
 
@@ -1333,11 +1419,13 @@ Darts may be coated with poison or other substances. Their high rate of fire all
 
 **Dirk.** A dirk is a large knife that combines the qualities of a dagger and a utility blade. It features a single-edged blade with a sharpened back edge near the point and a distinctive hilt with a flared grip and rounded guard. Many dirks are carried in specialized sheaths that include small compartments for eating utensils or utility tools.
 
+**Drusus.** A drusus is a finely crafted form of gladius noted for superior workmanship and careful maintenance requirements.
+
 **Elbow and Knee Spikes:** Retractable or fixed spikes integrated into elbow and knee protection. Normally concealed as reinforced fittings, they deploy under pressure and lock into place. When grappled or engaged in wrestling, the wearer may substitute a spike attack for standard unarmed options, at –2 to hit. These items are effectively disarm-resistant due to their integration with worn protection.
 
-**Estoc:** An estoc is a long thrusting sword with a rigid, edgeless blade designed for piercing armor. Many examples feature triangular or square blade cross-sections.
+**Estoc:** An estoc is a long thrusting sword with a rigid, edgeless blade designed for piercing armour. Many examples feature triangular or square blade cross-sections.
 
-An estoc gains a +2 bonus to attack rolls against opponents wearing any form of mail armor and a +1 bonus against opponents wearing any form of plate armor.
+An estoc gains a +2 bonus to attack rolls against opponents wearing any form of mail armour and a +1 bonus against opponents wearing any form of plate armour.
 
 **Falchion.** A falchion is a heavy, single-edged sword with a curved cutting edge and a broadening blade near the tip. Its forward-weighted design delivers powerful chopping blows.
 
@@ -1347,11 +1435,11 @@ An estoc gains a +2 bonus to attack rolls against opponents wearing any form of 
 
 **Footman's Flail.** The footman's flail consists of a long shaft fitted with a hinged, spiked striking head. Designed for two-handed use, it delivers powerful crushing blows.
 
-A footman's flail gains a +1 bonus to attack rolls against opponents wearing any form of plate armor.
+A footman's flail gains a +1 bonus to attack rolls against opponents wearing any form of plate armour.
 
 **Footman's Mace.** The footman's mace is a two-handed mace with a long haft and a heavy striking head, often flanged or studded. Crude battlefield versions assembled from improvised materials suffer a –1 penalty to attack and damage rolls.
 
-**Footman's Pick.** The footman's pick is a two-handed military pick with an extended haft that allows powerful, armor-piercing strikes.
+**Footman's Pick.** The footman's pick is a two-handed military pick with an extended haft that allows powerful, armour-piercing strikes.
 
 **Fork:** A fork is a common agricultural tool consisting of a long handle fitted with two or more tines. Though intended for farm work, it can serve as an improvised weapon.
 
@@ -1360,8 +1448,6 @@ A footman's flail gains a +1 bonus to attack rolls against opponents wearing any
 Though intended as a tool, a gaff can serve as an improvised weapon. Some individuals permanently mount a gaff to a prosthetic arm (this configuration costs 2 gp), though this provides no special combat advantage.
 
 **Gladius.** The gladius is a short sword with a double-edged blade and a reinforced thrusting point. It is designed for close combat and combines effective cutting and thrusting attacks in a compact weapon.
-
-**Drusus.** A drusus is a finely crafted form of gladius noted for superior workmanship and careful maintenance requirements.
 
 **Glaive.** A glaive is a polearm consisting of a large knife-like blade mounted on a shaft eight to ten feet long. Some examples include a rear hook or fluke. The weapon combines the cutting power of a sword with the reach of a polearm.
 
@@ -1387,7 +1473,7 @@ A grapple may be thrown a distance of 5 feet horizontally or 3 feet vertically p
 
 **Hand Crossbow:** A hand crossbow is a compact crossbow small enough to conceal beneath a cloak or coat. It fires short bolts and is designed for one-handed use.
 
-**Hand Axe:** Also called a throwing axe or hatchet, the hand axe consists of a compact axe head mounted on a short haft. Many examples include a rear fluke or top spike. A hand axe may be used in melee or thrown.
+**Hand Axe:** Also called a throwing axe, the hand axe consists of a compact axe head mounted on a short haft. Many examples include a rear fluke or top spike. A hand axe may be used in melee or thrown.
 
 **Harness Knife:** A harness knife is a small utility blade carried as part of a wilderness harness. It is intended primarily for cutting rope, leather, and similar materials, but may also serve as a weapon.
 
@@ -1448,7 +1534,9 @@ Horseman's flails gain a +1 bonus to attack rolls against shield users and a +2 
 Lances are available in three types:
 
 - Light Lance: 10 feet long, 5 pounds
+    
 - Medium Lance: 12 feet long, 10 pounds
+    
 - Heavy Lance: 14 feet long, 15 pounds
 
 A rider on a heavy warhorse may use any lance. Smaller mounts are limited to lighter types.
@@ -1477,7 +1565,7 @@ Characters with Strength bonuses must use bows built for their Strength to gain 
 
 **Main-Gauche:** A main-gauche is a large dagger with a basket hilt designed for use in the off hand. The hilt protects the wielder’s hand and may be used for defensive maneuvers. A character proficient with the main-gauche gains a +1 bonus on Disarm or Parry maneuvers with the weapon.
 
-**Mancatcher:** A mancatcher is a polearm fitted with spring-loaded jaws designed to seize a target. A successful hit traps the victim and removes shield and Dexterity bonuses to Armor Class. A trapped victim suffers 1d2 points of damage per round and may be pushed or pulled by the wielder. There is a 25% chance of falling prone each round. Escape requires a successful Bend Bars/Lift Gates roll. Each escape attempt inflicts 1d2 points of damage.
+**Mancatcher:** A mancatcher is a polearm fitted with spring-loaded jaws designed to seize a target. A successful hit traps the victim and removes shield and Dexterity bonuses to armour Class. A trapped victim suffers 1d2 points of damage per round and may be pushed or pulled by the wielder. There is a 25% chance of falling prone each round. Escape requires a successful Bend Bars/Lift Gates roll. Each escape attempt inflicts 1d2 points of damage.
 
 **Maul:** A maul is a heavy bludgeoning weapon mounted on a long shaft. It is designed for crushing blows.
 
@@ -1533,7 +1621,7 @@ Magical shields have a 20% chance per enchantment bonus of ignoring this effect.
 
 **Sai:** A sai is a metal truncheon fitted with a large crossguard and two side prongs. Though dagger-shaped, it lacks sharpened edges and is primarily used for bludgeoning attacks. The sai grants a +2 bonus on Block, Trap, and Disarm attempts.
 
-**Sang Kauw:** A sang kauw is a short double-ended spear fitted with a central buckler-like guard. It requires two hands to use. A proficient wielder gains a +1 bonus to Armor Class and Threatens flank spaces as well as front spaces.
+**Sang Kauw:** A sang kauw is a short double-ended spear fitted with a central buckler-like guard. It requires two hands to use. A proficient wielder gains a +1 bonus to armour Class and Threatens flank spaces as well as front spaces.
 
 **Sap:** A sap is a small weighted leather pouch used to deliver blunt strikes. It is designed to incapacitate rather than kill.
 
@@ -1573,9 +1661,9 @@ A large shuriken has a rate of fire of 3, short range of 5 yards, medium range o
 
 **Spetum:** A spetum is a polearm with a central blade and backward-angled side blades. The side blades may inflict additional damage when withdrawn from a target.
 
-**Staff-Sling:** A staff-sling consists of a sling mounted on a short staff. It is used to throw heavier missiles than a standard sling. It may not be used at short range. A staff-sling may fire stinkpots as well as sling stones. 
+**Staff-Sling:** A staff-sling consists of a sling mounted on a short staff. It is used to throw heavier missiles than a standard sling. It may not be used at short range. A staff-sling may fire stinkpots as well as sling stones.
 
-**Stiletto:** A stiletto is a narrow thrusting dagger with a reinforced point. It is designed for penetrating armor. It grants a +2 bonus to attack rolls against armor types including plate, chain, and leather.
+**Stiletto:** A stiletto is a narrow thrusting dagger with a reinforced point. It is designed for penetrating armour. It grants a +2 bonus to attack rolls against armour types including plate, chain, and leather.
 
 **Sword-Axe:** A sword-axe combines a sword-like blade with a long wooden haft. Despite its blade shape, it is handled more like an axe than a sword.
 
@@ -1595,7 +1683,7 @@ A large shuriken has a rate of fire of 3, short range of 5 yards, medium range o
 
 **Tulwar:** A tulwar is a curved single-edged sword designed for powerful chopping attacks.
 
-**Vial:** A vial may be thrown as a grenade-like missile. When thrown, only Dexterity and magical adjustments to Armor Class apply; armor is ignored. If the vial strikes the target, the contents inflict their normal effects. Missed attacks may still produce splash effects as described under grenade-like missiles.
+**Vial:** A vial may be thrown as a grenade-like missile. When thrown, only Dexterity and magical adjustments to armour Class apply; armour is ignored. If the vial strikes the target, the contents inflict their normal effects. Missed attacks may still produce splash effects as described under grenade-like missiles.
 
 **Voulge:** A voulge is a polearm consisting of a large blade mounted on a shaft approximately eight feet in length. The blade narrows toward a thrusting point at the tip and may include a rear hook or fluke.
 
@@ -1606,6 +1694,7 @@ A large shuriken has a rate of fire of 3, short range of 5 yards, medium range o
 **War Hammer:** A war hammer is a one-handed weapon consisting of a metal head mounted on a short haft, typically about eighteen inches long. Many examples include a rear spike. Some include reinforcing rondels along the grip.
 
 **Whip:** A whip is a long braided lash made of leather or rawhide. It is thicker near the handle and tapers to a narrow cord at the tip. Length commonly ranges from fifteen to twenty-five feet and requires at least 10 feet of space between wielder and target. A whip may be used to attempt disarm or entangle attacks with a –4 penalty to attack rolls. A successful hit may entangle a limb or weapon. Entanglement effects are determined randomly.
+
 ### Ammunition
 
 **Barbed Dart:** A blowgun dart is a light barbed projectile intended for hunting and general use.
@@ -1616,7 +1705,7 @@ A large shuriken has a rate of fire of 3, short range of 5 yards, medium range o
 
 **Pellets:** Pellets are small clay projectiles fired from a pellet bow.
 
-**Pile Arrow:** A pile arrow is fitted with a narrow, dense head designed to penetrate armor. A pile arrow fired at short range reduces the target's Armor Class from physical armor by 2 points. Dexterity, cover, and magical adjustments are unaffected.
+**Pile Arrow:** A pile arrow is fitted with a narrow, dense head designed to penetrate armour. A pile arrow fired at short range reduces the target's armour Class from physical armour by 2 points. Dexterity, cover, and magical adjustments are unaffected.
 
 **Quarrels:** Quarrels are the standard ammunition used by crossbows. They are shorter and heavier than arrows, with thick shafts and sturdy heads designed to withstand the force of a crossbow's release.
 
